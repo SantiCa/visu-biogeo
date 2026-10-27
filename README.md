@@ -2,6 +2,8 @@
 
 Fuentes y control de versiones en el repositorio privado [SantiCa/visu-biogeo](https://github.com/SantiCa/visu-biogeo). Para preparar una copia desde GitHub, recuperar las fotografías y ejecutar pruebas, leer [Desarrollo](docs/DESARROLLO.md). El [estado actual](docs/ESTADO.md) resume los pendientes. Los instaladores, fotos, PDFs y cachés se conservan fuera de Git; los pasos siguientes sobre el instalador corresponden a la copia completa o a un paquete generado.
 
+Para trabajar con chats centrados en una tarea, usar los [prompts por área](docs/PROMPTS.md). Las instrucciones de `AGENTS.md` indican qué contexto y comprobaciones necesita cada cambio.
+
 Aplicación web de estudio personal para PC, Mac y móvil. El catálogo se ha reconstruido desde los 51 PDF: incluye organismos, minerales, rocas, fósiles, estructuras, moléculas y geomorfología. La importación aún puede contener nombres históricos, variantes sin desglosar y líneas que requieren depuración. El catálogo no equivale a una revisión taxonómica completa.
 
 ## Instalar y abrir

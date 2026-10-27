@@ -1,33 +1,33 @@
-# Visu BioGeo
+# Visu BioGeo · instrucciones del proyecto
 
-Aplicación de estudio de biología y geología: HTML/CSS y módulos JavaScript, sin framework ni instalación npm. Python 3.12 y Node 24 para mantenimiento.
+HTML/CSS y módulos ES sin framework ni npm. Python 3.12 para mantenimiento; Node 24 para pruebas.
 
-## Leer solo el contexto necesario
+## Contexto mínimo
 
-- Empezar por `docs/ESTADO.md` y la tarea concreta. Consultar `docs/DESARROLLO.md` para entorno, pruebas, fotos y publicación.
-- `CONTINUAR.md` conserva el detalle del traslado y de la publicación 8.10; consultar sus apartados cuando hagan falta, sin releerlo entero en cada tarea.
-- Consultar `data/image-audit.json` para huecos de imagen; `data/study-notes-audit.json` para fichas. Las auditorías actuales prevalecen sobre cifras históricas.
-- Registrar cambios mediante commits concretos y actualizar el estado cuando cambien pendientes o decisiones. Usar ramas `codex/…` para nuevos trabajos.
+1. Identificar la tarea y revisar `git status --short --branch`. Leer **solo la guía del área** de la tabla. Consultar `docs/ESTADO.md` si hacen falta versión o pendientes globales.
+2. Buscar con `rg` y leer funciones/rangos relevantes. No volcar bancos JSON, README o historial completos. Usar `python scripts/task_context.py images`, `notes` o `entry ID` para consultas pequeñas.
+3. Ampliar contexto cuando la tarea lo requiera. `CONTINUAR.md` es referencia histórica; `docs/DESARROLLO.md`, guía de entorno. No releerlos por rutina ni recuperar conversaciones antiguas para una tarea autocontenida.
 
-## Fuentes de verdad y límites
+| Área indicada por el usuario | Guía a leer |
+|---|---|
+| Interfaz | `docs/areas/interfaz.md` |
+| Aprendizaje | `docs/areas/aprendizaje.md` |
+| Imágenes | `docs/areas/imagenes.md` |
+| Fichas | `docs/areas/fichas.md` |
+| Catálogo y exámenes | `docs/areas/catalogo.md` |
+| Sincronización | `docs/areas/sincronizacion.md` |
+| Integración y publicación | `docs/areas/publicacion.md` |
 
-- `data/species.json`: catálogo e IDs estables. No regenerar catálogo ni cambiar IDs al modificar imágenes o fichas; el progreso depende de ellos.
-- `data/curated-images.json`: aprobaciones, créditos, recortes y uso de examen. Los otros bancos de imágenes son candidatas, no aprobaciones.
-- `data/study-notes.json`, `data/family-notes.json` y `data/learning-*.json`: fichas y clasificación documentada. Indicar lo desconocido, sin inventar rangos, fuentes, años ni etimologías.
-- No generar fotografías científicas con IA ni añadir reglas nemotécnicas. Revisar visualmente originales y recortes; dos recortes del mismo original no son dos fotos de una entrada.
-- Andalucía exige dos vistas explícitamente diagnósticas. Madrid admite detalles y partes sin una vista completa que revele la respuesta.
-- Mantener permisos, progreso y configuración Supabase/Sites. No ejecutar SQL ni cambiar políticas por una operación de mantenimiento del repositorio.
-- Nunca guardar contraseñas, tokens ni claves administrativas. `config.js` contiene únicamente configuración pública. No subir PDFs aportados, cachés, fotos o instaladores a Git.
+## Una tarea por chat y PR
 
-## Comprobaciones
+- Trabajar en una rama `codex/area-resumen` desde `origin/main` actualizado. Si el chat ya tiene trabajo, continuar su rama. Para chats simultáneos, usar worktrees independientes; nunca cambiar de rama, limpiar o guardar con stash los cambios de otro chat en una carpeta compartida.
+- Una tarea concreta, un PR. Describir resultado esperado, archivos compartidos, validación y pendientes en el PR; ese es el traspaso entre chats. No crear PR sin cambios ni tareas adicionales sin necesidad.
+- Los worktrees aíslan archivos, pero no evitan conflictos al integrar el mismo JSON o módulo. Indicar esos solapes y coordinar su integración. Solo integración actualiza el resumen global `docs/ESTADO.md`; cada tarea registra sus decisiones en su PR.
+- Ejecutar comprobaciones relacionadas con el cambio; no repetir suites ya correctas si no hay cambios, fallos o dudas nuevas. No añadir pruebas para cambios documentales ni réplicas del propio código. La CI cubre fuentes/datos; Windows nativo es ejecución manual.
+- Respuestas breves: resultado, validación, enlace al PR y cualquier bloqueo real. Registrar solo decisiones duraderas; evitar diarios y documentación duplicada. Este criterio de economía no reduce la revisión científica ni las comprobaciones necesarias.
 
-Desde la raíz, usar `python` del entorno virtual (en este PC `.venv/Scripts/python.exe`):
+## Reglas comunes
 
-```sh
-node --test tests/*.test.mjs
-python -m unittest discover -s tests -p "test_*.py"
-```
+Preservar IDs del catálogo, progreso y permisos. No regenerar catálogo ni ejecutar SQL por mantenimiento. No inventar taxonomía, fuentes, años o etimologías. No generar fotografías científicas con IA ni añadir reglas nemotécnicas. Mantener los servicios Supabase/Sites actuales. Las candidatas no equivalen a aprobaciones; Andalucía exige dos vistas diagnósticas y Madrid admite detalles sin una vista completa que revele la respuesta. Nunca guardar credenciales privadas, PDFs aportados, fotos, cachés o instaladores en Git.
 
-Para imágenes: `python scripts/restore_media.py --check` y `python scripts/audit_images.py`. Tras cambiar el banco aprobado, actualizar `data/media-lock.json` con `python scripts/restore_media.py --refresh-lock`. Para fichas: `python scripts/audit_study_notes.py`.
-
-La prueba nativa requiere Windows, el lanzador compilado y sus fotos de muestra. GitHub Actions prepara los tres. Consultar `docs/DESARROLLO.md` antes de empaquetar o publicar; GitHub controla las fuentes y Sites sigue siendo el alojamiento.
+Python local: `.venv/Scripts/python.exe` en Windows; en un worktree usar el Python disponible o crear un entorno solo si hacen falta dependencias. No descargar todo el banco de imágenes para tareas de código o documentación.
