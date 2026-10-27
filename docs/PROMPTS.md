@@ -1,6 +1,6 @@
 # Prompts para chats centrados en una tarea
 
-Abrir un chat nuevo por cambio concreto dentro del proyecto cuya carpeta es `Visu BioGeo` (el repositorio real). Si habrá chats simultáneos, seleccionar **Worktree** y partir de `main` actualizado. Los worktrees separan los archivos de cada chat; los solapes se resuelven al integrar. Para trabajar en serie se puede usar Local, terminando una tarea antes de empezar la siguiente.
+Abrir un chat nuevo por cambio concreto dentro del proyecto **App Visu**, cuya raíz en este PC es `C:\Users\Santiago\Documents\ChatGPT\App Visu`. La aplicación y el repositorio están directamente ahí. Si habrá chats simultáneos, seleccionar **Worktree** y partir de `main` actualizado. Los worktrees separan los archivos de cada chat; los solapes se resuelven al integrar. Para trabajar en serie se puede usar Local, terminando una tarea antes de empezar la siguiente.
 
 No crear siete chats vacíos ni mantener un chat interminable por área. Elegir el área de la tarea y sustituir el texto entre corchetes. `AGENTS.md` ya contiene las reglas de contexto, ramas, validación y PR; no hace falta pegarlo ni copiar conversaciones anteriores.
 

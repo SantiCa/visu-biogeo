@@ -15,6 +15,8 @@ Thumbs.db
 
 output/
 hosting/
+/traslado-local/
+/App Visu - traslado*.verificacion.json
 /assets/reviewed/
 /assets/references/
 *.exe
