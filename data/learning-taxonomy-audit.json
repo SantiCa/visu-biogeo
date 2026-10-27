@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-26",
+  "biologicalEntries": 1886,
+  "rankedPhyla": 1881,
+  "commonNames": 1251,
+  "notApplicableIds": [
+    "coprolito",
+    "cruziana",
+    "fosil-estromatolitos",
+    "icnita"
+  ],
+  "pendingIds": [
+    "pectunculus"
+  ]
+}

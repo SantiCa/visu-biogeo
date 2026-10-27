@@ -1,0 +1,7504 @@
+{
+  "reviewedAt": "2026-10-26",
+  "document": {
+    "filename": "VISUS DE MADRID DE VARIOS AÑOS.pdf",
+    "pages": 17,
+    "bytes": 307453,
+    "sha256": "09a729b7280aae85008096438563815a78f600288d306e46bf33a6aed3ee44ce"
+  },
+  "scope": "Hechos nominales de una recopilación académica sin año por entrada; no demuestra convocatorias o frecuencias y no se distribuye el PDF.",
+  "rows": [
+    {
+      "id": "madrid-undated-001",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Abies pinsapo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Abies pinsapo",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-002",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Acer negundo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Acer negundo",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-003",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Acer platanoides",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Acer platanoides",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-004",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Adenocarpus sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Adenocarpus sp",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-005",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Alnus glutinosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Alnus glutinosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-006",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Arbustus unedo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Arbutus unedo",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-007",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Celtis australis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Celtis australis",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-008",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Cedrus atlantica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cedrus atlantica",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-009",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Cupressus arizonica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cupressus arizonica",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-010",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Crataegus monogyna",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Crataegus monogyna",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-011",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Cupressus sempervirens",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cupressus sempervirens",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-012",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Cytisus purgans",
+      "status": "pending",
+      "targets": [],
+      "reason": "Nombre sin autor y con usos históricos distintos. Kew vincula C. purgans (L.) Boiss. a Genista scorpius; no se equipara por conjetura a C. oromediterraneus."
+    },
+    {
+      "id": "madrid-undated-013",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Cytisus oromediterraneus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cytisus oromediterraneus",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-014",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Erica ciliaris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Erica ciliaris",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-015",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Ficus carica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ficus carica",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-016",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Fraxinus angustifolia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Fraxinus angustifolia",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-017",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Nerium oleander",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Nerium oleander",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-018",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Ilex aquifolium",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ilex aquifolium",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-019",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Juniperus sabina",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Juniperus sabina",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-020",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Juniperus oxycedrus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Juniperus oxycedrus",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-021",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Juniperus phoenicea",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Juniperus phoenicea",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-022",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Juniperus thurifera",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Juniperus thurifera",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-023",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Psudotsuga menziensii",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pseudotsuga menziesii",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-024",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Retama sphaerocarpa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Retama sphaerocarpa",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-025",
+      "page": 1,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Rhamnus lycioides",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Rhamnus lycioides",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-026",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Spartium junceum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Spartium junceum",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-027",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Tilia tomentosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Tilia tomentosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-028",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Picea abies",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Picea abies",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-029",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Pinus halepensis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pinus halepensis",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-030",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Pinus nigra",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pinus nigra",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-031",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Pinus pinea",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pinus pinea",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-032",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Pinus sylvestris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pinus sylvestris",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-033",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Prunus spinosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Prunus spinosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-034",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Quercus faginea",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Quercus faginea",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-035",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Tetraclinis articulata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Tetraclinis articulata",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-036",
+      "page": 2,
+      "section": "ÁRBOLES Y ARBUSTOS",
+      "raw": "Tilia tomentosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Tilia tomentosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Árboles y arbustos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-037",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Achillea millefolium",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Achillea millefolium",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-038",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Adonis microcarpa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Adonis microcarpa",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-039",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Anthyllis vulnerata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Anthyllis vulneraria",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-040",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Biscutella auriculata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Biscutella auriculata",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-041",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Carduus bougeanus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Carduus bourgeanus",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-042",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Centaurea melitensis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Centaurea melitensis",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-043",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Convolvulus arvensis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Convolvulus arvensis",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-044",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Ephedra fragilis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ephedra fragilis",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-045",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Erodium ciconium",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Erodium ciconium",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-046",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Euphorbia helioscopia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Euphorbia helioscopia",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-047",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Helichrysum stoechas",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Helichrysum stoechas",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-048",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Jasminum fruticans",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Jasminum fruticans",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-049",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Lamium amplexicaule",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lamium amplexicaule",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-050",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Lavandula pedunculata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lavandula pedunculata",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-051",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Lomelosia stellata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lomelosia stellata",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-052",
+      "page": 2,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Linum strictum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Linum strictum",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-053",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Lycium barbarum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lycium barbarum",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-054",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Onobrychis viciifolia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Onobrychis viciifolia",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-055",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Rumex acetosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Rumex acetosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-056",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Pallenis spinosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pallenis spinosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-057",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Paronychia argentea",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Paronychia argentea",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-058",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Posidonia oceanica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Posidonia oceanica",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-059",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Phlomis lychnitis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Phlomis lychnitis",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-060",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Rhaponticum coniferum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Rhaponticum coniferum",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-061",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Santolina rosmarinifolia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Santolina rosmarinifolia",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-062",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Salvia verbenaca",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Salvia verbenaca",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-063",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Sedum album",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Sedum album",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-064",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Teucrium pseudochamaepitys",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Teucrium pseudochamaepitys",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-065",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Teucrium polium",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Teucrium polium",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-066",
+      "page": 3,
+      "section": "FLORES/PLANTAS ACUÁTICAS",
+      "raw": "Thymus mastichina",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Thymus mastichina",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-067",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Aegilops triuncialis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Aegilops triuncialis",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-068",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Avena fatua",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Avena fatua",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-069",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Avena sterilis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Avena sterilis",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-070",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Briza maxima",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Briza maxima",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-071",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Bromus rubens",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Bromus rubens",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-072",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Bromus madritensis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Bromus madritensis",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-073",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Carex sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Carex sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Ciperácea; no pertenece a Poaceae."
+    },
+    {
+      "id": "madrid-undated-074",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Cynodon dactylon",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cynodon dactylon",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-075",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Dactylis glomerata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Dactylis glomerata",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-076",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Lamarckia aurea",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lamarckia aurea",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-077",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Macrochloa tenacissima",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Macrochloa tenacissima",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-078",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Passer domesticus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Passer domesticus",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Ave situada en un grupo incorrecto en la recopilación."
+    },
+    {
+      "id": "madrid-undated-079",
+      "page": 3,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Phragmites australis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Phragmites australis",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-080",
+      "page": 4,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Scirpus sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Scirpus sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Ciperácea; no pertenece a Poaceae."
+    },
+    {
+      "id": "madrid-undated-081",
+      "page": 4,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Schoenoplectus lacustris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Schoenoplectus lacustris",
+          "kind": "organismo",
+          "studyLists": [
+            "Flores"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Ciperácea; no pertenece a Poaceae."
+    },
+    {
+      "id": "madrid-undated-082",
+      "page": 4,
+      "section": "POÁCEAS (GRAMÍNEAS)",
+      "raw": "Triticum aestivum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Triticum aestivum",
+          "kind": "organismo",
+          "studyLists": [
+            "Poáceas (gramíneas)"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-083",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Evernia prunastri",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Evernia prunastri",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-084",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Lasallia pustulata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lasallia pustulata",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-085",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Lobaria pulmonaria",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lobaria pulmonaria",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-086",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Rhizocarpon geographicum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Rhizocarpon geographicum",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-087",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Parmelia sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Parmelia sp",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-088",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Pseudevernia furfurácea",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pseudevernia furfurácea",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-089",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Physcia aipolia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Physcia aipolia",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-090",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Usnea sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Usnea sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-091",
+      "page": 4,
+      "section": "LÍQUENES",
+      "raw": "Xanthoria parietina",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Xanthoria parietina",
+          "kind": "organismo",
+          "studyLists": [
+            "Líquenes"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-092",
+      "page": 4,
+      "section": "MUSGOS",
+      "raw": "Bryum sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Bryum sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Musgos y hepáticas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-093",
+      "page": 4,
+      "section": "MUSGOS",
+      "raw": "Dicranum scoparium",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Dicranum scoparium",
+          "kind": "organismo",
+          "studyLists": [
+            "Musgos y hepáticas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-094",
+      "page": 4,
+      "section": "MUSGOS",
+      "raw": "Grimmnia sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Grimmia sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Musgos y hepáticas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-095",
+      "page": 4,
+      "section": "MUSGOS",
+      "raw": "Hypnum cupressiforme",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hypnum cupressiforme",
+          "kind": "organismo",
+          "studyLists": [
+            "Musgos y hepáticas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-096",
+      "page": 4,
+      "section": "MUSGOS",
+      "raw": "Tortula sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Tortula sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Musgos y hepáticas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-097",
+      "page": 4,
+      "section": "MUSGOS",
+      "raw": "Tortula muralis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Tortula muralis",
+          "kind": "organismo",
+          "studyLists": [
+            "Musgos y hepáticas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-098",
+      "page": 4,
+      "section": "HELECHOS",
+      "raw": "Adiantum capillus-veneris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Adiantum capillus-veneris",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-099",
+      "page": 4,
+      "section": "HELECHOS",
+      "raw": "Asplenium adiantum-nigrum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Asplenium adiantum-nigrum",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-100",
+      "page": 4,
+      "section": "HELECHOS",
+      "raw": "Asplenium scolopendrium",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Asplenium scolopendrium",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-101",
+      "page": 4,
+      "section": "HELECHOS",
+      "raw": "Asplenium trichomanes",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Asplenium trichomanes",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-102",
+      "page": 5,
+      "section": "HELECHOS",
+      "raw": "Blechnum spicant",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Blechnum spicant",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-103",
+      "page": 5,
+      "section": "HELECHOS",
+      "raw": "Ceterach officinarum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Asplenium ceterach",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": [
+            "Ceterach officinarum"
+          ]
+        }
+      ],
+      "normalizationSource": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A17064630-1",
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-104",
+      "page": 5,
+      "section": "HELECHOS",
+      "raw": "Equisetum sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Equisetum sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-105",
+      "page": 5,
+      "section": "HELECHOS",
+      "raw": "Osmunda regalis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Osmunda regalis",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-106",
+      "page": 5,
+      "section": "HELECHOS",
+      "raw": "Polypodium vulgare",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Polypodium vulgare",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-107",
+      "page": 5,
+      "section": "HELECHOS",
+      "raw": "Polytrichum sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Polytrichum sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Musgos y hepáticas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Musgo colocado entre los helechos."
+    },
+    {
+      "id": "madrid-undated-108",
+      "page": 5,
+      "section": "HELECHOS",
+      "raw": "Pteridium aquilinum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pteridium aquilinum",
+          "kind": "organismo",
+          "studyLists": [
+            "Helechos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-109",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Astraeus hygrometrus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Astraeus hygrometricus",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-110",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Cantharellus cibarius",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cantharellus cibarius",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-111",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Crucibulum laeve",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Crucibulum laeve",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-112",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Ganoderma lucidum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ganoderma lucidum",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-113",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Fomes fomentarius",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Fomes fomentarius",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-114",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Helvella lacunosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Helvella lacunosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-115",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Lactarius deliciosus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lactarius deliciosus",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-116",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Polyporus fomentarius",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Fomes fomentarius",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": [
+            "Polyporus fomentarius"
+          ]
+        }
+      ],
+      "normalizationSource": "https://www.first-nature.com/fungi/fomes-fomentarius.php",
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-117",
+      "page": 5,
+      "section": "HONGOS",
+      "raw": "Trametes versicolor",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Trametes versicolor",
+          "kind": "organismo",
+          "studyLists": [
+            "Hongos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-118",
+      "page": 5,
+      "section": "ALGAS",
+      "raw": "Caulerpa prolifera",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Caulerpa prolifera",
+          "kind": "organismo",
+          "studyLists": [
+            "Algas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-119",
+      "page": 5,
+      "section": "ALGAS",
+      "raw": "Codium tomentosum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Codium tomentosum",
+          "kind": "organismo",
+          "studyLists": [
+            "Algas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-120",
+      "page": 5,
+      "section": "ALGAS",
+      "raw": "Chondrus sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Chondrus sp.",
+          "kind": "organismo",
+          "studyLists": [
+            "Algas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-121",
+      "page": 5,
+      "section": "ALGAS",
+      "raw": "Fucus serratus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Fucus serratus",
+          "kind": "organismo",
+          "studyLists": [
+            "Algas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-122",
+      "page": 5,
+      "section": "ALGAS",
+      "raw": "Fucus vesiculosus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Fucus vesiculosus",
+          "kind": "organismo",
+          "studyLists": [
+            "Algas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-123",
+      "page": 5,
+      "section": "ALGAS",
+      "raw": "Ulva Lactuca",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ulva Lactuca",
+          "kind": "organismo",
+          "studyLists": [
+            "Algas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-124",
+      "page": 6,
+      "section": "MAMÍFEROS",
+      "raw": "Erinaceus europaeus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Erinaceus europaeus",
+          "kind": "organismo",
+          "studyLists": [
+            "Animales de la región mediterránea"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-125",
+      "page": 6,
+      "section": "MAMÍFEROS",
+      "raw": "Genetta genetta",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Genetta genetta",
+          "kind": "organismo",
+          "studyLists": [
+            "Animales de la región mediterránea"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-126",
+      "page": 6,
+      "section": "MAMÍFEROS",
+      "raw": "Meles meles",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Meles meles",
+          "kind": "organismo",
+          "studyLists": [
+            "Animales de la región mediterránea"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-127",
+      "page": 6,
+      "section": "MAMÍFEROS",
+      "raw": "Sciurus vulgaris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Sciurus vulgaris",
+          "kind": "organismo",
+          "studyLists": [
+            "Animales de la región mediterránea"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-128",
+      "page": 6,
+      "section": "MAMÍFEROS",
+      "raw": "Talpa occidentalis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Talpa occidentalis",
+          "kind": "organismo",
+          "studyLists": [
+            "Animales de la región mediterránea"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-129",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Bufo bufo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Bufo bufo",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-130",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Elaphe scalaris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Zamenis scalaris",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": [
+            "Elaphe scalaris"
+          ]
+        }
+      ],
+      "normalizationSource": "https://reptile-database.reptarium.cz/Zamenis/scalaris",
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-131",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Elyomis quercinus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Eliomys quercinus",
+          "kind": "organismo",
+          "studyLists": [
+            "Animales de la región mediterránea"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia. Mamífero colocado entre anfibios y reptiles."
+    },
+    {
+      "id": "madrid-undated-132",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Hyla arborea",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hyla arborea",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-133",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Malpolon monspessulanus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Malpolon monspessulanus",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-134",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Natrix maura",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Natrix maura",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-135",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Podarcis hispanicua",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Podarcis hispanicus",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-136",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Psammodromus algirus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Psammodromus algirus",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-137",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Pleurodeles walt",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pleurodeles waltl",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-138",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Rhinechis scalaris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Zamenis scalaris",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": [
+            "Rhinechis scalaris"
+          ]
+        }
+      ],
+      "normalizationSource": "https://reptile-database.reptarium.cz/Zamenis/scalaris",
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-139",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Salamandra salamandra",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Salamandra salamandra",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-140",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Tarentola mauritanica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Tarentola mauritanica",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-141",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Timon lepidus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Timon lepidus",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-142",
+      "page": 6,
+      "section": "ANFIBIOS Y REPTILES",
+      "raw": "Zamenis scalaris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Zamenis scalaris",
+          "kind": "organismo",
+          "studyLists": [
+            "Anfibios y reptiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-143",
+      "page": 6,
+      "section": "PECES",
+      "raw": "Engraulis encrasicolus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Engraulis encrasicolus",
+          "kind": "organismo",
+          "studyLists": [
+            "Peces"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-144",
+      "page": 6,
+      "section": "PECES",
+      "raw": "Hippocampus hippocampus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hippocampus hippocampus",
+          "kind": "organismo",
+          "studyLists": [
+            "Peces"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-145",
+      "page": 6,
+      "section": "PECES",
+      "raw": "Mullus barbatus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Mullus barbatus",
+          "kind": "organismo",
+          "studyLists": [
+            "Peces"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-146",
+      "page": 6,
+      "section": "PECES",
+      "raw": "Pagellus erythrinus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pagellus erythrinus",
+          "kind": "organismo",
+          "studyLists": [
+            "Peces"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-147",
+      "page": 7,
+      "section": "PECES",
+      "raw": "Scomber scombrus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Scomber scombrus",
+          "kind": "organismo",
+          "studyLists": [
+            "Peces"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-148",
+      "page": 7,
+      "section": "PECES",
+      "raw": "Sparus aurata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Sparus aurata",
+          "kind": "organismo",
+          "studyLists": [
+            "Peces"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-149",
+      "page": 7,
+      "section": "PECES",
+      "raw": "Torpedo torpedo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Torpedo torpedo",
+          "kind": "organismo",
+          "studyLists": [
+            "Peces"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-150",
+      "page": 7,
+      "section": "PECES",
+      "raw": "Trachurus trachurus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Trachurus trachurus",
+          "kind": "organismo",
+          "studyLists": [
+            "Peces"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-151",
+      "page": 7,
+      "section": "AVES",
+      "raw": "Alectoris rufa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Alectoris rufa",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-152",
+      "page": 7,
+      "section": "AVES",
+      "raw": "Anas platyrhynchos",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Anas platyrhynchos",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-153",
+      "page": 7,
+      "section": "AVES",
+      "raw": "Carduelis carduelis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Carduelis carduelis",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-154",
+      "page": 7,
+      "section": "AVES",
+      "raw": "Cyanopica cooki",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cyanopica cooki",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-155",
+      "page": 7,
+      "section": "AVES",
+      "raw": "Garrulus glandarius",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Garrulus glandarius",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-156",
+      "page": 7,
+      "section": "AVES",
+      "raw": "Otus scops (ala)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ala de Otus scops",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Otus scops"
+          ],
+          "parentTaxon": "Otus scops"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-157",
+      "page": 7,
+      "section": "AVES",
+      "raw": "Tyto alba",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Tyto alba",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-158",
+      "page": 7,
+      "section": "AVES",
+      "raw": "Upupa epops",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Upupa epops",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-159",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Acheta domesticus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Acheta domesticus",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-160",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Actias isabellae",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Actias isabellae",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-161",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Athene noctua",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Athene noctua",
+          "kind": "organismo",
+          "studyLists": [
+            "Aves"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Ave situada en un grupo incorrecto en la recopilación."
+    },
+    {
+      "id": "madrid-undated-162",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Aporia crataegi",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Aporia crataegi",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-163",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Arctia festiva",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Arctia festiva",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-164",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Blaps mortisaga, lusitanica",
+      "status": "pending",
+      "targets": [],
+      "reason": "Dos especies en una línea; no aclara si son alternativas o muestras diferentes."
+    },
+    {
+      "id": "madrid-undated-165",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Calopteryx splendens",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Calopteryx splendens",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-166",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Cetonia aurata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cetonia aurata",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-167",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Cicada orni",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cicada orni",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-168",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Cicindela campestris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cicindela campestris",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-169",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Copris lunaris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Copris lunaris",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-170",
+      "page": 7,
+      "section": "INSECTOS",
+      "raw": "Cymbalophora pudica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cymbalophora pudica",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-171",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Graellsia isabelae",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Actias isabellae",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-172",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Gryllotalpa gryllotalpa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Gryllotalpa gryllotalpa",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-173",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Iphiclides podalirius",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Iphiclides podalirius",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-174",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Empusa pennata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Empusa pennata",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-175",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Heliotaurus ruficollis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Heliotaurus ruficollis",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-176",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Leptinotarsa decemlineata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Leptinotarsa decemlineata",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-177",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Lycaena phlaeas",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lycaena phlaeas",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-178",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Lucanus cervus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lucanus cervus",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-179",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Macroglossum stellatarum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Macroglossum stellatarum",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-180",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Melanargia ines",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Melanargia ines",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-181",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Nemoptera coa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Nemoptera coa",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-182",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Nemoptera bipennis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Nemoptera bipennis",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-183",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Nicrophorus investigator",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Nicrophorus investigator",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-184",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Oryctes nasicornis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Oryctes nasicornis",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-185",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Pandoriana pandora",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Argynnis pandora",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": [
+            "Pandoriana pandora"
+          ]
+        }
+      ],
+      "normalizationSource": "https://www.gbif.org/taxon/343CV",
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-186",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Papilio machaon",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Papilio machaon",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-187",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Physomeloe corallifer",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Physomeloe corallifer",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-188",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Pimelia costata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pimelia costata",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-189",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Polygonia c-album",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Polygonia c-album",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-190",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Pyrrhocoris apterus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pyrrhocoris apterus",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-191",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Vanessa atalanta",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Vanessa atalanta",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-192",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Zerynthia rumina",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Zerynthia rumina",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-193",
+      "page": 8,
+      "section": "INSECTOS",
+      "raw": "Xylocopa violácea",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Xylocopa violácea",
+          "kind": "organismo",
+          "studyLists": [
+            "Insectos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-194",
+      "page": 8,
+      "section": "ARÁCNIDOS",
+      "raw": "Buthus occitanus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Buthus occitanus",
+          "kind": "organismo",
+          "studyLists": [
+            "Arácnidos y otros artrópodos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-195",
+      "page": 8,
+      "section": "ARÁCNIDOS",
+      "raw": "Lycosa fasciiventris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lycosa fasciiventris",
+          "kind": "organismo",
+          "studyLists": [
+            "Arácnidos y otros artrópodos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-196",
+      "page": 9,
+      "section": "CRUSTÁCEOS",
+      "raw": "Cancer pagurus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cancer pagurus",
+          "kind": "organismo",
+          "studyLists": [
+            "Crustáceos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-197",
+      "page": 9,
+      "section": "CRUSTÁCEOS",
+      "raw": "Lepas anatifera",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lepas anatifera",
+          "kind": "organismo",
+          "studyLists": [
+            "Crustáceos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-198",
+      "page": 9,
+      "section": "CRUSTÁCEOS",
+      "raw": "Perforatus perforatus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Perforatus perforatus",
+          "kind": "organismo",
+          "studyLists": [
+            "Crustáceos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-199",
+      "page": 9,
+      "section": "CRUSTÁCEOS",
+      "raw": "Pollicipes pollicipes",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pollicipes pollicipes",
+          "kind": "organismo",
+          "studyLists": [
+            "Crustáceos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-200",
+      "page": 9,
+      "section": "CRUSTÁCEOS",
+      "raw": "Procambarus clarkii",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Procambarus clarkii",
+          "kind": "organismo",
+          "studyLists": [
+            "Crustáceos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-201",
+      "page": 9,
+      "section": "CRUSTÁCEOS",
+      "raw": "Squilla mantis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Squilla mantis",
+          "kind": "organismo",
+          "studyLists": [
+            "Crustáceos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-202",
+      "page": 9,
+      "section": "OTROS ARTRÓPODOS",
+      "raw": "Scolopendra cingulata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Scolopendra cingulata",
+          "kind": "organismo",
+          "studyLists": [
+            "Arácnidos y otros artrópodos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-203",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Acanthocardia tuberculata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Acanthocardia tuberculata",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-204",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Antalis vulgaris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Antalis vulgaris",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-205",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Anomia ephippium",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Anomia ephippium",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-206",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Arca noae",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Arca noae",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-207",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Aporrhais pespelecani",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Aporrhais pespelecani",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-208",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Bolinus brandaris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Bolinus brandaris",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-209",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Bolma rugosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Bolma rugosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-210",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Cepaea nemoralis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cepaea nemoralis",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-211",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Cymbium olla",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cymbium olla",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-212",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Chiton olivaceus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Chiton olivaceus",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-213",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Donax vittatus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Donax vittatus",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-214",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Gibbula varia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Gibbula varia",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-215",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Hexaplex trunculus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hexaplex trunculus",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-216",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Lutraria lutraria",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lutraria lutraria",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-217",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Mimachlamys varia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Mimachlamys varia",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-218",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Necora puber",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Necora puber",
+          "kind": "organismo",
+          "studyLists": [
+            "Crustáceos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Crustáceo colocado entre los moluscos."
+    },
+    {
+      "id": "madrid-undated-219",
+      "page": 9,
+      "section": "MOLUSCOS",
+      "raw": "Patella vulgata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Patella vulgata",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-220",
+      "page": 10,
+      "section": "MOLUSCOS",
+      "raw": "Pecten maximus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pecten maximus",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-221",
+      "page": 10,
+      "section": "MOLUSCOS",
+      "raw": "Pecten jacobaeus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pecten jacobaeus",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-222",
+      "page": 10,
+      "section": "MOLUSCOS",
+      "raw": "Pinna nobilis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pinna nobilis",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-223",
+      "page": 10,
+      "section": "MOLUSCOS",
+      "raw": "Planorbis sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Planorbis sp",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-224",
+      "page": 10,
+      "section": "MOLUSCOS",
+      "raw": "Solen marginatus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Solen marginatus",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-225",
+      "page": 10,
+      "section": "MOLUSCOS",
+      "raw": "Rumina decollata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Rumina decollata",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-226",
+      "page": 10,
+      "section": "MOLUSCOS",
+      "raw": "Turritella communis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Turritella communis",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-227",
+      "page": 10,
+      "section": "MOLUSCOS",
+      "raw": "Venus verrucosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Venus verrucosa",
+          "kind": "organismo",
+          "studyLists": [
+            "Moluscos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-228",
+      "page": 10,
+      "section": "CNIDARIOS, CORALES",
+      "raw": "Fungia sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Fungia sp",
+          "kind": "organismo",
+          "studyLists": [
+            "Cnidarios"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-229",
+      "page": 10,
+      "section": "CNIDARIOS, CORALES",
+      "raw": "Tubipora musica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Tubipora musica",
+          "kind": "organismo",
+          "studyLists": [
+            "Cnidarios"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-230",
+      "page": 10,
+      "section": "PORÍFEROS",
+      "raw": "Spongia officinalis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Spongia officinalis",
+          "kind": "organismo",
+          "studyLists": [
+            "Picnogónidos, poríferos y otros invertebrados"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-231",
+      "page": 10,
+      "section": "EQUINODERMOS",
+      "raw": "Arbacia lixula",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Arbacia lixula",
+          "kind": "organismo",
+          "studyLists": [
+            "Picnogónidos, poríferos y otros invertebrados"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-232",
+      "page": 10,
+      "section": "EQUINODERMOS",
+      "raw": "Marthasterias glacialis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Marthasterias glacialis",
+          "kind": "organismo",
+          "studyLists": [
+            "Picnogónidos, poríferos y otros invertebrados"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-233",
+      "page": 10,
+      "section": "EQUINODERMOS",
+      "raw": "Ophiotrix fragilis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ophiothrix fragilis",
+          "kind": "organismo",
+          "studyLists": [
+            "Picnogónidos, poríferos y otros invertebrados"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-234",
+      "page": 10,
+      "section": "EQUINODERMOS",
+      "raw": "Paracentrotus lividus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Paracentrotus lividus",
+          "kind": "organismo",
+          "studyLists": [
+            "Picnogónidos, poríferos y otros invertebrados"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-235",
+      "page": 10,
+      "section": "“GUSANOS”",
+      "raw": "Hirudo medicinalis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hirudo medicinalis",
+          "kind": "organismo",
+          "studyLists": [
+            "Gusanos"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-236",
+      "page": 10,
+      "section": "“GUSANOS”",
+      "raw": "Spirograptus sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Spirograptus sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Graptolito fósil; no corresponde al grupo de gusanos del documento."
+    },
+    {
+      "id": "madrid-undated-237",
+      "page": 11,
+      "section": "RESTOS DE ARRIBAZÓN",
+      "raw": "Bolsa de sirena de Raja asterias",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Bolsa de sirena de Raja asterias",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales",
+            "Restos de arribazón"
+          ],
+          "aliases": [
+            "Raja asterias"
+          ],
+          "parentTaxon": "Raja asterias"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-238",
+      "page": 11,
+      "section": "RESTOS DE ARRIBAZÓN",
+      "raw": "Puesta de Raja clavata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Puesta de Raja clavata",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales",
+            "Restos de arribazón"
+          ],
+          "aliases": [
+            "Raja clavata"
+          ],
+          "parentTaxon": "Raja clavata"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-239",
+      "page": 11,
+      "section": "RESTOS DE ARRIBAZÓN",
+      "raw": "Sepia officcinalis (pico de loro)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pico de Sepia officinalis",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales",
+            "Restos de arribazón"
+          ],
+          "aliases": [
+            "Sepia officinalis"
+          ],
+          "parentTaxon": "Sepia officinalis"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-240",
+      "page": 11,
+      "section": "RESTOS DE ARRIBAZÓN",
+      "raw": "Linterna de aristóteles (Paracentrotus lividus)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Linterna de Aristóteles de Paracentrotus lividus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales",
+            "Restos de arribazón"
+          ],
+          "aliases": [
+            "Paracentrotus lividus"
+          ],
+          "parentTaxon": "Paracentrotus lividus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-241",
+      "page": 11,
+      "section": "RESTOS DE ARRIBAZÓN",
+      "raw": "Jibia de Sepia officinalis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Jibia de Sepia officinalis",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales",
+            "Restos de arribazón"
+          ],
+          "aliases": [
+            "Sepia officinalis"
+          ],
+          "parentTaxon": "Sepia officinalis"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-242",
+      "page": 11,
+      "section": "RESTOS DE ARRIBAZÓN",
+      "raw": "Ooteca de Buccinum undatum",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ooteca de Buccinum undatum",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales",
+            "Restos de arribazón"
+          ],
+          "aliases": [
+            "Buccinum undatum"
+          ],
+          "parentTaxon": "Buccinum undatum"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-243",
+      "page": 11,
+      "section": "RESTOS DE ARRIBAZÓN",
+      "raw": "Mandíbula de Isurus oxyrinchus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Mandíbula de Isurus oxyrinchus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales",
+            "Restos de arribazón"
+          ],
+          "aliases": [
+            "Isurus oxyrinchus"
+          ],
+          "parentTaxon": "Isurus oxyrinchus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-244",
+      "page": 11,
+      "section": "RESTOS DE ARRIBAZÓN",
+      "raw": "Otolitos de Merluccius merluccius",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Otolitos de Merluccius merluccius",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales",
+            "Restos de arribazón"
+          ],
+          "aliases": [
+            "Merluccius merluccius"
+          ],
+          "parentTaxon": "Merluccius merluccius"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-245",
+      "page": 11,
+      "section": "NIDOS Y HUEVOS",
+      "raw": "Nido y huevos de Columba sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Nido y huevos de Columba sp.",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Columba sp"
+          ],
+          "parentTaxon": "Columba sp"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-246",
+      "page": 11,
+      "section": "NIDOS Y HUEVOS",
+      "raw": "Huevo de Coturnis coturnis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Huevo de Coturnix coturnix",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Coturnix coturnix"
+          ],
+          "parentTaxon": "Coturnix coturnix"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-247",
+      "page": 11,
+      "section": "NIDOS Y HUEVOS",
+      "raw": "Huevo de Anser anser",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Huevo de Anser anser",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Anser anser"
+          ],
+          "parentTaxon": "Anser anser"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-248",
+      "page": 11,
+      "section": "NIDOS Y HUEVOS",
+      "raw": "Huevos de Hirundo rustica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Huevos de Hirundo rustica",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Hirundo rustica"
+          ],
+          "parentTaxon": "Hirundo rustica"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-249",
+      "page": 11,
+      "section": "NIDOS Y HUEVOS",
+      "raw": "Huevo de Passer domesticus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Huevo de Passer domesticus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Passer domesticus"
+          ],
+          "parentTaxon": "Passer domesticus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-250",
+      "page": 11,
+      "section": "PLUMAS",
+      "raw": "Pluma de Bubo bubo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Bubo bubo",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Bubo bubo"
+          ],
+          "parentTaxon": "Bubo bubo"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-251",
+      "page": 11,
+      "section": "PLUMAS",
+      "raw": "Pluma de Garrhulus glandarius",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Garrulus glandarius",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Garrulus glandarius"
+          ],
+          "parentTaxon": "Garrulus glandarius"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-252",
+      "page": 11,
+      "section": "PLUMAS",
+      "raw": "Pluma de Falco tinnunculus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Falco tinnunculus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Falco tinnunculus"
+          ],
+          "parentTaxon": "Falco tinnunculus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-253",
+      "page": 11,
+      "section": "PLUMAS",
+      "raw": "Pluma de Oriolus oriolus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Oriolus oriolus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Oriolus oriolus"
+          ],
+          "parentTaxon": "Oriolus oriolus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-254",
+      "page": 11,
+      "section": "PLUMAS",
+      "raw": "Pluma de Otis tarda",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Otis tarda",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Otis tarda"
+          ],
+          "parentTaxon": "Otis tarda"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-255",
+      "page": 11,
+      "section": "PLUMAS",
+      "raw": "Pluma Otus scops",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Otus scops",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Otus scops"
+          ],
+          "parentTaxon": "Otus scops"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-256",
+      "page": 11,
+      "section": "PLUMAS",
+      "raw": "Pluma de Tyto alba",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Tyto alba",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Tyto alba"
+          ],
+          "parentTaxon": "Tyto alba"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-257",
+      "page": 11,
+      "section": "PLUMAS",
+      "raw": "Pluma de Pica pica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Pica pica",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Pica pica"
+          ],
+          "parentTaxon": "Pica pica"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-258",
+      "page": 12,
+      "section": "PLUMAS",
+      "raw": "Pluma de Phasianus colchicus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pluma de Phasianus colchicus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Phasianus colchicus"
+          ],
+          "parentTaxon": "Phasianus colchicus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-259",
+      "page": 12,
+      "section": "EGAGRÓPILAS",
+      "raw": "Egagrópila de Tyto alba",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Egagrópila de Tyto alba",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Tyto alba"
+          ],
+          "parentTaxon": "Tyto alba"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-260",
+      "page": 12,
+      "section": "EGAGRÓPILAS",
+      "raw": "Egagrópila de Ciconia ciconia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Egagrópila de Ciconia ciconia",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Ciconia ciconia"
+          ],
+          "parentTaxon": "Ciconia ciconia"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-261",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Ovis aries",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Ovis aries",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Ovis aries"
+          ],
+          "parentTaxon": "Ovis aries"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-262",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Canis lupus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Canis lupus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Canis lupus"
+          ],
+          "parentTaxon": "Canis lupus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-263",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Felis sylvestris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Felis silvestris",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Felis silvestris"
+          ],
+          "parentTaxon": "Felis silvestris"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-264",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Genetta genetta",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Genetta genetta",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Genetta genetta"
+          ],
+          "parentTaxon": "Genetta genetta"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-265",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Sus scrofa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Sus scrofa",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Sus scrofa"
+          ],
+          "parentTaxon": "Sus scrofa"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-266",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Oryctolagus cuniculus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Oryctolagus cuniculus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Oryctolagus cuniculus"
+          ],
+          "parentTaxon": "Oryctolagus cuniculus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-267",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Vulpes vulpes",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Vulpes vulpes",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Vulpes vulpes"
+          ],
+          "parentTaxon": "Vulpes vulpes"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-268",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Equus caballus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Equus caballus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Equus caballus"
+          ],
+          "parentTaxon": "Equus caballus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-269",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Talpa europaea (esqueleto)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Esqueleto de Talpa europaea",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Talpa europaea"
+          ],
+          "parentTaxon": "Talpa europaea"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-270",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Ciconia ciconia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Ciconia ciconia",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Ciconia ciconia"
+          ],
+          "parentTaxon": "Ciconia ciconia"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-271",
+      "page": 12,
+      "section": "CRÁNEOS/ESQUELETOS",
+      "raw": "Cráneo de Picus viridis",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cráneo de Picus viridis",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Picus viridis"
+          ],
+          "parentTaxon": "Picus viridis"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-272",
+      "page": 12,
+      "section": "CUERNAS/OS",
+      "raw": "Cuerna de Capra aegagrus hircus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cuerno de Capra aegagrus hircus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Capra aegagrus hircus"
+          ],
+          "parentTaxon": "Capra aegagrus hircus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-273",
+      "page": 12,
+      "section": "CUERNAS/OS",
+      "raw": "Cuerno de Capra pyrenaica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cuerno de Capra pyrenaica",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Capra pyrenaica"
+          ],
+          "parentTaxon": "Capra pyrenaica"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-274",
+      "page": 12,
+      "section": "CUERNAS/OS",
+      "raw": "Cuerno de Capreolus capreolus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Asta de Capreolus capreolus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Capreolus capreolus"
+          ],
+          "parentTaxon": "Capreolus capreolus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-275",
+      "page": 12,
+      "section": "CUERNAS/OS",
+      "raw": "Cuerna de Cervus elaphus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cuerna de Cervus elaphus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Cervus elaphus"
+          ],
+          "parentTaxon": "Cervus elaphus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-276",
+      "page": 12,
+      "section": "CUERNAS/OS",
+      "raw": "Cuerna de Dama dama",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cuerna de Dama dama",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Dama dama"
+          ],
+          "parentTaxon": "Dama dama"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-277",
+      "page": 13,
+      "section": "EXCREMENTOS",
+      "raw": "Capreolus capreolus (excrementos)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Excrementos de Capreolus capreolus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Capreolus capreolus"
+          ],
+          "parentTaxon": "Capreolus capreolus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-278",
+      "page": 13,
+      "section": "EXCREMENTOS",
+      "raw": "Cervus elaphus (excrementos)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Excrementos de Cervus elaphus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Cervus elaphus"
+          ],
+          "parentTaxon": "Cervus elaphus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-279",
+      "page": 13,
+      "section": "EXCREMENTOS",
+      "raw": "Genetta genetta (excrementos)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Excrementos de Genetta genetta",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Genetta genetta"
+          ],
+          "parentTaxon": "Genetta genetta"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-280",
+      "page": 13,
+      "section": "EXCREMENTOS",
+      "raw": "Oryctolagus cuniculus (excrementos)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Excrementos de Oryctolagus cuniculus",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Oryctolagus cuniculus"
+          ],
+          "parentTaxon": "Oryctolagus cuniculus"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-281",
+      "page": 13,
+      "section": "OTRAS ESTRUCTURAS",
+      "raw": "Ooteca de Mantis religiosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ooteca de Mantis religiosa",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Mantis religiosa"
+          ],
+          "parentTaxon": "Mantis religiosa"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-282",
+      "page": 13,
+      "section": "OTRAS ESTRUCTURAS",
+      "raw": "Agalla de Andricus quercustozae",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Agalla de Andricus quercustozae",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Andricus quercustozae"
+          ],
+          "parentTaxon": "Andricus quercustozae"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-283",
+      "page": 13,
+      "section": "OTRAS ESTRUCTURAS",
+      "raw": "Capullo de Bombyx mori",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Capullo de Bombyx mori",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Bombyx mori"
+          ],
+          "parentTaxon": "Bombyx mori"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-284",
+      "page": 13,
+      "section": "OTRAS ESTRUCTURAS",
+      "raw": "Piel de Genetta genetta",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Piel de Genetta genetta",
+          "kind": "estructura",
+          "studyLists": [
+            "Restos y estructuras animales"
+          ],
+          "aliases": [
+            "Genetta genetta"
+          ],
+          "parentTaxon": "Genetta genetta"
+        }
+      ],
+      "note": "Se conserva el resto anatómico como entrada independiente; no se sustituye por una foto del animal entero."
+    },
+    {
+      "id": "madrid-undated-285",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Ágata",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ágata",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-286",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Arsenopirita o pispiquel",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Arsenopirita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [
+            "Pispiquel"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-287",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Andesita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Andesita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-288",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Andalucita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Andalucita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-289",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Aragonito",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Aragonito",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-290",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Apatito",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Apatito",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-291",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Asbesto",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Asbesto",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-292",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Azufre",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Azufre",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-293",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Azurita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Azurita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-294",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Baritina",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Baritina",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-295",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Biotita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Biotita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-296",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Blenda",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Blenda",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-297",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Calcedonia",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Calcedonia",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-298",
+      "page": 13,
+      "section": "MINERALES",
+      "raw": "Calcita espática",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Calcita espática",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-299",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Calcopirita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Calcopirita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-300",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Cinabrio",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cinabrio",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-301",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Cianita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cianita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-302",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Crisotilo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Crisotilo",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-303",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Clorita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Clorita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-304",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Cuarzo: jacinto de Compostela, amatista",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Jacinto de Compostela",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [],
+          "note": "Variedad o hábito explícito en la recopilación; necesita imágenes específicas, no cualquier muestra del mineral."
+        },
+        {
+          "name": "Amatista",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [],
+          "note": "Variedad o hábito explícito en la recopilación; necesita imágenes específicas, no cualquier muestra del mineral."
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-305",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Estibina o antimonita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Estibina",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [
+            "Antimonita"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-306",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Estaurolita (cruz san Andrés)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Estaurolita (macla en cruz)",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [
+            "Estaurolita"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-307",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Epidota",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Epidota",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-308",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Fluorita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Fluorita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-309",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Galena",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Galena",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-310",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Granate almandino",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Almandino",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [
+            "Granate almandino"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-311",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Halita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Halita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-312",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Hematites",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hematites",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-313",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Lepidolita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lepidolita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-314",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Limonita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Limonita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-315",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Magnesita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Magnesita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-316",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Malaquita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Malaquita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-317",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Moscovita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Moscovita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-318",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Olivino",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Olivino",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-319",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Oligisto",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hematites",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [
+            "Oligisto"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-320",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Ópalo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ópalo",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-321",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Ortosa",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Ortosa",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-322",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Pirita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pirita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-323",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Pirolusita dentrítica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pirolusita dendrítica",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-324",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Paligorskita o cuero de montaña",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Paligorskita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [
+            "Cuero de montaña"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-325",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Rodocrosita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Rodocrosita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-326",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Sillimanita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Sillimanita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-327",
+      "page": 14,
+      "section": "MINERALES",
+      "raw": "Silvina",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Silvina",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-328",
+      "page": 15,
+      "section": "MINERALES",
+      "raw": "Serpentina",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Serpentina",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-329",
+      "page": 15,
+      "section": "MINERALES",
+      "raw": "Turmalina (chorlo)",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Chorlo",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [
+            "Turmalina (chorlo)"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-330",
+      "page": 15,
+      "section": "MINERALES",
+      "raw": "Yeso: fibroso, punta de flecha",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Yeso fibroso",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [],
+          "note": "Variedad o hábito explícito en la recopilación; necesita imágenes específicas, no cualquier muestra del mineral."
+        },
+        {
+          "name": "Yeso en punta de flecha",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": [],
+          "note": "Variedad o hábito explícito en la recopilación; necesita imágenes específicas, no cualquier muestra del mineral."
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-331",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Aplita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Aplita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-332",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Arenisca",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Arenisca",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-333",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Andesita con hornblenda",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Andesita con hornblenda",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-334",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Arenisca rodeno",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Arenisca rodeno",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-335",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Antracita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Antracita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-336",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Basalto",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Basalto",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-337",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Basalto con olivino",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Basalto con olivino",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-338",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Bauxita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Bauxita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-339",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Caliza",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Caliza",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-340",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Caliza litográfica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Caliza litográfica",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-341",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Caliza oolítica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Caliza oolítica",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-342",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Cuarcita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cuarcita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-343",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Conglomerado pudinga",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Conglomerado pudinga",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-344",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Dacita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Dacita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-345",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Diorita o granodiorita",
+      "status": "pending",
+      "targets": [],
+      "reason": "Dos rocas distintas presentadas como alternativas sin una muestra ni clave que permita decidir."
+    },
+    {
+      "id": "madrid-undated-346",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Eclogita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Eclogita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-347",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Estalactita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Estalactitas",
+          "kind": "relieve",
+          "studyLists": [
+            "Geomorfología kárstica"
+          ],
+          "aliases": [
+            "Estalactita"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-348",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Esquisto micáceo",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Esquisto micáceo",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-349",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Filita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Filita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-350",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Gabro",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Gabro",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-351",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Gneis glandular",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Gneis glandular",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-352",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Grauvaca",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Grauvaca",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-353",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Jumillita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Jumillita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-354",
+      "page": 15,
+      "section": "ROCAS",
+      "raw": "Lava cordada",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lava cordada",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-355",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Lignito",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lignito",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-356",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Lumaquela",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Lumaquela",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-357",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Mármol",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Mármol",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-358",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Micaesquisto granatífero",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Micaesquisto granatífero",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-359",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Obsidiana",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Obsidiana",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-360",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Peridotita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Peridotita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-361",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Pegmatita con Andalucita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pegmatita con Andalucita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-362",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Pegmatita con turmalina",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pegmatita con turmalina",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-363",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Pórfido",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pórfido",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-364",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Riodacita granatífera",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Riodacita granatífera",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-365",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Sienita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Sienita",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-366",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Sepiolita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Sepiolita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-367",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Toba caliza",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Toba calcárea",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": [
+            "Toba caliza"
+          ]
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-368",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Turba",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Turba",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-369",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Wollastonita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Wollastonita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-370",
+      "page": 16,
+      "section": "ROCAS",
+      "raw": "Moscovita",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Moscovita",
+          "kind": "mineral",
+          "studyLists": [
+            "Minerales"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-371",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Alethopteris sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Alethopteris sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-372",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Belemnites",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Belemnites",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-373",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Caliza numulítica",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Caliza numulítica",
+          "kind": "roca",
+          "studyLists": [
+            "Rocas",
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-374",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Calceola sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Calceola sp",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-375",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Ciclolites sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cyclolites sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-376",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Cidaris sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Cidaris sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-377",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Colpocoryphe sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Colpocoryphe sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-378",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Dactiloceras sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Dactylioceras sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-379",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Encope sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Encope sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-380",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Exogyra sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Exogyra sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-381",
+      "page": 16,
+      "section": "FÓSILES",
+      "raw": "Fenestella sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Fenestella sp",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-382",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Flexicalymene",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Flexicalymene",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": [],
+          "existingId": "flexicalimene",
+          "correctExistingName": true
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-383",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Glauconia sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Glauconia sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-384",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Gryphaea sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Gryphaea sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-385",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Heteraster sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Heteraster sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-386",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Hippurites",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hippurites",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-387",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Hildoceras sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Hildoceras sp",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-388",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Micraster sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Micraster sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-389",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Molar de Equus",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Molar de Equus",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-390",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Montlivaltia sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Montlivaltia sp",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-391",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Monograptus sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Monograptus sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-392",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Nummulites",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Nummulites",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-393",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Neuropteris sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Neuropteris sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-394",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Orthoceras sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Orthoceras sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-395",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Orbitolina sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Orbitolina sp",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-396",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Pecopteris sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pecopteris sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-397",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Placosmilia sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Placosmilia sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-398",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Pizarra con Pecopteris",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pecopteris",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "La recopilación especifica una impronta en pizarra."
+    },
+    {
+      "id": "madrid-undated-399",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Pygope sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Pygope sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-400",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Radiolites sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Radiolites sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-401",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Rynchonella sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Rhynchonella sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Errata normalizada; el nombre impreso se conserva solo como procedencia."
+    },
+    {
+      "id": "madrid-undated-402",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Sigillaria sp",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Sigillaria sp",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-403",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Spirifer sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Spirifer sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-404",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Spirograptus sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Spirograptus sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": "Graptolito fósil; no corresponde al grupo de gusanos del documento."
+    },
+    {
+      "id": "madrid-undated-405",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Terebratula sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Terebratula sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "madrid-undated-406",
+      "page": 17,
+      "section": "FÓSILES",
+      "raw": "Turritella sp.",
+      "status": "accepted",
+      "targets": [
+        {
+          "name": "Turritella sp.",
+          "kind": "fosil",
+          "studyLists": [
+            "Fósiles"
+          ],
+          "aliases": []
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

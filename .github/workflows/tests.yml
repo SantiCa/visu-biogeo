@@ -1,0 +1,46 @@
+name: Pruebas
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sources:
+    name: Fuentes y datos
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          package-manager-cache: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: JavaScript
+        run: node --test tests/*.test.mjs
+      - name: Python
+        run: python -m unittest discover -s tests -p "test_*.py"
+
+  windows-native:
+    name: Lanzador Windows y fotos
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: windows-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Compilar lanzador
+        shell: pwsh
+        run: .\scripts\build_desktop.ps1 -Destination (Join-Path (Get-Location) 'Abrir Visu BioGeo.exe')
+      - name: Recuperar tres fotos verificadas
+        run: python scripts/restore_media.py --sample
+      - name: Integración nativa
+        run: python -m unittest discover -s tests -p "test_native_images.py"

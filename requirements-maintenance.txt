@@ -1,0 +1,6 @@
+# Entorno de mantenimiento comprobado con Python 3.12.14.
+# No hace falta instalar estas dependencias para usar el ejecutable de Windows.
+Pillow==12.3.0
+beautifulsoup4==4.15.0
+PyMuPDF==2.0
+pypdf==6.10.0

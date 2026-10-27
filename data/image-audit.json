@@ -1,0 +1,3436 @@
+{
+  "date": "2026-10-27",
+  "catalogEntries": 2602,
+  "entriesWithApprovedImage": 2267,
+  "entriesWithPair": 2123,
+  "approvedImages": 4759,
+  "priorityEntries": 162,
+  "priorityWithPair": 162,
+  "decisions": {
+    "approved": 4760,
+    "rejected": 698,
+    "pending": 3
+  },
+  "imageSources": {
+    "geodil.dperkins.org": 234,
+    "www.inaturalist.org": 3449,
+    "commons.wikimedia.org": 72,
+    "www.asturnatura.com": 199,
+    "npgallery.nps.gov": 36,
+    "www.nps.gov": 26,
+    "pubchem.ncbi.nlm.nih.gov": 67,
+    "valsanagra.it": 3,
+    "public.wmo.int": 6,
+    "mmegias.webs.uvigo.es": 164,
+    "geovirtual2.cl": 7,
+    "www.gbif.org": 120,
+    "www.alexstrekeisen.it": 115,
+    "geology.com": 72,
+    "www.larioja.org": 1,
+    "www.lombardiabeniculturali.it": 1,
+    "www.miteco.gob.es": 7,
+    "www.juntadeandalucia.es": 1,
+    "cloudatlas.wmo.int": 27,
+    "medcell.org": 7,
+    "histology.siu.edu": 9,
+    "ammonoid.treatise.geolex.org": 1,
+    "www.kgs.ku.edu": 1,
+    "histology.leeds.ac.uk": 16,
+    "webpath.med.utah.edu": 1,
+    "azgs.arizona.edu": 1,
+    "volcanoes.sdsu.edu": 2,
+    "www.medcell.org": 6,
+    "www.geovirtual2.cl": 4,
+    "botit.botany.wisc.edu": 13,
+    "www.rcsb.org": 10,
+    "home.nps.gov": 8,
+    "www.weather.gov": 4,
+    "science.nasa.gov": 7,
+    "www.antarcticglaciers.org": 6,
+    "www.science.smith.edu": 10,
+    "www.digitalatlasofancientlife.org": 1,
+    "labs.wsu.edu": 2,
+    "journals.plos.org": 1,
+    "images.cnrs.fr": 2,
+    "www.cfb.unh.edu": 4,
+    "www.microscopy-uk.org.uk": 1,
+    "www.nasa.gov": 1,
+    "www.pi.ingv.it": 1,
+    "www.usgs.gov": 1,
+    "www.whoi.edu": 1,
+    "response.restoration.noaa.gov": 4,
+    "www.uv.es": 6,
+    "uwaterloo.ca": 2,
+    "www.csmc.uni-hamburg.de": 1,
+    "www.cdc.gov": 6,
+    "parquesnaturales.gva.es": 1,
+    "gq.mines.gouv.qc.ca": 1,
+    "plantasvasculares.fciencias.unam.mx": 2,
+    "www.smhi.se": 1,
+    "www.regmurcia.com": 1,
+    "www.conservacionvegetal.org": 1,
+    "bibdigital.rjb.csic.es": 1,
+    "www.geograph.org.uk": 1,
+    "prr.osu.edu": 1,
+    "www.virtualmicroscope.org": 1,
+    "museum.wales": 1
+  },
+  "brokenApprovedFiles": [],
+  "priorityMissingPairs": [],
+  "allMissingPairs": [
+    {
+      "id": "acanaladura",
+      "name": "Acanaladura",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "acantilado",
+      "name": "Acantilado",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "aceratherium",
+      "name": "Aceratherium",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "aethalion",
+      "name": "Aethalion",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-aguijon-de-avispa",
+      "name": "Aguijón de avispa",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ala-de-insecto-abeja",
+      "name": "Ala de insecto, abeja",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ala-de-insecto-mosca",
+      "name": "Ala de insecto, mosca",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "albufera-o-lagoon",
+      "name": "Albufera o lagoon",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "aluviones-llanura-aluvial-llanura-de-inundacion",
+      "name": "Aluviones. Llanura aluvial. Llanura de inundación",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "alveolina",
+      "name": "Alveolina",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "amaltheus-margaritatus",
+      "name": "Amaltheus margaritatus",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "ambar",
+      "name": "Ámbar",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "anabaena-spiroides",
+      "name": "Anabaena spiroides",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "anaecypris-hispanica",
+      "name": "Anaecypris hispanica",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "andalucita",
+      "name": "Andalucita",
+      "kind": "mineral",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "anfibolita",
+      "name": "Anfibolita",
+      "kind": "roca",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "lamina-anfibolita-nicoles-cruzados",
+      "name": "Anfibolita. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "annularia",
+      "name": "Annularia",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "anomalocaris",
+      "name": "Anomalocaris",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-antena-plumosa-de-mariposa-nocturna",
+      "name": "Antena plumosa de mariposa nocturna",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-antera",
+      "name": "Antera",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-aparato-chupador-de-mariposa-espiritrompa",
+      "name": "Aparato chupador de mariposa, espiritrompa",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-aparato-cortador-chupador-de-tabano",
+      "name": "Aparato cortador chupador de tábano",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-aparato-masticador-de-insecto",
+      "name": "Aparato masticador de insecto",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-aparato-masticador-lamedor-de-abeja",
+      "name": "Aparato masticador-lamedor de abeja",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-aparato-picador-chupador-de-mosquito",
+      "name": "Aparato picador-chupador de mosquito",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-aparatos-bucales-de-insectos",
+      "name": "Aparatos bucales de insectos",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-apatito-nicoles-cruzados",
+      "name": "Apatito. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "apium-bermejoi",
+      "name": "Apium bermejoi",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-apofisis-prosternal-de-un-coleoptero",
+      "name": "Apófisis prosternal de un coleóptero",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "arcilla",
+      "name": "Arcilla",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "arenaria-bolosii",
+      "name": "Arenaria bolosii",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "lamina-arenisca-nicoles-cruzados",
+      "name": "Arenisca. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "arenizacion-erosion-en-granitos",
+      "name": "Arenización. Erosión en granitos",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "arion-iratii",
+      "name": "Arion iratii",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "arion-rufus",
+      "name": "Arion rufus",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-arn-polimerasa",
+      "name": "ARN polimerasa",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-arn-transferente",
+      "name": "ARN transferente",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-arteria",
+      "name": "Arteria",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "assilina",
+      "name": "Assilina",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "atolon-atolon-de-glover-agujero-azul-de-belice",
+      "name": "Atolón. Atolón de Glover / Agujero azul de Belice",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "australopithecus-afarensis",
+      "name": "Australopithecus afarensis",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-balancin-de-diptero",
+      "name": "Balancín de díptero",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "balantidium-coli",
+      "name": "Balantidium coli",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "balanus",
+      "name": "Balanus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "banquisa",
+      "name": "Banquisa",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "belemnopsis",
+      "name": "Belemnopsis",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "berrocal",
+      "name": "Berrocal",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "bioclasticidad",
+      "name": "Bioclasticidad",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-blastula",
+      "name": "Blástula",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "bloque-erratico",
+      "name": "Bloque errático",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "bolos",
+      "name": "Bolos",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "borderea-chouardii",
+      "name": "Borderea chouardii",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "brecha-volcanica",
+      "name": "Brecha volcánica",
+      "kind": "roca",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "brechas-de-falla",
+      "name": "Brechas de falla",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-bronquio",
+      "name": "Bronquio",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-cabeza-de-drosophila-ojos-compuestos",
+      "name": "Cabeza de Drosophila. Ojos compuestos",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "calamites",
+      "name": "Calamites",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "calcantita",
+      "name": "Calcantita",
+      "kind": "mineral",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "lamina-caliza-con-bioclastos-luz-plana-polarizada",
+      "name": "Caliza con bioclastos. Luz plana polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-caliza-dolomitica-luz-plana-polarizada",
+      "name": "Caliza dolomítica. Luz plana polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-caliza-oolitica-luz-plana-polarizada",
+      "name": "Caliza oolítica. Luz plana polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "caliza-pisolitica",
+      "name": "Caliza pisolítica",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-caliza-pisolitica-luz-plana-polarizada",
+      "name": "Caliza pisolítica. Luz plana polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "campodea-fragilis",
+      "name": "Campodea fragilis",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "canon-hoz-karstica",
+      "name": "Cañón. Hoz kárstica",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "caolin",
+      "name": "Caolín",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-carbon-luz-plana-polarizada",
+      "name": "Carbón. Luz plana polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "carborundo",
+      "name": "Carborundo",
+      "kind": "mineral",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cardiola",
+      "name": "Cardiola",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "castillo-torres-en-granito",
+      "name": "Castillo. Torres en granito",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "catarata",
+      "name": "Catarata",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-celula-eucariota-animal",
+      "name": "Célula eucariota animal",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "centaurea-lagascae",
+      "name": "Centaurea lagascae",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-centrosoma-centriolos-diplosoma",
+      "name": "Centrosoma, Centríolos, Diplosoma",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "ceratites",
+      "name": "Ceratites",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "molecula-cerido-cera-de-abeja",
+      "name": "Cérido. Cera de abeja",
+      "kind": "molecula",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "chatzakia-balearica",
+      "name": "Chatzakia balearica",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "chevron",
+      "name": "Chevron",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cidaris",
+      "name": "Cidaris",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cineritas",
+      "name": "Cineritas",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cistus-x-laxus",
+      "name": "Cistus x laxus",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-citoesqueleto",
+      "name": "Citoesqueleto",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "citrus-x-sinensis",
+      "name": "Citrus x sinensis",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-cloroplasto",
+      "name": "Cloroplasto",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "clostridium-tetani",
+      "name": "Clostridium tetani",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cluse-o-pongo",
+      "name": "Cluse o pongo",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cobitis-paludica",
+      "name": "Cobitis paludica",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-colenquima-anular",
+      "name": "Colénquima anular",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-colenquima-lagunar",
+      "name": "Colénquima lagunar",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-colenquima-laminar",
+      "name": "Colénquima laminar",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "combe",
+      "name": "Combe",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-conglomerado-brecha-nicoles-cruzados",
+      "name": "Conglomerado brecha. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "conocoryphe",
+      "name": "Conocoryphe",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "conus",
+      "name": "Conus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "copal",
+      "name": "Copal",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "coprolito",
+      "name": "Coprolito",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cordon-litoral-o-barra",
+      "name": "Cordón litoral o barra",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "lamina-corneana-con-andalucita-nicoles-cruzados",
+      "name": "Corneana con andalucita. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-corte-de-hoja-de-gimnosperma",
+      "name": "Corte de hoja de gimnosperma",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-corte-de-rinon",
+      "name": "Corte de riñón",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-corteza-cerebral-celulas-piramidales",
+      "name": "Corteza cerebral, Células piramidales",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "crescent-marks-marcas-de-media-luna-o-de-herradura",
+      "name": "Crescent-marks. Marcas de media luna o de herradura",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "crestas",
+      "name": "Crestas",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "crocus-cambessedesii",
+      "name": "Crocus cambessedesii",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-cromoplastos",
+      "name": "Cromoplastos",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-cromosomas-plumosos",
+      "name": "Cromosomas plumosos",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-cromosomas-politenicos",
+      "name": "Cromosomas politénicos",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-cuarzo-luz-plana-polarizada",
+      "name": "Cuarzo. Luz plana-polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cupressus-arizonica",
+      "name": "Cupressus arizonica",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-dardo-de-amor-o-gypsobelum-de-algunos-gasteropodos",
+      "name": "Dardo de amor o gypsobelum de algunos gasterópodos",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "deformacion-ductil-en-esquistos",
+      "name": "Deformación dúctil en esquistos",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "deinotherium",
+      "name": "Deinotherium",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "dentalium",
+      "name": "Dentalium",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "desmarestia-aculeata",
+      "name": "Desmarestia aculeata",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-desmosomas",
+      "name": "Desmosomas",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "molecula-desoxiribosa-ribosa",
+      "name": "Desoxiribosa/Ribosa",
+      "kind": "molecula",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "diaclasa-plumosa",
+      "name": "Diaclasa plumosa",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "diaclasado-circular",
+      "name": "Diaclasado circular",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "dicrocoelium-dendriticum",
+      "name": "Dicrocoelium dendriticum",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "diprion-pini",
+      "name": "Diprion pini",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "dique-dique-con-xenolito",
+      "name": "Dique. Dique con xenolito",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "discoglossus-jeanneae",
+      "name": "Discoglossus jeanneae",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "discordancia-angular",
+      "name": "Discordancia angular",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "domo-salino-diapiro",
+      "name": "Domo salino. Diapiro",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "dorycnium-fulgurans",
+      "name": "Dorycnium fulgurans",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "dropstone",
+      "name": "Dropstone",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "dryopteris-pallida-subsp-balearica",
+      "name": "Dryopteris pallida subsp. balearica",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "efecto-cuna-gelifraccion-crioclasticidad",
+      "name": "Efecto cuña. Gelifracción. Crioclasticidad",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-embrion",
+      "name": "Embrión",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-embrion-semilla",
+      "name": "Embrión, semilla",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "encrinus",
+      "name": "Encrinus",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-endocitosis-mediada-por-clatrina-proteina-ap-180",
+      "name": "Endocitosis mediada por clatrina. Proteína AP 180",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-epitelio-ciliado-traquea",
+      "name": "Epitelio ciliado, tráquea",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "eritrina",
+      "name": "Eritrina",
+      "kind": "mineral",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-escamas-de-lepidoptero",
+      "name": "Escamas de Lepidóptero",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-escleritos-de-gorgonia-sp",
+      "name": "Escleritos de Gorgonia sp",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "escorias",
+      "name": "Escorias",
+      "kind": "roca",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "espejo-de-falla-estrias-de-falla",
+      "name": "Espejo de falla. Estrías de falla",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-espiculas-de-porifero",
+      "name": "Espículas de Porífero",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-espinela-luz-plana-polarizada",
+      "name": "Espinela. Luz plana-polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-espinela-nicoles-cruzados",
+      "name": "Espinela. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estalactitas-excentricas-antoditas",
+      "name": "Estalactitas excéntricas: Antoditas",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estalagmitas-huecas-o-tremagmitas",
+      "name": "Estalagmitas huecas o Tremagmitas",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-estigma-con-polen-y-tubo-polinico",
+      "name": "Estigma con polen y tubo polínico",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estromatolitos",
+      "name": "Estromatolitos",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "fosil-estromatolitos",
+      "name": "Estromatolitos",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "euaspidoceras",
+      "name": "Euaspidoceras",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-exocitosis",
+      "name": "Exocitosis",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "molecula-fadh",
+      "name": "FADH",
+      "kind": "molecula",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-fagocitosis-fagocito",
+      "name": "Fagocitosis. Fagocito",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "falla-horizontal-o-de-desgarre",
+      "name": "Falla horizontal o de desgarre",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "falla-inversa",
+      "name": "Falla inversa",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "filon-de-cuarzo",
+      "name": "Filón de cuarzo",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "molecula-filosilicato",
+      "name": "Filosilicato",
+      "kind": "molecula",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "flecha",
+      "name": "Flecha",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "flexicalimene",
+      "name": "Flexicalymene",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-fluorita-nicoles-cruzados",
+      "name": "Fluorita. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "flute-casts-calcos-de-flauta-o-turboglifos",
+      "name": "Flute casts, calcos de flauta o turboglifos",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-fotografia-51-del-adn",
+      "name": "Fotografía 51 del ADN",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "fuchsita",
+      "name": "Fuchsita",
+      "kind": "mineral",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "fusinus",
+      "name": "Fusinus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "fusulina",
+      "name": "Fusulina",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "galeria",
+      "name": "Galería",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-galerias-en-madera-de-escolitidos-coleopteros",
+      "name": "Galerías en madera de Escolítidos, Coleópteros",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-gastrula",
+      "name": "Gástrula",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "genista-dorycnifolia",
+      "name": "Genista dorycnifolia",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "gibbula",
+      "name": "Gibbula",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-glandula-tiroides",
+      "name": "Glándula tiroides",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "glauconia",
+      "name": "Glauconia",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "glossina-palpalis",
+      "name": "Glossina palpalis",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-gneis-nicoles-cruzados",
+      "name": "Gneis. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "gomphotherium",
+      "name": "Gomphotherium",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "goniatites",
+      "name": "Goniatites",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "goniopygus",
+      "name": "Goniopygus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "gour",
+      "name": "Gour",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "gracilariopsis-longissima",
+      "name": "Gracilariopsis longissima",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "molecula-grafeno",
+      "name": "Grafeno",
+      "kind": "molecula",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "granulita",
+      "name": "Granulita",
+      "kind": "roca",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "grus-lehm-granitico",
+      "name": "Grus. Lehm granítico",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "helicobacter-pylori",
+      "name": "Helicobacter pylori",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "heliophora",
+      "name": "Heliophora",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "heteraster",
+      "name": "Heteraster",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "hiparion",
+      "name": "Hipparion",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-hipofisis-pituitaria",
+      "name": "Hipófisis (pituitaria)",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "hippocrepis-balearica",
+      "name": "Hippocrepis balearica",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-hoja-de-elodea-canadensis",
+      "name": "Hoja de Elodea canadensis",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "homo",
+      "name": "Homo",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "homo-heidelbergensis",
+      "name": "Homo heidelbergensis",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "homo-sapiens",
+      "name": "Homo sapiens",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-huevos-de-lepidoptero",
+      "name": "Huevos de lepidóptero",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-huevos-de-mariposa",
+      "name": "Huevos de mariposa",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-huevos-de-mosquito",
+      "name": "Huevos de mosquito",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-huevos-de-thaumetopoea-sp",
+      "name": "Huevos de Thaumetopoea sp",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "hulla",
+      "name": "Hulla",
+      "kind": "roca",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "icnita",
+      "name": "Icnita",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "inachus-dorsettensis",
+      "name": "Inachus dorsettensis",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "indlandsis",
+      "name": "Indlandsis",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "molecula-inosilicatos-de-cadena-doble-anfiboles",
+      "name": "Inosilicatos de cadena doble. ANFÍBOLES",
+      "kind": "molecula",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "molecula-inosilicatos-de-cadena-simple-piroxenos",
+      "name": "Inosilicatos de cadena simple. PIROXENOS",
+      "kind": "molecula",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-intestino-delgado",
+      "name": "Intestino delgado",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "isurus",
+      "name": "Isurus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "jumillita",
+      "name": "Jumillita",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "karst-en-torres",
+      "name": "Karst en torres",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "karst-lapiaz-lenar",
+      "name": "Karst, Lapiaz. Lenar",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lago-eutrofizado",
+      "name": "Lago eutrofizado",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamna",
+      "name": "Lamna",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-larva-de-mosquito",
+      "name": "Larva de mosquito",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "larviquita",
+      "name": "Larviquita",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lazurita",
+      "name": "Lazurita",
+      "kind": "mineral",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-lenticela",
+      "name": "Lenticela",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "lepidodendron",
+      "name": "Lepidodendron",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "leucosolenia-botryoides",
+      "name": "Leucosolenia botryoides",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "lignito",
+      "name": "Lignito",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lima-lima",
+      "name": "Lima lima",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lingulodinium-polyedra",
+      "name": "Lingulodinium polyedra",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "loligo-forbesii",
+      "name": "Loligo forbesii",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "lomos-de-ballena",
+      "name": "Lomos de ballena",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "mammuthus",
+      "name": "Mammuthus",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "mammuthus-primigenius",
+      "name": "Mammuthus primigenius",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "marmitas-de-gigante",
+      "name": "Marmitas de gigante",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-membrana-plasmatica",
+      "name": "Membrana plasmática",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-meristemo-apical-de-raiz",
+      "name": "Meristemo apical de raíz",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "merluccius-senegalensis",
+      "name": "Merluccius senegalensis",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "meteorizacion-quimica-rio-tinto",
+      "name": "Meteorización química. Río Tinto",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-microclina-luz-plana-polarizada",
+      "name": "Microclina. Luz plana-polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-microclina-nicoles-cruzados",
+      "name": "Microclina. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "migmatita",
+      "name": "Migmatita",
+      "kind": "roca",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "monograptus",
+      "name": "Monograptus",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "mont",
+      "name": "Mont",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-morula",
+      "name": "Mórula",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-moscovita-luz-plana-polarizada",
+      "name": "Moscovita. Luz plana-polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "mycoplasma-pneumoniae",
+      "name": "Mycoplasma pneumoniae",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "myliobatis",
+      "name": "Myliobatis",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "neisseria-meningitidis",
+      "name": "Neisseria meningitidis",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-nervio-optico",
+      "name": "Nervio óptico",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-nido-de-vespula-sp",
+      "name": "Nido de Vespula sp",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-nucleosomas-collar-de-perlas",
+      "name": "Nucleosomas. Collar de perlas",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "nummulites",
+      "name": "Nummulites",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "ocre-rojo",
+      "name": "Ocre rojo",
+      "kind": "mineral",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ojo",
+      "name": "Ojo",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-ojo-compuesto-de-insecto-facetas-u-omatidios",
+      "name": "Ojo compuesto de insecto. Facetas u omatidios",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ojos-simples-de-insecto-ocelos",
+      "name": "Ojos simples de insecto (ocelos)",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ooteca-de-blatido",
+      "name": "Ooteca de Blátido",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ooteca-de-mantis-religiosa",
+      "name": "Ooteca de Mantis religiosa",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "operculina",
+      "name": "Operculina",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "orbitolina",
+      "name": "Orbitolina",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "orthis",
+      "name": "Orthis",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "orthoceras",
+      "name": "Orthoceras",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-ortosa-luz-plana-polarizada",
+      "name": "Ortosa. Luz plana-polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-ortosa-nicoles-cruzados",
+      "name": "Ortosa. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "ostrea",
+      "name": "Ostrea",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ovario",
+      "name": "Ovario",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-ovocito",
+      "name": "Ovocito",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-ovulo-en-saco-embrionario",
+      "name": "Óvulo en saco embrionario",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "paisaje-ruiniforme",
+      "name": "Paisaje ruiniforme",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "palaeoloxodon",
+      "name": "Palaeoloxodon",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "palaeoloxodon-antiquus",
+      "name": "Palaeoloxodon antiquus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pan-de-azucar",
+      "name": "Pan de azúcar",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "paraceratherium",
+      "name": "Paraceratherium",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "paranthropus-boisei",
+      "name": "Paranthropus boisei",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "parantrophus",
+      "name": "Paranthropus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "parasagitta-setosa",
+      "name": "Parasagitta setosa",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-parenquima-acuifero",
+      "name": "Parénquima acuífero",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-parenquima-aerifero",
+      "name": "Parénquima aerífero",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-parenquima-de-reserva",
+      "name": "Parénquima de reserva",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "parkinsonia",
+      "name": "Parkinsonia",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "parkinsonia-parkinsoni",
+      "name": "Parkinsonia parkinsoni",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-pata-de-insecto",
+      "name": "Pata de insecto",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pata-de-insecto-abeja",
+      "name": "Pata de insecto, abeja",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pata-de-insecto-mosca",
+      "name": "Pata de insecto, mosca",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pecten",
+      "name": "Pecten",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pectunculus",
+      "name": "Pectunculus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pediculus-humanus-piojo",
+      "name": "Pediculus humanus. PIOJO",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pelo-corte-transversal",
+      "name": "Pelo, corte transversal",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "penicillium-chrysogenum",
+      "name": "Penicillium chrysogenum",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pentacrinus",
+      "name": "Pentacrinus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "percrocuta",
+      "name": "Percrocuta",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-peridotita-nicoles-cruzados",
+      "name": "Peridotita. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "permafrost",
+      "name": "Permafrost",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-peroxisomas",
+      "name": "Peroxisomas",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "petroleo",
+      "name": "Petróleo",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "phacops",
+      "name": "Phacops",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "philodina-roseola",
+      "name": "Philodina roseola",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "phyllium-siccifolium",
+      "name": "Phyllium siccifolium",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "piedras-caballeras",
+      "name": "Piedras caballeras",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pilares-fungiformes",
+      "name": "Pilares fungiformes",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pinocitosis",
+      "name": "Pinocitosis",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-placa-motora",
+      "name": "Placa motora",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "placosmilia",
+      "name": "Placosmilia",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "planaria-torva",
+      "name": "Planaria torva",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "planorbis",
+      "name": "Planorbis",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "playa",
+      "name": "Playa",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "playa-de-cantos",
+      "name": "Playa de cantos",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "pleuroceras",
+      "name": "Pleuroceras",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "plicatula",
+      "name": "Plicatula",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pliegue-chevron",
+      "name": "Pliegue chevron",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pliegue-de-flujo",
+      "name": "Pliegue de flujo",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pliegue-sinclinal",
+      "name": "Pliegue sinclinal",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "pliegue-tumbado",
+      "name": "Pliegue tumbado",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "pliegues-disarmonicos-slumping",
+      "name": "Pliegues disarmónicos. Slumping",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pluton-batolito",
+      "name": "Plutón. Batolito",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-polisomas",
+      "name": "Polisomas",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "poljes",
+      "name": "Poljes",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "ponor-o-perdida",
+      "name": "Ponor o pérdida",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "priapulus-caudatus",
+      "name": "Priapulus caudatus",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "productus",
+      "name": "Productus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "proteus-anguinus",
+      "name": "Proteus anguinus",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pseudoscabiosa-grosii",
+      "name": "Pseudoscabiosa grosii",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pseudoscabiosa-saxatilis",
+      "name": "Pseudoscabiosa saxatilis",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-puesta-de-chrysopa-sp",
+      "name": "Puesta de Chrysopa sp",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pyrenaearia-velascoi",
+      "name": "Pyrenaearia velascoi",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "lamina-quiastolita-luz-plana-polarizada",
+      "name": "Quiastolita. Luz plana-polarizada",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lamina-quiastolita-nicoles-cruzados",
+      "name": "Quiastolita. Nícoles cruzados",
+      "kind": "lamina",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-radula-de-caracol",
+      "name": "Rádula de caracol",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-raiz-de-monocotiledonea",
+      "name": "Raíz de Monocotiledónea",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-raiz-primaria-de-dicotiledonea",
+      "name": "Raíz primaria de Dicotiledónea",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-raiz-secundaria-de-dicotiledonea",
+      "name": "Raíz secundaria de Dicotiledónea",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "ramaria-stricta",
+      "name": "Ramaria stricta",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "rana",
+      "name": "Rana",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "rana-pueyoi",
+      "name": "Rana pueyoi",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "rasa-costera-plataforma-de-abrasion-o-flysch",
+      "name": "Rasa costera, plataforma de abrasión o flysch",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "redes-dendriticas-redes-de-drenaje",
+      "name": "Redes dendríticas. Redes de drenaje",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "relieve-conforme",
+      "name": "Relieve conforme",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "relieve-en-cuesta",
+      "name": "Relieve en cuesta",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "relieve-invertido",
+      "name": "Relieve invertido",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-reticulo-endoplasmatico-liso",
+      "name": "Retículo endoplasmático liso",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "ria",
+      "name": "Ría",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "rillenkarren",
+      "name": "Rillenkarren",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "rills-marks-huellas-de-escorrentia",
+      "name": "Rills-marks. Huellas de escorrentía",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "rinnenkarren",
+      "name": "Rinnenkarren",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "rio-anastomosado-o-braided",
+      "name": "Río trenzado (braided)",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "ruz",
+      "name": "Ruz",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-sacos-polinicos",
+      "name": "Sacos polínicos",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "salientes-o-promontorios",
+      "name": "Salientes o promontorios",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "salvia-valentina",
+      "name": "Salvia valentina",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-sangre-humana",
+      "name": "Sangre humana",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-sangre-nucleada-ave-rana",
+      "name": "Sangre nucleada (ave, rana)",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "sarcocapnos-saetabensis",
+      "name": "Sarcocapnos saetabensis",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-sarcomero",
+      "name": "Sarcómero",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-sarcoptes-scabiei-arador-de-la-sarna",
+      "name": "Sarcoptes scabiei. ARADOR DE LA SARNA",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "scarn-deformacion-ductil",
+      "name": "Scarn. Deformación dúctil",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-seccion-de-un-diente",
+      "name": "Sección de un diente",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-seccion-de-una-flor",
+      "name": "Sección de una flor",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-seccion-transversal-de-un-nervio",
+      "name": "Sección transversal de un nervio",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "sepiolita",
+      "name": "Sepiolita",
+      "kind": "mineral",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "septaria",
+      "name": "Septaria",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "serpentinita",
+      "name": "Serpentinita",
+      "kind": "roca",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "sigillaria",
+      "name": "Sigillaria",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "silene-cambessedesii",
+      "name": "Silene cambessedesii",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "sill",
+      "name": "Sill",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "sima-pozo",
+      "name": "Sima. Pozo",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-sinapsis-nerviosa",
+      "name": "Sinapsis nerviosa",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "sinclinal-colgado",
+      "name": "Sinclinal colgado",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "siphonia",
+      "name": "Siphonia",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "sitophilus-granarius",
+      "name": "Sitophilus granarius",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "sonninia",
+      "name": "Sonninia",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "spirifer",
+      "name": "Spirifer",
+      "kind": "fosil",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "stock-domo",
+      "name": "Stock. Domo",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "strombus",
+      "name": "Strombus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "suelo-poligonal-ambiente-periglaciar-tundra-por-ejemplo",
+      "name": "Suelo poligonal. Ambiente periglaciar (tundra, por ejemplo)",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "sulfato-de-cobre",
+      "name": "Sulfato de cobre",
+      "kind": "mineral",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "sumidero",
+      "name": "Sumidero",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "surgencia",
+      "name": "Surgencia",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "taenia-solium",
+      "name": "Taenia solium",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-tallo-de-monocotiledonea",
+      "name": "Tallo de Monocotiledónea",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "taraxacum-officinarum",
+      "name": "Taraxacum officinarum",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "molecula-tectosilicato-cuarzo",
+      "name": "Tectosilicato. Cuarzo",
+      "kind": "molecula",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-tejido-adiposo",
+      "name": "Tejido adiposo",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-tejido-conjuntivo-laxo",
+      "name": "Tejido conjuntivo laxo",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-tejido-muscular-cardiaco",
+      "name": "Tejido muscular cardíaco",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-tejido-oseo-compacto",
+      "name": "Tejido óseo compacto",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-tejido-oseo-esponjoso",
+      "name": "Tejido óseo esponjoso",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "tenarea-tortuosa",
+      "name": "Tenarea tortuosa",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "tentaculites",
+      "name": "Tentaculites",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "terebratula",
+      "name": "Terebratula",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-termitero",
+      "name": "Termitero",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "termoclasticidad",
+      "name": "Termoclasticidad",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "terra-rossa",
+      "name": "Terra rossa",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "terrazas-fluviales",
+      "name": "Terrazas fluviales",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "theodoxus-valentinus",
+      "name": "Theodoxus valentinus",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "thymus-piperella",
+      "name": "Thymus piperella",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "tillitas",
+      "name": "Tillitas",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "toba-caliza-travertino",
+      "name": "Toba caliza/Travertino",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "tor",
+      "name": "Tor",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "torcal",
+      "name": "Torcal",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-transcripcion-de-genes-del-organizador-nucleolar",
+      "name": "Transcripción de genes del organizador nucleolar",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "treponema-pallidum",
+      "name": "Treponema pallidum",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "treptacantha-baccata",
+      "name": "Treptacantha baccata",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "trigonia",
+      "name": "Trigonia",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "trigonia-navis",
+      "name": "Trigonia navis",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "tritia-tingitana",
+      "name": "Tritia tingitana",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "trypanosoma-brucei",
+      "name": "Trypanosoma brucei",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "tubipora-musica",
+      "name": "Tubipora musica",
+      "kind": "organismo",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "turba",
+      "name": "Turba",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "turbidita",
+      "name": "Turbidita",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "turritella",
+      "name": "Turritella",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-uretra",
+      "name": "Uretra",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "ursus",
+      "name": "Ursus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "uvala",
+      "name": "Úvala",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-vacuola-vegetal",
+      "name": "Vacuola vegetal",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "estructura-vagina",
+      "name": "Vagina",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "valle-colgado",
+      "name": "Valle colgado",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "valle-fluvial-en-hoz-roca-caliza",
+      "name": "Valle fluvial en hoz. Roca caliza",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "valle-fluvial-en-v",
+      "name": "Valle fluvial en V",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "valle-glaciar-valle-en-u",
+      "name": "Valle glaciar. Valle en U",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "valles-ortoclinales",
+      "name": "Valles ortoclinales",
+      "kind": "relieve",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-vasos-sanguineos-neuronas-irrigacion-sistema-nervioso",
+      "name": "Vasos sanguíneos neuronas/ irrigación sistema nervioso",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-vellosidades-intestinales",
+      "name": "Vellosidades intestinales",
+      "kind": "estructura",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "vibrio-cholerae",
+      "name": "Vibrio cholerae",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "xerocrassa-moraguesi",
+      "name": "Xerocrassa moraguesi",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "zona-de-ablacion-lago-terminal-o-torrente-glaciar",
+      "name": "Zona de ablación (lago terminal o torrente glaciar)",
+      "kind": "relieve",
+      "approvedImages": 1,
+      "priority": false
+    },
+    {
+      "id": "podarcis-hispanicus",
+      "name": "Podarcis hispanicus",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ala-de-otus-scops",
+      "name": "Ala de Otus scops",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-bolsa-de-sirena-de-raja-asterias",
+      "name": "Bolsa de sirena de Raja asterias",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-puesta-de-raja-clavata",
+      "name": "Puesta de Raja clavata",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pico-de-sepia-officinalis",
+      "name": "Pico de Sepia officinalis",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-linterna-de-aristoteles-de-paracentrotus-lividus",
+      "name": "Linterna de Aristóteles de Paracentrotus lividus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-jibia-de-sepia-officinalis",
+      "name": "Jibia de Sepia officinalis",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-ooteca-de-buccinum-undatum",
+      "name": "Ooteca de Buccinum undatum",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-mandibula-de-isurus-oxyrinchus",
+      "name": "Mandíbula de Isurus oxyrinchus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-otolitos-de-merluccius-merluccius",
+      "name": "Otolitos de Merluccius merluccius",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-nido-y-huevos-de-columba-sp",
+      "name": "Nido y huevos de Columba sp.",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-huevo-de-coturnix-coturnix",
+      "name": "Huevo de Coturnix coturnix",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-huevo-de-anser-anser",
+      "name": "Huevo de Anser anser",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-huevos-de-hirundo-rustica",
+      "name": "Huevos de Hirundo rustica",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-huevo-de-passer-domesticus",
+      "name": "Huevo de Passer domesticus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-bubo-bubo",
+      "name": "Pluma de Bubo bubo",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-garrulus-glandarius",
+      "name": "Pluma de Garrulus glandarius",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-falco-tinnunculus",
+      "name": "Pluma de Falco tinnunculus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-oriolus-oriolus",
+      "name": "Pluma de Oriolus oriolus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-otis-tarda",
+      "name": "Pluma de Otis tarda",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-otus-scops",
+      "name": "Pluma de Otus scops",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-tyto-alba",
+      "name": "Pluma de Tyto alba",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-pica-pica",
+      "name": "Pluma de Pica pica",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-pluma-de-phasianus-colchicus",
+      "name": "Pluma de Phasianus colchicus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-egagropila-de-tyto-alba",
+      "name": "Egagrópila de Tyto alba",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-egagropila-de-ciconia-ciconia",
+      "name": "Egagrópila de Ciconia ciconia",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-ovis-aries",
+      "name": "Cráneo de Ovis aries",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-canis-lupus",
+      "name": "Cráneo de Canis lupus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-felis-silvestris",
+      "name": "Cráneo de Felis silvestris",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-genetta-genetta",
+      "name": "Cráneo de Genetta genetta",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-sus-scrofa",
+      "name": "Cráneo de Sus scrofa",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-oryctolagus-cuniculus",
+      "name": "Cráneo de Oryctolagus cuniculus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-vulpes-vulpes",
+      "name": "Cráneo de Vulpes vulpes",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-equus-caballus",
+      "name": "Cráneo de Equus caballus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-esqueleto-de-talpa-europaea",
+      "name": "Esqueleto de Talpa europaea",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-ciconia-ciconia",
+      "name": "Cráneo de Ciconia ciconia",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-craneo-de-picus-viridis",
+      "name": "Cráneo de Picus viridis",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-cuerno-de-capra-aegagrus-hircus",
+      "name": "Cuerno de Capra aegagrus hircus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-cuerno-de-capra-pyrenaica",
+      "name": "Cuerno de Capra pyrenaica",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-asta-de-capreolus-capreolus",
+      "name": "Asta de Capreolus capreolus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-cuerna-de-cervus-elaphus",
+      "name": "Cuerna de Cervus elaphus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-cuerna-de-dama-dama",
+      "name": "Cuerna de Dama dama",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-excrementos-de-capreolus-capreolus",
+      "name": "Excrementos de Capreolus capreolus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-excrementos-de-cervus-elaphus",
+      "name": "Excrementos de Cervus elaphus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-excrementos-de-genetta-genetta",
+      "name": "Excrementos de Genetta genetta",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-excrementos-de-oryctolagus-cuniculus",
+      "name": "Excrementos de Oryctolagus cuniculus",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-agalla-de-andricus-quercustozae",
+      "name": "Agalla de Andricus quercustozae",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-capullo-de-bombyx-mori",
+      "name": "Capullo de Bombyx mori",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-piel-de-genetta-genetta",
+      "name": "Piel de Genetta genetta",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "calcita-espatica",
+      "name": "Calcita espática",
+      "kind": "mineral",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "jacinto-de-compostela",
+      "name": "Jacinto de Compostela",
+      "kind": "mineral",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pirolusita-dendritica",
+      "name": "Pirolusita dendrítica",
+      "kind": "mineral",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "yeso-fibroso",
+      "name": "Yeso fibroso",
+      "kind": "mineral",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "yeso-en-punta-de-flecha",
+      "name": "Yeso en punta de flecha",
+      "kind": "mineral",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "andesita-con-hornblenda",
+      "name": "Andesita con hornblenda",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "arenisca-rodeno",
+      "name": "Arenisca rodeno",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "basalto-con-olivino",
+      "name": "Basalto con olivino",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "esquisto-micaceo",
+      "name": "Esquisto micáceo",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lumaquela",
+      "name": "Lumaquela",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pegmatita-con-andalucita",
+      "name": "Pegmatita con Andalucita",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pegmatita-con-turmalina",
+      "name": "Pegmatita con turmalina",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "riodacita-granatifera",
+      "name": "Riodacita granatífera",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "belemnites",
+      "name": "Belemnites",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "caliza-numulitica",
+      "name": "Caliza numulítica",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "colpocoryphe-sp",
+      "name": "Colpocoryphe sp.",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "molar-de-equus",
+      "name": "Molar de Equus",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "montlivaltia-sp",
+      "name": "Montlivaltia sp",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    }
+  ],
+  "reviewDefinition": "Correspondencia con fuente identificada y revisión visual; no peritaje taxonómico ni garantía de identificación de especies crípticas."
+}

@@ -1,0 +1,1063 @@
+{
+  "Pinaceae": {
+    "etymology": "Deriva del nombre genérico Pinus, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Pinus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Saturniidae": {
+    "etymology": "Deriva del nombre genérico Saturnia, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Saturnia",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Pteridaceae": {
+    "etymology": "Deriva del nombre genérico Pteris, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Pteris",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Boraginaceae": {
+    "etymology": "Deriva del nombre genérico Borago, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Borago",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Cannabaceae": {
+    "etymology": "Deriva del nombre genérico Cannabis, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Cannabis",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Fabaceae": {
+    "etymology": "Deriva del nombre genérico Faba, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Faba",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Arecaceae": {
+    "etymology": "Deriva del nombre genérico Areca, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Areca",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Cistaceae": {
+    "etymology": "Se forma a partir de Cistus y la terminación -aceae de familia. Cistus procede del antiguo nombre griego de las jaras; su relación con «cesta» es una interpretación histórica.",
+    "typeGenus": "Cistus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      },
+      {
+        "url": "https://www.asturnatura.com/especie/cistus-albidus",
+        "title": "Asturnatura: raíz del nombre genérico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Paridae": {
+    "etymology": "Deriva del nombre genérico Parus, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Parus",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Ephedraceae": {
+    "etymology": "Deriva del nombre genérico Ephedra, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Ephedra",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Forficulidae": {
+    "etymology": "Deriva del nombre genérico Forficula, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Forficula",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Liliaceae": {
+    "etymology": "Deriva del nombre genérico Lilium, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Lilium",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Asteraceae": {
+    "etymology": "Se forma a partir de Aster y la terminación -aceae de familia. Aster procede del griego que significa «estrella».",
+    "typeGenus": "Aster",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      },
+      {
+        "url": "https://www.asturnatura.com/genero/aster",
+        "title": "Asturnatura: raíz del nombre genérico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Cupressaceae": {
+    "etymology": "Deriva del nombre genérico Cupressus, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Cupressus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Lycopodiaceae": {
+    "etymology": "Se forma a partir de Lycopodium y la terminación -aceae de familia. Lycopodium combina raíces griegas para «lobo» y «piececito», por una comparación de sus ramillas.",
+    "typeGenus": "Lycopodium",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      },
+      {
+        "url": "https://www.asturnatura.com/especie/lycopodium-clavatum",
+        "title": "Asturnatura: raíz del nombre genérico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Agaricaceae": {
+    "etymology": "Deriva del nombre genérico Agaricus, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Agaricus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Mantidae": {
+    "etymology": "Deriva del nombre genérico Mantis, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Mantis",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Marchantiaceae": {
+    "etymology": "Deriva del nombre genérico Marchantia, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Marchantia",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Osmundaceae": {
+    "etymology": "Deriva del nombre genérico Osmunda, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Osmunda",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Anatidae": {
+    "etymology": "Deriva del nombre genérico Anas, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Anas",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Amaryllidaceae": {
+    "etymology": "Deriva del nombre genérico Amaryllis, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Amaryllis",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Polypodiaceae": {
+    "etymology": "Deriva del nombre genérico Polypodium, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Polypodium",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Salicaceae": {
+    "etymology": "Deriva del nombre genérico Salix, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Salix",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Rosaceae": {
+    "etymology": "Deriva del nombre genérico Rosa, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Rosa",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Lythraceae": {
+    "etymology": "Deriva del nombre genérico Lythrum, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Lythrum",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Fagaceae": {
+    "etymology": "Deriva del nombre genérico Fagus, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Fagus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Lamiaceae": {
+    "etymology": "Deriva del nombre genérico Lamium, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Lamium",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Poaceae": {
+    "etymology": "Deriva del nombre genérico Poa, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Poa",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Taxaceae": {
+    "etymology": "Se forma a partir de Taxus y la terminación -aceae de familia. Taxus es el nombre latino del tejo.",
+    "typeGenus": "Taxus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      },
+      {
+        "url": "https://www.asturnatura.com/especie/taxus-baccata",
+        "title": "Asturnatura: raíz del nombre genérico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Upupidae": {
+    "etymology": "Deriva del nombre genérico Upupa, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Upupa",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Xiphiidae": {
+    "etymology": "Deriva del nombre genérico Xiphias, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Xiphias",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Papilionidae": {
+    "etymology": "Deriva del nombre genérico Papilio, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Papilio",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Caryophyllaceae": {
+    "etymology": "Deriva del nombre genérico Caryophyllus, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Caryophyllus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Berberidaceae": {
+    "etymology": "Deriva del nombre genérico Berberis, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Berberis",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Triviidae": {
+    "etymology": "Deriva del nombre genérico Trivia, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Trivia",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Pectinidae": {
+    "etymology": "Deriva del nombre genérico Pecten, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Pecten",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Pentatomidae": {
+    "etymology": "Deriva del nombre genérico Pentatoma, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Pentatoma",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Naticidae": {
+    "etymology": "Deriva del nombre genérico Natica, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Natica",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Tamaricaceae": {
+    "etymology": "Deriva del nombre genérico Tamarix, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Tamarix",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Isoetaceae": {
+    "etymology": "Deriva del nombre genérico Isoetes, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Isoetes",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Viverridae": {
+    "etymology": "Deriva del nombre genérico Viverra, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Viverra",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Empusidae": {
+    "etymology": "Deriva del nombre genérico Empusa, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Empusa",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Asparagaceae": {
+    "etymology": "Deriva del nombre genérico Asparagus, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Asparagus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Primulaceae": {
+    "etymology": "Deriva del nombre genérico Primula, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Primula",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Brassicaceae": {
+    "etymology": "Deriva del nombre genérico Brassica, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Brassica",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Apiaceae": {
+    "etymology": "Deriva del nombre genérico Apium, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Apium",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Dryopteridaceae": {
+    "etymology": "Deriva del nombre genérico Dryopteris, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Dryopteris",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Scrophulariaceae": {
+    "etymology": "Deriva del nombre genérico Scrophularia, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Scrophularia",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Solanaceae": {
+    "etymology": "Deriva del nombre genérico Solanum, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Solanum",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Ranunculaceae": {
+    "etymology": "Deriva del nombre genérico Ranunculus, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Ranunculus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Rubiaceae": {
+    "etymology": "Deriva del nombre genérico Rubia, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Rubia",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Nectriaceae": {
+    "etymology": "Deriva del nombre genérico Nectria, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Nectria",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Tettigoniidae": {
+    "etymology": "Deriva del nombre genérico Tettigonia, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Tettigonia",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Tenebrionidae": {
+    "etymology": "Deriva del nombre genérico Tenebrio, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Tenebrio",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Geastraceae": {
+    "etymology": "Deriva del nombre genérico Geastrum, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Geastrum",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Sycettidae": {
+    "etymology": "Deriva del nombre genérico Sycetta, con la terminación -idae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Sycetta",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Formación de nombres de familia: ICZN, art. 29"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Gelidiaceae": {
+    "etymology": "Deriva del nombre genérico Gelidium, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Gelidium",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Cutleriaceae": {
+    "etymology": "Deriva del nombre genérico Cutleria, con la terminación -aceae de familia. El origen lingüístico más remoto del género queda pendiente cuando no hay una referencia contrastada.",
+    "typeGenus": "Cutleria",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Formación de nombres de familia: código botánico"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Calamitaceae": {
+    "etymology": "Nombre de familia formado a partir de Calamites, con la terminación -aceae. El origen lingüístico remoto del género queda pendiente de contraste.",
+    "typeGenus": "Calamites",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Código nomenclatural: formación de nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Baculitidae": {
+    "etymology": "Nombre de familia formado a partir de Baculites, con la terminación -idae. El origen lingüístico remoto del género queda pendiente de contraste.",
+    "typeGenus": "Baculites",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names",
+        "title": "Código nomenclatural: formación de nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-25"
+  },
+  "Acanthaceae": {
+    "etymology": "Nombre construido sobre el género tipo Acanthus, con la terminación familiar -aceae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Acanthus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Nyctaginaceae": {
+    "etymology": "Nombre construido sobre el género tipo Nyctago, con la terminación familiar -aceae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Nyctago",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Clavelinidae": {
+    "etymology": "Nombre construido sobre el género tipo Clavelina, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Clavelina",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Cervidae": {
+    "etymology": "Nombre construido sobre el género tipo Cervus, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Cervus",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Daphniidae": {
+    "etymology": "Nombre construido sobre el género tipo Daphnia, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Daphnia",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Gliridae": {
+    "etymology": "Nombre construido sobre el género tipo Glis, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Glis",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Polyporaceae": {
+    "etymology": "Nombre construido sobre el género tipo Polyporus, con la terminación familiar -aceae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Polyporus",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Ixodidae": {
+    "etymology": "Nombre construido sobre el género tipo Ixodes, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Ixodes",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Bignoniaceae": {
+    "etymology": "Nombre construido sobre el género tipo Bignonia, con la terminación familiar -aceae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Bignonia",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Theridiidae": {
+    "etymology": "Nombre construido sobre el género tipo Theridion, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Theridion",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Noctilucaceae": {
+    "etymology": "Nombre construido sobre el género tipo Noctiluca, con la terminación familiar -aceae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Noctiluca",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Bovidae": {
+    "etymology": "Nombre construido sobre el género tipo Bos, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Bos",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Porcellionidae": {
+    "etymology": "Nombre construido sobre el género tipo Porcellio, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Porcellio",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Sphagnaceae": {
+    "etymology": "Nombre construido sobre el género tipo Sphagnum, con la terminación familiar -aceae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Sphagnum",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Stentoridae": {
+    "etymology": "Nombre construido sobre el género tipo Stentor, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Stentor",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Globigerinidae": {
+    "etymology": "Nombre construido sobre el género tipo Globigerina, con la terminación familiar -idae. La raíz lingüística remota del género queda pendiente de contraste.",
+    "typeGenus": "Globigerina",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Mustelidae": {
+    "etymology": "Nombre construido sobre el género tipo Mustela, con la terminación familiar zoológica -idae. La raíz remota del género queda pendiente de contraste.",
+    "typeGenus": "Mustela",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Sciuridae": {
+    "etymology": "Nombre construido sobre el género tipo Sciurus, con la terminación familiar zoológica -idae. La raíz remota del género queda pendiente de contraste.",
+    "typeGenus": "Sciurus",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Erinaceidae": {
+    "etymology": "Nombre construido sobre el género tipo Erinaceus, con la terminación familiar zoológica -idae. La raíz remota del género queda pendiente de contraste.",
+    "typeGenus": "Erinaceus",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Talpidae": {
+    "etymology": "Nombre construido sobre el género tipo Talpa, con la terminación familiar zoológica -idae. La raíz remota del género queda pendiente de contraste.",
+    "typeGenus": "Talpa",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Fungiidae": {
+    "etymology": "Nombre construido sobre el género tipo Fungia, con la terminación familiar zoológica -idae. La raíz remota del género queda pendiente de contraste.",
+    "typeGenus": "Fungia",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Construcción nomenclatural de los nombres de familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Helicidae": {
+    "etymology": "Nombre familiar formado sobre el género Helix, con el sufijo -idae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Helix",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Aphaniidae": {
+    "etymology": "Nombre familiar formado sobre el género Aphanius, con el sufijo -idae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Aphanius",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Valenciidae": {
+    "etymology": "Nombre familiar formado sobre el género Valencia, con el sufijo -idae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Valencia",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Leuciscidae": {
+    "etymology": "Nombre familiar formado sobre el género Leuciscus, con el sufijo -idae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Leuciscus",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Rhodomelaceae": {
+    "etymology": "Nombre familiar formado sobre el género Rhodomela, con el sufijo -aceae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Rhodomela",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Lomentariaceae": {
+    "etymology": "Nombre familiar formado sobre el género Lomentaria, con el sufijo -aceae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Lomentaria",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Trichinellidae": {
+    "etymology": "Nombre familiar formado sobre el género Trichinella, con el sufijo -idae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Trichinella",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Sarcocystidae": {
+    "etymology": "Nombre familiar formado sobre el género Sarcocystis, con el sufijo -idae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Sarcocystis",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Plasmodiidae": {
+    "etymology": "Nombre familiar formado sobre el género Plasmodium, con el sufijo -idae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Plasmodium",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Euphorbiaceae": {
+    "etymology": "Nombre familiar formado sobre el género Euphorbia, con el sufijo -aceae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Euphorbia",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Betulaceae": {
+    "etymology": "Nombre familiar formado sobre el género Betula, con el sufijo -aceae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Betula",
+    "sources": [
+      {
+        "url": "https://iapt-taxon.org/melbourne/main.php?page=art18",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Coccinellidae": {
+    "etymology": "Nombre familiar formado sobre el género Coccinella, con el sufijo -idae. La historia lingüística anterior del género queda pendiente de contraste.",
+    "typeGenus": "Coccinella",
+    "sources": [
+      {
+        "url": "https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/",
+        "title": "Código de nomenclatura · formación del nombre familiar"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Pipidae": {
+    "etymology": "Pipidae se forma sobre Pipa con el sufijo zoológico -idae. Pipa conserva el nombre local surinamés referido por Daudin (1802), según Pipids of the World.",
+    "typeGenus": "Pipa",
+    "sources": [
+      {
+        "url": "https://pddb.org/species.php?taxon=Pipa+pipa",
+        "title": "Origen del género que da nombre a la familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  },
+  "Platanaceae": {
+    "etymology": "Platanaceae se forma sobre Platanus con la terminación botánica -aceae. Platanus se relaciona con el griego platýs, ancho, por la extensión de las hojas, según Arbolapp.",
+    "typeGenus": "Platanus",
+    "sources": [
+      {
+        "url": "https://www.arbolapp.es/especies/ficha/platanus-hispanica/",
+        "title": "Origen del género que da nombre a la familia"
+      }
+    ],
+    "reviewedAt": "2026-10-26"
+  }
+}

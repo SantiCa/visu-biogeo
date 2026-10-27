@@ -1,0 +1,17 @@
+{
+  "estructura-linfocitos": {
+    "images": [
+      {
+        "url": "https://mmegias.webs.uvigo.es/8-tipos-celulares/imagenes/linfocitos-optico.jpg",
+        "key": "https://mmegias.webs.uvigo.es/8-tipos-celulares/imagenes/linfocitos-optico.jpg",
+        "page": "https://mmegias.webs.uvigo.es/8-tipos-celulares/linfocito.php",
+        "author": "Atlas de Histología / Universidad de Vigo; autoría de cada figura en la fuente",
+        "license": "Colección docente identificada · consultar condiciones de la fuente · estudio personal",
+        "provider": "Universidad de Vigo",
+        "description": "Linfocitos Linfocitos",
+        "sourceAlt": "Linfocitos Linfocitos",
+        "status": "pending"
+      }
+    ]
+  }
+}

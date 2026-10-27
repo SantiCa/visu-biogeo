@@ -1,0 +1,2604 @@
+{
+  "date": "2026-10-26",
+  "assessed": 324,
+  "diagnosticViews": 157,
+  "isolatedDetails": 35,
+  "context": 8,
+  "insufficientViews": 124,
+  "andaluciaPairs": 66,
+  "decisions": [
+    {
+      "index": 0,
+      "id": "abies-pinsapo",
+      "name": "Abies pinsapo",
+      "kind": "organismo",
+      "url": "./assets/reviewed/6da7f0591c0cd44d.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 1,
+      "id": "abies-pinsapo",
+      "name": "Abies pinsapo",
+      "kind": "organismo",
+      "url": "./assets/reviewed/429f57221b664827.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 2,
+      "id": "acanthus-mollis",
+      "name": "Acanthus mollis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/4873b0e39c76fb6713ce.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 3,
+      "id": "acanthus-mollis",
+      "name": "Acanthus mollis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/0c8ad9a1c4be4e4184f5.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 4,
+      "id": "acer-monspessulanum",
+      "name": "Acer monspessulanum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/63590140dcea5b84515c.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 5,
+      "id": "acer-monspessulanum",
+      "name": "Acer monspessulanum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/69fd445342c5b7697cd1.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 6,
+      "id": "acherontia-atropos",
+      "name": "Acherontia atropos",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f84a3d3dda615515cc87.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 7,
+      "id": "acherontia-atropos",
+      "name": "Acherontia atropos",
+      "kind": "organismo",
+      "url": "./assets/reviewed/fb9bd2f9742e38b9ea9b.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 8,
+      "id": "actias-isabellae",
+      "name": "Actias isabellae",
+      "kind": "organismo",
+      "url": "./assets/reviewed/a3f5cb74c06560dc0d03.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 9,
+      "id": "actias-isabellae",
+      "name": "Actias isabellae",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9e829f2f681e3d420a39.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 10,
+      "id": "adiantum-capillus-veneris",
+      "name": "Adiantum capillus-veneris",
+      "kind": "organismo",
+      "url": "./assets/reviewed/b222100931dd86e2.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 11,
+      "id": "adiantum-capillus-veneris",
+      "name": "Adiantum capillus-veneris",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9937ab33e7192692f5a4.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 12,
+      "id": "alectoris-rufa",
+      "name": "Alectoris rufa",
+      "kind": "organismo",
+      "url": "./assets/reviewed/04e92cd00668f44c075d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 13,
+      "id": "alectoris-rufa",
+      "name": "Alectoris rufa",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3d4bcfde72da39617937.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 14,
+      "id": "alytes-obstetricans",
+      "name": "Alytes obstetricans",
+      "kind": "organismo",
+      "url": "./assets/reviewed/188301dc2ae0846cf857.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 15,
+      "id": "alytes-obstetricans",
+      "name": "Alytes obstetricans",
+      "kind": "organismo",
+      "url": "./assets/reviewed/bc8fbfa4ba317367c95d.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 16,
+      "id": "andesita",
+      "name": "Andesita",
+      "kind": "roca",
+      "url": "./assets/reviewed/e9931f53e5eee5b85fb1.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 17,
+      "id": "andesita",
+      "name": "Andesita",
+      "kind": "roca",
+      "url": "./assets/reviewed/390f4036ded1db9336e5.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 18,
+      "id": "antracita",
+      "name": "Antracita",
+      "kind": "roca",
+      "url": "./assets/reviewed/3bda2517319bfe123c93.jpg",
+      "use": "context"
+    },
+    {
+      "index": 19,
+      "id": "antracita",
+      "name": "Antracita",
+      "kind": "roca",
+      "url": "./assets/reviewed/3a304c8427e00eacae0d.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 20,
+      "id": "apatito",
+      "name": "Apatito",
+      "kind": "mineral",
+      "url": "./assets/reviewed/91b21ce662af79c5.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 21,
+      "id": "apatito",
+      "name": "Apatito",
+      "kind": "mineral",
+      "url": "./assets/reviewed/c974ceba781b8ea6f0c8.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 22,
+      "id": "aphrodita-aculeata",
+      "name": "Aphrodita aculeata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/009cca28f7cf5577b83d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 23,
+      "id": "aphrodita-aculeata",
+      "name": "Aphrodita aculeata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f97207d29130301ea8f0.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 24,
+      "id": "apis-mellifera",
+      "name": "Apis mellifera",
+      "kind": "organismo",
+      "url": "./assets/reviewed/db56503e7a633459a8d3.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 25,
+      "id": "apis-mellifera",
+      "name": "Apis mellifera",
+      "kind": "organismo",
+      "url": "./assets/reviewed/a38e1dd74ed60e88c575.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 26,
+      "id": "aragonito",
+      "name": "Aragonito",
+      "kind": "mineral",
+      "url": "./assets/reviewed/c0c840d7214c614d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 27,
+      "id": "aragonito",
+      "name": "Aragonito",
+      "kind": "mineral",
+      "url": "./assets/reviewed/91e4db01b6852c91.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 28,
+      "id": "arbutus-unedo",
+      "name": "Arbutus unedo",
+      "kind": "organismo",
+      "url": "./assets/reviewed/e8066ffdd22bac9e1a35.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 29,
+      "id": "arbutus-unedo",
+      "name": "Arbutus unedo",
+      "kind": "organismo",
+      "url": "./assets/reviewed/626e75cecf58274eebd5.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 30,
+      "id": "arcosa",
+      "name": "Arcosa",
+      "kind": "roca",
+      "url": "./assets/reviewed/65e86c298d0216dbd618.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 31,
+      "id": "arcosa",
+      "name": "Arcosa",
+      "kind": "roca",
+      "url": "./assets/reviewed/b84d089d69477d1c1174.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 32,
+      "id": "arenisca",
+      "name": "Arenisca",
+      "kind": "roca",
+      "url": "./assets/reviewed/5f2b2d3bda4c719291cc.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 33,
+      "id": "arenisca",
+      "name": "Arenisca",
+      "kind": "roca",
+      "url": "./assets/reviewed/75b402a8859124c81433.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 34,
+      "id": "astroides-calycularis",
+      "name": "Astroides calycularis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/084465a7c45c3ab59a5f.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 35,
+      "id": "astroides-calycularis",
+      "name": "Astroides calycularis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/a68839a8c9eedcd7d4d2.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 36,
+      "id": "azufre",
+      "name": "Azufre",
+      "kind": "mineral",
+      "url": "./assets/reviewed/e3297fffdb39565a.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 37,
+      "id": "azufre",
+      "name": "Azufre",
+      "kind": "mineral",
+      "url": "./assets/reviewed/afe80fbec7efa11e.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 38,
+      "id": "baritina",
+      "name": "Baritina",
+      "kind": "mineral",
+      "url": "./assets/reviewed/ab7d6d0801fcd9909748.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 39,
+      "id": "baritina",
+      "name": "Baritina",
+      "kind": "mineral",
+      "url": "./assets/reviewed/48568d50d0d04707a346.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 40,
+      "id": "basalto",
+      "name": "Basalto",
+      "kind": "roca",
+      "url": "./assets/reviewed/3cfc49da865d7363552c.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 41,
+      "id": "basalto",
+      "name": "Basalto",
+      "kind": "roca",
+      "url": "./assets/reviewed/1e587b1f0add00f54971.jpg",
+      "use": "context"
+    },
+    {
+      "index": 42,
+      "id": "berberis-thunbergii",
+      "name": "Berberis thunbergii",
+      "kind": "organismo",
+      "url": "./assets/reviewed/4c77ef106e456a614f0d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 43,
+      "id": "berberis-thunbergii",
+      "name": "Berberis thunbergii",
+      "kind": "organismo",
+      "url": "./assets/reviewed/efd8677a36c84e46fbf0.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 44,
+      "id": "berilo",
+      "name": "Berilo",
+      "kind": "mineral",
+      "url": "./assets/reviewed/806ec1edb2e52d39c8b2.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 45,
+      "id": "berilo",
+      "name": "Berilo",
+      "kind": "mineral",
+      "url": "./assets/reviewed/b15615e1f156893309b2.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 46,
+      "id": "betula-pendula",
+      "name": "Betula pendula",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ab14b06cea5c447ea20d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 47,
+      "id": "betula-pendula",
+      "name": "Betula pendula",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ff8077f2d4f8721e351e.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 48,
+      "id": "bolinus-brandaris",
+      "name": "Bolinus brandaris",
+      "kind": "organismo",
+      "url": "./assets/reviewed/670286abd55e8c7ddb68.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 49,
+      "id": "bolinus-brandaris",
+      "name": "Bolinus brandaris",
+      "kind": "organismo",
+      "url": "./assets/reviewed/87272340cc9eee6c4ea3.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 50,
+      "id": "bombyx-mori",
+      "name": "Bombyx mori",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9f6453833cac4fc46118.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 51,
+      "id": "bombyx-mori",
+      "name": "Bombyx mori",
+      "kind": "organismo",
+      "url": "./assets/reviewed/611bc5c55908f05bc891.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 52,
+      "id": "borago-officinalis",
+      "name": "Borago officinalis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/74aa8edd678056f39916.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 53,
+      "id": "borago-officinalis",
+      "name": "Borago officinalis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1fa0da21a06bfe668511.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 54,
+      "id": "bougainvillea-spectabilis",
+      "name": "Bougainvillea spectabilis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f21a943fd2f3529c449c.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 55,
+      "id": "bougainvillea-spectabilis",
+      "name": "Bougainvillea spectabilis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f0e55362d8674e1f99c5.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 56,
+      "id": "buthus-occitanus",
+      "name": "Buthus occitanus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/8b6015a569dc7e231e4f.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 57,
+      "id": "buthus-occitanus",
+      "name": "Buthus occitanus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f5f0148f9a0c2f90ff6d.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 58,
+      "id": "calceola-sandalina",
+      "name": "Calceola sandalina",
+      "kind": "fosil",
+      "url": "./assets/reviewed/7fed9cafa15d6154a324.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 59,
+      "id": "calceola-sandalina",
+      "name": "Calceola sandalina",
+      "kind": "fosil",
+      "url": "./assets/reviewed/cd103dc90f95a0411d03.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 60,
+      "id": "casiterita",
+      "name": "Casiterita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/c81cf57fd6793ae5b221.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 61,
+      "id": "casiterita",
+      "name": "Casiterita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/d025634f6525322ed454.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 62,
+      "id": "cedrus-deodara",
+      "name": "Cedrus deodara",
+      "kind": "organismo",
+      "url": "./assets/reviewed/01c108b3950dc21ae72f.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 63,
+      "id": "cedrus-deodara",
+      "name": "Cedrus deodara",
+      "kind": "organismo",
+      "url": "./assets/reviewed/6b5635f60b6cb429937d.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 64,
+      "id": "celestina",
+      "name": "Celestina",
+      "kind": "mineral",
+      "url": "./assets/reviewed/celestine-museum-crop.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 65,
+      "id": "celestina",
+      "name": "Celestina",
+      "kind": "mineral",
+      "url": "./assets/reviewed/4589780829176bc041b8.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 66,
+      "id": "celtis-australis",
+      "name": "Celtis australis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3ed6487755da42a3625a.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 67,
+      "id": "celtis-australis",
+      "name": "Celtis australis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/97dca4d5df8660cc9dc5.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 68,
+      "id": "ceratonia-siliqua",
+      "name": "Ceratonia siliqua",
+      "kind": "organismo",
+      "url": "./assets/reviewed/0ffc62061a8c9e2548fc.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 69,
+      "id": "ceratonia-siliqua",
+      "name": "Ceratonia siliqua",
+      "kind": "organismo",
+      "url": "./assets/reviewed/6fac7f70a48e8a9a3358.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 70,
+      "id": "cercis-siliquastrum",
+      "name": "Cercis siliquastrum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/4116cf1b260c311cf8da.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 71,
+      "id": "cercis-siliquastrum",
+      "name": "Cercis siliquastrum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f8e283b0a8bdc350e3a0.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 72,
+      "id": "chalcides-striatus",
+      "name": "Chalcides striatus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/5abdd2e8a3b065c557b5.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 73,
+      "id": "chalcides-striatus",
+      "name": "Chalcides striatus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/13d7c03e28f555d22c58.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 74,
+      "id": "chamaerops-humilis",
+      "name": "Chamaerops humilis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/21ec3090f2c949bdbd2f.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 75,
+      "id": "chamaerops-humilis",
+      "name": "Chamaerops humilis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/841fa3867860870dae61.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 76,
+      "id": "cinabrio",
+      "name": "Cinabrio",
+      "kind": "mineral",
+      "url": "./assets/reviewed/df603b503963c1d1bd8c.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 77,
+      "id": "cinabrio",
+      "name": "Cinabrio",
+      "kind": "mineral",
+      "url": "./assets/reviewed/55327e3d19b44bfb819d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 78,
+      "id": "circaetus-gallicus",
+      "name": "Circaetus gallicus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3ebf69ceb6f037a5c964.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 79,
+      "id": "circaetus-gallicus",
+      "name": "Circaetus gallicus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/5a5ddae8346ebd7fe446.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 80,
+      "id": "cistus-albidus",
+      "name": "Cistus albidus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/b78165b2017557044964.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 81,
+      "id": "cistus-albidus",
+      "name": "Cistus albidus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/be8982280c66987d03f4.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 82,
+      "id": "clavelina-lepadiformis",
+      "name": "Clavelina lepadiformis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/d5ee915967a5dcba3117.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 83,
+      "id": "clavelina-lepadiformis",
+      "name": "Clavelina lepadiformis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/4a9a08669e362fb84c15.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 84,
+      "id": "coccinella-septempunctata",
+      "name": "Coccinella septempunctata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/adf3f56bc9d073a4e0aa.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 85,
+      "id": "coccinella-septempunctata",
+      "name": "Coccinella septempunctata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/c393671b74d9ceba675f.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 86,
+      "id": "columba-livia",
+      "name": "Columba livia",
+      "kind": "organismo",
+      "url": "./assets/reviewed/da9d4412b8556170915f.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 87,
+      "id": "columba-livia",
+      "name": "Columba livia",
+      "kind": "organismo",
+      "url": "./assets/reviewed/37ad8ad517d611bd1c5e.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 88,
+      "id": "conglomerado-brecha",
+      "name": "Conglomerado brecha",
+      "kind": "roca",
+      "url": "./assets/reviewed/e8ad17b64930ed225329.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 89,
+      "id": "conglomerado-brecha",
+      "name": "Conglomerado brecha",
+      "kind": "roca",
+      "url": "./assets/reviewed/f5d2def7bd3c8af1d2d3.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 90,
+      "id": "conglomerado-pudinga",
+      "name": "Conglomerado pudinga",
+      "kind": "roca",
+      "url": "./assets/reviewed/5dcb64f0195dce589ab4.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 91,
+      "id": "conglomerado-pudinga",
+      "name": "Conglomerado pudinga",
+      "kind": "roca",
+      "url": "./assets/reviewed/9741d29666c82dc7ecb6.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 92,
+      "id": "crataegus-monogyna",
+      "name": "Crataegus monogyna",
+      "kind": "organismo",
+      "url": "./assets/reviewed/50bd80773b7cb251259d.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 93,
+      "id": "crataegus-monogyna",
+      "name": "Crataegus monogyna",
+      "kind": "organismo",
+      "url": "./assets/reviewed/fa0a64f6da03a338f2db.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 94,
+      "id": "cromita",
+      "name": "Cromita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/39d6daca6361c50705e4.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 95,
+      "id": "cromita",
+      "name": "Cromita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/cc1aa9adf050a06b2275.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 96,
+      "id": "cuarcita",
+      "name": "Cuarcita",
+      "kind": "roca",
+      "url": "./assets/reviewed/3465ab87702802322174.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 97,
+      "id": "cuarcita",
+      "name": "Cuarcita",
+      "kind": "roca",
+      "url": "./assets/reviewed/2a4b6d23e7c08974f8eb.jpg",
+      "use": "context"
+    },
+    {
+      "index": 98,
+      "id": "cuarzo",
+      "name": "Cuarzo",
+      "kind": "mineral",
+      "url": "./assets/reviewed/4fe74fb77ff3ecfd3548.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 99,
+      "id": "cuarzo",
+      "name": "Cuarzo",
+      "kind": "mineral",
+      "url": "./assets/reviewed/b383001cd2688c1fa82c.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 100,
+      "id": "cyanistes-caeruleus",
+      "name": "Cyanistes caeruleus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/23a7297e26d3ea652662.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 101,
+      "id": "cyanistes-caeruleus",
+      "name": "Cyanistes caeruleus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9dd009e87eb8594b5d4e.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 102,
+      "id": "dama-dama",
+      "name": "Dama dama",
+      "kind": "organismo",
+      "url": "./assets/reviewed/eeb45a9e98dbae0bdf52.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 103,
+      "id": "dama-dama",
+      "name": "Dama dama",
+      "kind": "organismo",
+      "url": "./assets/reviewed/b0740d4a6adde5c5ffaf.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 104,
+      "id": "daphnia-pulex",
+      "name": "Daphnia pulex",
+      "kind": "organismo",
+      "url": "./assets/reviewed/823867d0fc90206f7f30.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 105,
+      "id": "daphnia-pulex",
+      "name": "Daphnia pulex",
+      "kind": "organismo",
+      "url": "./assets/reviewed/0c87b3b3ea43b44295fa.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 106,
+      "id": "diabasa",
+      "name": "Diabasa",
+      "kind": "roca",
+      "url": "./assets/reviewed/f5772fcb47bf93acb49a.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 107,
+      "id": "diabasa",
+      "name": "Diabasa",
+      "kind": "roca",
+      "url": "./assets/reviewed/b7a3f048e5819e0e6f10.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 108,
+      "id": "diorita",
+      "name": "Diorita",
+      "kind": "roca",
+      "url": "./assets/reviewed/df098a755934275b2c3e.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 109,
+      "id": "diorita",
+      "name": "Diorita",
+      "kind": "roca",
+      "url": "./assets/reviewed/e8715cdbb21df1aae2d9.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 110,
+      "id": "dolomia",
+      "name": "Dolomía",
+      "kind": "roca",
+      "url": "./assets/reviewed/f9fdc82d8aad10907f42.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 111,
+      "id": "dolomia",
+      "name": "Dolomía",
+      "kind": "roca",
+      "url": "./assets/reviewed/7d3c9e4c91c305ff69dc.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 112,
+      "id": "eliomys-quercinus",
+      "name": "Eliomys quercinus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/09995e5553e1f5eee023.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 113,
+      "id": "eliomys-quercinus",
+      "name": "Eliomys quercinus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3c1074fa4d783e1964bd.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 114,
+      "id": "engraulis-encrasicolus",
+      "name": "Engraulis encrasicolus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/58d59589a93212dc2822.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 115,
+      "id": "engraulis-encrasicolus",
+      "name": "Engraulis encrasicolus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/a10fd9b136afd571234c.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 116,
+      "id": "ephedra-fragilis",
+      "name": "Ephedra fragilis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ef3a0c1c76f3c70fe22d.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 117,
+      "id": "ephedra-fragilis",
+      "name": "Ephedra fragilis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/fae346d1dc50d4b83107.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 118,
+      "id": "esox-lucius",
+      "name": "Esox lucius",
+      "kind": "organismo",
+      "url": "./assets/reviewed/94d8e3c17c6f14e73086.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 119,
+      "id": "esox-lucius",
+      "name": "Esox lucius",
+      "kind": "organismo",
+      "url": "./assets/reviewed/8e89632bca009ce19dd7.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 120,
+      "id": "espilita",
+      "name": "Espilita",
+      "kind": "roca",
+      "url": "./assets/reviewed/fd3143bf2f0779980368.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 121,
+      "id": "espilita",
+      "name": "Espilita",
+      "kind": "roca",
+      "url": "./assets/reviewed/ccaae305be11baccea4e.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 122,
+      "id": "esquisto",
+      "name": "Esquisto",
+      "kind": "roca",
+      "url": "./assets/reviewed/bd319191db70f7dded56.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 123,
+      "id": "esquisto",
+      "name": "Esquisto",
+      "kind": "roca",
+      "url": "./assets/reviewed/47a6f0989b302f8e5cf6.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 124,
+      "id": "filita",
+      "name": "Filita",
+      "kind": "roca",
+      "url": "./assets/reviewed/aa12580a9a36011d6335.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 125,
+      "id": "filita",
+      "name": "Filita",
+      "kind": "roca",
+      "url": "./assets/reviewed/a2dbeee98e6c0a998bb4.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 126,
+      "id": "fluorita",
+      "name": "Fluorita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/9c9f21d83b6f694c5f2b.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 127,
+      "id": "fluorita",
+      "name": "Fluorita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/a63d19efef051724f26f.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 128,
+      "id": "fomes-fomentarius",
+      "name": "Fomes fomentarius",
+      "kind": "organismo",
+      "url": "./assets/reviewed/c12b34800137254755aa.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 129,
+      "id": "fomes-fomentarius",
+      "name": "Fomes fomentarius",
+      "kind": "organismo",
+      "url": "./assets/reviewed/c7e29cc21d6377e87dbb.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 130,
+      "id": "forficula-auricularia",
+      "name": "Forficula auricularia",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1e26bd0a727273defcee.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 131,
+      "id": "forficula-auricularia",
+      "name": "Forficula auricularia",
+      "kind": "organismo",
+      "url": "./assets/reviewed/c49ffd6eaf7e5737f43a.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 132,
+      "id": "fritillaria-lusitanica",
+      "name": "Fritillaria lusitanica",
+      "kind": "organismo",
+      "url": "./assets/reviewed/29ec7d7d4fdf91b1d2a1.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 133,
+      "id": "fritillaria-lusitanica",
+      "name": "Fritillaria lusitanica",
+      "kind": "organismo",
+      "url": "./assets/reviewed/b67f10123281be60c2de.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 134,
+      "id": "fulica-cristata",
+      "name": "Fulica cristata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/cc9b100270edcba1a4f2.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 135,
+      "id": "fulica-cristata",
+      "name": "Fulica cristata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/58c878d6d6e8bfc0a124.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 136,
+      "id": "gabro",
+      "name": "Gabro",
+      "kind": "roca",
+      "url": "./assets/reviewed/72a96bdb8b1bf91786e7.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 137,
+      "id": "gabro",
+      "name": "Gabro",
+      "kind": "roca",
+      "url": "./assets/reviewed/6a265691c6ff489d7e67.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 138,
+      "id": "galena",
+      "name": "Galena",
+      "kind": "mineral",
+      "url": "./assets/reviewed/74c450073d2827413ff8.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 139,
+      "id": "galena",
+      "name": "Galena",
+      "kind": "mineral",
+      "url": "./assets/reviewed/802c3d3052ae20637c28.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 140,
+      "id": "genetta-genetta",
+      "name": "Genetta genetta",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ce0667c5d142493317bb.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 141,
+      "id": "genetta-genetta",
+      "name": "Genetta genetta",
+      "kind": "organismo",
+      "url": "./assets/reviewed/135d8c56f2fd73df1617.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 142,
+      "id": "glaucofana",
+      "name": "Glaucofana",
+      "kind": "mineral",
+      "url": "./assets/reviewed/1d5cec73a1b513bf7dcf.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 143,
+      "id": "glaucofana",
+      "name": "Glaucofana",
+      "kind": "mineral",
+      "url": "./assets/reviewed/glaucophane-sonoma-crop.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 144,
+      "id": "globigerina",
+      "name": "Globigerina",
+      "kind": "fosil",
+      "url": "./assets/reviewed/c4e4516bcb87d877a1af.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 145,
+      "id": "globigerina",
+      "name": "Globigerina",
+      "kind": "fosil",
+      "url": "./assets/reviewed/67703a70385ba96cbbc8.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 146,
+      "id": "gneis",
+      "name": "Gneis",
+      "kind": "roca",
+      "url": "./assets/reviewed/50449a248f71b7ac.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 147,
+      "id": "gneis",
+      "name": "Gneis",
+      "kind": "roca",
+      "url": "./assets/reviewed/d1c6f15ac75447a68b93.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 148,
+      "id": "gneis-glandular",
+      "name": "Gneis glandular",
+      "kind": "roca",
+      "url": "./assets/reviewed/21a0775aec8c194ee3cf.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 149,
+      "id": "gneis-glandular",
+      "name": "Gneis glandular",
+      "kind": "roca",
+      "url": "./assets/reviewed/fb6c499ae9487b15189a.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 150,
+      "id": "grafito",
+      "name": "Grafito",
+      "kind": "mineral",
+      "url": "./assets/reviewed/6235a7c2401dfd641ce6.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 151,
+      "id": "grafito",
+      "name": "Grafito",
+      "kind": "mineral",
+      "url": "./assets/reviewed/779c48d98678e24f98ef.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 152,
+      "id": "granate",
+      "name": "Granate",
+      "kind": "mineral",
+      "url": "./assets/reviewed/09eaa279dadb287c538a.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 153,
+      "id": "granate",
+      "name": "Granate",
+      "kind": "mineral",
+      "url": "./assets/reviewed/be3b070651bf47888d52.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 154,
+      "id": "granito",
+      "name": "Granito",
+      "kind": "roca",
+      "url": "./assets/reviewed/58695e0e23b79c721ef6.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 155,
+      "id": "granito",
+      "name": "Granito",
+      "kind": "roca",
+      "url": "./assets/reviewed/a0a5e0ef7ac6431f770d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 156,
+      "id": "granodiorita",
+      "name": "Granodiorita",
+      "kind": "roca",
+      "url": "./assets/reviewed/4124011337016713.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 157,
+      "id": "granodiorita",
+      "name": "Granodiorita",
+      "kind": "roca",
+      "url": "./assets/reviewed/2105ffcef0b8efa4d8a7.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 158,
+      "id": "graphosoma-semipunctatum",
+      "name": "Graphosoma semipunctatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/73da844588aa8cd6f4d4.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 159,
+      "id": "graphosoma-semipunctatum",
+      "name": "Graphosoma semipunctatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ccf01c68e36a32677952.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 160,
+      "id": "grauvaca",
+      "name": "Grauvaca",
+      "kind": "roca",
+      "url": "./assets/reviewed/e26f876e3e0e209752b5.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 161,
+      "id": "grauvaca",
+      "name": "Grauvaca",
+      "kind": "roca",
+      "url": "./assets/reviewed/07cb519361eb83afe0e3.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 162,
+      "id": "halita",
+      "name": "Halita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/19f0a49eff45c9e562e3.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 163,
+      "id": "halita",
+      "name": "Halita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/aa86a7f6356bd6404120.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 164,
+      "id": "helianthus-annuus",
+      "name": "Helianthus annuus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/cdf6d2da94c2c28bf8fe.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 165,
+      "id": "helianthus-annuus",
+      "name": "Helianthus annuus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/74983aca0777be9ee819.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 166,
+      "id": "hematites",
+      "name": "Hematites",
+      "kind": "mineral",
+      "url": "./assets/reviewed/a8baccc1cdb65e08.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 167,
+      "id": "hematites",
+      "name": "Hematites",
+      "kind": "mineral",
+      "url": "./assets/reviewed/f1caf796c04ee39a1351.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 168,
+      "id": "hildoceras",
+      "name": "Hildoceras",
+      "kind": "fosil",
+      "url": "./assets/reviewed/4d8f0e4c8b54096e9491.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 169,
+      "id": "hildoceras",
+      "name": "Hildoceras",
+      "kind": "fosil",
+      "url": "./assets/reviewed/cff6f7022f355cbf7d99.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 170,
+      "id": "hypericum-perforatum",
+      "name": "Hypericum perforatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/11bf1b6fd3ecf1c867e2.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 171,
+      "id": "hypericum-perforatum",
+      "name": "Hypericum perforatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/bf5f913ab3a1868a4bc1.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 172,
+      "id": "isoetes-velatum",
+      "name": "Isoetes velatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/isoetes-aragon.png",
+      "use": "insufficient"
+    },
+    {
+      "index": 173,
+      "id": "isoetes-velatum",
+      "name": "Isoetes velatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/isoetes-flora-acuatica.png",
+      "use": "insufficient"
+    },
+    {
+      "index": 174,
+      "id": "ixodes-hexagonus",
+      "name": "Ixodes hexagonus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/bfbf378fcaa0eb11714e.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 175,
+      "id": "ixodes-hexagonus",
+      "name": "Ixodes hexagonus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/292b01ae8ccb405b50e2.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 176,
+      "id": "ixodes-ricinus",
+      "name": "Ixodes ricinus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3cf16dfc6ac6db4ee439.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 177,
+      "id": "ixodes-ricinus",
+      "name": "Ixodes ricinus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1eb4212d4025b60fff93.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 178,
+      "id": "jacaranda-mimosifolia",
+      "name": "Jacaranda mimosifolia",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3c1b23b292fb5ee78baa.jpg",
+      "use": "context"
+    },
+    {
+      "index": 179,
+      "id": "jacaranda-mimosifolia",
+      "name": "Jacaranda mimosifolia",
+      "kind": "organismo",
+      "url": "./assets/reviewed/fd63c5aeccef2d480557.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 180,
+      "id": "juniperus-communis",
+      "name": "Juniperus communis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/919cc36db451f2d4901c.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 181,
+      "id": "juniperus-communis",
+      "name": "Juniperus communis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9bff8e1cbf5c114c1020.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 182,
+      "id": "juniperus-oxycedrus",
+      "name": "Juniperus oxycedrus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/542b83eb1d2bc6547318.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 183,
+      "id": "juniperus-oxycedrus",
+      "name": "Juniperus oxycedrus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f6e326830739cbef06cc.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 184,
+      "id": "juniperus-phoenicea",
+      "name": "Juniperus phoenicea",
+      "kind": "organismo",
+      "url": "./assets/reviewed/b798d9afde9723df409b.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 185,
+      "id": "juniperus-phoenicea",
+      "name": "Juniperus phoenicea",
+      "kind": "organismo",
+      "url": "./assets/reviewed/64f73c5cae25998beb34.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 186,
+      "id": "latrodectus-tredecimguttatus",
+      "name": "Latrodectus tredecimguttatus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1639ecc875a2adb7d7f1.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 187,
+      "id": "latrodectus-tredecimguttatus",
+      "name": "Latrodectus tredecimguttatus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1732c44def973237771c.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 188,
+      "id": "limosa-limosa",
+      "name": "Limosa limosa",
+      "kind": "organismo",
+      "url": "./assets/reviewed/97dfc3e00588c728419b.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 189,
+      "id": "limosa-limosa",
+      "name": "Limosa limosa",
+      "kind": "organismo",
+      "url": "./assets/reviewed/52c7362f6f45891663a9.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 190,
+      "id": "lobaria-pulmonaria",
+      "name": "Lobaria pulmonaria",
+      "kind": "organismo",
+      "url": "./assets/reviewed/98a063785bd8c5db5e16.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 191,
+      "id": "lobaria-pulmonaria",
+      "name": "Lobaria pulmonaria",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f443ae40ec3708cb213e.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 192,
+      "id": "lumbricus-terrestris",
+      "name": "Lumbricus terrestris",
+      "kind": "organismo",
+      "url": "./assets/reviewed/44c4172b4c57f38e8fe8.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 193,
+      "id": "lumbricus-terrestris",
+      "name": "Lumbricus terrestris",
+      "kind": "organismo",
+      "url": "./assets/reviewed/4c2bc68237df4512729f.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 194,
+      "id": "lycopodium-clavatum",
+      "name": "Lycopodium clavatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/151ffd3136fcca2e.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 195,
+      "id": "lycopodium-clavatum",
+      "name": "Lycopodium clavatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/cec25d266cca530ef125.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 196,
+      "id": "macrolepiota-procera",
+      "name": "Macrolepiota procera",
+      "kind": "organismo",
+      "url": "./assets/reviewed/e0dd0b45a0685634.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 197,
+      "id": "macrolepiota-procera",
+      "name": "Macrolepiota procera",
+      "kind": "organismo",
+      "url": "./assets/reviewed/43cf01f6cafca77a.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 198,
+      "id": "magnetita",
+      "name": "Magnetita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/39a2aaa78991bf2743af.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 199,
+      "id": "magnetita",
+      "name": "Magnetita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/cc8aee11c2db9fed69d5.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 200,
+      "id": "maja-squinado",
+      "name": "Maja squinado",
+      "kind": "organismo",
+      "url": "./assets/reviewed/a9b8178b2e9e785dab68.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 201,
+      "id": "maja-squinado",
+      "name": "Maja squinado",
+      "kind": "organismo",
+      "url": "./assets/reviewed/7a4fc6aa4ba0536bb3e0.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 202,
+      "id": "malaquita",
+      "name": "Malaquita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/5610c19c257f4d8d079e.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 203,
+      "id": "malaquita",
+      "name": "Malaquita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/d0e69ddde790cc9dc6a4.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 204,
+      "id": "mantis-religiosa",
+      "name": "Mantis religiosa",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1d8196bd34d36c8a31f9.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 205,
+      "id": "mantis-religiosa",
+      "name": "Mantis religiosa",
+      "kind": "organismo",
+      "url": "./assets/reviewed/434b815ef601f447fa84.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 206,
+      "id": "marchantia-polymorpha",
+      "name": "Marchantia polymorpha",
+      "kind": "organismo",
+      "url": "./assets/reviewed/6a52411242cea754576f.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 207,
+      "id": "marchantia-polymorpha",
+      "name": "Marchantia polymorpha",
+      "kind": "organismo",
+      "url": "./assets/reviewed/a233a8811b1b00238071.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 208,
+      "id": "marga",
+      "name": "Marga",
+      "kind": "roca",
+      "url": "./assets/reviewed/03a6330bb9279b9992bb.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 209,
+      "id": "marga",
+      "name": "Marga",
+      "kind": "roca",
+      "url": "./assets/reviewed/827b76e5b40f54222b4c.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 210,
+      "id": "mentha-pulegium",
+      "name": "Mentha pulegium",
+      "kind": "organismo",
+      "url": "./assets/reviewed/288ffcde56b380d1c990.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 211,
+      "id": "mentha-pulegium",
+      "name": "Mentha pulegium",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ff472d7ac264193faa77.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 212,
+      "id": "moscovita",
+      "name": "Moscovita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/a7996d6c53f9595da0c2.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 213,
+      "id": "moscovita",
+      "name": "Moscovita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/6a39fd22978c977be41c.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 214,
+      "id": "mytilus-edulis",
+      "name": "Mytilus edulis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ccbf40767893b2d8d542.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 215,
+      "id": "mytilus-edulis",
+      "name": "Mytilus edulis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3c0920698f2e56e4bccb.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 216,
+      "id": "marmol",
+      "name": "Mármol",
+      "kind": "roca",
+      "url": "./assets/reviewed/973f3a8bd2a7b6aab012.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 217,
+      "id": "marmol",
+      "name": "Mármol",
+      "kind": "roca",
+      "url": "./assets/reviewed/04b1dda2d7aca63b366f.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 218,
+      "id": "natica-vitellus",
+      "name": "Natica vitellus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/342799b218f309e987a2.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 219,
+      "id": "natica-vitellus",
+      "name": "Natica vitellus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/cb83969a97776083c627.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 220,
+      "id": "nerium-oleander",
+      "name": "Nerium oleander",
+      "kind": "organismo",
+      "url": "./assets/reviewed/a7781cf94be6d490a75b.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 221,
+      "id": "nerium-oleander",
+      "name": "Nerium oleander",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9c5b40d3a31c9cdc9351.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 222,
+      "id": "noctiluca-scintillans",
+      "name": "Noctiluca scintillans",
+      "kind": "organismo",
+      "url": "./assets/reviewed/11b5d124d9bf60f6f956.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 223,
+      "id": "noctiluca-scintillans",
+      "name": "Noctiluca scintillans",
+      "kind": "organismo",
+      "url": "./assets/reviewed/292691d06e0c15853faa.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 224,
+      "id": "ofita",
+      "name": "Ofita",
+      "kind": "roca",
+      "url": "./assets/reviewed/943d95d707aaba04c341.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 225,
+      "id": "ofita",
+      "name": "Ofita",
+      "kind": "roca",
+      "url": "./assets/reviewed/e04ad49aa409e7eeb754.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 226,
+      "id": "olivino",
+      "name": "Olivino",
+      "kind": "mineral",
+      "url": "./assets/reviewed/2016ac6e29a8a0a375a0.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 227,
+      "id": "olivino",
+      "name": "Olivino",
+      "kind": "mineral",
+      "url": "./assets/reviewed/a0e97c6229bf63cf6224.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 228,
+      "id": "osmunda-regalis",
+      "name": "Osmunda regalis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/0c344e59f4e525d7b73e.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 229,
+      "id": "osmunda-regalis",
+      "name": "Osmunda regalis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/7d254a82081007156015.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 230,
+      "id": "ovis-orientalis-musimon",
+      "name": "Ovis orientalis musimon",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9e5b8aae7cfda216e523.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 231,
+      "id": "ovis-orientalis-musimon",
+      "name": "Ovis orientalis musimon",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1556e6378c12b51b70ad.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 232,
+      "id": "oxyura-leucocephala",
+      "name": "Oxyura leucocephala",
+      "kind": "organismo",
+      "url": "./assets/reviewed/acd47171333a396e7d2b.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 233,
+      "id": "oxyura-leucocephala",
+      "name": "Oxyura leucocephala",
+      "kind": "organismo",
+      "url": "./assets/reviewed/55e86e49e9cd9643db7b.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 234,
+      "id": "pancratium-maritimum",
+      "name": "Pancratium maritimum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/6b5e65e2d125a01c24da.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 235,
+      "id": "pancratium-maritimum",
+      "name": "Pancratium maritimum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/687cd4468cc177aa15c1.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 236,
+      "id": "paradoxides",
+      "name": "Paradoxides",
+      "kind": "fosil",
+      "url": "./assets/reviewed/d60883c8f97fa4b191f6.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 237,
+      "id": "paradoxides",
+      "name": "Paradoxides",
+      "kind": "fosil",
+      "url": "./assets/reviewed/0f0ce3d31d3773827d33.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 238,
+      "id": "pecten-sp",
+      "name": "Pecten sp.",
+      "kind": "organismo",
+      "url": "./assets/reviewed/8fa232539aca186f7479.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 239,
+      "id": "pecten-sp",
+      "name": "Pecten sp.",
+      "kind": "organismo",
+      "url": "./assets/reviewed/37107d3bacd6f348c969.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 240,
+      "id": "peridotita",
+      "name": "Peridotita",
+      "kind": "roca",
+      "url": "./assets/reviewed/528d78f67b3ecc0f2626.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 241,
+      "id": "peridotita",
+      "name": "Peridotita",
+      "kind": "roca",
+      "url": "./assets/reviewed/2a2b51642ad62f2fcc4e.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 242,
+      "id": "pinus-pinea",
+      "name": "Pinus pinea",
+      "kind": "organismo",
+      "url": "./assets/reviewed/b48a2249997177e2b134.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 243,
+      "id": "pinus-pinea",
+      "name": "Pinus pinea",
+      "kind": "organismo",
+      "url": "./assets/reviewed/765592c8ad0a2c5becaa.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 244,
+      "id": "pirita",
+      "name": "Pirita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/3cc64a79a2048da1685c.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 245,
+      "id": "pirita",
+      "name": "Pirita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/194dc989cfbaa599bc8e.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 246,
+      "id": "polypodium-vulgare",
+      "name": "Polypodium vulgare",
+      "kind": "organismo",
+      "url": "./assets/reviewed/10b94b99864c232e181c.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 247,
+      "id": "polypodium-vulgare",
+      "name": "Polypodium vulgare",
+      "kind": "organismo",
+      "url": "./assets/reviewed/2e8403379e55b4f14d8c.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 248,
+      "id": "populus-alba",
+      "name": "Populus alba",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ff453cdddafc767d41a7.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 249,
+      "id": "populus-alba",
+      "name": "Populus alba",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3091771d9d947af24c40.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 250,
+      "id": "porcellio-scaber",
+      "name": "Porcellio scaber",
+      "kind": "organismo",
+      "url": "./assets/reviewed/01b31f126cfeb11f878d.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 251,
+      "id": "porcellio-scaber",
+      "name": "Porcellio scaber",
+      "kind": "organismo",
+      "url": "./assets/reviewed/cadaa26c6c483ba5a90e.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 252,
+      "id": "posidonia-oceanica",
+      "name": "Posidonia oceanica",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3dac52eff5475f1b9676.jpg",
+      "use": "context"
+    },
+    {
+      "index": 253,
+      "id": "posidonia-oceanica",
+      "name": "Posidonia oceanica",
+      "kind": "organismo",
+      "url": "./assets/reviewed/2f71871096b32c1c5c8c.jpg",
+      "use": "context"
+    },
+    {
+      "index": 254,
+      "id": "prunus-avium",
+      "name": "Prunus avium",
+      "kind": "organismo",
+      "url": "./assets/reviewed/5615902f63018797fea1.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 255,
+      "id": "prunus-avium",
+      "name": "Prunus avium",
+      "kind": "organismo",
+      "url": "./assets/reviewed/e64603e14ebd52c8b04b.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 256,
+      "id": "pumita",
+      "name": "Pumita",
+      "kind": "roca",
+      "url": "./assets/reviewed/4b1b03b95780ea3d8892.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 257,
+      "id": "pumita",
+      "name": "Pumita",
+      "kind": "roca",
+      "url": "./assets/reviewed/1acc8f3f7d82520f234d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 258,
+      "id": "punica-granatum",
+      "name": "Punica granatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/dca0bbad35bbbc177c5d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 259,
+      "id": "punica-granatum",
+      "name": "Punica granatum",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3d90d5f8d419280c6332.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 260,
+      "id": "pygope",
+      "name": "Pygope",
+      "kind": "fosil",
+      "url": "./assets/reviewed/f958df96c3babb14ae44.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 261,
+      "id": "pygope",
+      "name": "Pygope",
+      "kind": "fosil",
+      "url": "./assets/reviewed/951668af2cf26792be7a.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 262,
+      "id": "quercus-canariensis",
+      "name": "Quercus canariensis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/0686f98c5e0c304b88c8.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 263,
+      "id": "quercus-canariensis",
+      "name": "Quercus canariensis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/736e0c2ca5fb2e289365.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 264,
+      "id": "quercus-coccifera",
+      "name": "Quercus coccifera",
+      "kind": "organismo",
+      "url": "./assets/reviewed/b08b16b7d2e158a8ef00.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 265,
+      "id": "quercus-coccifera",
+      "name": "Quercus coccifera",
+      "kind": "organismo",
+      "url": "./assets/reviewed/080133b0b8f5efdac34d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 266,
+      "id": "retama-monosperma",
+      "name": "Retama monosperma",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ff8504f3f260c520a539.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 267,
+      "id": "retama-monosperma",
+      "name": "Retama monosperma",
+      "kind": "organismo",
+      "url": "./assets/reviewed/72199fbd23ac8c88a57c.jpg",
+      "use": "context"
+    },
+    {
+      "index": 268,
+      "id": "riolita",
+      "name": "Riolita",
+      "kind": "roca",
+      "url": "./assets/reviewed/e763e78fc344bf5cd32a.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 269,
+      "id": "riolita",
+      "name": "Riolita",
+      "kind": "roca",
+      "url": "./assets/reviewed/6236bde5ce2f35d5d9b3.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 270,
+      "id": "rubus-fruticosus",
+      "name": "Rubus fruticosus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/c58fd38e45cd7740c4c9.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 271,
+      "id": "rubus-fruticosus",
+      "name": "Rubus fruticosus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/84af6847bdcf2ee2e73f.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 272,
+      "id": "salamandra-salamandra",
+      "name": "Salamandra salamandra",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f757c40c493daa26fa3d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 273,
+      "id": "salamandra-salamandra",
+      "name": "Salamandra salamandra",
+      "kind": "organismo",
+      "url": "./assets/reviewed/adbf38c7e21ca9f9bd4e.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 274,
+      "id": "salvia-rosmarinus",
+      "name": "Salvia rosmarinus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/76a5b4205c98ac1f5a2b.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 275,
+      "id": "salvia-rosmarinus",
+      "name": "Salvia rosmarinus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/4b14f96ffea472bbba8f.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 276,
+      "id": "scolymus-hispanicus",
+      "name": "Scolymus hispanicus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/896382d8f11f59c9f339.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 277,
+      "id": "scolymus-hispanicus",
+      "name": "Scolymus hispanicus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ad8ff3c1d9093633c4b2.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 278,
+      "id": "secale-cereale",
+      "name": "Secale cereale",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f9b91752f63cd9ffb4b5.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 279,
+      "id": "secale-cereale",
+      "name": "Secale cereale",
+      "kind": "organismo",
+      "url": "./assets/reviewed/16e1c1500db3ea2ab03e.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 280,
+      "id": "sepia-officinalis",
+      "name": "Sepia officinalis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/accb8521e243c836eddd.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 281,
+      "id": "sepia-officinalis",
+      "name": "Sepia officinalis",
+      "kind": "organismo",
+      "url": "./assets/reviewed/82f0375c240ebf0a18a4.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 282,
+      "id": "sienita",
+      "name": "Sienita",
+      "kind": "roca",
+      "url": "./assets/reviewed/f996253fa4a03d5d1ed2.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 283,
+      "id": "sienita",
+      "name": "Sienita",
+      "kind": "roca",
+      "url": "./assets/reviewed/4182d431c0006d853dc6.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 284,
+      "id": "silene-sp",
+      "name": "Silene sp.",
+      "kind": "organismo",
+      "url": "./assets/reviewed/02059e3d39012b6cf59d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 285,
+      "id": "silene-sp",
+      "name": "Silene sp.",
+      "kind": "organismo",
+      "url": "./assets/reviewed/af207fa8d02c5ed182d0.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 286,
+      "id": "sillimanita",
+      "name": "Sillimanita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/f024962d29ef5b6a0a1c.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 287,
+      "id": "sillimanita",
+      "name": "Sillimanita",
+      "kind": "mineral",
+      "url": "./assets/reviewed/ee7c13e444c95f58c9b1.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 288,
+      "id": "silvina",
+      "name": "Silvina",
+      "kind": "mineral",
+      "url": "./assets/reviewed/397a598724f1d2b65da9.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 289,
+      "id": "silvina",
+      "name": "Silvina",
+      "kind": "mineral",
+      "url": "./assets/reviewed/1029285333f29fd9e7bc.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 290,
+      "id": "smilax-aspera",
+      "name": "Smilax aspera",
+      "kind": "organismo",
+      "url": "./assets/reviewed/f5810fadefb09dbc26d8.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 291,
+      "id": "smilax-aspera",
+      "name": "Smilax aspera",
+      "kind": "organismo",
+      "url": "./assets/reviewed/0bb591c62933121753ae.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 292,
+      "id": "spatula-clypeata",
+      "name": "Spatula clypeata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/58809ce9734a4292d099.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 293,
+      "id": "spatula-clypeata",
+      "name": "Spatula clypeata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/e0aa88c6f6f58c8367df.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 294,
+      "id": "sphagnum-subnitens",
+      "name": "Sphagnum subnitens",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ab3538cf1fd829f1a43c.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 295,
+      "id": "sphagnum-subnitens",
+      "name": "Sphagnum subnitens",
+      "kind": "organismo",
+      "url": "./assets/reviewed/69c7ef49b1956b1284bc.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 296,
+      "id": "stentor-sp",
+      "name": "Stentor sp.",
+      "kind": "organismo",
+      "url": "./assets/reviewed/6afe80b9d610a588229d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 297,
+      "id": "stentor-sp",
+      "name": "Stentor sp.",
+      "kind": "organismo",
+      "url": "./assets/reviewed/806f6c20f5670d082508.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 298,
+      "id": "tamarix-africana",
+      "name": "Tamarix africana",
+      "kind": "organismo",
+      "url": "./assets/reviewed/3b5ef45b7f751f83de14.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 299,
+      "id": "tamarix-africana",
+      "name": "Tamarix africana",
+      "kind": "organismo",
+      "url": "./assets/reviewed/03a84fbe253728aa4322.jpg",
+      "use": "detail"
+    },
+    {
+      "index": 300,
+      "id": "taxus-baccata",
+      "name": "Taxus baccata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/36bee2c09761290100f1.jpg",
+      "use": "context"
+    },
+    {
+      "index": 301,
+      "id": "taxus-baccata",
+      "name": "Taxus baccata",
+      "kind": "organismo",
+      "url": "./assets/reviewed/46bae208061bdd8b03d6.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 302,
+      "id": "topacio",
+      "name": "Topacio",
+      "kind": "mineral",
+      "url": "./assets/reviewed/2f5b2dc6f311cace0474.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 303,
+      "id": "topacio",
+      "name": "Topacio",
+      "kind": "mineral",
+      "url": "./assets/reviewed/019c10a74e4fb64251a4.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 304,
+      "id": "trametes-versicolor",
+      "name": "Trametes versicolor",
+      "kind": "organismo",
+      "url": "./assets/reviewed/88d18fa07b3c1a5970c9.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 305,
+      "id": "trametes-versicolor",
+      "name": "Trametes versicolor",
+      "kind": "organismo",
+      "url": "./assets/reviewed/851ce61278311cf31130.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 306,
+      "id": "trivia-sp",
+      "name": "Trivia sp.",
+      "kind": "organismo",
+      "url": "./assets/reviewed/e373bbe8333a3c8c218b.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 307,
+      "id": "trivia-sp",
+      "name": "Trivia sp.",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9cab13dd8102813cd429.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 308,
+      "id": "tripoli",
+      "name": "Trípoli",
+      "kind": "roca",
+      "url": "./assets/reviewed/732e5edc074f0ed469ab.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 309,
+      "id": "tripoli",
+      "name": "Trípoli",
+      "kind": "roca",
+      "url": "./assets/reviewed/df36ac0c1b5a1fc527fd.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 310,
+      "id": "turdus-merula",
+      "name": "Turdus merula",
+      "kind": "organismo",
+      "url": "./assets/reviewed/c4cab90580dfeae1c338.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 311,
+      "id": "turdus-merula",
+      "name": "Turdus merula",
+      "kind": "organismo",
+      "url": "./assets/reviewed/90167db2c73fa3f4e025.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 312,
+      "id": "upupa-epops",
+      "name": "Upupa epops",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ea3db92d101bcd400bed.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 313,
+      "id": "upupa-epops",
+      "name": "Upupa epops",
+      "kind": "organismo",
+      "url": "./assets/reviewed/cab32f62e691fb5faf5d.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 314,
+      "id": "vanellus-vanellus",
+      "name": "Vanellus vanellus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/9dcf8c8618b62ca435ec.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 315,
+      "id": "vanellus-vanellus",
+      "name": "Vanellus vanellus",
+      "kind": "organismo",
+      "url": "./assets/reviewed/6461e0ee9c46ae31bd1a.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 316,
+      "id": "xiphias-gladius",
+      "name": "Xiphias gladius",
+      "kind": "organismo",
+      "url": "./assets/reviewed/fbf9734eccf53562180f.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 317,
+      "id": "xiphias-gladius",
+      "name": "Xiphias gladius",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ab0a7fb0c45be715e169.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 318,
+      "id": "yeso",
+      "name": "Yeso",
+      "kind": "mineral",
+      "url": "./assets/reviewed/423832cd1f78d5ca2375.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 319,
+      "id": "yeso",
+      "name": "Yeso",
+      "kind": "mineral",
+      "url": "./assets/reviewed/aac8e7735657d2586d07.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 320,
+      "id": "yucca-gigantea",
+      "name": "Yucca gigantea",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1b1574acb5eab4158232.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 321,
+      "id": "yucca-gigantea",
+      "name": "Yucca gigantea",
+      "kind": "organismo",
+      "url": "./assets/reviewed/ca7df70e3224869a97c8.jpg",
+      "use": "insufficient"
+    },
+    {
+      "index": 322,
+      "id": "zerynthia-rumina",
+      "name": "Zerynthia rumina",
+      "kind": "organismo",
+      "url": "./assets/reviewed/537a5e8faef5acbb24d0.jpg",
+      "use": "diagnostic"
+    },
+    {
+      "index": 323,
+      "id": "zerynthia-rumina",
+      "name": "Zerynthia rumina",
+      "kind": "organismo",
+      "url": "./assets/reviewed/1278bcff13355cab5bad.jpg",
+      "use": "diagnostic"
+    }
+  ],
+  "scope": "Elegibilidad fotográfica para estudiar, independiente del estado de aprobación. Andalucía exige dos vistas diagnósticas; no se rellenan huecos con fotos sin evaluar. Madrid puede presentar detalles sin añadir una vista completa como pista."
+}

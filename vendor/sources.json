@@ -1,0 +1,48 @@
+{
+  "package": "@supabase/supabase-js",
+  "version": "2.118.0",
+  "files": [
+    {
+      "file": "16296a5ca2509267.mjs",
+      "source": "https://esm.sh/node/buffer.mjs",
+      "sourceSha256": "64fb61aa5f48644d685f9ceabedba60ea6b5d6ce03dac1943e863d00d9e574f3",
+      "localSha256": "64fb61aa5f48644d685f9ceabedba60ea6b5d6ce03dac1943e863d00d9e574f3"
+    },
+    {
+      "file": "b9737199fdd59f88.mjs",
+      "source": "https://esm.sh/node/async_hooks.mjs",
+      "sourceSha256": "b7862dbfba8bbbca956f19e4e08280b529e4b27468779775a9093aef8c92dc1d",
+      "localSha256": "b7862dbfba8bbbca956f19e4e08280b529e4b27468779775a9093aef8c92dc1d"
+    },
+    {
+      "file": "8286d33a1ce5055b.mjs",
+      "source": "https://esm.sh/node/events.mjs",
+      "sourceSha256": "4c6150b88c1444aa1fe9331013e3f37eda9836206f629f7f3ae8f3743dd90fa8",
+      "localSha256": "f2e0c7d84149251e42a41c1d178d8ce3719bcb53c7de06cb1cb954af9b08e856"
+    },
+    {
+      "file": "c253187f3a945751.mjs",
+      "source": "https://esm.sh/node/tty.mjs",
+      "sourceSha256": "c66ff4b406bad449bfb2ced355f15badf16f4d9e035d2d300e33b5aeee64e3be",
+      "localSha256": "c66ff4b406bad449bfb2ced355f15badf16f4d9e035d2d300e33b5aeee64e3be"
+    },
+    {
+      "file": "a20988a4e1db6b4f.mjs",
+      "source": "https://esm.sh/node/process.mjs",
+      "sourceSha256": "79bdd29eef537eee63ba8ef06a00a9579a6a99efc4ba391807e017049ecfe452",
+      "localSha256": "a8cc8e997a2b6f2c353e4d2f7aa6f0d3b5013869c29d9cc811c95363749901f0"
+    },
+    {
+      "file": "f504778958a3bac0.mjs",
+      "source": "https://esm.sh/@supabase/supabase-js@2.118.0/es2022/supabase-js.bundle.mjs",
+      "sourceSha256": "9a8556e320665d4dad6aaeeb0a0824f7342d6eb91785e6e61f3c1d2f12f058ce",
+      "localSha256": "8a387b6fd3f904846950afde05c42ceb3b49eb3bc5919f61c18b7dcf994ac27c"
+    },
+    {
+      "file": "supabase.mjs",
+      "source": "https://esm.sh/@supabase/supabase-js@2.118.0?bundle&target=es2022",
+      "sourceSha256": "01a8a644fbc903848fe17d1b5a2eef0ee956f241fb3ce6bc0622f359ab2c7a8f",
+      "localSha256": "e158d15f07436521868d66ab7a034bfdb1f2f27fc573640cf6d16787138b1e04"
+    }
+  ]
+}

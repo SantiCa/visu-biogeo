@@ -1,0 +1,224 @@
+{
+  "ambar": {
+    "images": []
+  },
+  "anfibolita": {
+    "images": []
+  },
+  "aplita": {
+    "images": []
+  },
+  "arcilla": {
+    "images": []
+  },
+  "azabache": {
+    "images": []
+  },
+  "bomba-volcanica": {
+    "images": []
+  },
+  "brecha-volcanica": {
+    "images": []
+  },
+  "caliza": {
+    "images": []
+  },
+  "caliza-litografica": {
+    "images": []
+  },
+  "caliza-oolitica": {
+    "images": []
+  },
+  "caliza-pisolitica": {
+    "images": []
+  },
+  "caolin": {
+    "images": []
+  },
+  "cineritas": {
+    "images": []
+  },
+  "copal": {
+    "images": []
+  },
+  "creta": {
+    "images": []
+  },
+  "eclogita": {
+    "images": [
+      {
+        "url": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/NOR-67A-LRes.jpg",
+        "key": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/NOR-67A-LRes.jpg",
+        "page": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/eclogite-hs.php",
+        "author": "Colección de petrología, Smith College; créditos particulares en la fuente",
+        "license": "CC BY-NC-SA 4.0 · colección docente de petrología; comprobar créditos particulares",
+        "provider": "Smith College",
+        "description": "Eclogita · muestra identificada de la colección de petrología; Eclogite Hand Sample",
+        "sourceAlt": "Eclogita · muestra identificada de la colección de petrología; Eclogite Hand Sample",
+        "status": "pending",
+        "sourceCaption": "Eclogite Hand Sample - Anne Lepow Photo"
+      },
+      {
+        "url": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/NOR-37F-LRes.jpg",
+        "key": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/NOR-37F-LRes.jpg",
+        "page": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/eclogite-hs.php",
+        "author": "Colección de petrología, Smith College; créditos particulares en la fuente",
+        "license": "CC BY-NC-SA 4.0 · colección docente de petrología; comprobar créditos particulares",
+        "provider": "Smith College",
+        "description": "Eclogita · muestra identificada de la colección de petrología; Eclogite Hand Sample",
+        "sourceAlt": "Eclogita · muestra identificada de la colección de petrología; Eclogite Hand Sample",
+        "status": "pending",
+        "sourceCaption": "Eclogite Hand Sample - Anne Lepow Photo"
+      },
+      {
+        "url": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/Q-2-LRes.jpg",
+        "key": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/Q-2-LRes.jpg",
+        "page": "https://www.science.smith.edu/~jbrady/petrology/rock-library/met-rocks/eclogite/eclogite-hs.php",
+        "author": "Colección de petrología, Smith College; créditos particulares en la fuente",
+        "license": "CC BY-NC-SA 4.0 · colección docente de petrología; comprobar créditos particulares",
+        "provider": "Smith College",
+        "description": "Eclogita · muestra identificada de la colección de petrología; Eclogite Hand Sample",
+        "sourceAlt": "Eclogita · muestra identificada de la colección de petrología; Eclogite Hand Sample",
+        "status": "pending",
+        "sourceCaption": "Eclogite Hand Sample - Anne Lepow Photo"
+      }
+    ]
+  },
+  "escorias": {
+    "images": []
+  },
+  "granulita": {
+    "images": []
+  },
+  "hulla": {
+    "images": []
+  },
+  "ignimbrita": {
+    "images": []
+  },
+  "jumillita": {
+    "images": []
+  },
+  "lapilli": {
+    "images": []
+  },
+  "larviquita": {
+    "images": []
+  },
+  "lava-cordada": {
+    "images": []
+  },
+  "lignito": {
+    "images": []
+  },
+  "micacita": {
+    "images": []
+  },
+  "migmatita": {
+    "images": []
+  },
+  "obsidiana": {
+    "images": []
+  },
+  "pedernal": {
+    "images": []
+  },
+  "pegmatita": {
+    "images": []
+  },
+  "petroleo": {
+    "images": []
+  },
+  "pizarra": {
+    "images": []
+  },
+  "porfido": {
+    "images": []
+  },
+  "riolita": {
+    "images": [
+      {
+        "url": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/rhyolite/USGS-64-LRes.jpg",
+        "key": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/rhyolite/USGS-64-LRes.jpg",
+        "page": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/rhyolite/rhyolite-hs.php",
+        "author": "Colección de petrología, Smith College; créditos particulares en la fuente",
+        "license": "CC BY-NC-SA 4.0 · colección docente de petrología; comprobar créditos particulares",
+        "provider": "Smith College",
+        "description": "Riolita · muestra identificada de la colección de petrología; Rhyolite Hand Sample",
+        "sourceAlt": "Riolita · muestra identificada de la colección de petrología; Rhyolite Hand Sample",
+        "status": "pending",
+        "sourceCaption": "Clementine Hamelin  Photo"
+      },
+      {
+        "url": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/rhyolite/USGS-65-LRes.jpg",
+        "key": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/rhyolite/USGS-65-LRes.jpg",
+        "page": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/rhyolite/rhyolite-hs.php",
+        "author": "Colección de petrología, Smith College; créditos particulares en la fuente",
+        "license": "CC BY-NC-SA 4.0 · colección docente de petrología; comprobar créditos particulares",
+        "provider": "Smith College",
+        "description": "Riolita · muestra identificada de la colección de petrología; Rhyolite Hand Sample",
+        "sourceAlt": "Riolita · muestra identificada de la colección de petrología; Rhyolite Hand Sample",
+        "status": "pending",
+        "sourceCaption": "Hamilton College  Photo"
+      }
+    ]
+  },
+  "septaria": {
+    "images": []
+  },
+  "serpentinita": {
+    "images": []
+  },
+  "silex": {
+    "images": []
+  },
+  "toba-calcarea": {
+    "images": []
+  },
+  "tobas": {
+    "images": []
+  },
+  "traquita": {
+    "images": [
+      {
+        "url": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/K-70-LRes.jpg",
+        "key": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/K-70-LRes.jpg",
+        "page": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/trachyte-hs.php",
+        "author": "Colección de petrología, Smith College; créditos particulares en la fuente",
+        "license": "CC BY-NC-SA 4.0 · colección docente de petrología; comprobar créditos particulares",
+        "provider": "Smith College",
+        "description": "Traquita · muestra identificada de la colección de petrología; trachyte Hand Sample",
+        "sourceAlt": "Traquita · muestra identificada de la colección de petrología; trachyte Hand Sample",
+        "status": "pending",
+        "sourceCaption": "Clementine Hamelin  Photo"
+      },
+      {
+        "url": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/CAP89-3A-LRes.jpg",
+        "key": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/CAP89-3A-LRes.jpg",
+        "page": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/trachyte-hs.php",
+        "author": "Colección de petrología, Smith College; créditos particulares en la fuente",
+        "license": "CC BY-NC-SA 4.0 · colección docente de petrología; comprobar créditos particulares",
+        "provider": "Smith College",
+        "description": "Traquita · muestra identificada de la colección de petrología; trachyte Hand Sample",
+        "sourceAlt": "Traquita · muestra identificada de la colección de petrología; trachyte Hand Sample",
+        "status": "pending",
+        "sourceCaption": "Anne Lepow Photo"
+      },
+      {
+        "url": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/TrachytePorphyry16-LRes.jpg",
+        "key": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/TrachytePorphyry16-LRes.jpg",
+        "page": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igv-rocks/trachyte/trachyte-hs.php",
+        "author": "Colección de petrología, Smith College; créditos particulares en la fuente",
+        "license": "CC BY-NC-SA 4.0 · colección docente de petrología; comprobar créditos particulares",
+        "provider": "Smith College",
+        "description": "Traquita · muestra identificada de la colección de petrología; trachyte Hand Sample",
+        "sourceAlt": "Traquita · muestra identificada de la colección de petrología; trachyte Hand Sample",
+        "status": "pending",
+        "sourceCaption": "Anne Lepow Photo"
+      }
+    ]
+  },
+  "turba": {
+    "images": []
+  }
+}

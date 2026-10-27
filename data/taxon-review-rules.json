@@ -1,0 +1,62 @@
+{
+  "pyrenaearia-velascoi": {
+    "blockedPhotoTaxa": [
+      "Pyrenaearia carascalensis"
+    ],
+    "rejectedAliases": [
+      "Pyrenaearia carascalensis"
+    ],
+    "reason": "El atlas de MITECO identifica P. velascoi por separado. No se acepta la equivalencia devuelta por el buscador de iNaturalist.",
+    "source": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/Pyrenaearia_velascoi_tcm30-198464.pdf"
+  },
+  "podarcis-atrata": {
+    "blockedPhotoTaxa": [
+      "Podarcis liolepis"
+    ],
+    "rejectedAliases": [],
+    "reason": "La entrada del PDF se refiere a la lagartija de Columbretes. Una fotografía de P. liolepis sin localidad no demuestra que pertenezca a esa población.",
+    "source": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/reptil_39_tcm30-98944.pdf"
+  },
+  "citrus-x-sinensis": {
+    "blockedPhotoTaxa": [
+      "Citrus × aurantium"
+    ],
+    "rejectedAliases": [
+      "Citrus × aurantium"
+    ],
+    "reason": "Se necesitan imágenes documentadas de naranja dulce; no se sustituyen por fotos genéricas del complejo híbrido sin variedad identificada."
+  },
+  "discoglossus-jeanneae": {
+    "blockedPhotoTaxa": [
+      "Discoglossus galganoi"
+    ],
+    "rejectedAliases": [],
+    "reason": "Conservar la procedencia del antiguo taxón ibérico meridional al seleccionar fotografías; la ficha amplia del nombre aceptado no garantiza esa procedencia."
+  },
+  "xerocrassa-moraguesi": {
+    "blockedPhotoTaxa": [
+      "Xerocrassa homeyeri"
+    ],
+    "rejectedAliases": [],
+    "reason": "MolluscaBase sitúa moraguesi en la subespecie nominal de homeyeri. Se requiere procedencia o determinación más precisa para no incluir otras subespecies.",
+    "source": "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Xerocrassa"
+  },
+  "sienita": {
+    "blockedPhotoTaxa": [],
+    "rejectedAliases": [],
+    "excludedRepresentations": [
+      "Agpaíta como muestra general",
+      "Monzonita o sienita sin resolver",
+      "Objetos tallados"
+    ],
+    "reason": "Para la ficha general se priorizan muestras de sienita identificadas y con textura visible. Las sienitas nefelínicas peralcalinas especializadas requieren contexto propio.",
+    "source": "https://www.science.smith.edu/~jbrady/petrology/rock-library/igp-rocks/syenite/syenite-hs.php"
+  },
+  "podarcis-hispanicus": {
+    "blockedPhotoTaxa": [
+      "Podarcis guadarramae",
+      "Podarcis hispanicus guadarramae"
+    ],
+    "note": "La recopilación sin fecha imprime Podarcis hispanicua. El alcance histórico requiere contraste; no se elige una especie actual por su distribución en Madrid."
+  }
+}

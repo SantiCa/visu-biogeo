@@ -1,0 +1,1479 @@
+{
+  "molecula-adenina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/190/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/190/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/190",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 190, Adenine. Fórmula: C5H5N5.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 190, Adenine. Fórmula: C5H5N5.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Adenine",
+        "chemicalCID": 190
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/190/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/190/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/190",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 190, Adenine. Fórmula: C5H5N5.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 190, Adenine. Fórmula: C5H5N5.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Adenine",
+        "chemicalCID": 190
+      }
+    ],
+    "queryName": "adenine",
+    "cid": 190,
+    "properties": {
+      "CID": 190,
+      "MolecularFormula": "C5H5N5",
+      "IUPACName": "7H-purin-6-amine",
+      "Title": "Adenine"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/190",
+    "matchedSynonym": "adenine",
+    "complete": true
+  },
+  "molecula-citosina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/597/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/597/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/597",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 597, Cytosine. Fórmula: C4H5N3O.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 597, Cytosine. Fórmula: C4H5N3O.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Cytosine",
+        "chemicalCID": 597
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/597/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/597/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/597",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 597, Cytosine. Fórmula: C4H5N3O.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 597, Cytosine. Fórmula: C4H5N3O.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Cytosine",
+        "chemicalCID": 597
+      }
+    ],
+    "queryName": "cytosine",
+    "cid": 597,
+    "properties": {
+      "CID": 597,
+      "MolecularFormula": "C4H5N3O",
+      "IUPACName": "6-amino-1H-pyrimidin-2-one",
+      "Title": "Cytosine"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/597",
+    "matchedSynonym": "cytosine",
+    "complete": true
+  },
+  "molecula-guanina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398634/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398634/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/135398634",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 135398634, Guanine. Fórmula: C5H5N5O.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 135398634, Guanine. Fórmula: C5H5N5O.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Guanine",
+        "chemicalCID": 135398634
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398634/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398634/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/135398634",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 135398634, Guanine. Fórmula: C5H5N5O.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 135398634, Guanine. Fórmula: C5H5N5O.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Guanine",
+        "chemicalCID": 135398634
+      }
+    ],
+    "queryName": "guanine",
+    "cid": 135398634,
+    "properties": {
+      "CID": 135398634,
+      "MolecularFormula": "C5H5N5O",
+      "IUPACName": "2-amino-1,7-dihydropurin-6-one",
+      "Title": "Guanine"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/135398634",
+    "matchedSynonym": "guanine",
+    "complete": true
+  },
+  "molecula-timina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1135/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1135/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/1135",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 1135, Thymine. Fórmula: C5H6N2O2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 1135, Thymine. Fórmula: C5H6N2O2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Thymine",
+        "chemicalCID": 1135
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1135/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1135/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/1135",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 1135, Thymine. Fórmula: C5H6N2O2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 1135, Thymine. Fórmula: C5H6N2O2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Thymine",
+        "chemicalCID": 1135
+      }
+    ],
+    "queryName": "thymine",
+    "cid": 1135,
+    "properties": {
+      "CID": 1135,
+      "MolecularFormula": "C5H6N2O2",
+      "IUPACName": "5-methyl-1H-pyrimidine-2,4-dione",
+      "Title": "Thymine"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1135",
+    "matchedSynonym": "thymine",
+    "complete": true
+  },
+  "molecula-uracilo": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1174/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1174/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/1174",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 1174, Uracil. Fórmula: C4H4N2O2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 1174, Uracil. Fórmula: C4H4N2O2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Uracil",
+        "chemicalCID": 1174
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1174/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1174/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/1174",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 1174, Uracil. Fórmula: C4H4N2O2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 1174, Uracil. Fórmula: C4H4N2O2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Uracil",
+        "chemicalCID": 1174
+      }
+    ],
+    "queryName": "uracil",
+    "cid": 1174,
+    "properties": {
+      "CID": 1174,
+      "MolecularFormula": "C4H4N2O2",
+      "IUPACName": "1H-pyrimidine-2,4-dione",
+      "Title": "Uracil"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1174",
+    "matchedSynonym": "uracil",
+    "complete": true
+  },
+  "molecula-atp": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5957/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5957/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5957",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5957, 5'-Atp. Fórmula: C10H16N5O13P3.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5957, 5'-Atp. Fórmula: C10H16N5O13P3.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "5'-Atp",
+        "chemicalCID": 5957
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5957/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5957/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5957",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5957, 5'-Atp. Fórmula: C10H16N5O13P3.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5957, 5'-Atp. Fórmula: C10H16N5O13P3.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "5'-Atp",
+        "chemicalCID": 5957
+      }
+    ],
+    "queryName": "adenosine triphosphate",
+    "cid": 5957,
+    "properties": {
+      "CID": 5957,
+      "MolecularFormula": "C10H16N5O13P3",
+      "IUPACName": "[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] phosphono hydrogen phosphate",
+      "Title": "5'-Atp"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5957",
+    "matchedSynonym": "adenosine triphosphate",
+    "complete": true
+  },
+  "molecula-beta-caroteno": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280489/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280489/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5280489",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5280489, Beta-Carotene. Fórmula: C40H56.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5280489, Beta-Carotene. Fórmula: C40H56.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Beta-Carotene",
+        "chemicalCID": 5280489
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280489/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280489/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5280489",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5280489, Beta-Carotene. Fórmula: C40H56.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5280489, Beta-Carotene. Fórmula: C40H56.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Beta-Carotene",
+        "chemicalCID": 5280489
+      }
+    ],
+    "queryName": "beta-carotene",
+    "cid": 5280489,
+    "properties": {
+      "CID": 5280489,
+      "MolecularFormula": "C40H56",
+      "IUPACName": "1,3,3-trimethyl-2-[(1E,3E,5E,7E,9E,11E,13E,15E,17E)-3,7,12,16-tetramethyl-18-(2,6,6-trimethylcyclohexen-1-yl)octadeca-1,3,5,7,9,11,13,15,17-nonaenyl]cyclohexene",
+      "Title": "Beta-Carotene"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5280489",
+    "matchedSynonym": "beta-carotene",
+    "complete": true
+  },
+  "molecula-clorofila": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12085802/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12085802/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/12085802",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 12085802, Chlorophyll A. Fórmula: C55H72MgN4O5.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 12085802, Chlorophyll A. Fórmula: C55H72MgN4O5.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Chlorophyll A",
+        "chemicalCID": 12085802
+      }
+    ],
+    "queryName": "chlorophyll a",
+    "cid": 12085802,
+    "properties": {
+      "CID": 12085802,
+      "MolecularFormula": "C55H72MgN4O5",
+      "IUPACName": "magnesium methyl (3R,21S,22S)-16-ethenyl-11-ethyl-12,17,21,26-tetramethyl-4-oxo-22-[3-oxo-3-[(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enoxy]propyl]-23,25-diaza-7,24-diazanidahexacyclo[18.2.1.15,8.110,13.115,18.02,6]hexacosa-1,5,8(26),9,11,13(25),14,16,18,20(23)-decaene-3-carboxylate",
+      "Title": "Chlorophyll A"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/12085802",
+    "matchedSynonym": "chlorophyll a",
+    "complete": true
+  },
+  "molecula-colesterol": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5997/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5997/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5997",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5997, Cholesterol. Fórmula: C27H46O.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5997, Cholesterol. Fórmula: C27H46O.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Cholesterol",
+        "chemicalCID": 5997
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5997/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5997/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5997",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5997, Cholesterol. Fórmula: C27H46O.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5997, Cholesterol. Fórmula: C27H46O.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Cholesterol",
+        "chemicalCID": 5997
+      }
+    ],
+    "queryName": "cholesterol",
+    "cid": 5997,
+    "properties": {
+      "CID": 5997,
+      "MolecularFormula": "C27H46O",
+      "IUPACName": "(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylheptan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",
+      "Title": "Cholesterol"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5997",
+    "matchedSynonym": "cholesterol",
+    "complete": true
+  },
+  "molecula-esfingosina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280335/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280335/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5280335",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5280335, Sphingosine. Fórmula: C18H37NO2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5280335, Sphingosine. Fórmula: C18H37NO2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Sphingosine",
+        "chemicalCID": 5280335
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280335/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280335/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5280335",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5280335, Sphingosine. Fórmula: C18H37NO2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5280335, Sphingosine. Fórmula: C18H37NO2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Sphingosine",
+        "chemicalCID": 5280335
+      }
+    ],
+    "queryName": "D-erythro-sphingosine",
+    "cid": 5280335,
+    "properties": {
+      "CID": 5280335,
+      "MolecularFormula": "C18H37NO2",
+      "IUPACName": "(E,2S,3R)-2-aminooctadec-4-ene-1,3-diol",
+      "Title": "Sphingosine"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5280335",
+    "matchedSynonym": "D-erythro-sphingosine",
+    "complete": true
+  },
+  "molecula-fructosa": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2723872/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2723872/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/2723872",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 2723872, D-Fructose. Fórmula: C6H12O6.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 2723872, D-Fructose. Fórmula: C6H12O6.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "D-Fructose",
+        "chemicalCID": 2723872
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2723872/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2723872/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/2723872",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 2723872, D-Fructose. Fórmula: C6H12O6.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 2723872, D-Fructose. Fórmula: C6H12O6.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "D-Fructose",
+        "chemicalCID": 2723872
+      }
+    ],
+    "queryName": "D-fructose",
+    "cid": 2723872,
+    "properties": {
+      "CID": 2723872,
+      "MolecularFormula": "C6H12O6",
+      "IUPACName": "(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+      "Title": "D-Fructose"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/2723872",
+    "matchedSynonym": "D-fructose",
+    "complete": true
+  },
+  "molecula-gliceraldehido": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/79014/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/79014/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/79014",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 79014, (+)-Glyceraldehyde. Fórmula: C3H6O3.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 79014, (+)-Glyceraldehyde. Fórmula: C3H6O3.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "(+)-Glyceraldehyde",
+        "chemicalCID": 79014
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/79014/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/79014/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/79014",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 79014, (+)-Glyceraldehyde. Fórmula: C3H6O3.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 79014, (+)-Glyceraldehyde. Fórmula: C3H6O3.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "(+)-Glyceraldehyde",
+        "chemicalCID": 79014
+      }
+    ],
+    "queryName": "D-glyceraldehyde",
+    "cid": 79014,
+    "properties": {
+      "CID": 79014,
+      "MolecularFormula": "C3H6O3",
+      "IUPACName": "(2R)-2,3-dihydroxypropanal",
+      "Title": "(+)-Glyceraldehyde"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/79014",
+    "matchedSynonym": "D-glyceraldehyde",
+    "complete": true
+  },
+  "molecula-glucosa": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5793/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5793/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5793",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5793, D-Glucose. Fórmula: C6H12O6.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5793, D-Glucose. Fórmula: C6H12O6.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "D-Glucose",
+        "chemicalCID": 5793
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5793/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5793/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5793",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5793, D-Glucose. Fórmula: C6H12O6.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5793, D-Glucose. Fórmula: C6H12O6.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "D-Glucose",
+        "chemicalCID": 5793
+      }
+    ],
+    "queryName": "D-glucose",
+    "cid": 5793,
+    "properties": {
+      "CID": 5793,
+      "MolecularFormula": "C6H12O6",
+      "IUPACName": "(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+      "Title": "D-Glucose"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5793",
+    "matchedSynonym": "D-glucose",
+    "complete": true
+  },
+  "molecula-hormona-esteroidea-testosterona": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6013/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6013/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/6013",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 6013, Testosterone. Fórmula: C19H28O2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 6013, Testosterone. Fórmula: C19H28O2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Testosterone",
+        "chemicalCID": 6013
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6013/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6013/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/6013",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 6013, Testosterone. Fórmula: C19H28O2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 6013, Testosterone. Fórmula: C19H28O2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Testosterone",
+        "chemicalCID": 6013
+      }
+    ],
+    "queryName": "testosterone",
+    "cid": 6013,
+    "properties": {
+      "CID": 6013,
+      "MolecularFormula": "C19H28O2",
+      "IUPACName": "(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",
+      "Title": "Testosterone"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6013",
+    "matchedSynonym": "testosterone",
+    "complete": true
+  },
+  "molecula-isopreno-unidad-basica-de-los-terpenos": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6557/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6557/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/6557",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 6557, Isoprene. Fórmula: C5H8.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 6557, Isoprene. Fórmula: C5H8.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Isoprene",
+        "chemicalCID": 6557
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6557/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6557/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/6557",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 6557, Isoprene. Fórmula: C5H8.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 6557, Isoprene. Fórmula: C5H8.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Isoprene",
+        "chemicalCID": 6557
+      }
+    ],
+    "queryName": "isoprene",
+    "cid": 6557,
+    "properties": {
+      "CID": 6557,
+      "MolecularFormula": "C5H8",
+      "IUPACName": "2-methylbuta-1,3-diene",
+      "Title": "Isoprene"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6557",
+    "matchedSynonym": "isoprene",
+    "complete": true
+  },
+  "molecula-lactosa": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6134/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6134/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/6134",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 6134, beta-Lactose. Fórmula: C12H22O11.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 6134, beta-Lactose. Fórmula: C12H22O11.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "beta-Lactose",
+        "chemicalCID": 6134
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6134/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6134/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/6134",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 6134, beta-Lactose. Fórmula: C12H22O11.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 6134, beta-Lactose. Fórmula: C12H22O11.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "beta-Lactose",
+        "chemicalCID": 6134
+      }
+    ],
+    "queryName": "lactose",
+    "cid": 6134,
+    "properties": {
+      "CID": 6134,
+      "MolecularFormula": "C12H22O11",
+      "IUPACName": "(2R,3R,4S,5R,6S)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",
+      "Title": "beta-Lactose"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6134",
+    "matchedSynonym": "lactose",
+    "complete": true
+  },
+  "molecula-nadh": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/439153/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/439153/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/439153",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 439153, Nadh. Fórmula: C21H29N7O14P2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 439153, Nadh. Fórmula: C21H29N7O14P2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Nadh",
+        "chemicalCID": 439153
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/439153/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/439153/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/439153",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 439153, Nadh. Fórmula: C21H29N7O14P2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 439153, Nadh. Fórmula: C21H29N7O14P2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Nadh",
+        "chemicalCID": 439153
+      }
+    ],
+    "queryName": "NADH",
+    "cid": 439153,
+    "properties": {
+      "CID": 439153,
+      "MolecularFormula": "C21H29N7O14P2",
+      "IUPACName": "[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] [(2R,3S,4R,5R)-5-(3-carbamoyl-4H-pyridin-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl hydrogen phosphate",
+      "Title": "Nadh"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/439153",
+    "matchedSynonym": "NADH",
+    "complete": true
+  },
+  "molecula-prostaglandina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280360/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280360/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5280360",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5280360, Prostaglandin E2. Fórmula: C20H32O5.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5280360, Prostaglandin E2. Fórmula: C20H32O5.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Prostaglandin E2",
+        "chemicalCID": 5280360
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280360/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280360/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5280360",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5280360, Prostaglandin E2. Fórmula: C20H32O5.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5280360, Prostaglandin E2. Fórmula: C20H32O5.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Prostaglandin E2",
+        "chemicalCID": 5280360
+      }
+    ],
+    "queryName": "prostaglandin E2",
+    "cid": 5280360,
+    "properties": {
+      "CID": 5280360,
+      "MolecularFormula": "C20H32O5",
+      "IUPACName": "(Z)-7-[(1R,2R,3R)-3-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopentyl]hept-5-enoic acid",
+      "Title": "Prostaglandin E2"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5280360",
+    "matchedSynonym": "prostaglandin E2",
+    "complete": true
+  },
+  "molecula-sacarosa": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5988/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5988/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5988",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5988, Sucrose. Fórmula: C12H22O11.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5988, Sucrose. Fórmula: C12H22O11.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Sucrose",
+        "chemicalCID": 5988
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5988/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5988/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5988",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5988, Sucrose. Fórmula: C12H22O11.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5988, Sucrose. Fórmula: C12H22O11.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Sucrose",
+        "chemicalCID": 5988
+      }
+    ],
+    "queryName": "sucrose",
+    "cid": 5988,
+    "properties": {
+      "CID": 5988,
+      "MolecularFormula": "C12H22O11",
+      "IUPACName": "(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol",
+      "Title": "Sucrose"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5988",
+    "matchedSynonym": "sucrose",
+    "complete": true
+  },
+  "molecula-vitamina-a-retinol": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/445354/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/445354/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/445354",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 445354, Retinol. Fórmula: C20H30O.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 445354, Retinol. Fórmula: C20H30O.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Retinol",
+        "chemicalCID": 445354
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/445354/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/445354/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/445354",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 445354, Retinol. Fórmula: C20H30O.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 445354, Retinol. Fórmula: C20H30O.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Retinol",
+        "chemicalCID": 445354
+      }
+    ],
+    "queryName": "retinol",
+    "cid": 445354,
+    "properties": {
+      "CID": 445354,
+      "MolecularFormula": "C20H30O",
+      "IUPACName": "(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraen-1-ol",
+      "Title": "Retinol"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/445354",
+    "matchedSynonym": "retinol",
+    "complete": true
+  },
+  "molecula-vitamina-b1-tiamina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1130/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1130/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/1130",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 1130, Thiamine. Fórmula: C12H17N4OS+.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 1130, Thiamine. Fórmula: C12H17N4OS+.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Thiamine",
+        "chemicalCID": 1130
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1130/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1130/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/1130",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 1130, Thiamine. Fórmula: C12H17N4OS+.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 1130, Thiamine. Fórmula: C12H17N4OS+.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Thiamine",
+        "chemicalCID": 1130
+      }
+    ],
+    "queryName": "thiamine",
+    "cid": 1130,
+    "properties": {
+      "CID": 1130,
+      "MolecularFormula": "C12H17N4OS+",
+      "IUPACName": "2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",
+      "Title": "Thiamine"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1130",
+    "matchedSynonym": "thiamine",
+    "complete": true
+  },
+  "molecula-vitamina-b12-cobalamina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/166596686/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/166596686/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/166596686",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 166596686, Cyanocobalamin. Fórmula: C63H88CoN14O14P.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 166596686, Cyanocobalamin. Fórmula: C63H88CoN14O14P.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Cyanocobalamin",
+        "chemicalCID": 166596686
+      }
+    ],
+    "queryName": "cyanocobalamin",
+    "cid": 166596686,
+    "properties": {
+      "CID": 166596686,
+      "MolecularFormula": "C63H88CoN14O14P",
+      "Title": "Cyanocobalamin"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/166596686",
+    "matchedSynonym": "cyanocobalamin",
+    "complete": true
+  },
+  "molecula-vitamina-b2-riboflavina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/493570/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/493570/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/493570",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 493570, Riboflavin. Fórmula: C17H20N4O6.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 493570, Riboflavin. Fórmula: C17H20N4O6.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Riboflavin",
+        "chemicalCID": 493570
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/493570/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/493570/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/493570",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 493570, Riboflavin. Fórmula: C17H20N4O6.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 493570, Riboflavin. Fórmula: C17H20N4O6.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Riboflavin",
+        "chemicalCID": 493570
+      }
+    ],
+    "queryName": "riboflavin",
+    "cid": 493570,
+    "properties": {
+      "CID": 493570,
+      "MolecularFormula": "C17H20N4O6",
+      "IUPACName": "7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridine-2,4-dione",
+      "Title": "Riboflavin"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/493570",
+    "matchedSynonym": "riboflavin",
+    "complete": true
+  },
+  "molecula-vitamina-b3-niacina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/938/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/938/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/938",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 938, Nicotinic Acid. Fórmula: C6H5NO2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 938, Nicotinic Acid. Fórmula: C6H5NO2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Nicotinic Acid",
+        "chemicalCID": 938
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/938/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/938/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/938",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 938, Nicotinic Acid. Fórmula: C6H5NO2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 938, Nicotinic Acid. Fórmula: C6H5NO2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Nicotinic Acid",
+        "chemicalCID": 938
+      }
+    ],
+    "queryName": "niacin",
+    "cid": 938,
+    "properties": {
+      "CID": 938,
+      "MolecularFormula": "C6H5NO2",
+      "IUPACName": "pyridine-3-carboxylic acid",
+      "Title": "Nicotinic Acid"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/938",
+    "matchedSynonym": "niacin",
+    "complete": true
+  },
+  "molecula-vitamina-b5-acido-pantotenico": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6613/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6613/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/6613",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 6613, Pantothenic Acid. Fórmula: C9H17NO5.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 6613, Pantothenic Acid. Fórmula: C9H17NO5.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Pantothenic Acid",
+        "chemicalCID": 6613
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6613/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6613/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/6613",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 6613, Pantothenic Acid. Fórmula: C9H17NO5.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 6613, Pantothenic Acid. Fórmula: C9H17NO5.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Pantothenic Acid",
+        "chemicalCID": 6613
+      }
+    ],
+    "queryName": "D-pantothenic acid",
+    "cid": 6613,
+    "properties": {
+      "CID": 6613,
+      "MolecularFormula": "C9H17NO5",
+      "IUPACName": "3-[[(2R)-2,4-dihydroxy-3,3-dimethylbutanoyl]amino]propanoic acid",
+      "Title": "Pantothenic Acid"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6613",
+    "matchedSynonym": "D-pantothenic acid",
+    "complete": true
+  },
+  "molecula-vitamina-b6-piridoxina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1054/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1054/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/1054",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 1054, Pyridoxine. Fórmula: C8H11NO3.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 1054, Pyridoxine. Fórmula: C8H11NO3.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Pyridoxine",
+        "chemicalCID": 1054
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1054/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1054/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/1054",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 1054, Pyridoxine. Fórmula: C8H11NO3.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 1054, Pyridoxine. Fórmula: C8H11NO3.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Pyridoxine",
+        "chemicalCID": 1054
+      }
+    ],
+    "queryName": "pyridoxine",
+    "cid": 1054,
+    "properties": {
+      "CID": 1054,
+      "MolecularFormula": "C8H11NO3",
+      "IUPACName": "4,5-bis(hydroxymethyl)-2-methylpyridin-3-ol",
+      "Title": "Pyridoxine"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1054",
+    "matchedSynonym": "pyridoxine",
+    "complete": true
+  },
+  "molecula-vitamina-b8-biotina": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/171548/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/171548/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/171548",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 171548, Biotin. Fórmula: C10H16N2O3S.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 171548, Biotin. Fórmula: C10H16N2O3S.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Biotin",
+        "chemicalCID": 171548
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/171548/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/171548/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/171548",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 171548, Biotin. Fórmula: C10H16N2O3S.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 171548, Biotin. Fórmula: C10H16N2O3S.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Biotin",
+        "chemicalCID": 171548
+      }
+    ],
+    "queryName": "biotin",
+    "cid": 171548,
+    "properties": {
+      "CID": 171548,
+      "MolecularFormula": "C10H16N2O3S",
+      "IUPACName": "5-[(3aS,4S,6aR)-2-oxo-1,3,3a,4,6,6a-hexahydrothieno[3,4-d]imidazol-4-yl]pentanoic acid",
+      "Title": "Biotin"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/171548",
+    "matchedSynonym": "biotin",
+    "complete": true
+  },
+  "molecula-vitamina-b9-acido-folico": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398658/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398658/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/135398658",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 135398658, Folic Acid. Fórmula: C19H19N7O6.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 135398658, Folic Acid. Fórmula: C19H19N7O6.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Folic Acid",
+        "chemicalCID": 135398658
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398658/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398658/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/135398658",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 135398658, Folic Acid. Fórmula: C19H19N7O6.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 135398658, Folic Acid. Fórmula: C19H19N7O6.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Folic Acid",
+        "chemicalCID": 135398658
+      }
+    ],
+    "queryName": "folic acid",
+    "cid": 135398658,
+    "properties": {
+      "CID": 135398658,
+      "MolecularFormula": "C19H19N7O6",
+      "IUPACName": "(2S)-2-[[4-[(2-amino-4-oxo-3H-pteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid",
+      "Title": "Folic Acid"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/135398658",
+    "matchedSynonym": "folic acid",
+    "complete": true
+  },
+  "molecula-vitamina-c": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54670067/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54670067/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 54670067, L-Ascorbic Acid. Fórmula: C6H8O6.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 54670067, L-Ascorbic Acid. Fórmula: C6H8O6.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "L-Ascorbic Acid",
+        "chemicalCID": 54670067
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54670067/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54670067/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 54670067, L-Ascorbic Acid. Fórmula: C6H8O6.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 54670067, L-Ascorbic Acid. Fórmula: C6H8O6.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "L-Ascorbic Acid",
+        "chemicalCID": 54670067
+      }
+    ],
+    "queryName": "L-ascorbic acid",
+    "cid": 54670067,
+    "properties": {
+      "CID": 54670067,
+      "MolecularFormula": "C6H8O6",
+      "IUPACName": "(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one",
+      "Title": "L-Ascorbic Acid"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067",
+    "matchedSynonym": "L-ascorbic acid",
+    "complete": true
+  },
+  "molecula-vitamina-d": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280795/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280795/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5280795",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5280795, Vitamin D3. Fórmula: C27H44O.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5280795, Vitamin D3. Fórmula: C27H44O.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Vitamin D3",
+        "chemicalCID": 5280795
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280795/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280795/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5280795",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5280795, Vitamin D3. Fórmula: C27H44O.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5280795, Vitamin D3. Fórmula: C27H44O.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Vitamin D3",
+        "chemicalCID": 5280795
+      }
+    ],
+    "queryName": "cholecalciferol",
+    "cid": 5280795,
+    "properties": {
+      "CID": 5280795,
+      "MolecularFormula": "C27H44O",
+      "IUPACName": "(1S,3Z)-3-[(2E)-2-[(1R,3aS,7aR)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexan-1-ol",
+      "Title": "Vitamin D3"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5280795",
+    "matchedSynonym": "cholecalciferol",
+    "complete": true
+  },
+  "molecula-vitamina-e": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/14985/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/14985/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/14985",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 14985, alpha-Tocopherol. Fórmula: C29H50O2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 14985, alpha-Tocopherol. Fórmula: C29H50O2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "alpha-Tocopherol",
+        "chemicalCID": 14985
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/14985/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/14985/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/14985",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 14985, alpha-Tocopherol. Fórmula: C29H50O2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 14985, alpha-Tocopherol. Fórmula: C29H50O2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "alpha-Tocopherol",
+        "chemicalCID": 14985
+      }
+    ],
+    "queryName": "alpha-tocopherol",
+    "cid": 14985,
+    "properties": {
+      "CID": 14985,
+      "MolecularFormula": "C29H50O2",
+      "IUPACName": "(2R)-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol",
+      "Title": "alpha-Tocopherol"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14985",
+    "matchedSynonym": "alpha-tocopherol",
+    "complete": true
+  },
+  "molecula-vitamina-k-fitomenadiona": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5284607/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5284607/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5284607",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 5284607, Phylloquinone. Fórmula: C31H46O2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 5284607, Phylloquinone. Fórmula: C31H46O2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Phylloquinone",
+        "chemicalCID": 5284607
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5284607/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5284607/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/5284607",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 5284607, Phylloquinone. Fórmula: C31H46O2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 5284607, Phylloquinone. Fórmula: C31H46O2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Phylloquinone",
+        "chemicalCID": 5284607
+      }
+    ],
+    "queryName": "phylloquinone",
+    "cid": 5284607,
+    "properties": {
+      "CID": 5284607,
+      "MolecularFormula": "C31H46O2",
+      "IUPACName": "2-methyl-3-[(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enyl]naphthalene-1,4-dione",
+      "Title": "Phylloquinone"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5284607",
+    "matchedSynonym": "phylloquinone",
+    "complete": true
+  },
+  "molecula-acido-graso": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/985/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/985/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/985",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 985, Palmitic Acid. Fórmula: C16H32O2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 985, Palmitic Acid. Fórmula: C16H32O2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Palmitic Acid",
+        "chemicalCID": 985
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/985/PNG?record_type=3d",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/985/PNG?record_type=3d",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/985",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 3D del registro PubChem CID 985, Palmitic Acid. Fórmula: C16H32O2.",
+        "sourceAlt": "Representación 3D del registro PubChem CID 985, Palmitic Acid. Fórmula: C16H32O2.",
+        "status": "pending",
+        "representation": "3d",
+        "chemicalRecord": "Palmitic Acid",
+        "chemicalCID": 985
+      }
+    ],
+    "queryName": "palmitic acid",
+    "cid": 985,
+    "properties": {
+      "CID": 985,
+      "MolecularFormula": "C16H32O2",
+      "IUPACName": "hexadecanoic acid",
+      "Title": "Palmitic Acid"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/985",
+    "matchedSynonym": "palmitic acid",
+    "complete": true
+  },
+  "molecula-cerido-cera-de-abeja": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/80126/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/80126/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/80126",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 80126, Triacontanyl palmitate. Fórmula: C46H92O2.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 80126, Triacontanyl palmitate. Fórmula: C46H92O2.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Triacontanyl palmitate",
+        "chemicalCID": 80126
+      }
+    ],
+    "queryName": "myricyl palmitate",
+    "cid": 80126,
+    "properties": {
+      "CID": 80126,
+      "MolecularFormula": "C46H92O2",
+      "IUPACName": "triacontyl hexadecanoate",
+      "Title": "Triacontanyl palmitate"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/80126",
+    "matchedSynonym": "myricyl palmitate",
+    "complete": true
+  },
+  "molecula-fosfolipido": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/452110/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/452110/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/452110",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 452110, Colfosceril Palmitate. Fórmula: C40H80NO8P.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 452110, Colfosceril Palmitate. Fórmula: C40H80NO8P.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Colfosceril Palmitate",
+        "chemicalCID": 452110
+      }
+    ],
+    "queryName": "1,2-dipalmitoyl-sn-glycero-3-phosphocholine",
+    "cid": 452110,
+    "properties": {
+      "CID": 452110,
+      "MolecularFormula": "C40H80NO8P",
+      "IUPACName": "[(2R)-2,3-di(hexadecanoyloxy)propyl] 2-(trimethylazaniumyl)ethyl phosphate",
+      "Title": "Colfosceril Palmitate"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/452110",
+    "matchedSynonym": "1,2-dipalmitoyl-sn-glycero-3-phosphocholine",
+    "complete": true
+  },
+  "molecula-triacilglicerido": {
+    "images": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11147/PNG?record_type=2d&image_size=300x300",
+        "key": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11147/PNG?record_type=2d&image_size=300x300",
+        "page": "https://pubchem.ncbi.nlm.nih.gov/compound/11147",
+        "author": "PubChem / National Library of Medicine, NIH",
+        "license": "PubChem / NLM: representación estructural del registro identificado; fuentes y condiciones en la ficha",
+        "provider": "PubChem",
+        "description": "Representación 2D del registro PubChem CID 11147, Tripalmitin. Fórmula: C51H98O6.",
+        "sourceAlt": "Representación 2D del registro PubChem CID 11147, Tripalmitin. Fórmula: C51H98O6.",
+        "status": "pending",
+        "representation": "2d",
+        "chemicalRecord": "Tripalmitin",
+        "chemicalCID": 11147
+      }
+    ],
+    "queryName": "tripalmitin",
+    "cid": 11147,
+    "properties": {
+      "CID": 11147,
+      "MolecularFormula": "C51H98O6",
+      "IUPACName": "2,3-di(hexadecanoyloxy)propyl hexadecanoate",
+      "Title": "Tripalmitin"
+    },
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/11147",
+    "matchedSynonym": "tripalmitin",
+    "complete": true
+  }
+}

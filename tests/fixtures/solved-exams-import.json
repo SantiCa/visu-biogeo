@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-26",
+  "catalogEntries": 2470,
+  "newEntryIds": [
+    "acanthus-mollis",
+    "bougainvillea-spectabilis",
+    "clavelina-lepadiformis",
+    "dama-dama",
+    "daphnia-pulex",
+    "eliomys-quercinus",
+    "espilita",
+    "fomes-fomentarius",
+    "gneis-glandular",
+    "ixodes-hexagonus",
+    "jacaranda-mimosifolia",
+    "latrodectus-tredecimguttatus",
+    "noctiluca-scintillans",
+    "ovis-orientalis-musimon",
+    "porcellio-scaber",
+    "sphagnum-subnitens",
+    "stentor-sp",
+    "yucca-gigantea"
+  ],
+  "newItemYearOccurrences": 78,
+  "priorityEntries": 162,
+  "itemYearOccurrences": 189,
+  "sourceEvidenceRows": 191,
+  "uncertainQuestions": 9,
+  "years": {
+    "2016": 16,
+    "2018": 58,
+    "2021": 51,
+    "2023": 40,
+    "2025": 24
+  }
+}
