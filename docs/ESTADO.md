@@ -4,6 +4,8 @@ Actualizado el 27 de octubre de 2026. Base funcional y de catálogo: **8.10**.
 
 Repositorio: `https://github.com/SantiCa/visu-biogeo` (privado). GitHub controla fuentes y cambios. La aplicación publicada sigue en `https://visu-biogeo-santica.nimblequail260.chatgpt.site/`; la sincronización sigue en el mismo proyecto Supabase.
 
+La raíz local definitiva es **`C:\Users\Santiago\Documents\ChatGPT\App Visu`**, coincidiendo con el proyecto que ya estaba abierto en Codex. Los archivos y `.git` están directamente en esa carpeta; la subcarpeta intermedia `Visu BioGeo` de la restauración se retiró. `traslado-local/` conserva los respaldos e informes históricos con sus rutas originales y queda fuera de Git.
+
 ## Estado validado al importar
 
 - 2.602 entradas; 2.267 con imagen aprobada, 2.123 con pareja.

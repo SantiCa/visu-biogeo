@@ -57,7 +57,7 @@ Para cambios de imágenes o fichas, ejecutar además las auditorías correspondi
 
 - `main` conserva la versión integrada; usar ramas `codex/descripcion-breve` para cada tarea nueva.
 - Commits que expliquen el cambio y su propósito; comprobar el diff antes de subir y no añadir archivos temporales.
-- Elegir el prompt de `docs/PROMPTS.md`; cada chat usa solo su guía en `docs/areas/`. Para trabajo simultáneo, seleccionar Worktree sobre el repositorio real; la carpeta exterior del traslado contiene otro Git vacío y no es la base adecuada.
+- Elegir el prompt de `docs/PROMPTS.md`; cada chat usa solo su guía en `docs/areas/`. Para trabajo simultáneo, seleccionar Worktree sobre el proyecto **App Visu**. En este PC su raíz es `C:\Users\Santiago\Documents\ChatGPT\App Visu`; la carpeta intermedia de la restauración ya se retiró y el Git vacío inicial quedó en el respaldo local.
 - Mantener `docs/ESTADO.md` breve y actualizado desde la integración. Las decisiones de cada tarea van en su PR para evitar conflictos entre chats.
 - No guardar credenciales en archivos o remotos Git. El código mantiene únicamente la clave publicable de Supabase.
 

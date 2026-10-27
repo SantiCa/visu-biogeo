@@ -2,6 +2,8 @@
 
 Estado del traslado: **27 de octubre de 2026**, zona Europe/Madrid.
 
+Raíz definitiva en este PC: `C:\Users\Santiago\Documents\ChatGPT\App Visu`. La aplicación y el repositorio Git están directamente en esa carpeta; ya no se utiliza la subcarpeta intermedia de la primera restauración.
+
 Actualización de control de versiones: las fuentes se mantienen en el repositorio privado `SantiCa/visu-biogeo`. Para empezar una tarea, leer `AGENTS.md` y `docs/ESTADO.md`; para clonar y recuperar el banco de fotos, `docs/DESARROLLO.md`. Los apartados históricos de este documento describen la copia completa del ZIP: las fotos, instaladores, cachés y el checkout de Sites quedan fuera del repositorio GitHub.
 
 ## 1. Qué se entrega y por dónde empezar
