@@ -2,9 +2,9 @@
 
 Fecha: 2026-10-27. Catálogo: 2602 entradas.
 
-- 4759 imágenes aprobadas y 2123 entradas con al menos dos imágenes distintas según su referencia.
+- 4765 imágenes aprobadas y 2126 entradas con al menos dos imágenes distintas según su referencia.
 - 162/162 prioritarias del histórico disponible con pareja. El histórico es parcial: no cubre todos los exámenes de las últimas dos décadas.
-- 479 entradas pendientes de completar la pareja; 335 sin imagen aprobada.
+- 476 entradas pendientes de completar la pareja; 332 sin imagen aprobada.
 - Archivos aprobados no legibles: 0.
 
 | Grupo | Entradas | Con pareja aprobada | Pendientes de pareja |
@@ -12,7 +12,7 @@ Fecha: 2026-10-27. Catálogo: 2602 entradas.
 | Organismos | 1745 | 1681 | 64 |
 | Minerales | 101 | 87 | 14 |
 | Rocas | 80 | 52 | 28 |
-| Fósiles | 141 | 57 | 84 |
+| Fósiles | 141 | 60 | 81 |
 | Estructuras e histología | 237 | 78 | 159 |
 | Lámina delgada | 80 | 57 | 23 |
 | Moléculas | 46 | 38 | 8 |

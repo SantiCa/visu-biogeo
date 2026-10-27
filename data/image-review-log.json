@@ -34032,5 +34032,94 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "foraminiferos-sin-foto-20261027",
+    "picksSha256": "8a3e48bbc1a732f673da34fb550f30f2f008a3377fa7a06ed389f2e682aaa8c1",
+    "date": "2026-10-27",
+    "note": "Originales y recortes inspeccionados individualmente; contraste documental con fuentes universitarias y WoRMS. Decisiones y aptitud de examen motivadas por imagen; no se aprueban vistas ambiguas ni Mesorbitolina texana como Orbitolina.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "alveolina",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Alveolina_LPL.jpg",
+        "status": "approved",
+        "examUse": "diagnostic",
+        "note": "Aprobada: estructura interna visible y concordante con la fuente; fotografía independiente de la segunda vista. No se exige identificación de especie."
+      },
+      {
+        "index": 1,
+        "itemId": "alveolina",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Calcaire_alveolines_saissac_herault.jpg",
+        "status": "rejected",
+        "examUse": "insufficient",
+        "note": "Rechazada: bloque de caliza atribuido a alvéolinas; en esta vista no se distinguen con suficiente claridad las camarillas ni el contorno de un ejemplar diagnóstico."
+      },
+      {
+        "index": 2,
+        "itemId": "nummulites",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nummulites_%28France%29.JPG",
+        "status": "approved",
+        "examUse": "detail",
+        "note": "Aprobada como detalle: el recorte centra la sección con espira y tabiques; la mezcla de bioclastos y la ausencia de vista completa impiden tratarla como diagnóstico suficiente para Andalucía."
+      },
+      {
+        "index": 3,
+        "itemId": "nummulites",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nummulites_atacicus.jpg",
+        "status": "rejected",
+        "examUse": "insufficient",
+        "note": "Rechazada: preparación museística de Nummulites atacicus con iluminación y contraste insuficientes para apreciar bien la espira y la disposición de las cámaras."
+      },
+      {
+        "index": 4,
+        "itemId": "orbitolina",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbitolina_1.jpg",
+        "status": "approved",
+        "examUse": "detail",
+        "note": "Aprobada como detalle: se ve la arquitectura interna, pero el aparato embrionario no es suficientemente resolutivo para una identificación autónoma sensu stricto. No elegible como vista diagnóstica de Andalucía."
+      },
+      {
+        "index": 5,
+        "itemId": "orbitolina",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Orbitolina_texana.jpg",
+        "status": "rejected",
+        "examUse": "insufficient",
+        "note": "Rechazada: la fuente fotográfica usa Orbitolina texana, pero la bibliografía y WoRMS la sitúan en Mesorbitolina texana. No sustituye al género Orbitolina del catálogo."
+      }
+    ],
+    "assessmentsSha256": "ddfdaacc869880663c34d7136bd6dfcc12acb0d8f6472ab149208b542076c2dc"
+  },
+  {
+    "batch": "foraminiferos-sin-foto-20261027-contraste",
+    "picksSha256": "7b1a846eceee16f1ad236b72479ff11ff79a19c2ca43559e3c8a955bb74ddd12",
+    "date": "2026-10-27",
+    "note": "Tres fotografías alternativas revisadas visualmente con sus fuentes y recortes. Alveolina diagnóstica; Nummulites y Orbitolina como detalles, sin pareja diagnóstica para Andalucía. Crédito y licencia conservados por imagen.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "alveolina",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Alveolina_Cross-section.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "status": "approved",
+        "examUse": "diagnostic",
+        "note": "Aprobada: segundo original independiente, con otra sección y escala conservada; concordancia documental y visual con Alveolina, sin asignación de especie."
+      },
+      {
+        "index": 1,
+        "itemId": "nummulites",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Nummulites_sp.5_-_Eoceno.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "status": "approved",
+        "examUse": "detail",
+        "note": "Aprobada como detalle: el recorte concentra varios ejemplares discoidales, bordes y secciones. Es una fotografía distinta de la caliza francesa; no se considera vista diagnóstica autónoma para Andalucía."
+      },
+      {
+        "index": 2,
+        "itemId": "orbitolina",
+        "url": "https://images.marinespecies.org/thumbs/165475_orbitolina-concava-lamarck-1816.jpg?w=700",
+        "status": "approved",
+        "examUse": "detail",
+        "note": "Aprobada como detalle: recorte exclusivo de la fotografía 7, con filas de camarillas; se excluyen los demás ejemplares y dibujos de la lámina. Resolución limitada; no suficiente para Andalucía."
+      }
+    ]
   }
 ]
