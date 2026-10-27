@@ -1,4 +1,156 @@
 {
+  "buthus-occitanus": {
+    "commonName": "Escorpión amarillo iberoprovenzal",
+    "description": "Escorpión de coloración básica amarillo pálido, con el dorso abdominal sin manchas o débilmente oscurecido. La revisión europea de 2025 sitúa la especie desde el este de España hasta el sureste de Francia; el uso antiguo del nombre abarcaba otros Buthus hoy separados.",
+    "diagnostics": [
+      "Pinzas con dedos alargados; la mano es estrecha en los machos y más globosa y engrosada en las hembras. No aplicar la forma de la pinza de un sexo al otro.",
+      "En la combinación diagnóstica de la revisión de 2025, las crestas que flanquean los ojos centrales presentan gránulos mayores que los de las otras crestas del caparazón y pigmentación oscura limitada a su mitad anterior.",
+      "Buthus elongatus y B. garcialorcai son especialmente parecidos, pero típicamente más anaranjados y con tres franjas oscuras dorsales. El color aislado no resuelve todas las poblaciones ni sustituye la clave.",
+      "La determinación exige combinar caracteres del caparazón, pinzas y segmentos de la cola con el sexo y la procedencia. Una foto general de un escorpión amarillo no confirma B. occitanus."
+    ],
+    "etymology": "Occitanus alude a Occitania, región francesa de la localidad tipo, Souvignargues, según la revisión de 2025. Para Buthus, Sousa y colaboradores señalan que Leach no explicó su elección y proponen conexiones con el nombre griego Bouthos y otras voces relacionadas con el buey. La motivación del género queda pendiente de contraste; esas propuestas no prueban que el nombre signifique «mata bueyes».",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1206/0003-0090.476.1.1",
+        "title": "Bulletin of the American Museum of Natural History · Systematic Revision of the European Species of Buthus (2025): diagnóstico, distribución e historia de occitanus"
+      },
+      {
+        "url": "https://diposit.ub.edu/server/api/core/bitstreams/b3d570f1-df6b-4603-a240-44cada345734/content",
+        "title": "Sousa y colaboradores · Updated catalogue and taxonomic notes on Buthus (2017): etimología del género y límites de las hipótesis"
+      },
+      {
+        "url": "https://www.inaturalist.org/taxa/127312",
+        "title": "iNaturalist · Buthus occitanus: nombre común documentado en la taxonomía del catálogo"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia con diagnóstico condicionado al sexo y a la revisión europea de 2025. Se conserva el ID del catálogo; las imágenes y determinaciones antiguas asociadas no se han reidentificado en esta revisión textual. Etimología del género parcialmente pendiente."
+  },
+  "cedrus-deodara": {
+    "commonName": "Cedro del Himalaya",
+    "description": "Conífera perennifolia originaria del Himalaya occidental y montañas próximas. Su copa suele ser cónica o piramidal, con el brote apical y los extremos de las ramas colgantes; presenta acículas largas y conos femeninos erectos de aspecto ovoide o de tonel.",
+    "diagnostics": [
+      "Guía terminal y puntas de las ramas claramente péndulas en el porte típico, rasgo útil frente a los otros cedros cuando se combina con las hojas.",
+      "Acículas finas, habitualmente de 3–4,5 cm, que pueden ser más largas en brotes de extensión. Se agrupan en numerosos haces aparentes sobre los brotes cortos o braquiblastos, mientras nacen solitarias en los nuevos tallos.",
+      "Conos femeninos erguidos sobre las ramas, no colgantes; los conos masculinos también son erectos y alargados.",
+      "La clave de Trees and Shrubs Online combina acículas largas y extremos péndulos para reconocer C. deodara. Los cultivares pueden modificar porte y color: no asignar la especie solo por un tono verde o azulado."
+    ],
+    "etymology": "Cedrus es el nombre latino del cedro, tomado del griego kedros, según el Dictionnaire de l'Académie française. Deodara procede del sánscrito devadāru, «madera de los dioses», según Trees and Shrubs Online. Las fuentes consultadas no establecen aquí una raíz anterior de kedros.",
+    "sources": [
+      {
+        "url": "https://www.treesandshrubsonline.org/articles/cedrus/cedrus-deodara/",
+        "title": "Trees and Shrubs Online · Cedrus deodara: morfología, variación hortícola y origen sánscrito de deodara"
+      },
+      {
+        "url": "https://www.treesandshrubsonline.org/articles/cedrus/",
+        "title": "Trees and Shrubs Online · Cedrus: clave comparada de las especies"
+      },
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/cedrus-deodara/",
+        "title": "NC State Extension · Cedrus deodara: disposición de acículas y conos y rasgos de identificación"
+      },
+      {
+        "url": "https://dictionnaire-academie.fr/article/B0C1226",
+        "title": "Dictionnaire de l'Académie française · Cèdre: latín cedrus y griego kedros"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocer el porte típico combinando ramificación, acículas y conos. No determina cultivares ni resuelve híbridos de cedro; no se atribuye un origen remoto no documentado a kedros."
+  },
+  "chalcides-striatus": {
+    "commonName": "Eslizón tridáctilo ibérico",
+    "description": "Reptil de cuerpo muy alargado y cilíndrico, escamas lisas y extremidades diminutas con tres dedos. El dorso suele ser pardo, oliváceo o bronceado, recorrido por líneas longitudinales, y el vientre es más claro. La cola intacta es muy larga, pero puede perderse parcialmente.",
+    "diagnostics": [
+      "Cuatro extremidades muy reducidas, de unos 4–7 mm, cada una con tres dedos; comprobarlos en un detalle antes de confundirlo con un reptil sin patas.",
+      "Cabeza apenas separada del cuello, hocico redondeado, ojos pequeños con párpados móviles y abertura auditiva visible.",
+      "Habitualmente nueve líneas dorsales, aunque pueden ser once o trece. Existen ejemplares sin bandas y melanísticos; la ausencia del diseño típico no descarta la especie.",
+      "El eslizón ibérico Chalcides bedriagai tiene cinco dedos en cada extremidad. Para una identificación fuera del ámbito ibérico, tres dedos y bandas no bastan por sí solos para separar todos los Chalcides."
+    ],
+    "etymology": "El Center for North American Herpetology relaciona Chalcides con el griego chalkos, «bronce» o «cobre», por el aspecto brillante de las escamas; es una explicación del género, no del epíteto de esta especie. Striatus procede del latín stria, «surco», aplicado también a una raya o línea, según The Reptile Database. No se ha verificado aquí la motivación expresada por el autor original del género.",
+    "sources": [
+      {
+        "url": "https://www.vertebradosibericos.org/reptiles/identificacion/chastrid.html",
+        "title": "Enciclopedia Virtual de los Vertebrados Españoles, MNCN-CSIC · Chalcides striatus: identificación, escamas y variación del diseño"
+      },
+      {
+        "url": "https://www.vertebradosibericos.org/reptiles/identificacion/chabedid.html",
+        "title": "Enciclopedia Virtual de los Vertebrados Españoles, MNCN-CSIC · Chalcides bedriagai: comparación del número de dedos"
+      },
+      {
+        "url": "https://cnah.org/taxon.aspx?taxon=Chalcides_ocellatus",
+        "title": "Center for North American Herpetology · Chalcides ocellatus: explicación etimológica del nombre genérico Chalcides"
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Chalcides/striatus?search_param=%28%28taxon%3D%27Sauria%27%29%29",
+        "title": "The Reptile Database · Chalcides striatus: etimología del epíteto striatus"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en rasgos externos del ámbito ibérico; contempla ejemplares sin bandas y colas incompletas. La referencia a Chalcides ocellatus se utiliza solo para la etimología compartida del género."
+  },
+  "circaetus-gallicus": {
+    "commonName": "Culebrera europea",
+    "description": "Rapaz de gran tamaño, de unos 62–69 cm de longitud y 160–175 cm de envergadura, especializada en capturar serpientes. Tiene cabeza voluminosa, ojos amarillos grandes, dorso pardo y partes inferiores generalmente claras con moteado o barrado variable.",
+    "diagnostics": [
+      "Cabeza grande y redondeada, con pico corto y robusto y ojos orientados hacia delante; en adultos suele destacar el contraste de la cabeza y el cuello oscuros con el vientre claro.",
+      "En vuelo: alas largas y anchas, secundarias barradas y cola con varias bandas, siendo la terminal más ancha.",
+      "Tarsos desnudos y escamosos, con dedos cortos y robustos; este detalle complementa la identificación por la cabeza y el plumaje.",
+      "Los jóvenes suelen mostrar menos barrado ventral y bandas menos patentes en alas y cola. El babero oscuro y el barrado varían; combinar cabeza, silueta y plumaje antes de identificar una rapaz distante."
+    ],
+    "etymology": "Circaetus combina el griego kirkos, nombre de un tipo de halcón, y aetós, «águila». Gallicus significa en latín «relativo a la Galia», es decir, Francia, según el diccionario etimológico de Enric Ortega publicado por el Institut d'Estudis Catalans. El epíteto no implica que la especie sea exclusiva de Francia.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/culebrera-europea/",
+        "title": "SEO/BirdLife · Culebrera europea: tamaño, cabeza, plumaje, vuelo y diferencias entre adultos y jóvenes"
+      },
+      {
+        "url": "https://www.elafoundation.org/ela/wp-content/uploads/2017/03/FACT-FILE_04_Short-Toed-Eagle.pdf",
+        "title": "Ela Foundation · Short-Toed Eagle: patas desnudas y escamosas y rasgos externos"
+      },
+      {
+        "url": "https://publicacions.iec.cat/repository/pdf/00000301/00000094.pdf#page=66",
+        "title": "Ortega i Gonzàlez, E. (2017), Institut d'Estudis Catalans · Diccionari etimològic dels noms científics dels ocells, p. 65: Circaetus gallicus"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para identificación visual, distinguiendo variación individual y juvenil. No se deducen edad exacta, sexo ni origen geográfico de una sola fotografía."
+  },
+  "columba-livia": {
+    "commonName": "Paloma bravía",
+    "description": "Paloma compacta de unos 31–34 cm de longitud, de cabeza pequeña y plumaje típicamente gris. La forma silvestre está ligada a roquedos y acantilados; las palomas domésticas y cimarronas pertenecen a la misma especie y presentan gran variación de aspecto.",
+    "diagnostics": [
+      "En el plumaje típico: dos barras negras bien marcadas sobre las alas grises y obispillo blanco, especialmente útil cuando se observa en vuelo.",
+      "Cuerpo redondeado y vuelo directo y rápido, con batidos potentes; interpretar estos rasgos junto con el diseño alar y el obispillo.",
+      "La paloma zurita, Columba oenas, muestra obispillo gris pálido en lugar del blanco típico de la bravía. La vista del dorso ayuda a separarlas.",
+      "Las formas domésticas y cimarronas pueden apartarse mucho del diseño gris con dos barras. Ni ese diseño ni la presencia en un acantilado garantizan ascendencia exclusivamente silvestre; una fotografía no resuelve la mezcla con linajes domésticos."
+    ],
+    "etymology": "Columba es el nombre latino de la paloma. El diccionario del Institut d'Estudis Catalans relaciona livia con livor, color amoratado o azulado. Otras explicaciones históricas detallan una forma medieval livia para la paloma bravía; aquí se conserva el sentido cromático documentado sin proponer una reconstrucción única de toda la cadena lingüística.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/paloma-bravia/",
+        "title": "SEO/BirdLife · Paloma bravía: identificación y dificultad de separar poblaciones silvestres y cimarronas"
+      },
+      {
+        "url": "https://seo.org/ave/paloma-zurita/",
+        "title": "SEO/BirdLife · Paloma zurita: comparación del obispillo con Columba livia"
+      },
+      {
+        "url": "https://publicacions.iec.cat/repository/pdf/00000301/00000094.pdf#page=100",
+        "title": "Ortega i Gonzàlez, E. (2017), Institut d'Estudis Catalans · Diccionari etimològic dels noms científics dels ocells, p. 99: Columba livia"
+      },
+      {
+        "url": "https://www.worldbirdnames.com/bird/rock-pigeon/1710.html",
+        "title": "World Bird Names · Rock Pigeon: explicación histórica de la voz medieval livia y su sentido cromático"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia del aspecto típico y sus límites ante variedades domésticas. No certifica pureza genética, condición silvestre ni subespecie; la variación de origen doméstico exige cautela al aplicar los rasgos."
+  },
   "aphrodita-aculeata": {
     "commonName": "Ratón de mar",
     "description": "Anélido marino de cuerpo ovalado y ancho, habitualmente de 10–20 cm, que vive en fondos arenosos o fangosos. El dorso convexo está cubierto por un fieltro de quetas finas; en los flancos sobresalen cerdas rígidas y quetas iridiscentes.",
