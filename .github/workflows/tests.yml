@@ -2,8 +2,43 @@ name: Pruebas
 
 on:
   push:
+    branches: [main]
+    paths:
+      - '*.js'
+      - '*.mjs'
+      - '*.html'
+      - '*.css'
+      - '*.webmanifest'
+      - 'requirements*.txt'
+      - 'data/**'
+      - 'desktop/**'
+      - 'icons/**'
+      - 'scripts/**'
+      - 'supabase/**'
+      - 'tests/**'
+      - 'vendor/**'
+      - '.github/workflows/**'
   pull_request:
+    paths:
+      - '*.js'
+      - '*.mjs'
+      - '*.html'
+      - '*.css'
+      - '*.webmanifest'
+      - 'requirements*.txt'
+      - 'data/**'
+      - 'desktop/**'
+      - 'icons/**'
+      - 'scripts/**'
+      - 'supabase/**'
+      - 'tests/**'
+      - 'vendor/**'
+      - '.github/workflows/**'
   workflow_dispatch:
+
+concurrency:
+  group: tests-${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: read

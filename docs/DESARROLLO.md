@@ -49,7 +49,7 @@ python -m unittest discover -s tests -p "test_*.py"
 
 Las pruebas de lógica no requieren el banco completo. La prueba nativa se omite si no existe el EXE; para ejecutarla en Windows compilar el lanzador y recuperar `--sample`. Su fixture histórico de importación está en `tests/fixtures/solved-exams-import.json`, no en una salida de trabajo ignorada por Git.
 
-GitHub Actions ejecuta las pruebas de fuentes en Ubuntu para cada push y pull request. En `workflow_dispatch` ejecuta además la integración Windows, que compila el lanzador y recupera las tres fotos de muestra. Así las comprobaciones habituales no dependen de la disponibilidad del alojamiento de fotos. La suite de medios prueba integridad, rechazo de rutas y preservación de archivos locales con respuestas simuladas.
+GitHub Actions ejecuta las pruebas de fuentes en Ubuntu para cambios de código/datos en PR y en `main`. Los cambios solo documentales y los pushes de etiquetas no disparan esa suite; una ejecución nueva del mismo PR sustituye la anterior en curso. En `workflow_dispatch` ejecuta además la integración Windows, que compila el lanzador y recupera las tres fotos de muestra. Así las comprobaciones habituales no dependen de la disponibilidad del alojamiento de fotos. La suite de medios prueba integridad, rechazo de rutas y preservación de archivos locales con respuestas simuladas.
 
 Para cambios de imágenes o fichas, ejecutar además las auditorías correspondientes de `AGENTS.md`. El empaquetado completo requiere el banco local y Windows: ver `CONTINUAR.md`, apartado 10.
 
@@ -57,7 +57,8 @@ Para cambios de imágenes o fichas, ejecutar además las auditorías correspondi
 
 - `main` conserva la versión integrada; usar ramas `codex/descripcion-breve` para cada tarea nueva.
 - Commits que expliquen el cambio y su propósito; comprobar el diff antes de subir y no añadir archivos temporales.
-- Mantener `docs/ESTADO.md` breve y actualizado. Llevar a cada tarea solo la información y los archivos que necesita.
+- Elegir el prompt de `docs/PROMPTS.md`; cada chat usa solo su guía en `docs/areas/`. Para trabajo simultáneo, seleccionar Worktree sobre el repositorio real; la carpeta exterior del traslado contiene otro Git vacío y no es la base adecuada.
+- Mantener `docs/ESTADO.md` breve y actualizado desde la integración. Las decisiones de cada tarea van en su PR para evitar conflictos entre chats.
 - No guardar credenciales en archivos o remotos Git. El código mantiene únicamente la clave publicable de Supabase.
 
 ## Publicación y respaldo

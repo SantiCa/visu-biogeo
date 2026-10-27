@@ -1,0 +1,37 @@
+name: Cambio concreto
+description: Una tarea acotada para un chat y un PR.
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área
+      options:
+        - Interfaz
+        - Aprendizaje
+        - Imágenes
+        - Fichas
+        - Catálogo y exámenes
+        - Sincronización
+        - Integración y publicación
+    validations:
+      required: true
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: Cambio solicitado
+      description: Describe un único resultado. Para un fallo, incluye cómo reproducirlo y qué esperabas.
+      placeholder: Al hacer X ocurre Y; debe ocurrir Z.
+    validations:
+      required: true
+  - type: textarea
+    id: terminado
+    attributes:
+      label: Cómo sabremos que está terminado
+      description: Uno o varios criterios observables; IDs concretos si se trata de un lote científico.
+    validations:
+      required: true
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto específico y dependencias
+      description: Opcional. IDs, archivos, capturas o PR relacionados; no pegar toda la historia del proyecto ni credenciales.
