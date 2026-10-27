@@ -1,4 +1,144 @@
 {
+  "aphrodita-aculeata": {
+    "commonName": "Ratón de mar",
+    "description": "Anélido marino de cuerpo ovalado y ancho, habitualmente de 10–20 cm, que vive en fondos arenosos o fangosos. El dorso convexo está cubierto por un fieltro de quetas finas; en los flancos sobresalen cerdas rígidas y quetas iridiscentes.",
+    "diagnostics": [
+      "Dorso densamente afelpado: los quince pares de escamas dorsales o élitros quedan ocultos bajo las quetas.",
+      "Franja lateral de cerdas oscuras y quetas con reflejos verdes, azules o dorados; MarLIN utiliza la iridiscencia lateral para separarla de Aphrodita alta y A. perarmata.",
+      "Cara ventral aplanada, pardoamarillenta y con segmentación visible; cabeza poco aparente, con dos palpos que asoman por delante.",
+      "Laetmonice hystrix tiene un cuerpo más estrecho y los élitros parcialmente visibles; una vista dorsal con las quetas deterioradas puede ocultar los rasgos necesarios para separarlas."
+    ],
+    "etymology": "Aphrodita alude a Afrodita, diosa griega del amor, según MarLIN y DORIS. Aculeata procede del latín aculeatus, provisto de aguijones o espinas, en referencia a las cerdas rígidas. No se ha establecido aquí por qué el autor eligió concretamente la alusión mitológica.",
+    "sources": [
+      {
+        "url": "https://www.marlin.ac.uk/species/detail/1697",
+        "title": "MarLIN · Aphrodita aculeata: descripción, caracteres de identificación y alusión a Afrodita"
+      },
+      {
+        "url": "https://doris.ffessm.fr/Especes/Aphrodita-aculeata-Aphrodite-149/%28rOffset%29/3",
+        "title": "DORIS · Aphrodita aculeata: comparación con Laetmonice hystrix y origen de los nombres"
+      }
+    ],
+    "reviewedAt": "2026-10-27",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para identificación visual del animal; los élitros suelen quedar ocultos. La referencia mitológica está documentada, pero su motivación original no se considera demostrada."
+  },
+  "apis-mellifera": {
+    "commonName": "Abeja de la miel",
+    "description": "Himenóptero social que forma colonias con reina, obreras y zánganos. Las obreras miden aproximadamente 10–15 mm, tienen el tórax piloso y el abdomen con bandas de coloración variable, desde tonos muy oscuros hasta mezclas de pardo y amarillo.",
+    "diagnostics": [
+      "En obreras: tórax con abundante pelo, abdomen menos piloso y ojos con pelos, apreciables en una vista cercana.",
+      "Las obreras poseen cestas de polen en las patas posteriores; pueden verse como cargas compactas cuando transportan polen, pero también pueden estar vacías.",
+      "Dos pares de alas membranosas, que pueden solaparse en reposo; el color de las bandas abdominales por sí solo no permite identificarla.",
+      "La reina es mayor que las obreras y los zánganos tienen ojos mucho más grandes. Los rasgos de las obreras no deben aplicarse sin más a las otras castas; esta ficha no determina subespecies ni separa todas las especies de Apis."
+    ],
+    "etymology": "Apis es el nombre latino de la abeja; mellifera significa «portadora de miel», según el Museo de Historia Natural de Harvard. Es el sentido del nombre, no una afirmación de que recoja miel de las flores: las abejas recolectan néctar y lo transforman en la colonia.",
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Apis_mellifera/",
+        "title": "Animal Diversity Web · Apis mellifera: tamaño, castas, variación de color y recolección de polen y néctar"
+      },
+      {
+        "url": "https://uwm.edu/field-station/bug-of-the-week/a-honey-of-a-bee/",
+        "title": "University of Wisconsin–Milwaukee · A Honey of a Bee: pilosidad de ojos y tórax y cestas de polen"
+      },
+      {
+        "url": "https://whatsinaname.hmnh.harvard.edu/bees",
+        "title": "Harvard Museum of Natural History · Honeybees: etimología de Apis mellifera y dos pares de alas"
+      }
+    ],
+    "reviewedAt": "2026-10-27",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en obreras adultas, con diferencias entre castas. No es una clave mundial del género ni una determinación de subespecie; la coloración y las cargas de polen no son diagnósticas por sí solas."
+  },
+  "arbutus-unedo": {
+    "commonName": "Madroño",
+    "description": "Arbusto o pequeño árbol perennifolio de hojas coriáceas y brillantes. Produce flores colgantes blancas, a veces rosadas, con corola en forma de pequeña orza, y bayas globosas de superficie granulosa que se vuelven rojas al madurar.",
+    "diagnostics": [
+      "Hojas alternas, de pecíolo corto, con margen finamente aserrado; el haz es verde brillante y la textura coriácea.",
+      "Flores reunidas en grupos colgantes, con pétalos soldados formando una corola urceolada, estrechada en la boca.",
+      "Fruto de aproximadamente 1–2 cm, esférico, con superficie áspera y verrucosa; pasa de amarillento a rojo intenso.",
+      "La maduración del fruto tarda un año, por lo que en otoño pueden coincidir flores y frutos maduros. Conviene combinar hojas, flores y frutos para identificar ejemplares incompletos."
+    ],
+    "etymology": "Arbutus es el nombre latino del madroño. Unedo también era un nombre latino de la planta y su fruto; el Muséum national d'Histoire naturelle recoge su explicación tradicional mediante unum edo, «como uno solo». Esta interpretación histórica no demuestra por sí misma una propiedad intoxicante del fruto; el origen remoto de Arbutus no queda establecido en las fuentes consultadas.",
+    "sources": [
+      {
+        "url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/iect_arbutus_unedo_tcm30-164139.pdf",
+        "title": "MITECO · Inventario de conocimientos tradicionales: Arbutus unedo, descripción y fenología"
+      },
+      {
+        "url": "https://www.mnhn.fr/fr/arbousier",
+        "title": "Muséum national d'Histoire naturelle · Arbousier: caracteres y etimología tradicional"
+      }
+    ],
+    "reviewedAt": "2026-10-27",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia de caracteres vegetativos y reproductivos. Se distingue la explicación tradicional de unedo de una prueba de sus supuestas causas; no se propone una raíz remota para Arbutus."
+  },
+  "bolinus-brandaris": {
+    "commonName": "Cañaílla",
+    "description": "Gasterópodo marino de concha globosa y espinosa, prolongada por un canal sifonal muy largo que le da aspecto de maza. Vive sobre fondos arenosos o fangosos del Mediterráneo y del Atlántico próximo; la concha puede alcanzar unos 9 cm incluyendo el canal.",
+    "diagnostics": [
+      "Última vuelta abultada y canal sifonal estrecho, muy prolongado, de longitud cercana a la mitad de la concha en ejemplares completos.",
+      "Relieves o varices con espinas sobre las vueltas; las espinas pueden romperse o desgastarse y quedar reducidas a tubérculos.",
+      "Abertura ovalada, interior anaranjado y opérculo córneo pardo; el exterior beige puede quedar oculto por organismos incrustantes.",
+      "Hexaplex trunculus presenta un canal más corto y una concha menos globosa, con tubérculos y frecuentes bandas violáceas. Revisar el conjunto de caracteres si el canal de la cañaílla está roto."
+    ],
+    "etymology": "El origen de Bolinus queda pendiente de contraste: DORIS recoge varias propuestas sin establecer una como segura. Para brandaris, DORIS propone una relación con el alemán Brandhorn y una posible alusión del canal a una espada; no se ha verificado esa derivación en la descripción original y se mantiene como hipótesis atribuida a esa fuente.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Bolinus-brandaris-Murex-epineux-2876/%28rOffset%29/0",
+        "title": "DORIS · Bolinus brandaris: concha, comparación con Hexaplex trunculus y propuestas etimológicas"
+      },
+      {
+        "url": "https://www.lavalledelmetauro.it/contenuti/funghi-flora-fauna/scheda/1890.html",
+        "title": "La Valle del Metauro · Bolinus brandaris: caracteres y observaciones de canales sifonales rotos"
+      },
+      {
+        "url": "https://fish-commercial-names.ec.europa.eu/fish-names/species/bolinus-brandaris_en",
+        "title": "Comisión Europea · Bolinus brandaris: denominación española cañaílla"
+      }
+    ],
+    "reviewedAt": "2026-10-27",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia de rasgos de la concha, considerando desgaste y roturas. Ficha descriptiva revisada con etimología pendiente; ninguna propuesta de origen del género o del epíteto se eleva a certeza."
+  },
+  "bombyx-mori": {
+    "commonName": "Gusano de seda",
+    "description": "Lepidóptero domesticado y criado por la seda de su capullo. La oruga madura suele ser clara, de superficie lisa y con un pequeño cuerno posterior; se alimenta de hojas de morera. El adulto es una polilla de color crema, cuerpo robusto y alas con líneas pardas tenues.",
+    "diagnostics": [
+      "Larva madura: cuerpo claro y alargado, casi sin pelos visibles, con marcas torácicas y un cuerno posterior; las primeras edades son más pilosas.",
+      "La oruga forma un capullo de seda que envuelve a la pupa; el capullo por sí solo no basta para identificar la especie.",
+      "Adulto: alas de color crema o blanquecino con líneas pardas suaves, aproximadamente 4–5 cm de envergadura, y cuerpo grueso y muy piloso.",
+      "Los adultos domésticos no vuelan. Bombyx mandarina presenta adultos pardos capaces de volar y larvas moteadas; distinguir siempre la fase observada y no identificar una oruga únicamente por alimentarse de morera."
+    ],
+    "etymology": "Bombyx procede del latín bombyx, tomado del griego bómbyx, nombre de un gusano productor de seda, según Treccani. Mori se interpreta como genitivo del latín morus, «morera», documentado por Lewis y Short: la lectura léxica del conjunto es «gusano de seda de la morera». Esta lectura no equivale a haber comprobado una explicación etimológica del autor original.",
+    "sources": [
+      {
+        "url": "https://www.lepidoptera.butterflyhouse.com.au/bomb/mori.html",
+        "title": "Herbison-Evans y Crossley · Bombyx mori: larva, capullo, adulto y alimentación"
+      },
+      {
+        "url": "https://home.sandiego.edu/~gmorse/2017SBIOL348/Website/Laboratory/Lab04_handout.pdf",
+        "title": "University of San Diego · Laboratorio 4: caracteres del adulto de Bombyx mori"
+      },
+      {
+        "url": "https://mississippientomologicalmuseum.org.msstate.edu/AnthroEnt/Textiles/Species/Bombyx_mori.html",
+        "title": "Mississippi Entomological Museum · Bombyx mori: domesticación y comparación con B. mandarina"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/bombice/",
+        "title": "Treccani · Bómbice: origen latino y griego del nombre Bombyx"
+      },
+      {
+        "url": "https://logeion.uchicago.edu/morus",
+        "title": "Logeion, University of Chicago · Lewis y Short: morus, morera"
+      }
+    ],
+    "reviewedAt": "2026-10-27",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que separa larva, pupa dentro del capullo y adulto doméstico; no constituye una clave de variedades de cría. La lectura de mori es una interpretación léxica documentada, no una motivación original verificada."
+  },
   "abies-pinsapo": {
     "commonName": "Pinsapo",
     "description": "Conífera de copa cónica y follaje muy denso.",
