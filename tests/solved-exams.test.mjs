@@ -28,7 +28,7 @@ test('all twenty 2023 photo answers include the two photos on the last relevant 
 });
 
 test('question marks and incompatible alternatives never become automatic occurrences',()=>{
- assert.equal(evidence.unresolved.length,9);
+ assert.equal(evidence.unresolved.length,8);
  for(const row of evidence.unresolved){
   assert.ok(!history.events.some(e=>e.evidenceId&&e.year===row.year&&e.option===row.option&&e.question===row.question));
  }
@@ -36,6 +36,26 @@ test('question marks and incompatible alternatives never become automatic occurr
  assert.equal(history.events.filter(e=>e.itemId==='antracita'&&e.year===2018).length,2);
  assert.equal(priorityInfo(entry('cuarzo'),history.events).count,3);
  assert.equal(priorityInfo(entry('sienita'),history.events).count,2);
+});
+
+test('an independently corroborated photo retains the doubtful key and the existing mineral ID',()=>{
+ const row=evidence.occurrences.find(r=>r.id==='provided-2021-B-5');
+ assert.equal(row.name,'Calcopirita');assert.equal(row.page,9);assert.equal(row.solutionPage,17);
+ assert.equal(row.sourceType,'solucionario-academia-aportado');
+ assert.deepEqual(row.photoReview.originalUncertainty.proposedNames,['Calcopirita']);
+ assert.equal(row.photoReview.originalUncertainty.priorityEligible,false);
+ assert.equal(row.photoReview.originalUncertainty.sourceFile,row.sourceFile);
+ assert.equal(row.photoReview.originalUncertainty.solutionPage,row.solutionPage);
+ assert.ok(row.photoReview.originalUncertainty.reason.includes('interrogación'));
+ assert.equal(row.photoReview.reference.label,'Calcopirita');
+ assert.equal(new URL(row.photoReview.reference.url).hostname,'recursos.edu.xunta.gal');
+ const event=history.events.find(e=>e.evidenceId===row.id);
+ assert.equal(event.itemId,'calcopirita');assert.deepEqual(event.photoReview,row.photoReview);
+ assert.equal(priorityInfo(entry('calcopirita'),history.events).count,1);
+ const exams=load('exams.json'),doc=exams.documents.find(d=>d.id==='andalucia-2021');
+ assert.equal(doc.official,false);assert.equal(doc.uncertainAnswers.length,3);
+ assert.deepEqual(exams.events.find(e=>e.evidenceId===row.id).photoReview,row.photoReview);
+ assert.deepEqual(evidence.unresolved.filter(r=>r.year===2021).map(r=>[r.option,r.question]),[['A','9'],['A','10'],['A','15']]);
 });
 
 test('documented synonyms work while printed misspellings remain provenance only',()=>{

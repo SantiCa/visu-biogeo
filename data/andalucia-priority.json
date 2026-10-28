@@ -18,7 +18,7 @@
     {
       "year": 2021,
       "source": "https://www.precege.com/download/examen-andalucia-2021/",
-      "coverage": "Clave contrastada: 12 de 15 seres vivos de A y 9 de 10 muestras de B identificados sin interrogante. Lista vegetal completada con Sphagnum subnitens; cuatro fotos permanecen dudosas."
+      "coverage": "12 de 15 seres vivos de A y las 10 muestras de B contrastados. Calcopirita B5 corroborada con la fotografía rotulada en una fuente docente independiente; se conserva el interrogante de la clave académica. Lista vegetal completada con Sphagnum subnitens; tres fotos de A permanecen pendientes."
     },
     {
       "year": 2023,
@@ -35,7 +35,7 @@
     "La serie 2006–2025 sigue siendo parcial; no localizar un año no demuestra que no hubiera convocatoria.",
     "Las frecuencias cuentan años distintos con evidencia de reconocimiento o clasificación nominal. Una misma entrada en dos opciones del mismo año cuenta una sola vez.",
     "2016 es una reconstrucción parcial. Las claves aportadas de 2018, 2021 y 2023 son académicas de PRECEGE, no solucionarios oficiales de la administración.",
-    "Las identificaciones con interrogante y las alternativas incompatibles se conservan como pendientes y no aumentan la frecuencia.",
+    "Las identificaciones con interrogante y las alternativas incompatibles sin contraste independiente se conservan como pendientes y no aumentan la frecuencia.",
     "Se normalizan erratas y sinónimos contrastados conservando el nombre impreso, el documento y la página de la clave."
   ],
   "unresolved": [
@@ -47,7 +47,6 @@
     "2021 A 9: Crangon crangon. El propio solucionario señala esta identificación con un signo de interrogación.",
     "2021 A 10: Triops cancriformis. El propio solucionario señala esta identificación con un signo de interrogación.",
     "2021 A 15: Macroprotodon brevis. El propio solucionario señala esta identificación con un signo de interrogación.",
-    "2021 B 5: Calcopirita. El propio solucionario señala esta identificación con un signo de interrogación.",
     "2025: tomillo, escorpión común, sapillo pintojo, chorlitejo, Alisio común y escolopendra común: falta una clave inequívoca."
   ],
   "events": [
@@ -2572,6 +2571,54 @@
       "name": "Bolinus brandaris",
       "evidenceId": "provided-2023-B-10",
       "source": "https://www.juntadeandalucia.es/educacion/portales/documents/20123/922823/590008%20BIOLOGI%C2%BFA%20Y%20GEOLOGI%C2%BFA%20P.E.S..pdf/ca83ea46-ceec-786d-44ce-764d7b30fb63"
+    },
+    {
+      "year": 2021,
+      "option": "B",
+      "question": "5",
+      "page": 9,
+      "solutionPage": 17,
+      "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
+      "sourceName": "Calcopirita",
+      "context": "fotografia-con-clave-academica",
+      "sourceType": "solucionario-academia-aportado",
+      "note": "Identificación corroborada por coincidencia de la fotografía de B5 con la imagen rotulada Calcopirita en Materiales de uso técnico (Xunta de Galicia, sección Cobre; crédito ISFTIC). El solucionario aportado mantiene su interrogante original; la corroboración externa no constituye una clave oficial. Clave académica contrastada con la numeración del enunciado; no es un solucionario oficial de la administración.",
+      "photoReview": {
+        "reviewedAt": "2026-10-28",
+        "method": "Cotejo visual de la misma fotografía: silueta, fracturas y distribución del brillo; el enunciado usa una versión reducida.",
+        "originalUncertainty": {
+          "year": 2021,
+          "option": "B",
+          "question": "5",
+          "proposedNames": [
+            "Calcopirita"
+          ],
+          "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
+          "solutionPage": 17,
+          "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
+          "priorityEligible": false
+        },
+        "paper": {
+          "documentId": "paper-2021",
+          "sourceFile": "Andalucia 2021.pdf",
+          "page": 9,
+          "illustration": "5",
+          "imageSha256": "3f21bb5d90403018068e543f01d50c0e3193a23616a928c093e8f511a7bec47a"
+        },
+        "reference": {
+          "url": "https://recursos.edu.xunta.gal/sites/default/files/recurso/1464947174/531_metales_pesados.html",
+          "title": "Materiales de uso técnico · 5.3.1. Metales Pesados · Cobre",
+          "publisher": "Xunta de Galicia",
+          "label": "Calcopirita",
+          "imageUrl": "https://recursos.edu.xunta.gal/sites/default/files/recurso/1464947174/calcopiritaisf.jpg",
+          "imageSha256": "6d4f405ba03f4083cd17c2e2f0dd9f3bd4ae53a3d4eaf16383ac9d1ed550f85a",
+          "attribution": "ISFTIC, según el crédito del recurso docente; no se especifica el fotógrafo individual."
+        }
+      },
+      "itemId": "calcopirita",
+      "name": "Calcopirita",
+      "evidenceId": "provided-2021-B-5",
+      "source": "https://www.precege.com/download/examen-andalucia-2021/"
     }
   ],
   "answerKeyDocuments": [
@@ -2724,18 +2771,6 @@
       ],
       "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
       "solutionPage": 16,
-      "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
-      "priorityEligible": false
-    },
-    {
-      "year": 2021,
-      "option": "B",
-      "question": "5",
-      "proposedNames": [
-        "Calcopirita"
-      ],
-      "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
-      "solutionPage": 17,
       "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
       "priorityEligible": false
     }

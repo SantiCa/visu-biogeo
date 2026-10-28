@@ -1105,6 +1105,55 @@
       "note": ""
     },
     {
+      "id": "provided-2021-B-5",
+      "year": 2021,
+      "option": "B",
+      "question": "5",
+      "name": "Calcopirita",
+      "kind": "mineral",
+      "page": 9,
+      "solutionPage": 17,
+      "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
+      "sourceName": "Calcopirita",
+      "context": "fotografia-con-clave-academica",
+      "sourceType": "solucionario-academia-aportado",
+      "studyLists": [],
+      "aliases": [],
+      "note": "Identificación corroborada por coincidencia de la fotografía de B5 con la imagen rotulada Calcopirita en Materiales de uso técnico (Xunta de Galicia, sección Cobre; crédito ISFTIC). El solucionario aportado mantiene su interrogante original; la corroboración externa no constituye una clave oficial.",
+      "photoReview": {
+        "reviewedAt": "2026-10-28",
+        "method": "Cotejo visual de la misma fotografía: silueta, fracturas y distribución del brillo; el enunciado usa una versión reducida.",
+        "originalUncertainty": {
+          "year": 2021,
+          "option": "B",
+          "question": "5",
+          "proposedNames": [
+            "Calcopirita"
+          ],
+          "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
+          "solutionPage": 17,
+          "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
+          "priorityEligible": false
+        },
+        "paper": {
+          "documentId": "paper-2021",
+          "sourceFile": "Andalucia 2021.pdf",
+          "page": 9,
+          "illustration": "5",
+          "imageSha256": "3f21bb5d90403018068e543f01d50c0e3193a23616a928c093e8f511a7bec47a"
+        },
+        "reference": {
+          "url": "https://recursos.edu.xunta.gal/sites/default/files/recurso/1464947174/531_metales_pesados.html",
+          "title": "Materiales de uso técnico · 5.3.1. Metales Pesados · Cobre",
+          "publisher": "Xunta de Galicia",
+          "label": "Calcopirita",
+          "imageUrl": "https://recursos.edu.xunta.gal/sites/default/files/recurso/1464947174/calcopiritaisf.jpg",
+          "imageSha256": "6d4f405ba03f4083cd17c2e2f0dd9f3bd4ae53a3d4eaf16383ac9d1ed550f85a",
+          "attribution": "ISFTIC, según el crédito del recurso docente; no se especifica el fotógrafo individual."
+        }
+      }
+    },
+    {
       "id": "provided-2021-B-6",
       "year": 2021,
       "option": "B",
@@ -1656,18 +1705,6 @@
       ],
       "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
       "solutionPage": 16,
-      "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
-      "priorityEligible": false
-    },
-    {
-      "year": 2021,
-      "option": "B",
-      "question": "5",
-      "proposedNames": [
-        "Calcopirita"
-      ],
-      "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
-      "solutionPage": 17,
       "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
       "priorityEligible": false
     }

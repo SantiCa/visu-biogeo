@@ -7466,7 +7466,8 @@
     ],
     "sources": [
       "Listado MINERALES VISU I II III.pdf",
-      "Examen Madrid · recopilación sin fecha"
+      "Examen Madrid · recopilación sin fecha",
+      "Examen Andalucía 2021"
     ],
     "sourcePages": [
       {
@@ -7476,6 +7477,10 @@
       {
         "file": "VISUS DE MADRID DE VARIOS AÑOS.pdf",
         "page": 14
+      },
+      {
+        "file": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
+        "page": 17
       }
     ],
     "notes": "",
