@@ -1,8 +1,12 @@
 # Estado del proyecto
 
-Actualizado el 27 de octubre de 2026. Base funcional y de catálogo: **8.10**.
+Actualizado el 28 de octubre de 2026. Base funcional y de catálogo: **8.11**.
 
 Repositorio: `https://github.com/SantiCa/visu-biogeo` (privado). GitHub controla fuentes y cambios. La aplicación publicada sigue en `https://visu-biogeo-santica.nimblequail260.chatgpt.site/`; la sincronización sigue en el mismo proyecto Supabase.
+
+La versión 8.11 incorpora 15 fichas prioritarias (455 en total, 85 de 103 prioritarias), el modo oscuro configurable y la aparición corroborada de calcopirita en Andalucía 2021. La tanda de foraminíferos permanece en el PR #5 en borrador y no está publicada. Los casos A9, A10 y A15 de Andalucía 2021 siguen pendientes.
+
+Publicación: versión 18 de Sites, manifiesto activo `60ac4bca9615f5ae3498949f209195853c6775ba6ea29a66a5aa5c3c969131dd`, 4.758 archivos. Se verificaron 4.704 imágenes locales, 66 pruebas JavaScript, 15 Python, los archivos públicos de aprendizaje y el paquete Windows. La revisión visual móvil y la sincronización con cuentas reales quedan pendientes de comprobación manual.
 
 La raíz local definitiva es **`C:\Users\Santiago\Documents\ChatGPT\App Visu`**, coincidiendo con el proyecto que ya estaba abierto en Codex. Los archivos y `.git` están directamente en esa carpeta; la subcarpeta intermedia `Visu BioGeo` de la restauración se retiró. `traslado-local/` conserva los respaldos e informes históricos con sus rutas originales y queda fuera de Git.
 
