@@ -1,8 +1,8 @@
 # Estado de la revisión de imágenes
 
-Fecha: 2026-10-27. Catálogo: 2602 entradas.
+Fecha: 2026-10-28. Catálogo: 2602 entradas.
 
-- 4765 imágenes aprobadas y 2126 entradas con al menos dos imágenes distintas según su referencia.
+- 4769 imágenes aprobadas y 2126 entradas con al menos dos imágenes distintas según su referencia.
 - 162/162 prioritarias del histórico disponible con pareja. El histórico es parcial: no cubre todos los exámenes de las últimas dos décadas.
 - 476 entradas pendientes de completar la pareja; 332 sin imagen aprobada.
 - Archivos aprobados no legibles: 0.

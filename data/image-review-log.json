@@ -34121,5 +34121,60 @@
         "note": "Aprobada como detalle: recorte exclusivo de la fotografía 7, con filas de camarillas; se excluyen los demás ejemplares y dibujos de la lámina. Resolución limitada; no suficiente para Andalucía."
       }
     ]
+  },
+  {
+    "batch": "foraminiferos-diagnostico-20261028",
+    "picksSha256": "2ffb684245637957dae8418108e7f3eace08044b7665c88b8a718d304c468127",
+    "date": "2026-10-28",
+    "note": "Cinco microfotografías distintas contrastadas con publicaciones científicas, sus leyendas, licencias y revisión visual de originales y recortes. El uso diagnóstico se limita al género; las asignaciones de especie de Orbitolina se contrastan con la revisión de 2024.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "nummulites",
+        "url": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1742/egusphere-2025-1742.pdf#page=28&figure=A2a",
+        "status": "approved",
+        "examUse": "diagnostic",
+        "note": "Sección ecuatorial reconocible de ejemplar identificado en fuente científica; fotografía distinta de la figura A3d."
+      },
+      {
+        "index": 1,
+        "itemId": "nummulites",
+        "url": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1742/egusphere-2025-1742.pdf#page=29&figure=A3d",
+        "status": "approved",
+        "examUse": "diagnostic",
+        "note": "Vista externa de un espécimen diferente: contorno discoidal, granulación y superficie conservados. La leyenda original repite por error la letra d; la imagen d corresponde visualmente a la vista externa descrita primero."
+      },
+      {
+        "index": 2,
+        "itemId": "orbitolina",
+        "url": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=5&plate=1&figure=3",
+        "status": "approved",
+        "examUse": "diagnostic",
+        "note": "Aprobada para reconocimiento del género: aparato embrionario y cámaras visibles. La fuente original indicó O. sefini; Bidgood et al. (2024) la consideran probablemente O. hensoni; no se exige identificación específica."
+      },
+      {
+        "index": 3,
+        "itemId": "orbitolina",
+        "url": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=7&plate=2&figure=2",
+        "status": "approved",
+        "examUse": "diagnostic",
+        "note": "Aprobada para reconocimiento del género: segundo espécimen y fotografía independiente con aparato embrionario y arquitectura interna; identificación del topotipo corroborada por Bidgood et al. (2024)."
+      },
+      {
+        "index": 4,
+        "itemId": "orbitolina",
+        "url": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=7&plate=2&figure=4",
+        "status": "approved",
+        "examUse": "detail",
+        "note": "Sustituye al detalle WoRMS de 223 × 168 px por una fotografía independiente de 561 × 248 px extraída a su resolución nativa. La fuente no determina la especie; se mantiene como detalle."
+      },
+      {
+        "itemId": "orbitolina",
+        "url": "https://images.marinespecies.org/thumbs/165475_orbitolina-concava-lamarck-1816.jpg?w=700",
+        "status": "rejected",
+        "note": "Sustituida por una vista independiente de la zona marginal a mayor resolución nativa (561 × 248 frente a 223 × 168 px). La identificación anterior se conserva como historial.",
+        "supersededBy": "./assets/reviewed/50d2f608d75ff9fbf738.jpg"
+      }
+    ]
   }
 ]

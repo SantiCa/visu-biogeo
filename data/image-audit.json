@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "catalogEntries": 2602,
   "entriesWithApprovedImage": 2270,
   "entriesWithPair": 2126,
-  "approvedImages": 4765,
+  "approvedImages": 4769,
   "priorityEntries": 162,
   "priorityWithPair": 162,
   "decisions": {
-    "approved": 4766,
-    "rejected": 701,
+    "approved": 4770,
+    "rejected": 702,
     "pending": 3
   },
   "imageSources": {
@@ -61,8 +61,9 @@
     "response.restoration.noaa.gov": 4,
     "www.uv.es": 6,
     "uwaterloo.ca": 2,
+    "egusphere.copernicus.org": 2,
     "www.csmc.uni-hamburg.de": 1,
-    "www.marinespecies.org": 1,
+    "jm.copernicus.org": 3,
     "www.cdc.gov": 6,
     "parquesnaturales.gva.es": 1,
     "gq.mines.gouv.qc.ca": 1,
