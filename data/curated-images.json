@@ -80550,6 +80550,131 @@
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
         "reviewNote": "Inspeccionadas las siete hojas. Se aprueban ejemplares con correspondencia documental y rasgos visibles; se excluyen registros escritos, cartelas con respuesta, material oculto en bolsas, fragmentos poco informativos y cortes sin rasgos suficientes. Algunos originales rotulados se sustituyen por recortes revisados. Las descargas fallidas siguen pendientes.",
         "reviewBatch": "catalogo-museos-002"
+      },
+      {
+        "url": "./assets/reviewed/50d7a43136f5b0f28232.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nummulites_(France).JPG",
+        "key": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nummulites_%28France%29.JPG",
+        "title": "File:Nummulites (France).JPG",
+        "author": "Parent Géry",
+        "license": "CC BY-SA 3.0",
+        "description": "Detalle de una sección espiralada de Nummulites en caliza con otros bioclastos; se conserva la matriz circundante. Identificación a nivel de género según la fuente.",
+        "category": "Nummulites",
+        "status": "approved",
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Aprobada como detalle: el recorte centra la sección con espira y tabiques; la mezcla de bioclastos y la ausencia de vista completa impiden tratarla como diagnóstico suficiente para Andalucía.",
+        "reviewBatch": "foraminiferos-sin-foto-20261027",
+        "crop": [
+          0.3,
+          0.45,
+          0.28,
+          0.4
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos. · Sin retoque de rasgos; original conservado en el lote local. Identificación del catálogo a nivel de género.",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nummulites_%28France%29.JPG",
+        "examUse": "detail",
+        "verificationSources": [
+          "https://ucldigitalpress.co.uk/Book/Article/75/99/5558/"
+        ],
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nummulites_atacicus.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nummulites_atacicus.jpg",
+        "key": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nummulites_atacicus.jpg",
+        "title": "File:Nummulites atacicus.jpg",
+        "author": "Ghedoghedo",
+        "license": "CC BY-SA 4.0",
+        "description": "Italiano: Fossil- Took the picture at Teylers Museum, Haarlem",
+        "category": "Nummulites",
+        "status": "rejected",
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Rechazada: preparación museística de Nummulites atacicus con iluminación y contraste insuficientes para apreciar bien la espira y la disposición de las cámaras.",
+        "reviewBatch": "foraminiferos-sin-foto-20261027",
+        "examUse": "insufficient",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "url": "./assets/reviewed/b9a9eba18b72ee158dcf.jpg",
+        "key": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Nummulites_sp.5_-_Eoceno.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "page": "https://commons.wikimedia.org/wiki/File:Nummulites_sp.5_-_Eoceno.JPG",
+        "author": "porshunta",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "description": "Detalle de caliza con Nummulites de la colección docente de la Universidade da Coruña; ejemplares expuestos en superficie y secciones en la matriz.",
+        "examUse": "detail",
+        "status": "approved",
+        "reviewNote": "Aprobada como detalle: el recorte concentra varios ejemplares discoidales, bordes y secciones. Es una fotografía distinta de la caliza francesa; no se considera vista diagnóstica autónoma para Andalucía.",
+        "verificationSources": [
+          "https://ucldigitalpress.co.uk/Book/Article/75/99/5558/"
+        ],
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewBatch": "foraminiferos-sin-foto-20261027-contraste",
+        "crop": [
+          0.14,
+          0.36,
+          0.5,
+          0.47
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos. · Sin retoque de rasgos; original conservado en el lote local. Identificación del catálogo a nivel de género.",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Nummulites_sp.5_-_Eoceno.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+      },
+      {
+        "url": "./assets/reviewed/f78aed91f3ccca9269a1.jpg",
+        "key": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1742/egusphere-2025-1742.pdf#page=28&figure=A2a",
+        "page": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1742/egusphere-2025-1742.pdf#page=28&figure=A2a",
+        "author": "Pablo Santolaria, Roi Silva-Casal, Núria Carrera, Josep A. Muñoz, Pau Arbués y Pablo Granado",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Sección ecuatorial de Nummulites manfredi (forma B), muestra LP-1, figura A2a de Santolaria et al. (2025). Espira y cámaras sucesivas bien visibles. La barra común de 2 mm está fuera del recorte.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "reviewNote": "Sección ecuatorial reconocible de ejemplar identificado en fuente científica; fotografía distinta de la figura A3d.",
+        "reference": "Fotografía científica extraída de la figura identificada en el PDF; se conservan los originales y las coordenadas de recorte. · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "verificationSources": [
+          "https://doi.org/10.5194/se-16-899-2025"
+        ],
+        "sourceImage": "nummulites-pyrenees-216.jpeg",
+        "reviewedAt": "2026-10-28",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewBatch": "foraminiferos-diagnostico-20261028",
+        "crop": [
+          0,
+          0,
+          0.36,
+          0.26
+        ],
+        "originalUrl": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1742/egusphere-2025-1742.pdf#page=28&figure=A2a"
+      },
+      {
+        "url": "./assets/reviewed/f8b70af7e7609476b19a.jpg",
+        "key": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1742/egusphere-2025-1742.pdf#page=29&figure=A3d",
+        "page": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1742/egusphere-2025-1742.pdf#page=29&figure=A3d",
+        "author": "Pablo Santolaria, Roi Silva-Casal, Núria Carrera, Josep A. Muñoz, Pau Arbués y Pablo Granado",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista exterior de Nummulites campesinus (forma B), muestra ST-1, figura A3d de Santolaria et al. (2025). Se aprecian el test discoidal y los gránulos superficiales. La barra común de 2 mm está fuera del recorte.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "reviewNote": "Vista externa de un espécimen diferente: contorno discoidal, granulación y superficie conservados. La leyenda original repite por error la letra d; la imagen d corresponde visualmente a la vista externa descrita primero.",
+        "reference": "Fotografía científica extraída de la figura identificada en el PDF; se conservan los originales y las coordenadas de recorte. · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "verificationSources": [
+          "https://doi.org/10.5194/se-16-899-2025"
+        ],
+        "sourceImage": "nummulites-pyrenees-226.png",
+        "reviewedAt": "2026-10-28",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewBatch": "foraminiferos-diagnostico-20261028",
+        "crop": [
+          0,
+          0.52,
+          0.29,
+          0.4
+        ],
+        "originalUrl": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1742/egusphere-2025-1742.pdf#page=29&figure=A3d"
       }
     ]
   },
@@ -80611,6 +80736,155 @@
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
         "reviewNote": "Inspeccionadas las siete hojas. Se aprueban ejemplares con correspondencia documental y rasgos visibles; se excluyen registros escritos, cartelas con respuesta, material oculto en bolsas, fragmentos poco informativos y cortes sin rasgos suficientes. Algunos originales rotulados se sustituyen por recortes revisados. Las descargas fallidas siguen pendientes.",
         "reviewBatch": "catalogo-museos-002"
+      },
+      {
+        "url": "./assets/reviewed/1998914d98c7f5ff46bc.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Orbitolina_1.jpg",
+        "key": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbitolina_1.jpg",
+        "title": "File:Orbitolina 1.jpg",
+        "author": "Ringwoodit",
+        "license": "CC BY-SA 4.0",
+        "description": "Sección de Orbitolina en lámina delgada, paralela al eje del cono según la fuente. Se observan capas de cámaras y región interna reticulada; no se asigna especie.",
+        "category": "Orbitolina",
+        "status": "approved",
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Aprobada como detalle: se ve la arquitectura interna, pero el aparato embrionario no es suficientemente resolutivo para una identificación autónoma sensu stricto. No elegible como vista diagnóstica de Andalucía.",
+        "reviewBatch": "foraminiferos-sin-foto-20261027",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbitolina_1.jpg",
+        "examUse": "detail",
+        "verificationSources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10171425/",
+          "https://www.vliz.be/en/imis?module=ref&refid=396499&show=html"
+        ],
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reference": "Sin retoque de rasgos; original conservado en el lote local. Identificación del catálogo a nivel de género."
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Orbitolina_texana.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Orbitolina_texana.jpg",
+        "key": "https://upload.wikimedia.org/wikipedia/commons/6/63/Orbitolina_texana.jpg",
+        "title": "File:Orbitolina texana.jpg",
+        "author": "Ecphora",
+        "license": "CC BY-SA 3.0",
+        "description": "English: Orbitolina texana (Roemer).  Fossil shell of a foramanifera from the Glen Rose Formation (Lower Cretaceous) of Comal County, Texas",
+        "category": "Orbitolina",
+        "status": "rejected",
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Rechazada: la fuente fotográfica usa Orbitolina texana, pero la bibliografía y WoRMS la sitúan en Mesorbitolina texana. No sustituye al género Orbitolina del catálogo.",
+        "reviewBatch": "foraminiferos-sin-foto-20261027",
+        "examUse": "insufficient",
+        "verificationSources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10171425/",
+          "https://www.marinespecies.org/aphia.php?p=image&pic=165258"
+        ],
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "url": "./assets/reviewed/4655ce2d89911c1dbeb3.jpg",
+        "key": "https://images.marinespecies.org/thumbs/165475_orbitolina-concava-lamarck-1816.jpg?w=700",
+        "page": "https://www.marinespecies.org/foraminifera/aphia.php?p=image&pic=165475",
+        "author": "Loeblich y Tappan (1987), fig. 7 procedente de Douglass (1960); digitalización: François Le Coze",
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "description": "Sección tangencial de un topotipo de Orbitolina concava, Ballon (Sarthe, Francia), fig. 7 de la lámina 183 de Loeblich y Tappan (1987), procedente de Douglass (1960). Aumento indicado en la fuente: ×50.",
+        "examUse": "detail",
+        "status": "rejected",
+        "reviewNote": "Sustituida por una vista independiente de la zona marginal a mayor resolución nativa (561 × 248 frente a 223 × 168 px). La identificación anterior se conserva como historial.",
+        "verificationSources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10171425/"
+        ],
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewBatch": "foraminiferos-sin-foto-20261027-contraste",
+        "crop": [
+          0.49,
+          0.005,
+          0.49,
+          0.24
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos. · Sin retoque de rasgos; original conservado en el lote local. Identificación del catálogo a nivel de género.",
+        "originalUrl": "https://images.marinespecies.org/thumbs/165475_orbitolina-concava-lamarck-1816.jpg?w=700",
+        "previousReviewNote": "Aprobada como detalle: recorte exclusivo de la fotografía 7, con filas de camarillas; se excluyen los demás ejemplares y dibujos de la lámina. Resolución limitada; no suficiente para Andalucía.",
+        "lastReviewedAt": "2026-10-28",
+        "lastReviewBatch": "foraminiferos-diagnostico-20261028",
+        "supersededBy": "./assets/reviewed/50d2f608d75ff9fbf738.jpg"
+      },
+      {
+        "url": "./assets/reviewed/38f738159f4962a07238.jpg",
+        "key": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=5&plate=1&figure=3",
+        "page": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=5&plate=1&figure=3",
+        "author": "M. D. Simmons y C. L. Williams",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Sección axial de Orbitolina de Wolborough, Devon, lámina 1 figura 3 de Simmons y Williams (1992). Se aprecia el aparato embrionario apical y la disposición de cámaras.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "reviewNote": "Aprobada para reconocimiento del género: aparato embrionario y cámaras visibles. La fuente original indicó O. sefini; Bidgood et al. (2024) la consideran probablemente O. hensoni; no se exige identificación específica.",
+        "reference": "Fotografía científica extraída de la figura identificada en el PDF; se conservan los originales y las coordenadas de recorte. · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "verificationSources": [
+          "https://doi.org/10.35463/j.apr.2024.02.05"
+        ],
+        "sourceImage": "orbitolina-england-1992-22.jpeg",
+        "reviewedAt": "2026-10-28",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewBatch": "foraminiferos-diagnostico-20261028",
+        "crop": [
+          0,
+          0.255,
+          0.56,
+          0.225
+        ],
+        "originalUrl": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=5&plate=1&figure=3"
+      },
+      {
+        "url": "./assets/reviewed/34b5498a40bec4a9249c.jpg",
+        "key": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=7&plate=2&figure=2",
+        "page": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=7&plate=2&figure=2",
+        "author": "M. D. Simmons y C. L. Williams",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Sección axial de topotipo de Orbitolina concava, Ballon, Francia, lámina 2 figura 2 de Simmons y Williams (1992). Aparato embrionario y cámaras a ambos lados.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "reviewNote": "Aprobada para reconocimiento del género: segundo espécimen y fotografía independiente con aparato embrionario y arquitectura interna; identificación del topotipo corroborada por Bidgood et al. (2024).",
+        "reference": "Fotografía científica extraída de la figura identificada en el PDF; se conservan los originales y las coordenadas de recorte. · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "verificationSources": [
+          "https://doi.org/10.35463/j.apr.2024.02.05"
+        ],
+        "sourceImage": "orbitolina-england-1992-38.jpeg",
+        "reviewedAt": "2026-10-28",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewBatch": "foraminiferos-diagnostico-20261028",
+        "crop": [
+          0.525,
+          0,
+          0.475,
+          1
+        ],
+        "originalUrl": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=7&plate=2&figure=2"
+      },
+      {
+        "url": "./assets/reviewed/50d2f608d75ff9fbf738.jpg",
+        "key": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=7&plate=2&figure=4",
+        "page": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=7&plate=2&figure=4",
+        "author": "M. D. Simmons y C. L. Williams",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Detalle de zona marginal de Orbitolina del grupo sefini–concava, ejemplar NHM P.43429, lámina 2 figura 4 de Simmons y Williams (1992); vista de las cámaras y tabiques marginales.",
+        "examUse": "detail",
+        "status": "approved",
+        "reviewNote": "Sustituye al detalle WoRMS de 223 × 168 px por una fotografía independiente de 561 × 248 px extraída a su resolución nativa. La fuente no determina la especie; se mantiene como detalle.",
+        "reference": "Fotografía científica extraída de la figura identificada en el PDF; se conservan los originales y las coordenadas de recorte.",
+        "verificationSources": [
+          "https://doi.org/10.35463/j.apr.2024.02.05"
+        ],
+        "sourceImage": "orbitolina-england-1992-36.jpeg",
+        "reviewedAt": "2026-10-28",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewBatch": "foraminiferos-diagnostico-20261028",
+        "originalUrl": "https://jm.copernicus.org/articles/11/21/1992/jm-11-21-1992.pdf#page=7&plate=2&figure=4"
       }
     ]
   },
@@ -103128,6 +103402,69 @@
         "examUse": "diagnostic",
         "examUseCheckedAt": "2026-10-27",
         "examUseNote": "Revisión visual y cotejo con OMM/SMHI. La identificación documental no implica que una foto fija demuestre evolución, movimiento u origen. Cauda y flumen se recortan según las coordenadas de las anotaciones OMM, manteniendo usos de detalle. Lote clouds810-completion, índice 0."
+      }
+    ]
+  },
+  "alveolina": {
+    "images": [
+      {
+        "url": "./assets/reviewed/7ce5ba92db1695f3858d.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Alveolina_LPL.jpg",
+        "key": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Alveolina_LPL.jpg",
+        "title": "File:Alveolina LPL.jpg",
+        "author": "Ringwoodit",
+        "license": "CC BY-SA 4.0",
+        "description": "Sección de Alveolina en lámina delgada: vueltas con numerosas camarillas alrededor de la región central. Identificación docente a nivel de género; la fuente la rotula A. oblonga.",
+        "category": "Alveolina",
+        "status": "approved",
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Aprobada: estructura interna visible y concordante con la fuente; fotografía independiente de la segunda vista. No se exige identificación de especie.",
+        "reviewBatch": "foraminiferos-sin-foto-20261027",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Alveolina_LPL.jpg",
+        "examUse": "diagnostic",
+        "verificationSources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10171430/"
+        ],
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reference": "Sin retoque de rasgos; original conservado en el lote local. Identificación del catálogo a nivel de género."
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Calcaire_alveolines_saissac_herault.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Calcaire_alveolines_saissac_herault.jpg",
+        "key": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Calcaire_alveolines_saissac_herault.jpg",
+        "title": "File:Calcaire alveolines saissac herault.jpg",
+        "author": "Max.kit",
+        "license": "CC BY-SA 4.0",
+        "description": "Français : Calcaire à alvéolines (Hérault, France)",
+        "category": "Alveolina",
+        "status": "rejected",
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Rechazada: bloque de caliza atribuido a alvéolinas; en esta vista no se distinguen con suficiente claridad las camarillas ni el contorno de un ejemplar diagnóstico.",
+        "reviewBatch": "foraminiferos-sin-foto-20261027",
+        "examUse": "insufficient",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "url": "./assets/reviewed/e288cdf7ddeaed008b48.jpg",
+        "key": "https://upload.wikimedia.org/wikipedia/commons/6/69/Alveolina_Cross-section.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "page": "https://commons.wikimedia.org/wiki/File:Alveolina_Cross-section.jpg",
+        "author": "ViriatoLusitano",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "description": "Sección de Alveolina con vueltas y camarillas visibles. Se conserva la barra de escala de 500 µm del original. Identificación a nivel de género.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "reviewNote": "Aprobada: segundo original independiente, con otra sección y escala conservada; concordancia documental y visual con Alveolina, sin asignación de especie.",
+        "verificationSources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10171430/"
+        ],
+        "reviewedAt": "2026-10-27",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewBatch": "foraminiferos-sin-foto-20261027-contraste",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Alveolina_Cross-section.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "reference": "Sin retoque de rasgos; original conservado en el lote local. Identificación del catálogo a nivel de género."
       }
     ]
   }
