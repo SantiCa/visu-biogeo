@@ -1,4 +1,140 @@
 {
+  "crataegus-monogyna": {
+    "commonName": "Majuelo o espino albar",
+    "description": "Arbusto o pequeño árbol caducifolio, espinoso y muy ramificado. Tiene hojas alternas y lobuladas, floración abundante y pequeños frutos rojos. Es habitual en setos, orlas y claros de bosque; el aspecto de las hojas y la pilosidad varía entre ejemplares.",
+    "diagnostics": [
+      "Hojas simples, pecioladas y profundamente divididas en tres a siete lóbulos; observar varias hojas, pues su forma es variable.",
+      "En las flores típicas hay un solo estilo; el fruto maduro contiene normalmente un único huesecillo o pireno, que no debe confundirse con toda la parte carnosa.",
+      "Ramificación con espinas y frutos rojos persistentes: combinar estos rasgos con hojas y caracteres de flores o frutos, en vez de identificarlo solo por el color.",
+      "Hay formas intermedias e híbridas con otros Crataegus. Un ejemplar con más de un estilo o huesecillo requiere revisar la determinación; una hoja aislada no resuelve esos casos."
+    ],
+    "etymology": "Crataegus conserva un nombre griego antiguo de estas plantas; el portal Dryades de la Universidad de Trieste lo relaciona con kratos, «fuerza». Monogyna combina monos, «único», y gyne, «mujer», aplicado botánicamente a su único estilo. Se documenta esa interpretación del nombre, sin presentar como demostrada una reconstrucción completa del origen remoto de Crataegus.",
+    "sources": [
+      {
+        "url": "https://www.treesandshrubsonline.org/articles/crataegus/crataegus-monogyna/",
+        "title": "Trees and Shrubs Online · Crataegus monogyna: hojas, estilo único, pireno y formas intermedias"
+      },
+      {
+        "url": "https://dryades.units.it/stagnisardi_en/index.php?id=2208&num=2996&procedure=taxon_page",
+        "title": "Universidad de Trieste, Dryades · Crataegus monogyna: hábitat, frutos y etimología"
+      },
+      {
+        "url": "https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/publicaciones/Semillas%20-%20Fichas%20de%20especies%20C-E_tcm30-100337.pdf#page=131",
+        "title": "Del Campo García y Navarro Cerrillo, MITECO · Crataegus monogyna: morfología y variación de las hojas"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para el aspecto típico, considerando variación foliar y formas intermedias. No identifica cultivares ni certifica ausencia de hibridación; el recuento de estilos y pirenos necesita detalles visibles."
+  },
+  "engraulis-encrasicolus": {
+    "commonName": "Boquerón",
+    "description": "Pez marino costero, pequeño, alargado y esbelto, que forma bancos y se alimenta de plancton. El dorso es azul verdoso y los flancos plateados. Tiene un hocico puntiagudo que sobresale por delante de la mandíbula inferior y una boca inferior de abertura amplia.",
+    "diagnostics": [
+      "Hocico cónico y prominente; la boca queda por debajo de él y el maxilar se prolonga claramente por detrás del ojo.",
+      "Una aleta dorsal corta, aproximadamente en la zona media; la anal comienza por detrás de la base de la dorsal.",
+      "Vientre redondeado, sin una quilla de escudetes ventrales; las escamas se desprenden con facilidad y la línea lateral no es visible.",
+      "Frente a sardinas y otros clupeidos de la zona, es especialmente útil la combinación de hocico saliente y boca inferior. El plateado o la banda lateral por sí solos no bastan; estos rasgos tampoco constituyen una clave de todas las especies de Engraulis."
+    ],
+    "etymology": "Engraulis procede del griego engraulis, nombre antiguo del boquerón. Encrasicolus deriva de enkrasicholos, otro nombre griego antiguo de un pez pequeño aplicado históricamente a las anchoas, según The ETYFish Project. El significado literal más remoto del epíteto queda pendiente de contraste; no se deduce una peculiaridad anatómica a partir de él.",
+    "sources": [
+      {
+        "url": "https://www.fao.org/fishery/docs/CDrom/ARTFIMED/ArtFiWeb/descript/Species/ENGENENC.HTML",
+        "title": "FAO · Engraulis encrasicolus: caracteres distintivos, comparación con clupeidos y biología"
+      },
+      {
+        "url": "https://fishes-fnam.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?epi=141&id=108998",
+        "title": "Naturalis, Fishes of the Northeastern Atlantic and Mediterranean · Engraulis encrasicolus: morfología y límites de las formas descritas"
+      },
+      {
+        "url": "https://etyfish.org/engraulidae/",
+        "title": "Christopher Scharpf, The ETYFish Project · Engraulidae: nombres griegos Engraulis y encrasicolus"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en el reconocimiento frente a pequeños peces plateados de la zona atlántico-mediterránea. No determina formas poblacionales ni especies próximas solo por una fotografía; etimología del epíteto parcialmente pendiente."
+  },
+  "esox-lucius": {
+    "commonName": "Lucio",
+    "description": "Pez depredador de agua dulce con cuerpo alargado, cabeza grande y hocico largo y aplanado, de aspecto semejante a un pico de pato. La boca es amplia y dentada. Los adultos suelen mostrar manchas claras sobre un fondo verdoso; los ejemplares pequeños pueden presentar bandas oscuras transversales.",
+    "diagnostics": [
+      "Aletas dorsal y anal muy retrasadas, próximas a la cola, de tamaño semejante y enfrentadas entre sí.",
+      "Hocico alargado y deprimido, con mandíbula inferior prominente; combinar su forma con la boca ancha y los dientes cónicos visibles.",
+      "Cuerpo largo y lateralmente comprimido. En adultos, manchas claras ovaladas o bandas longitudinales sobre fondo verde oscuro; el patrón cambia durante el crecimiento.",
+      "El conjunto de cabeza y aletas posteriores es más útil que la talla o el color aislados. Las imágenes sin procedencia y sin detalles no permiten separar con seguridad todas las especies del género Esox."
+    ],
+    "etymology": "Esox retoma el nombre utilizado por Plinio para un gran pez del Rin; The ETYFish Project considera incierta la identidad de ese pez, posiblemente un salmón, aunque autores posteriores aplicaron el nombre a los lucios. Lucius es un nombre latino del lucio ya atestiguado en Ausonio. El referente original de Esox queda pendiente de identificación segura; no se presenta como sinónimo antiguo inequívoco del lucio.",
+    "sources": [
+      {
+        "url": "https://www.vertebradosibericos.org/peces/identificacion/esolucid.html",
+        "title": "Salvador, Enciclopedia Virtual de los Vertebrados Españoles, MNCN-CSIC · Esox lucius: cabeza, aletas y variación con la edad"
+      },
+      {
+        "url": "https://www.miteco.gob.es/content/dam/miteco/es/agua/temas/estado-y-calidad-de-las-aguas/Especies-invasoras-en-medios-acuaticos-continentales/fichas-especies-ex%C3%B3ticas-invasoras/Esox%20Lucius.pdf",
+        "title": "MITECO · Esox lucius: descripción del cuerpo, hocico y dentición"
+      },
+      {
+        "url": "https://etyfish.org/esocidae/",
+        "title": "Christopher Scharpf, The ETYFish Project · Esocidae: nombres clásicos Esox y lucius y especies del género"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia de rasgos externos, con variación de coloración durante el crecimiento. No infiere sexo, edad exacta ni especie de otros lucios sin caracteres adicionales. El referente del nombre clásico Esox permanece incierto."
+  },
+  "fulica-cristata": {
+    "commonName": "Focha moruna",
+    "description": "Ave acuática de unos 38–42 cm, de cuerpo redondeado y plumaje adulto casi negro con tonos grisáceos. Presenta pico claro algo azulado y escudete frontal blanco; sobre este aparecen dos protuberancias rojas, especialmente conspicuas durante la reproducción.",
+    "diagnostics": [
+      "En adultos, dos protuberancias rojizas en la parte alta del escudete. Su desarrollo es mayor en época nupcial: una vista lejana o fuera de ese periodo puede no mostrarlas bien.",
+      "Frente a Fulica atra, el escudete blanco se estrecha menos hacia la base del pico; ayudan el matiz azulado del pico y el cuello relativamente largo.",
+      "Al nadar suele mantener la cola por encima del agua. Es un carácter de apoyo, que debe combinarse con la cabeza y el pico.",
+      "Los juveniles son pardos y casi carecen de escudete; frente a los jóvenes de focha común son más oscuros y no presentan las áreas blanquecinas de la garganta. No exigirles las protuberancias de los adultos."
+    ],
+    "etymology": "Fulica es el nombre latino de la focha. Cristata procede del latín crista, «cresta» o «penacho», y significa «crestada»; el diccionario de Enric Ortega del Institut d'Estudis Catalans lo relaciona con las dos protuberancias rojizas sobre el escudete frontal. La alusión no implica que se trate de un penacho de plumas.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/focha-moruna/",
+        "title": "SEO/BirdLife · Focha moruna: identificación, comparación con Fulica atra y plumaje juvenil"
+      },
+      {
+        "url": "https://publicacions.iec.cat/repository/pdf/00000301/00000094.pdf#page=75",
+        "title": "Ortega i Gonzàlez, E. (2017), Institut d'Estudis Catalans · Diccionari etimològic dels noms científics dels ocells, p. 74: Fulica y cristata"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que separa aspecto adulto y juvenil y considera el desarrollo estacional de las protuberancias. La ausencia de un rasgo en una foto no demuestra su ausencia en el animal; no se infieren sexo ni edad exacta."
+  },
+  "hypericum-perforatum": {
+    "commonName": "Hierba de San Juan",
+    "description": "Hierba perenne y glabra, de tallos erectos ramificados, hojas opuestas y flores amarillas agrupadas en la parte superior. Las hojas muestran numerosos puntos translúcidos al mirarlas a contraluz: corresponden a glándulas y producen una apariencia de pequeñas perforaciones.",
+    "diagnostics": [
+      "Tallos principales con dos líneas o resaltes longitudinales finos; comprobarlos junto con las hojas, en vez de basarse solo en el color de las flores.",
+      "Hojas opuestas, sin pecíolo evidente, con margen entero y abundantes glándulas translúcidas; pueden observarse también puntos glandulares negros, especialmente cerca del margen.",
+      "Flores típicamente con cinco pétalos amarillos, algunos puntos negros y numerosos estambres agrupados en fascículos, por lo general tres. Sépalos estrechos y agudos.",
+      "Las flores amarillas y los puntos translúcidos también aparecen en otros Hypericum. Para confirmar la especie se necesita combinar tallo, hojas, sépalos y distribución de las glándulas; una corola aislada no basta."
+    ],
+    "etymology": "Hypericum conserva el nombre griego hyperikon de estas plantas. La descomposición tradicional en hyper, «sobre», y eikon, «imagen», aparece con explicaciones diferentes en las fuentes: NZPCN la asocia a colgar la planta sobre imágenes y Asturnatura recoge otra atribuida a Linneo. Su motivación histórica precisa queda pendiente de contraste. Perforatum significa en latín «perforado» y alude al aspecto punteado de las glándulas translúcidas, no a agujeros reales de la hoja.",
+    "sources": [
+      {
+        "url": "https://www.nzpcn.org.nz/flora/species/hypericum-perforatum/",
+        "title": "New Zealand Plant Conservation Network · Hypericum perforatum: tallos, glándulas y explicación etimológica tradicional"
+      },
+      {
+        "url": "https://www.asturnatura.com/especie/hypericum-perforatum",
+        "title": "Asturnatura · Hypericum perforatum: descripción de tallos, sépalos, pétalos y fascículos; interpretación histórica del género"
+      },
+      {
+        "url": "https://gardenofwales.gardenexplorer.org/taxon-9021.aspx",
+        "title": "National Botanic Garden of Wales · Hypericum perforatum: puntos translúcidos y significado de perforatum"
+      }
+    ],
+    "reviewedAt": "2026-10-28",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para identificación morfológica, sin atribuir usos o efectos terapéuticos. No determina subespecies; la explicación histórica del nombre genérico se mantiene parcialmente pendiente."
+  },
   "buthus-occitanus": {
     "commonName": "Escorpión amarillo iberoprovenzal",
     "description": "Escorpión de coloración básica amarillo pálido, con el dorso abdominal sin manchas o débilmente oscurecido. La revisión europea de 2025 sitúa la especie desde el este de España hasta el sureste de Francia; el uso antiguo del nombre abarcaba otros Buthus hoy separados.",
