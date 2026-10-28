@@ -102,12 +102,12 @@
     {
       "year": 2021,
       "source": "https://www.precege.com/download/examen-andalucia-2021/",
-      "coverage": "Clave contrastada: 12 de 15 seres vivos de A y 9 de 10 muestras de B identificados sin interrogante. Lista vegetal completada con Sphagnum subnitens; cuatro fotos permanecen dudosas.",
+      "coverage": "12 de 15 seres vivos de A y las 10 muestras de B contrastados. Calcopirita B5 corroborada con la fotografía rotulada en una fuente docente independiente; se conserva el interrogante de la clave académica. Lista vegetal completada con Sphagnum subnitens; tres fotos de A permanecen pendientes.",
       "id": "andalucia-2021",
       "region": "Andalucía",
       "url": "https://www.precege.com/download/examen-andalucia-2021/",
       "official": false,
-      "matchedEntries": 51,
+      "matchedEntries": 52,
       "officialIndex": "https://www.juntadeandalucia.es/educacion/portals/en/web/ced/datos-estadisticos-procedimiento-selectivo-2021/-/documentos/iDdT52klyVyQ/carpeta/590-008-biologia-y-geologia",
       "answerKeys": [
         {
@@ -152,18 +152,6 @@
           ],
           "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
           "solutionPage": 16,
-          "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
-          "priorityEligible": false
-        },
-        {
-          "year": 2021,
-          "option": "B",
-          "question": "5",
-          "proposedNames": [
-            "Calcopirita"
-          ],
-          "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
-          "solutionPage": 17,
           "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
           "priorityEligible": false
         }
@@ -4092,6 +4080,57 @@
       "region": "Andalucía",
       "evidenceType": "recognition",
       "documentId": "andalucia-2023"
+    },
+    {
+      "year": 2021,
+      "option": "B",
+      "question": "5",
+      "page": 9,
+      "solutionPage": 17,
+      "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
+      "sourceName": "Calcopirita",
+      "context": "fotografia-con-clave-academica",
+      "sourceType": "solucionario-academia-aportado",
+      "note": "Identificación corroborada por coincidencia de la fotografía de B5 con la imagen rotulada Calcopirita en Materiales de uso técnico (Xunta de Galicia, sección Cobre; crédito ISFTIC). El solucionario aportado mantiene su interrogante original; la corroboración externa no constituye una clave oficial. Clave académica contrastada con la numeración del enunciado; no es un solucionario oficial de la administración.",
+      "photoReview": {
+        "reviewedAt": "2026-10-28",
+        "method": "Cotejo visual de la misma fotografía: silueta, fracturas y distribución del brillo; el enunciado usa una versión reducida.",
+        "originalUncertainty": {
+          "year": 2021,
+          "option": "B",
+          "question": "5",
+          "proposedNames": [
+            "Calcopirita"
+          ],
+          "sourceFile": "EXAMEN PRÁCTICO Andalucía 21. Resuelto Precege.pdf",
+          "solutionPage": 17,
+          "reason": "El propio solucionario señala esta identificación con un signo de interrogación.",
+          "priorityEligible": false
+        },
+        "paper": {
+          "documentId": "paper-2021",
+          "sourceFile": "Andalucia 2021.pdf",
+          "page": 9,
+          "illustration": "5",
+          "imageSha256": "3f21bb5d90403018068e543f01d50c0e3193a23616a928c093e8f511a7bec47a"
+        },
+        "reference": {
+          "url": "https://recursos.edu.xunta.gal/sites/default/files/recurso/1464947174/531_metales_pesados.html",
+          "title": "Materiales de uso técnico · 5.3.1. Metales Pesados · Cobre",
+          "publisher": "Xunta de Galicia",
+          "label": "Calcopirita",
+          "imageUrl": "https://recursos.edu.xunta.gal/sites/default/files/recurso/1464947174/calcopiritaisf.jpg",
+          "imageSha256": "6d4f405ba03f4083cd17c2e2f0dd9f3bd4ae53a3d4eaf16383ac9d1ed550f85a",
+          "attribution": "ISFTIC, según el crédito del recurso docente; no se especifica el fotógrafo individual."
+        }
+      },
+      "itemId": "calcopirita",
+      "name": "Calcopirita",
+      "evidenceId": "provided-2021-B-5",
+      "source": "https://www.precege.com/download/examen-andalucia-2021/",
+      "region": "Andalucía",
+      "evidenceType": "recognition",
+      "documentId": "andalucia-2021"
     },
     {
       "documentId": "madrid-varios-sin-fecha",

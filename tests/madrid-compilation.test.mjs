@@ -24,7 +24,7 @@ test('compilation provenance is local, undated, nonofficial, and excluded from A
  const doc=exams.documents.find(d=>d.id==='madrid-varios-sin-fecha');assert.equal(doc.official,false);assert.equal(doc.matchedEntries,396);assert.equal(doc.uncertainAnswers.length,3);
  assert.equal(priorityInfo(entry('meles-meles'),history.events).count,0);
  assert.equal(priorityInfo(entry('cuarzo'),history.events).count,3);
- assert.equal(new Set(history.events.map(e=>e.itemId)).size,162);
+ assert.equal(new Set(history.events.map(e=>e.itemId)).size,163);
  assert.ok(history.events.every(e=>Number.isInteger(e.year)));
 });
 
