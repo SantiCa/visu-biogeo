@@ -221,15 +221,15 @@ Proyecto: **`appgprj_6ade076290f8819199ecb0073730325e`**. Audiencia actual: **p�
 
 Checkout: `hosting/visu-biogeo-media`. Su manifiesto `.openai/hosting.json` mantiene `d1: null` y `r2: "BUCKET"`. Las imágenes públicas se sirven desde R2 mediante un manifiesto y una activación firmada; la base Supabase es otro servicio y no se reemplaza al publicar.
 
-Última fuente publicada: **`14a7ba75227ba5abff5fe2265340420d4dab7dea`**.
+Última fuente publicada: **`424445e60590ba4e41b5d7cc17d04480520d6eb2`** (8.11).
 
-Versión guardada de Sites: **17**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_ebec21dd7d848191a1626988c5347cef`**.
+Versión guardada de Sites: **18**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_2d9b326ee9848191b2355aab42f0d6db`**.
 
-Archivo de publicación: `output/visu-clouds-v8.10.tar.gz`. Es el pequeño artefacto del Worker, **no** una copia completa del proyecto ni el banco de fotos.
+Archivo de publicación: `worktrees/publicacion-version-811/output/visu-v8.11.tar.gz`. Es el pequeño artefacto del Worker, **no** una copia completa del proyecto ni el banco de fotos.
 
-Revisión de entorno final: **16**. Despliegue final: **`appgdep_6ae0ee2898a081918507c5ac2095ceba`**.
+Revisión de entorno final: **17**. Despliegue final: **`appgdep_6ae13f3f854081918ecb28b5ce2da68c`**.
 
-Manifiesto activo: **`5df9c97a29a0691ffebb99b6190a8ca5c3f048dd053715d8567eb9d8fe65921b`**, 4757 archivos públicos.
+Manifiesto activo: **`60ac4bca9615f5ae3498949f209195853c6775ba6ea29a66a5aa5c3c969131dd`**, 4758 archivos públicos.
 
 En otro ordenador, instalar/conectar el plugin Sites con la cuenta del propietario y leer su `SKILL.md` vigente. La ruta del helper cambia con la instalación: no copiar la ruta de caché de Codex del ordenador anterior. El helper de fuente se llama `scripts/site-workflow.mjs` dentro del plugin Sites. Primero obtener `get_site` y credencial de escritura para este mismo proyecto, y abrir el checkout con el helper antes de editarlo. Mantener las credenciales solo en memoria y pasarlas por **stdin oculto**, nunca en argumentos o archivos.
 
