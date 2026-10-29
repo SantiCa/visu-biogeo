@@ -1,4 +1,131 @@
 {
+  "scolymus-hispanicus": {
+    "commonName": "Cardillo o tagarnina",
+    "description": "Hierba espinosa de raíz perenne, con roseta basal y tallos ramificados que pueden alcanzar alrededor de metro y medio. Presenta hojas alternas, profundamente divididas en la base, y capítulos amarillos situados en las axilas de las hojas. Es propia de bordes de caminos y otros ambientes alterados de la región mediterránea y Macaronesia.",
+    "diagnostics": [
+      "Tallos con alas estrechas y espinosas, interrumpidas a lo largo del eje; hojas con nervio central claro y márgenes armados de espinas.",
+      "Capítulos sin pedúnculo apreciable, axilares y rodeados de hojas o brácteas espinosas; las flores son liguladas, con la corola prolongada en lengüeta amarilla.",
+      "Comprobar conjuntamente alas del tallo, disposición de los capítulos y hojas. Una roseta aislada o el color amarillo no bastan para confirmar la especie frente a otros cardos; si faltan esos caracteres, mantener la identificación abierta."
+    ],
+    "etymology": "Scolymus continúa el latín scolymos y el griego skólymos, nombre antiguo de cardos comestibles. La revisión recogida por Nicolás López Jiménez señala que su origen remoto es desconocido: la derivación propuesta de skólops, palo puntiagudo, queda como hipótesis pendiente de contraste. Hispanicus es el adjetivo latino relativo a Hispania, como explica la ficha del Jardín Botánico Umbría de la Virgen; el epíteto no demuestra que la especie sea exclusiva de España.",
+    "sources": [
+      {
+        "url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/iect_scolymus_hispanicus_tcm30-164133.pdf",
+        "title": "MITECO · Inventario español de conocimientos tradicionales, Scolymus hispanicus, p. 141: descripción y nombres comunes"
+      },
+      {
+        "url": "https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/123793591/UMBRIA-JUL-2023.pdf/309569fd-0f9a-a52b-5c8a-ed05aae4dc9f?t=1698668889043",
+        "title": "Junta de Andalucía · Jardín Botánico Umbría de la Virgen, julio de 2023: hábitat, distribución y origen de los nombres"
+      },
+      {
+        "url": "https://bibdigital.rjb.csic.es/medias/5a/38/d8/94/5a38d894-c54e-4249-9811-6394b17d19d9/files/TESIS_Nico_Lopez.pdf",
+        "title": "Nicolás López Jiménez · tesis conservada en la Biblioteca Digital del RJB-CSIC, p. 169: Scolymus y la incertidumbre de su raíz remota"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia de caracteres documentados; una imagen incompleta no resuelve por sí sola la especie. Raíz remota del género parcialmente pendiente."
+  },
+  "turdus-merula": {
+    "commonName": "Mirlo común",
+    "description": "Ave de tamaño mediano entre los túrdidos, de unos 24-25 cm, con cola relativamente larga. El plumaje del macho adulto es negro y el de la hembra pardo. Frecuenta lugares con árboles y arbustos, incluidos parques y jardines, y busca invertebrados y frutos en el suelo o cerca de él.",
+    "diagnostics": [
+      "Macho adulto típico: plumaje negro uniforme, con pico y anillo alrededor del ojo de tonos amarillos a anaranjados.",
+      "Hembra: pardo oscuro, con pico amarillento o parduzco; no exigir el contraste negro-anaranjado del macho para reconocerla.",
+      "Silueta con cola larga y postura erguida al detenerse tras avanzar a saltos. Combinar proporciones, plumaje y detalles de la cabeza; un ave oscura fotografiada de lejos no permite excluir estorninos u otros túrdidos."
+    ],
+    "etymology": "Jobling documenta ambos términos como nombres latinos de aves: turdus significa zorzal y merula, mirlo. El binomio reúne un nombre genérico y otro específico de esa tradición léxica; merula no se descompone aquí en una supuesta referencia al color ni se propone una raíz anterior al latín sin fuente.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/mirlo-comun/",
+        "title": "SEO/BirdLife · Mirlo común: identificación, diferencias entre sexos, tamaño, hábitat y especies similares"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), voces merula (p. 251) y Turdus (p. 393)"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en adultos de aspecto típico. Sexo, edad y calidad de la vista condicionan el diagnóstico; el color oscuro aislado no confirma la especie."
+  },
+  "salamandra-salamandra": {
+    "commonName": "Salamandra común",
+    "description": "Anfibio con cola, de cuerpo robusto y vida adulta principalmente terrestre en ambientes húmedos. Su aspecto habitual combina piel negra y manchas o bandas amarillas de extensión variable. La cabeza está bien diferenciada del tronco y muestra grandes glándulas parótidas detrás de los ojos.",
+    "diagnostics": [
+      "Piel lisa, sin escamas, con diseño negro y amarillo variable; las parótidas suelen ser amarillas y prominentes. La coloración puede presentar anomalías, por lo que no constituye una regla absoluta.",
+      "Cola aproximadamente cilíndrica que se estrecha hacia la punta, cuerpo sin cresta dorsal o caudal y dedos sin membranas interdigitales.",
+      "El dibujo amarillo no basta para asignar una subespecie. La referencia del MNCN-CSIC advierte de incertidumbre en la delimitación de los linajes ibéricos; sin procedencia y caracteres suficientes se conserva el alcance de la entrada, sin resolver aquí esas delimitaciones."
+    ],
+    "etymology": "Salamandra es una voz latina procedente del griego salamándra, documentada por el DLE. En el nombre científico se repite como género y epíteto específico: es un tautónimo. La referencia acredita esa transmisión léxica; no se propone una explicación del origen anterior de la palabra griega.",
+    "sources": [
+      {
+        "url": "https://www.vertebradosibericos.org/anfibios/identificacion/salsalid.html",
+        "title": "Enciclopedia Virtual de los Vertebrados Españoles, MNCN-CSIC · Salamandra salamandra: caracteres de adultos, variación y límites de la taxonomía intraespecífica"
+      },
+      {
+        "url": "https://dle.rae.es/salamandra",
+        "title": "RAE-ASALE · DLE, salamandra: transmisión del griego al latín"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para adultos; no extiende estos rasgos a larvas ni decide rangos de los linajes discutidos. Se mantiene el nombre y el ID del catálogo."
+  },
+  "smilax-aspera": {
+    "commonName": "Zarzaparrilla",
+    "description": "Trepadora de base leñosa con hojas persistentes, coriáceas y de forma muy variable, a menudo acorazonadas. Sus tallos y hojas suelen llevar espinas. Produce pequeñas flores unisexuales y frutos carnosos que pasan de rojo oscuro a casi negro en la madurez.",
+    "diagnostics": [
+      "Hojas simples y alternas, con tres a cinco nervios principales destacados y nerviación secundaria reticulada.",
+      "Dos zarcillos, normalmente presentes junto a la base del pecíolo, nacen de las vainas estipulares; comprobarlos junto al tallo trepador y la hoja coriácea.",
+      "Las espinas y la forma acorazonada no son constantes: existen formas poco espinosas y hojas estrechas, y pueden faltar zarcillos en formas extremas. Un fragmento sin nudos ni otros caracteres deja el diagnóstico incompleto."
+    ],
+    "etymology": "Flora iberica recoge el griego smîlax y el latín smilax como nombres antiguos aplicados a varias plantas, entre ellas esta trepadora; no identifica una raíz remota única, que queda pendiente de contraste. Aspera es la forma femenina del latín asper, áspero, documentado en el DLE. Su correspondencia con la superficie espinosa es descriptiva; no se atribuye una motivación formal a Linneo sin testimonio específico.",
+    "sources": [
+      {
+        "url": "https://www.floraiberica.es/floraiberica/texto/pdfs/21_187_01_Smilax.pdf",
+        "title": "C. Aedo · Flora iberica XXI, Smilax: nombre clásico del género, descripción y variabilidad de S. aspera"
+      },
+      {
+        "url": "https://dle.rae.es/%C3%A1spero",
+        "title": "RAE-ASALE · DLE, áspero: adjetivo latino asper, -era, -erum y significado"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia; la combinación de hoja, zarcillos y tallo orienta el reconocimiento. Raíz remota del género pendiente; no se añaden asociaciones mitológicas sin acreditar."
+  },
+  "trametes-versicolor": {
+    "commonName": "Yesquero multicolor",
+    "description": "Hongo que descompone madera muerta y forma grupos de cuerpos fructíferos delgados, sin pie y frecuentemente superpuestos. La cara superior, de aspecto aterciopelado, presenta bandas concéntricas de varios colores; la inferior es clara y está cubierta por poros diminutos.",
+    "diagnostics": [
+      "Sombreros en abanico o semicirculares, finos y flexibles en fresco, con zonas concéntricas contrastadas y superficie finamente pelosa.",
+      "Comprobar la cara inferior: tiene poros verdaderos, pequeños, alrededor de tres a seis o más por milímetro en la descripción de Kuo. Los Stereum de aspecto parecido tienen esa superficie lisa, sin poros.",
+      "Las bandas de color por sí solas no resuelven la identificación. Otros Trametes son similares; si faltan la vista inferior, la escala o los detalles de superficie y consistencia, mantener abierta la determinación."
+    ],
+    "etymology": "Donk relaciona Trametes con el latín trama, la trama de un tejido. La ficha de Granada Natural documenta para versicolor el sentido latino de varios colores. Esas correspondencias léxicas están documentadas; la motivación exacta de Fries al elegir el nombre genérico queda pendiente de contraste con su texto original y no se deduce únicamente de la textura del hongo.",
+    "sources": [
+      {
+        "url": "https://www.mushroomexpert.com/trametes_versicolor.html",
+        "title": "Michael Kuo · Trametes versicolor (2017): ejemplares estudiados, poros, superficie y separación de hongos semejantes"
+      },
+      {
+        "url": "https://www.aranzadi.eus/buscador-micologico/ficha/1-2-005.60.51.00.30.00?from=latest",
+        "title": "Sociedad de Ciencias Aranzadi · Trametes versicolor: descripción, hábitat y nombres comunes"
+      },
+      {
+        "url": "https://repository.naturalis.nl/pub/531689/PERS1960001002001.pdf",
+        "title": "M. A. Donk · The generic names proposed for Polyporaceae, Persoonia 1 (1960), p. 288: etimología de Trametes"
+      },
+      {
+        "url": "https://granadanatural.com/ficha_hongos.php?cod=763",
+        "title": "Granada Natural · Trametes versicolor, ejemplar de Beas de Granada: sentido latino de versicolor"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia de caracteres macroscópicos. El diagnóstico exige combinar ambas caras; motivación histórica del nombre genérico parcialmente pendiente."
+  },
   "juniperus-phoenicea": {
     "commonName": "Sabina negral",
     "description": "Arbusto o pequeño árbol perennifolio, densamente ramificado, con hojas adultas diminutas, escuamiformes y pegadas a las ramillas. Los conos seminíferos o gálbulos son globosos y carnosos, de tonos rojizos o pardorrojizos al madurar. El nombre se ha utilizado históricamente para un conjunto más amplio que la especie delimitada actualmente.",
