@@ -1,4 +1,143 @@
 {
+  "acer-platanoides": {
+    "commonName": "Arce real",
+    "description": "Árbol caducifolio de copa amplia y follaje denso. Las hojas son simples, opuestas y palmeadas, con lóbulos acabados en puntas largas. Produce flores amarillentas o amarillo-verdosas y frutos formados por dos sámaras, cada una con un ala.",
+    "diagnostics": [
+      "Hojas generalmente con cinco lóbulos agudos y dientes grandes, sostenidas por pecíolos largos. Comprobar la disposición opuesta en una ramilla; una hoja palmeada aislada no demuestra que sea este arce.",
+      "El pecíolo puede liberar savia lechosa al separarse. Es un carácter de examen del material, no algo que pueda deducirse de una fotografía general de la hoja.",
+      "Sámaras pareadas con alas muy abiertas, junto con lóbulos foliares puntiagudos y corimbos de flores amarillentas. La combinación ayuda a separarlo de otros arces; los cultivares pueden alterar el color del follaje, de modo que el verde o el púrpura no bastan como diagnóstico."
+    ],
+    "etymology": "El Missouri Botanical Garden recoge Acer como el nombre latino del arce. Tanto esa fuente como Oregon State University explican platanoides como parecido a Platanus, el plátano de sombra y sus congéneres. Es un epíteto comparativo de semejanza, no una adscripción al género Platanus.",
+    "sources": [
+      {
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-platanoides",
+        "title": "Oregon State University · Acer platanoides: hojas opuestas, savia, flores, sámaras y variación de cultivares"
+      },
+      {
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275380",
+        "title": "Missouri Botanical Garden · Acer platanoides: descripción y significado de Acer y platanoides"
+      },
+      {
+        "url": "https://sib.gob.ar/especies/acer-platanoides",
+        "title": "Administración de Parques Nacionales de Argentina · Acer platanoides: nombre común arce real"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento mediante ramillas, hojas y estructuras reproductoras. Las observaciones de savia requieren material; no se asignan cultivares a partir del color aislado."
+  },
+  "alnus-glutinosa": {
+    "commonName": "Aliso",
+    "description": "Árbol caducifolio asociado a riberas y otros suelos húmedos. En sus formas típicas presenta hojas redondeadas, a menudo escotadas en el extremo, y amentos masculinos alargados. Las estructuras femeninas maduras son ovoides, con brácteas leñosas, y recuerdan pequeñas piñas sin ser conos de una conífera.",
+    "diagnostics": [
+      "Hojas de margen irregularmente dentado y ápice obtuso, truncado o escotado. Combinar el contorno con ramillas y amentos; no convertir la escotadura en una condición obligatoria para todas las hojas.",
+      "Ramillas jóvenes generalmente sin pelos y pegajosas; amentos femeninos con pedúnculo, que se vuelven leñosos al madurar. Alnus incana suele presentar ramillas pelosas, hojas de ápice agudo y estructuras femeninas casi sentadas.",
+      "El nombre ha abarcado un complejo con tratamientos distintos. POWO sitúa actualmente Alnus lusitanica como sinónimo de A. glutinosa subsp. lusitanica. Una vista foliar general no permite asignar una subespecie ni resolver los límites de ese complejo."
+    ],
+    "etymology": "Lewis y Short documentan alnus como nombre latino del aliso y glutinosus como pegajoso o viscoso, derivado de gluten, cola o sustancia adhesiva. Glutinosa es la forma femenina del adjetivo y concuerda descriptivamente con la adherencia de las partes jóvenes. El origen remoto de alnus queda pendiente de contraste documental; no se afirma una descomposición de sus sílabas.",
+    "sources": [
+      {
+        "url": "https://herbarivirtual.uib.es/es/general/1698/especie/alnus-glutinosa-l-gaertn-",
+        "title": "Universidad de las Islas Baleares · Alnus glutinosa: hojas, amentos femeninos y hábitat de ribera"
+      },
+      {
+        "url": "https://www.treesandshrubsonline.org/articles/alnus/alnus-glutinosa/",
+        "title": "Trees and Shrubs Online · Alnus glutinosa: variación, ramillas jóvenes y contraste con A. incana"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/77164770-1",
+        "title": "Royal Botanic Gardens, Kew · POWO, Alnus lusitanica: sinonimia con A. glutinosa subsp. lusitanica"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=alnus",
+        "title": "Lewis y Short · A Latin Dictionary, alnus; edición digital Alatius"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=glutinosus",
+        "title": "Lewis y Short · A Latin Dictionary, glutinosus: significado y relación con gluten; edición digital Alatius"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que conserva el nombre e ID del catálogo y explicita el alcance del complejo. No asigna subespecies ni reidentifica imágenes; raíz remota del género parcialmente pendiente."
+  },
+  "anas-platyrhynchos": {
+    "commonName": "Ánade azulón",
+    "description": "Pato de superficie de tamaño mediano a grande, frecuente en humedales muy diversos, incluidos estanques urbanos. Presenta un marcado cambio de aspecto entre sexos y plumajes: el macho de plumaje vistoso tiene cabeza verde, mientras que hembras, jóvenes y machos en eclipse muestran tonos predominantemente pardos.",
+    "diagnostics": [
+      "Macho en plumaje vistoso: cabeza verde iridiscente, collar blanco estrecho, pecho castaño y cuerpo grisáceo. Las plumas centrales negras de la cola se curvan hacia arriba.",
+      "En ambos sexos destaca un espejuelo alar azul violáceo enmarcado por negro y blanco. La hembra es parda moteada y presenta tonos anaranjados o pardos en el pico; el macho suele tenerlo amarillento.",
+      "El macho en eclipse y los jóvenes se parecen a la hembra: no exigir cabeza verde para reconocer la especie ni asignar sexo solo por un plumaje pardo. Combinar pico, espejuelo y otros detalles; con el ala oculta y una vista incompleta puede quedar sin resolver frente a otras anátidas."
+    ],
+    "etymology": "Jobling recoge Anas como el nombre latino del pato y platyrhynchos del griego platurrhunkhos, de pico ancho, compuesto de platus, ancho, y rhunkhos, pico. Es una construcción descriptiva documentada; el pico ancho se comparte con otras anátidas y el significado del nombre no las separa por sí solo.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/anade-azulon/",
+        "title": "SEO/BirdLife · Ánade azulón: tamaño, dimorfismo, cabeza, cola, espejuelo y plumaje juvenil"
+      },
+      {
+        "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130425",
+        "title": "Naturalis · Birds of Europe, Anas platyrhynchos: pico, espejuelo y semejanza entre hembra, juvenil y macho en eclipse"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), Anas (p. 46) y platyrhynchos (p. 309)"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en plumajes típicos. La edad, el sexo y la muda condicionan el diagnóstico; no se asignan subespecies ni procedencia a partir de una fotografía general."
+  },
+  "athene-noctua": {
+    "commonName": "Mochuelo europeo",
+    "description": "Pequeña rapaz de cabeza ancha y redondeada, cuerpo compacto y cola corta. El plumaje es pardo o grisáceo, con abundantes manchas blancas. Habita ambientes agrarios y otros espacios abiertos; aunque se incluye entre las rapaces nocturnas, también puede observarse activo durante el día.",
+    "diagnostics": [
+      "Cabeza voluminosa sin penachos cefálicos, ojos amarillos y cejas claras muy marcadas. Examinar esos rasgos junto al tamaño y las proporciones, no solo el color del ojo.",
+      "Dorso pardo moteado de blanco y partes inferiores más claras, también manchadas. Alas y cola cortas, con barras pardas; el vuelo puede resultar ondulado.",
+      "Una silueta pequeña y rechoncha sobre un poste orienta, pero sin escala ni detalles de cabeza y plumaje no confirma la especie. No se asignan sexo o subespecie por la expresión aparente de la cara."
+    ],
+    "etymology": "Jobling relaciona Athene con Atenea, la diosa griega asociada al mochuelo. Noctua es un nombre latino de la rapaz nocturna vinculada a Minerva, también recogido por ese autor. La referencia es lingüística e iconográfica; no implica que el ave tenga actividad exclusivamente nocturna.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/mochuelo-europeo/",
+        "title": "SEO/BirdLife · Mochuelo europeo: forma, ojos, cejas, plumaje, vuelo y actividad parcialmente diurna"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), Athene (p. 58) y noctua (p. 274)"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento por combinación de caracteres. Una vista distante o una silueta aislada no resuelven todos los detalles de identificación."
+  },
+  "acanthocardia-tuberculata": {
+    "commonName": "Corruco",
+    "description": "Bivalvo marino filtrador que vive parcialmente enterrado en sedimentos. Su concha es gruesa, muy convexa y de contorno redondeado. Las dos valvas reunidas muestran un perfil semejante a un corazón y una ornamentación de costillas radiales robustas.",
+    "diagnostics": [
+      "Alrededor de veinte costillas que parten del umbo, con espinas cortas y fuertes, separadas entre sí o reducidas a pequeños tubérculos. Observar especialmente el relieve cerca del borde de las valvas.",
+      "Umbo central y prominente e interior claro; el pie, cuando se ve en el animal vivo, es rosado o rojizo.",
+      "Acanthocardia aculeata presenta espinas más pronunciadas enlazadas por una carena. La ornamentación puede variar y algunas conchas de A. tuberculata carecen de espinas evidentes: no decidir por el color ni por contar costillas únicamente, y mantener la duda si el desgaste impide examinar el relieve."
+    ],
+    "etymology": "La ficha de DORIS del congénere A. aculeata explica Acanthocardia mediante el griego akantha, espina, y kardia, corazón, en referencia a la ornamentación y la forma de la concha. El diccionario del Missouri Botanical Garden documenta tuberculatus, cuya forma femenina es tuberculata, como provisto de pequeños abultamientos o tubérculos. Se citan las raíces del género compartido sin trasladar a esta especie los caracteres de A. aculeata.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Acanthocardia-tuberculata-Bucarde-tuberculee-2861",
+        "title": "DORIS-FFESSM · Acanthocardia tuberculata: concha, ornamentación, variación, pie y nombre español corruco"
+      },
+      {
+        "url": "https://doris.ffessm.fr/Especes/Acanthocardia-aculeata-Bucarde-epineuse-3398",
+        "title": "DORIS-FFESSM · Acanthocardia aculeata: origen griego del género compartido y contraste de las espinas"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=tuberculum",
+        "title": "Missouri Botanical Garden · A Grammatical Dictionary of Botanical Latin, tuberculum y tuberculatus: abultamientos y forma adjetiva"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que combina forma y ornamentación. Las conchas erosionadas o incompletas pueden impedir la confirmación específica; no se reidentifican imágenes del catálogo."
+  },
   "ixodes-ricinus": {
     "commonName": "Garrapata común o de las ovejas",
     "description": "Ácaro parásito de vertebrados perteneciente a las garrapatas duras, con un escudo dorsal endurecido. El cuerpo de la hembra aumenta mucho al alimentarse y puede cambiar de aspecto pardo rojizo a grisáceo. Su reconocimiento exige distinguir sexo y fase de desarrollo.",
