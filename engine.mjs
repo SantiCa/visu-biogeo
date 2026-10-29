@@ -23,12 +23,15 @@ export function selectImagePair(images,previous=[],rng=Math.random) {
   if(shuffled.length>2 && previous.length===2 && shuffled.slice(0,2).every(im=>previous.includes(key(im)))) [shuffled[1],shuffled[2]]=[shuffled[2],shuffled[1]];
   return shuffled.slice(0,2);
 }
-export function priorityInfo(item, events=[], overrides={}) {
+export function priorityInfo(item, events=[], overrides={}, region='andalucia') {
   const evidence=events.filter(e=>e.itemId===item.id);
-  const years=[...new Set(evidence.map(e=>e.year))].sort();
+  const selected=evidence.filter(e=>region==='ambas'||(region==='madrid'?e.region==='Madrid':!e.region||e.region==='Andalucía'));
+  const years=[...new Set(selected.map(e=>e.year).filter(Number.isInteger))].sort();
+  const occurrences=new Set(selected.filter(e=>Number.isInteger(e.year)).map(e=>(e.region||'Andalucía')+':'+e.year));
+  const undocumentedMadrid=selected.some(e=>e.region==='Madrid'&&!Number.isInteger(e.year));
   const override=overrides[item.id]?.reset ? null : overrides[item.id];
-  const count=override ? Math.max(0,Math.min(30,Number(override.count)||0)) : years.length;
-  return {count,years,evidence,manual:!!override,weight:1+Math.min(4,1.5*Math.log2(1+count)), retention:count ? .96 : .90};
+  const count=override ? Math.max(0,Math.min(30,Number(override.count)||0)) : occurrences.size+(undocumentedMadrid&&!selected.some(e=>e.region==='Madrid'&&Number.isInteger(e.year))?1:0);
+  return {count,years,evidence:selected.map(e=>({...e,year:e.year??'Sin fecha',context:(e.region?e.region+' · ':'')+(e.context||'Recopilación')})),undated:undocumentedMadrid,manual:!!override,weight:1+Math.min(4,1.5*Math.log2(1+count)), retention:count ? .96 : .90};
 }
 export function blankRecord() { return {total:0, correct:0, lapses:0, repetitions:0, stability:1, interval:0, dueAt:0}; }
 // Exponential forgetting approximation: R(t)=exp(-t/S). This is a transparent

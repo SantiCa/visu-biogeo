@@ -6,6 +6,7 @@ import {priorityInfo} from '../engine.mjs';
 const load=n=>JSON.parse(readFileSync(new URL('../data/'+n,import.meta.url)));
 const catalog=load('species.json'),exams=load('exams.json'),history=load('andalucia-priority.json');
 const rows=exams.events.filter(e=>e.documentId==='madrid-varios-sin-fecha');
+test('Madrid selection includes the undated compilation without assigning it a year',()=>{const events=[...history.events,...exams.events.filter(e=>e.region==='Madrid')];const madrid=priorityInfo(entry('meles-meles'),events,{},'madrid');assert.equal(madrid.count,1);assert.deepEqual(madrid.years,[]);assert.equal(madrid.undated,true);assert.equal(priorityInfo(entry('meles-meles'),events,{},'andalucia').count,0);});
 const entry=id=>catalog.find(x=>x.id===id);
 
 test('undated compilations have an explicit filter and never impersonate a dated exam',()=>{
