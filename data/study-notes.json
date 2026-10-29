@@ -1,4 +1,144 @@
 {
+  "juniperus-phoenicea": {
+    "commonName": "Sabina negral",
+    "description": "Arbusto o pequeño árbol perennifolio, densamente ramificado, con hojas adultas diminutas, escuamiformes y pegadas a las ramillas. Los conos seminíferos o gálbulos son globosos y carnosos, de tonos rojizos o pardorrojizos al madurar. El nombre se ha utilizado históricamente para un conjunto más amplio que la especie delimitada actualmente.",
+    "diagnostics": [
+      "Follaje adulto de escamas muy pequeñas e imbricadas, adpresas al tallo; las hojas juveniles pueden ser aciculares y aparecer en verticilos de tres.",
+      "Gálbulos maduros rojizos o pardorrojizos, generalmente sin la cubierta cérea azulada o pruina de otras sabinas. Son conos carnosos, no bayas verdaderas.",
+      "Combinar follaje y gálbulos: las escamas por sí solas se comparten con otras cupresáceas y el color cambia con la maduración.",
+      "Estos rasgos orientan dentro del complejo histórico de J. phoenicea. Kew acepta J. turbinata como especie separada y sitúa allí la antigua subsp. turbinata; sin procedencia y caracteres suficientes no se confirma la separación entre ambas."
+    ],
+    "etymology": "Juniperus es el nombre latino del enebro, documentado por la Universidad Carlos III para el género. Para phoenicea, el Instituto de Estudios Giennenses recoge una interpretación cromática, «rojo», y otra geográfica, relacionada con Fenicia. La motivación precisa del epíteto queda pendiente de contraste; no se da por demostrada una procedencia fenicia por el nombre.",
+    "sources": [
+      {
+        "url": "https://www.treesandshrubsonline.org/articles/juniperus/juniperus-phoenicea/",
+        "title": "Trees and Shrubs Online · Juniperus phoenicea: follaje adulto y juvenil y gálbulos en el tratamiento histórico"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/262382-1",
+        "title": "Royal Botanic Gardens, Kew, POWO · Juniperus turbinata: especie aceptada y sinonimia de J. phoenicea subsp. turbinata"
+      },
+      {
+        "url": "https://www.uc3m.es/ss/Satellite/Sostenibilidad/es/TextoDosColumnas/1371335848059/Enebro_Comun",
+        "title": "Universidad Carlos III de Madrid · Enebro común: origen latino del nombre genérico Juniperus"
+      },
+      {
+        "url": "https://www.dipujaen.es/publicacionesieg/high.raw?attachment=0001100809.pdf&id=0001100809&name=00000001.original.pdf",
+        "title": "Instituto de Estudios Giennenses · Sabina, Juniperus phoenicea: interpretaciones del epíteto phoenicea"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que conserva el nombre e ID del catálogo y explicita el alcance del complejo histórico. No reidentifica las imágenes ni modifica la taxonomía; la separación de J. turbinata requiere una revisión específica. Etimología del epíteto parcialmente pendiente."
+  },
+  "lobaria-pulmonaria": {
+    "commonName": "Liquen pulmonario",
+    "description": "Liquen foliáceo de talo grande, con lóbulos anchos y una superficie superior muy marcada por crestas y depresiones. Puede crecer sobre cortezas y rocas musgosas. Es verde vivo cuando está húmedo y pasa a tonos pardo verdosos o pardos al secarse; su nombre científico corresponde al componente fúngico de la asociación liquénica.",
+    "diagnostics": [
+      "Lóbulos generalmente de 1–3 cm de anchura, con una red de crestas que delimita depresiones profundas en la cara superior.",
+      "A menudo aparecen isidios o acumulaciones de soredios gruesos sobre las crestas. Su presencia ayuda, pero no deben exigirse en todos los ejemplares.",
+      "Cara inferior parda y finamente tomentosa, con áreas más claras y desnudas; combinar ambas caras del talo para evitar identificar solo por el verde.",
+      "El cambio de color con la humedad es marcado. Si no se aprecia el relieve o la cara inferior, una foto de un liquen foliáceo verde puede ser insuficiente para separarlo de taxones parecidos."
+    ],
+    "etymology": "Lobaria se forma sobre el griego lobos o el latín lobus, «lóbulo», con el sufijo latino -arius, en alusión al talo lobulado, según Flora of Australia. Pulmonaria alude al parecido superficial del talo con tejido pulmonar, documentado por el National Park Service y el diccionario histórico de la RAE. La semejanza que explica el nombre no demuestra propiedades curativas.",
+    "sources": [
+      {
+        "url": "https://britishlichensociety.org.uk/resources/species-accounts/lobaria-pulmonaria",
+        "title": "British Lichen Society · Lobaria pulmonaria: lóbulos, relieve reticulado, propágulos y cara inferior"
+      },
+      {
+        "url": "https://www.anbg.gov.au/abrs/lichenlist/LOBARIA%20Genus%20and%20Key.pdf",
+        "title": "John A. Elix, Flora of Australia · Lobaria: formación etimológica del nombre genérico"
+      },
+      {
+        "url": "https://www.nps.gov/articles/000/tree-lungwort.htm",
+        "title": "National Park Service · Tree Lungwort: asociación liquénica, identificación y alusión al tejido pulmonar"
+      },
+      {
+        "url": "https://temporalweb.asale.org/dhle/pulmonaria",
+        "title": "Real Academia Española, Diccionario histórico · Pulmonaria: documentación del nombre del liquen y su semejanza con un pulmón"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento del talo; considera humedad, propágulos variables y necesidad de observar ambas caras. No identifica los simbiontes a nivel de especie ni certifica una determinación basada en una vista incompleta."
+  },
+  "nerium-oleander": {
+    "commonName": "Adelfa",
+    "description": "Arbusto leñoso perennifolio, de hojas estrechas y lanceoladas, coriáceas, dispuestas por pares o en verticilos. Las flores vistosas se agrupan al final de las ramas; el fruto suele estar formado por dos folículos alargados que se abren longitudinalmente y liberan semillas con pelos.",
+    "diagnostics": [
+      "Hojas opuestas o agrupadas normalmente de tres en tres, largas, estrechas y de margen entero; comprobar su disposición en la ramilla.",
+      "Flores terminales con corola típica de cinco lóbulos y una corona en la garganta. El color varía entre formas cultivadas y no basta para identificarla.",
+      "Fruto compuesto por dos folículos estrechos; al abrirse muestran numerosas semillas provistas de penachos de pelos.",
+      "Combinar hojas y estructuras reproductivas. Las variedades de flor doble alteran el aspecto de la corola, y una hoja lanceolada aislada puede confundirse con la de otros arbustos."
+    ],
+    "etymology": "Nerium procede del griego nerion y del latín nerium, nombres antiguos de la adelfa. Oleander es también una denominación latina medieval de la planta. Asturnatura recoge distintas propuestas sobre su formación, incluidas relaciones con voces para el laurel y la adelfa; NC State lo vincula a Olea por el parecido foliar. La cadena histórica precisa queda pendiente de contraste y no se reduce a una composición única segura.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/nerium-oleander/",
+        "title": "NC State Extension · Nerium oleander: hojas, flores, folículos, semillas y explicación de oleander"
+      },
+      {
+        "url": "https://www.asturnatura.com/especie/nerium-oleander",
+        "title": "Asturnatura · Nerium oleander: nombres griego y latino y propuestas de formación del epíteto"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia del aspecto típico y de la variación ornamental, sin determinar cultivares. Se distinguen nombres antiguos documentados de la formación histórica del epíteto, parcialmente pendiente."
+  },
+  "pinus-pinea": {
+    "commonName": "Pino piñonero",
+    "description": "Conífera perennifolia que suele desarrollar una copa ancha y aparasolada cuando crece adulta en espacio abierto. Presenta corteza gruesa y agrietada, acículas agrupadas habitualmente de dos en dos y piñas grandes, redondeadas u ovoides, con piñones voluminosos de ala muy reducida.",
+    "diagnostics": [
+      "Acículas adultas por pares, reunidas en la base por una vaina persistente. El número de acículas por sí solo no lo separa de otros pinos mediterráneos.",
+      "Piñas robustas, de contorno ovoide a globoso y extremo redondeado; semillas grandes y oblongas, con ala muy corta.",
+      "Yemas con escamas terminadas en puntas curvadas y bordes de largos filamentos blanquecinos, carácter de apoyo cuando se observa de cerca.",
+      "La copa aparasolada es típica de muchos adultos, pero depende de edad y crecimiento. Las plántulas pueden llevar hojas juveniles solitarias y azuladas; no aplicarles sin más la disposición foliar adulta."
+    ],
+    "etymology": "Pinus es el nombre latino del pino. Pinea es la forma femenina del adjetivo latino pineus, «de pino» o «perteneciente al pino», según la monografía del Jardín Botánico de la Universitat de València. Se conserva ese sentido documentado sin proponer una raíz anterior no contrastada para Pinus.",
+    "sources": [
+      {
+        "url": "https://www.treesandshrubsonline.org/articles/pinus/pinus-pinea/",
+        "title": "Trees and Shrubs Online · Pinus pinea: porte, yemas, piñas y follaje juvenil"
+      },
+      {
+        "url": "https://www.jardibotanic.org/fotos/pdf/publicacion_3_82_THE-MONUMENTAL-ARBORETUM-ENGLISH.pdf",
+        "title": "Jardín Botánico, Universitat de València · The Monumental Arboretum, Pinus pinea: hojas, piñas, semillas y significado de pinea"
+      },
+      {
+        "url": "https://www.asturnatura.com/especie/pinus-pinea",
+        "title": "Asturnatura · Pinus pinea: nombre latino del género Pinus"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que combina hojas, yemas y piñas y distingue plántulas de adultos. No determina edad ni procedencia silvestre por la silueta; la forma de copa aislada no confirma la especie."
+  },
+  "posidonia-oceanica": {
+    "commonName": "Posidonia",
+    "description": "Planta marina con flores, raíces y rizomas, endémica del Mediterráneo, que forma praderas submarinas. De los rizomas gruesos parten haces de hojas verdes acintadas, aproximadamente de 1 cm de anchura, que pueden superar 1 m de longitud. Los restos secos se acumulan con frecuencia en las playas.",
+    "diagnostics": [
+      "Hojas largas reunidas en haces, con las más jóvenes en el centro; observar el conjunto y su inserción sobre el rizoma, no solo una cinta desprendida.",
+      "Rizomas gruesos con raíces y bases foliares persistentes. Al desprenderse las hojas, las vainas se deshilachan y dejan un aspecto de brocha, carácter especialmente útil.",
+      "Los frutos son carnosos y semejantes a pequeñas aceitunas, con una sola semilla. Las bolas fibrosas o egagrópilas de playa son restos vegetales agregados por el mar, no esos frutos.",
+      "Otras fanerógamas marinas, como Zostera y Cymodocea, también tienen hojas acintadas. Combinar anchura, haces, rizoma y bases fibrosas; un resto aislado no permite siempre confirmar la especie."
+    ],
+    "etymology": "Posidonia alude a Poseidón, dios griego del mar, según DORIS. Oceanica significa «oceánica», en referencia al mar u océano. El epíteto no describe con precisión su área real: la especie es mediterránea, por lo que no debe deducirse una distribución oceánica mundial a partir del nombre.",
+    "sources": [
+      {
+        "url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/biodiversidad-marina/especies/Anexo_1._Fichas_especies.pdf#page=2",
+        "title": "MITECO · Directrices de fanerógamas marinas, anexo 1, pp. 2–3: Posidonia oceanica, rizomas y bases foliares fibrosas"
+      },
+      {
+        "url": "https://doris.ffessm.fr/Especes/Posidonia-oceanica-Posidonie-265",
+        "title": "DORIS · Posidonia oceanica: comparación con otras fanerógamas, frutos, egagrópilas y origen del nombre"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocer la planta y distinguir frutos y restos de playa. No identifica todos los fragmentos vegetales de un arribazón ni deduce extensión o estado de una pradera a partir de una sola muestra."
+  },
   "crataegus-monogyna": {
     "commonName": "Majuelo o espino albar",
     "description": "Arbusto o pequeño árbol caducifolio, espinoso y muy ramificado. Tiene hojas alternas y lobuladas, floración abundante y pequeños frutos rojos. Es habitual en setos, orlas y claros de bosque; el aspecto de las hojas y la pilosidad varía entre ejemplares.",
