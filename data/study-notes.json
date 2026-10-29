@@ -1,4 +1,104 @@
 {
+  "ixodes-ricinus": {
+    "commonName": "Garrapata común o de las ovejas",
+    "description": "Ácaro parásito de vertebrados perteneciente a las garrapatas duras, con un escudo dorsal endurecido. El cuerpo de la hembra aumenta mucho al alimentarse y puede cambiar de aspecto pardo rojizo a grisáceo. Su reconocimiento exige distinguir sexo y fase de desarrollo.",
+    "diagnostics": [
+      "Las larvas tienen tres pares de patas; ninfas y adultos, cuatro. En el macho adulto el escudo cubre prácticamente todo el dorso y en la hembra solo la región anterior.",
+      "Los caracteres del género Ixodes incluyen ausencia de ojos y de festones en el borde posterior, palpos alargados y un surco anal que rodea el ano por delante. Estos rasgos reconocen el género, no bastan para confirmar I. ricinus.",
+      "En adultos, la espina interna de la coxa del primer par de patas es larga y alcanza la coxa siguiente. Debe valorarse con una clave y otros detalles de la cara ventral; no es un carácter exclusivo que resuelva por sí solo especies próximas.",
+      "Un análisis de 2025 cuestiona la separación de I. ricinus y las formas atribuidas a I. inopinatus mediante adultos de campo y recomienda revisar los criterios morfológicos y moleculares. Una foto dorsal o el cuerpo hinchado no permiten resolver esa delimitación."
+    ],
+    "etymology": "El TLFi documenta Ixodes como adaptación del griego ixṓdēs, pegajoso o viscoso. Lewis y Short recogen ricinus como nombre latino de una garrapata y también como nombre vegetal. La coincidencia con Ricinus communis no demuestra por sí sola que el epíteto zoológico se eligiera por semejanza con su semilla; esa motivación concreta queda pendiente de contraste con la fuente original.",
+    "sources": [
+      {
+        "url": "https://www.ecdc.europa.eu/en/disease-vectors/facts/tick-factsheets/ixodes-ricinus",
+        "title": "ECDC · Ixodes ricinus: fases, número de patas, escudo dorsal y dimorfismo sexual"
+      },
+      {
+        "url": "https://www.cfsph.iastate.edu/Factsheets/pdfs/ixodes_ricinus.pdf",
+        "title": "Anna Rovid Spickler, Iowa State University · Ixodes ricinus (2022), identificación: caracteres de Ixodes y espina de la coxa I"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.crpvbd.2025.100306",
+        "title": "Estrada-Peña y colaboradores · What is the status of Ixodes inopinatus (Ixodidae)? (2025): límites de identificación y revisión de adultos de campo"
+      },
+      {
+        "url": "https://www.cnrtl.fr/etymologie/ixode",
+        "title": "CNRTL · Trésor de la langue française informatisé, ixode: antecedente griego y nombre científico Ixodes"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=ricinus",
+        "title": "Lewis y Short · A Latin Dictionary, ricinus: garrapata y acepción vegetal; edición digital Alatius"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que distingue género, fases y confirmación específica. No reidentifica las imágenes del catálogo ni resuelve la delimitación del complejo; motivación histórica del epíteto parcialmente pendiente."
+  },
+  "maja-squinado": {
+    "commonName": "Centolla o araña de mar",
+    "description": "Crustáceo decápodo de caparazón convexo, estrechado hacia delante y cubierto de tubérculos y espinas. Presenta un rostro con dos puntas y patas largas; el primer par termina en pinzas y los cuatro restantes son marchadores. El nombre se utilizó históricamente con un alcance más amplio que el de M. squinado separado de M. brachydactyla.",
+    "diagnostics": [
+      "Rostro bifurcado, con dos espinas robustas en V, y bordes laterales del caparazón armados de espinas. La silueta y estos rasgos orientan hacia Maja, pero se comparten con especies próximas.",
+      "En machos adultos, la región distal del primer gonopodio presenta un perfil anguloso y una transición abrupta al proceso terminal, frente al perfil redondeado y transición gradual descritos para M. brachydactyla. Es un apéndice reproductor abdominal y no se aprecia en una fotografía dorsal.",
+      "El índice CL/ANSL compara la longitud del caparazón, sin espinas rostrales ni intestinales, con la distancia entre las puntas de las espinas antorbitales. La corrección de Guerao y colaboradores de 2014 asigna valores inferiores a 3 a M. squinado y superiores a 3 a M. brachydactyla en adultos; el texto original de 2011 los invertía. Un valor inferior a 3 tampoco excluye otros Maja: no usar el índice aisladamente ni estimarlo en una vista oblicua sin medidas fiables.",
+      "La procedencia mediterránea no confirma M. squinado: M. brachydactyla está documentada en Alborán con apoyo genético. Los juveniles no admiten sin más los criterios de adultos; ante una vista incompleta, mantener la determinación abierta y recurrir a examen especializado o identificación molecular."
+    ],
+    "etymology": "DORIS relaciona squinado con nombres occitanos provenzales de la araña de mar, como esquinado y esquinade. Para Maja o Maia recoge tanto un nombre antiguo de crustáceo citado en Aristóteles como referencias mitológicas. La fuente no establece cuál motivó la elección del género: esa atribución queda pendiente de contraste y no se da por demostrada una dedicatoria mitológica.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Maja-squinado-Grande-araignee-de-Mediterranee-1766",
+        "title": "DORIS-FFESSM · Maja squinado: descripción, nombres y antecedentes lingüísticos de Maja y squinado"
+      },
+      {
+        "url": "https://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/download/1236/1302/1280",
+        "title": "Guerao y colaboradores · Identification of European species of Maja (2011): gonopodios, definición de CL y ANSL y límites en juveniles; leer con la corrección de 2014"
+      },
+      {
+        "url": "https://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/download/1518/1659",
+        "title": "Guerao y colaboradores · Erratum (2014), Scientia Marina 78(1): 143: corrige la asignación del índice CL/ANSL a M. squinado y M. brachydactyla"
+      },
+      {
+        "url": "https://doi.org/10.1017/S1755267214000827",
+        "title": "Abelló, Guerao, Salmerón y García Raso · Maja brachydactyla in the western Mediterranean (2014): ejemplares de Alborán e identificación genética"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que conserva el ID y el nombre del catálogo, sin atribuir automáticamente a esta especie imágenes históricamente rotuladas M. squinado. Motivación del género parcialmente pendiente."
+  },
+  "mytilus-edulis": {
+    "commonName": "Mejillón común",
+    "description": "Molusco bivalvo filtrador que suele formar agrupaciones y se fija al sustrato mediante filamentos de biso. La concha tiene dos valvas de tamaño semejante y contorno aproximadamente triangular y alargado, con el extremo anterior más estrecho. El aspecto y las proporciones varían con el ambiente.",
+    "diagnostics": [
+      "Superficie con líneas concéntricas de crecimiento y sin costillas radiales; color generalmente azul, violáceo o pardo, bajo una cubierta externa o periostraco más oscura.",
+      "Interior nacarado blanquecino con borde azul oscuro o púrpura. El biso sale entre las valvas y fija el animal al soporte; estos caracteres orientan hacia un mejillón de concha lisa, sin confirmar por sí solos M. edulis.",
+      "MarLIN describe los umbones anteriores de M. edulis sin la curvatura hacia abajo habitual en M. galloprovincialis. La forma de la concha y el borde del manto deben valorarse conjuntamente: existe mucha variación y ningún carácter morfológico aislado separa con seguridad todas las especies próximas.",
+      "La hibridación complica la identificación. Los estudios comparativos muestran que marcadores moleculares individuales pueden discrepar y que un análisis de varios loci resulta más informativo. Una fotografía general o el nombre común no permiten descartar híbridos ni confirmar la especie."
+    ],
+    "etymology": "DORIS recoge Mytilus del latín mitulus, nombre del mejillón. Edulis es el adjetivo latino comestible, documentado por Lewis y Short y relacionado con edo, comer. La traducción reúne dos correspondencias léxicas; el epíteto no distingue a M. edulis de otros mejillones que también se han utilizado como alimento.",
+    "sources": [
+      {
+        "url": "https://www.marlin.ac.uk/species/detail/1421",
+        "title": "Marine Biological Association · MarLIN, Mytilus edulis: concha, biso, variación y comparación con M. galloprovincialis"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31873129/",
+        "title": "Comparison between single and multi-locus approaches for specimen identification in Mytilus mussels (2019): discordancia entre marcadores e identificación con varios loci"
+      },
+      {
+        "url": "https://doris.ffessm.fr/Especes/Mytilus-edulis-Moule-commune-581",
+        "title": "DORIS-FFESSM · Mytilus edulis: nombres, hibridación y antecedentes latinos de Mytilus y edulis"
+      },
+      {
+        "url": "https://cld.bbaw.de/lemma/lat/edulis",
+        "title": "Lewis y Short · A Latin Dictionary, edulis; edición digital de la Academia de Ciencias de Berlín-Brandeburgo"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que separa reconocimiento morfológico e identificación específica frente a congéneres e híbridos. Se mantienen el ID y el nombre del catálogo sin reidentificar sus imágenes."
+  },
   "juniperus-communis": {
     "commonName": "Enebro común",
     "description": "Conífera perennifolia de porte variable, desde arbusto bajo hasta arbolito. Mantiene hojas estrechas, rígidas y punzantes. Los conos femeninos forman gálbulos carnosos al madurar; son estructuras reproductoras de una gimnosperma, no bayas verdaderas.",
