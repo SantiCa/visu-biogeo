@@ -1,4 +1,143 @@
 {
+  "juniperus-communis": {
+    "commonName": "Enebro común",
+    "description": "Conífera perennifolia de porte variable, desde arbusto bajo hasta arbolito. Mantiene hojas estrechas, rígidas y punzantes. Los conos femeninos forman gálbulos carnosos al madurar; son estructuras reproductoras de una gimnosperma, no bayas verdaderas.",
+    "diagnostics": [
+      "Acículas agrupadas de tres en tres alrededor de la ramilla, con una banda blanquecina ancha en el haz y envés verde.",
+      "La banda blanca puede quedar algo dividida en su base por un nervio verde fino. Examinar varias hojas completas: en el enebro de la miera, J. oxycedrus, son típicas dos líneas blancas separadas por una franja verde.",
+      "Los gálbulos maduros son globosos u ovoides y contienen semillas rodeadas por escamas carnosas soldadas. Combinar hojas y conos; el porte aislado no determina la especie ni permite asignar una subespecie."
+    ],
+    "etymology": "Juniperus es el nombre latino del enebro, como recoge la UC3M. La misma fuente interpreta communis por su distribución amplia y abundancia, de acuerdo con el sentido de común del adjetivo. El origen remoto del nombre latino Juniperus queda pendiente de contraste documental; no se añade una descomposición de sus sílabas sin referencia.",
+    "sources": [
+      {
+        "url": "https://www.ehu.eus/documents/1686888/3913390/8.%2BJuniperus%2Bcommunis.pdf",
+        "title": "Universidad del País Vasco · Juniperus communis: hojas en verticilos, banda blanca y formación de los gálbulos"
+      },
+      {
+        "url": "https://apps.caib.es/sites/canviclimatic2/f/75918",
+        "title": "Guía para el desarrollo de normativa local en la lucha contra el cambio climático · tabla de especies: contraste foliar entre J. communis y J. oxycedrus"
+      },
+      {
+        "url": "https://www.uc3m.es/ss/Satellite/Sostenibilidad/es/TextoDosColumnas/1371335848059/Enebro_Comun",
+        "title": "Universidad Carlos III de Madrid · Enebro común: nombre latino Juniperus e interpretación de communis"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que combina caracteres foliares y reproductivos. Conserva el alcance del catálogo sin asignar subespecies; la raíz remota del género permanece parcialmente pendiente."
+  },
+  "limosa-limosa": {
+    "commonName": "Aguja colinegra",
+    "description": "Ave limícola de patas y cuello largos, con pico muy prolongado y casi recto. Busca alimento en sustratos húmedos de marismas, estuarios, arrozales y otros humedales. El plumaje adulto cambia entre tonos castaño-anaranjados durante la reproducción y un aspecto mucho más gris fuera de ella.",
+    "diagnostics": [
+      "Pico largo, con base anaranjada y extremo oscuro; patas oscuras y silueta esbelta. La longitud del pico varía, entre otros factores, con el sexo.",
+      "En vuelo destaca una franja blanca en el ala y una cola blanca con una banda terminal negra ancha. Estos caracteres son especialmente útiles cuando el plumaje corporal es gris.",
+      "En plumaje nupcial aparecen cabeza, cuello y pecho castaños y barreado en los flancos. La aguja colipinta puede confundirse con ella: comprobar el conjunto, especialmente ala y cola; una vista parcial del pico o el tono rojizo no bastan."
+    ],
+    "etymology": "Jobling deriva limosa del latín limosus, fangoso, formado sobre limus, barro o limo. Documenta que el nombre genérico Limosa procede del epíteto de Scolopax limosa, la combinación original. Su repetición actual como género y epíteto forma un tautónimo; la traducción del nombre no sustituye los caracteres de identificación.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/aguja-colinegra/",
+        "title": "SEO/BirdLife · Aguja colinegra: pico, diferencias entre sexos, plumajes, hábitat y posible confusión con la colipinta"
+      },
+      {
+        "url": "https://festivaldelasgrullas.juntaex.es/es/El-Festival/otras-aves-invernantes/detalle-aves/Aguja-Colinegra-Limosa-limosa/",
+        "title": "Junta de Extremadura · Aguja colinegra: franja alar blanca y patrón blanco y negro de la cola"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), voces Limosa y limosa, p. 227"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en adultos y en la combinación de silueta y plumaje. La estación y el sexo alteran el aspecto; no se asignan subespecies a partir de una fotografía general."
+  },
+  "lumbricus-terrestris": {
+    "commonName": "Lombriz de tierra común",
+    "description": "Anélido terrestre de cuerpo alargado y segmentado, con pigmentación dorsal rojiza a violácea y pequeñas quetas dispuestas en pares. En los ejemplares sexualmente maduros se desarrolla el clitelo, una región glandular engrosada. La apariencia general de lombriz de tierra se comparte con numerosas especies.",
+    "diagnostics": [
+      "En la descripción del neotipo, el clitelo ocupa los segmentos 32 a 37 y los tubérculos pubertarios los segmentos 33 a 36. Son engrosamientos relacionados con la reproducción que deben examinarse en un adulto y contando los segmentos desde el extremo anterior.",
+      "Comprobar con lupa quetas, clitelo y otros caracteres de una clave; el tamaño, el color o la segmentación por sí solos no identifican la especie.",
+      "La investigación molecular separa L. terrestris de L. herculeus, una especie de aspecto muy semejante. Los caracteres externos compartidos no resuelven con seguridad esa separación; una fotografía general queda como orientación y la confirmación puede requerir análisis genético."
+    ],
+    "etymology": "Lewis y Short documentan lumbricus en latín tanto para un gusano intestinal como, en otros usos, para una lombriz de tierra. Terrestris significa perteneciente a la tierra o al medio terrestre y se forma sobre terra. Son correspondencias léxicas documentadas; el sentido histórico amplio de lumbricus no equipara taxonómicamente las lombrices de tierra con los gusanos intestinales.",
+    "sources": [
+      {
+        "url": "https://alpinesoils.eu/wp-content/uploads/2020/05/Eathworms-Identification-sheets-1.pdf",
+        "title": "Proyecto Alpinesoils · Earthworms: identification sheets, ficha de Lumbricus terrestris: pigmentación, quetas y clitelo"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015629",
+        "title": "James y colaboradores · DNA Barcoding Reveals Cryptic Diversity in Lumbricus terrestris (2010): descripción del neotipo y separación de L. herculeus"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.ympev.2016.09.011",
+        "title": "Martinsson y Erséus · Cryptic speciation and limited hybridization within Lumbricus earthworms (2017): apoyo nuclear a la separación e hibridación limitada"
+      },
+      {
+        "url": "https://cld.bbaw.de/lemma/lat/lumbricus",
+        "title": "Lewis y Short · A Latin Dictionary, voz lumbricus; edición digital de la Academia de Ciencias de Berlín-Brandeburgo"
+      },
+      {
+        "url": "https://cld.bbaw.de/lemma/lat/terrestris",
+        "title": "Lewis y Short · A Latin Dictionary, voz terrestris; edición digital de la Academia de Ciencias de Berlín-Brandeburgo"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que conserva el nombre e ID del catálogo. Los rasgos de la morfoespecie no certifican L. terrestris en sentido estricto frente a L. herculeus; no se reidentifican las imágenes existentes."
+  },
+  "sepia-officinalis": {
+    "commonName": "Sepia común, jibia o choco",
+    "description": "Molusco cefalópodo de cuerpo ancho, ovalado y aplanado, bordeado por una aleta a cada lado del manto. Presenta ocho brazos y dos tentáculos extensibles para capturar presas. Bajo el manto alberga una concha interna calcárea, el sepión. Su coloración puede cambiar rápidamente y no constituye un patrón fijo de la especie.",
+    "diagnostics": [
+      "Manto ancho y aletas laterales que recorren gran parte de su longitud; distinguir los ocho brazos de los dos tentáculos largos, que pueden permanecer retraídos.",
+      "Las mazas terminales de los tentáculos llevan cinco o seis filas de ventosas en la descripción de MarLIN. El sepión es alargado, con lados aproximadamente paralelos y extremos redondeados.",
+      "La silueta y el sepión orientan hacia una sepia, pero la confirmación de S. officinalis frente a especies próximas exige una clave y detalles de ventosas y concha. No identificarla solo por el color ni por una concha incompleta sin escala."
+    ],
+    "etymology": "Sepia continúa el latín sepia, procedente del griego sēpía, nombre del animal documentado en el DLE. El diccionario de latín botánico del Missouri Botanical Garden explica officinalis como relativo a la oficina o botica y, en los epítetos científicos, asociado al uso farmacológico histórico. Esa explicación léxica no demuestra qué uso concreto motivó el epíteto de esta especie; la motivación precisa de Linneo queda pendiente de contraste con su texto original.",
+    "sources": [
+      {
+        "url": "https://www.marlin.ac.uk/species/detail/1098",
+        "title": "Marine Biological Association · MarLIN, Sepia officinalis: descripción, tentáculos, filas de ventosas, sepión y coloración variable"
+      },
+      {
+        "url": "https://dle.rae.es/sepia",
+        "title": "RAE-ASALE · DLE, sepia: nombre latino y antecedente griego; nombres comunes jibia y choco"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=officinalis",
+        "title": "Missouri Botanical Garden · A Grammatical Dictionary of Botanical Latin, officinalis: sentido de botica y uso como epíteto"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que distingue reconocimiento general y confirmación específica. Motivación histórica del epíteto parcialmente pendiente; el significado del nombre no acredita propiedades medicinales actuales."
+  },
+  "vanellus-vanellus": {
+    "commonName": "Avefría europea",
+    "description": "Ave limícola de cuerpo compacto, de unos treinta centímetros, con un penacho fino y oscuro en la cabeza. Combina dorso de reflejos verdosos y partes inferiores blancas con una zona negra en el pecho. Frecuenta campos abiertos, pastizales y humedales, y suele agruparse en bandos.",
+    "diagnostics": [
+      "Penacho de plumas estrechas en la cabeza, pico corto y contraste entre pecho negro y vientre blanco; las partes superiores pueden mostrar reflejos verdes según la luz.",
+      "En vuelo tiene alas anchas y redondeadas y un diseño de blanco y negro llamativo; la cola es blanca con una banda oscura en el extremo.",
+      "Los jóvenes presentan tonos menos vivos y penacho más corto. Combinar cabeza, pecho, silueta y alas; no exigir un penacho largo en todas las edades ni deducir el sexo de una vista general."
+    ],
+    "etymology": "Jobling recoge vanellus como nombre latino medieval de la avefría, diminutivo del latín vannus, aventador utilizado para separar el grano. Documenta que el género Vanellus tomó el epíteto de Tringa vanellus, su combinación original. El nombre actual repite el término como género y epíteto específico y constituye un tautónimo.",
+    "sources": [
+      {
+        "url": "https://www.juntadeandalucia.es/avra/export/sites/WebEPSA/parque-alamillo/contenido/naturaleza/Documentos-imagenes/aves/Guia_Aves_Alamillo.pdf",
+        "title": "Junta de Andalucía · Guía de aves del Parque del Alamillo, p. 55: identificación, plumaje juvenil, alas, cola y hábitat de la avefría europea"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), voces Vanellus y vanellus, p. 398"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento por combinación de rasgos. La edad y la iluminación modifican el aspecto del penacho y los reflejos; no se infiere sexo a partir de un único carácter."
+  },
   "scolymus-hispanicus": {
     "commonName": "Cardillo o tagarnina",
     "description": "Hierba espinosa de raíz perenne, con roseta basal y tallos ramificados que pueden alcanzar alrededor de metro y medio. Presenta hojas alternas, profundamente divididas en la base, y capítulos amarillos situados en las axilas de las hojas. Es propia de bordes de caminos y otros ambientes alterados de la región mediterránea y Macaronesia.",
