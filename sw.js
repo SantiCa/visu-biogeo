@@ -1,4 +1,4 @@
-const CACHE='visu-biogeo-v8.11',PHOTOS='visu-photo-library-v1';
+const CACHE='visu-biogeo-v8.12',PHOTOS='visu-photo-library-v1';
 const CORE=['./','./index.html','./styles.css','./theme.js','./app.js','./engine.mjs','./offline.mjs','./storage.mjs','./config.js','./manifest.webmanifest','./icons/icon.svg','./data/species.json','./data/images.json','./data/curated-images.json','./data/andalucia-priority.json','./data/inaturalist-images.json','./data/geological-images.json','./data/geodil-images.json','./data/commons-extra-images.json','./data/priority-additions.json','./data/cloud-images.json','./data/asturnatura-images.json','./data/taxonomy.json','./data/teaching-images.json','./data/petrography-images.json','./data/study-notes.json','./data/family-notes.json'];
 CORE.push('./catalogue.mjs','./data/classification.json');
 CORE.push('./notes.mjs','./tooltips.mjs','./community.mjs','./data/exams.json');

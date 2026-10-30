@@ -8,7 +8,7 @@
       "url": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
       "source": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
       "official": false,
-      "matchedEntries": 33,
+      "matchedEntries": 40,
       "coverage": "Lista de respuestas aportada por un opositor en 2006 para tribunales 6–9; no es plantilla oficial. Solo se vinculan denominaciones inequívocas ya presentes en catálogo; otras quedan pendientes."
     },
     {
@@ -347,6 +347,97 @@
     }
   ],
   "events": [
+    {
+      "itemId": "estructura-xilema",
+      "year": 2002,
+      "region": "Madrid",
+      "page": "lista 2",
+      "context": "recopilación de respuestas no oficial, tribunales 6–9",
+      "evidenceType": "recognition",
+      "documentId": "madrid-2002-recopilacion-foro",
+      "source": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
+      "sourceType": "recopilacion-opositor",
+      "sourceName": "Xilema-vasos leñosos",
+      "note": "Lista de un opositor sin clave oficial ni imágenes; Nombre equivalente a xilema; no identifica una preparación concreta."
+    },
+    {
+      "itemId": "panopea-glycimeris",
+      "year": 2002,
+      "region": "Madrid",
+      "page": "lista 25",
+      "context": "recopilación de respuestas no oficial, tribunales 6–9",
+      "evidenceType": "recognition",
+      "documentId": "madrid-2002-recopilacion-foro",
+      "source": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
+      "sourceType": "recopilacion-opositor",
+      "sourceName": "Panopaea glycimeris",
+      "note": "Lista de un opositor sin clave oficial ni imágenes; Grafía de género histórica; contraste: https://www.marinespecies.org/aphia.php?p=taxlist&tName=Panopaea y https://www.marinespecies.org/aphia.php?id=140106&p=taxdetails."
+    },
+    {
+      "itemId": "conglomerado-pudinga",
+      "year": 2002,
+      "region": "Madrid",
+      "page": "lista 26",
+      "context": "recopilación de respuestas no oficial, tribunales 6–9",
+      "evidenceType": "recognition",
+      "documentId": "madrid-2002-recopilacion-foro",
+      "source": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
+      "sourceType": "recopilacion-opositor",
+      "sourceName": "Pudinga",
+      "note": "Lista de un opositor sin clave oficial ni imágenes; La denominación corresponde a la entrada general de conglomerado pudinga, no a su lámina delgada."
+    },
+    {
+      "itemId": "acanthodactylus-erythrurus",
+      "year": 2002,
+      "region": "Madrid",
+      "page": "lista 27",
+      "context": "recopilación de respuestas no oficial, tribunales 6–9",
+      "evidenceType": "recognition",
+      "documentId": "madrid-2002-recopilacion-foro",
+      "source": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
+      "sourceType": "recopilacion-opositor",
+      "sourceName": "Acanthodactylus eritrurus",
+      "note": "Lista de un opositor sin clave oficial ni imágenes; Grafía atribuida con errata; correspondencia provisional con Acanthodactylus erythrurus."
+    },
+    {
+      "itemId": "arctostaphylos-uva-ursi",
+      "year": 2002,
+      "region": "Madrid",
+      "page": "lista 39",
+      "context": "recopilación de respuestas no oficial, tribunales 6–9",
+      "evidenceType": "recognition",
+      "documentId": "madrid-2002-recopilacion-foro",
+      "source": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
+      "sourceType": "recopilacion-opositor",
+      "sourceName": "Arctostaphyllus uva-ursi",
+      "note": "Lista de un opositor sin clave oficial ni imágenes; Grafía atribuida con errata; correspondencia provisional con Arctostaphylos uva-ursi."
+    },
+    {
+      "itemId": "caliza-numulitica",
+      "year": 2002,
+      "region": "Madrid",
+      "page": "lista 44",
+      "context": "recopilación de respuestas no oficial, tribunales 6–9",
+      "evidenceType": "recognition",
+      "documentId": "madrid-2002-recopilacion-foro",
+      "source": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
+      "sourceType": "recopilacion-opositor",
+      "sourceName": "Caliza nummulitica",
+      "note": "Lista de un opositor sin clave oficial ni imágenes; Equivalencia ortográfica con caliza numulítica."
+    },
+    {
+      "itemId": "buxus-sempervirens",
+      "year": 2002,
+      "region": "Madrid",
+      "page": "lista 50",
+      "context": "recopilación de respuestas no oficial, tribunales 6–9",
+      "evidenceType": "recognition",
+      "documentId": "madrid-2002-recopilacion-foro",
+      "source": "https://www.buscaoposiciones.com/foro/Oposiciones-Profesores-Educacion-Secundaria-Biologia-y-Geologia-fmen-1319099-1756201.htm",
+      "sourceType": "recopilacion-opositor",
+      "sourceName": "Buxux sempervirens",
+      "note": "Lista de un opositor sin clave oficial ni imágenes; Grafía atribuida con errata; correspondencia provisional con Buxus sempervirens."
+    },
     {
       "itemId": "marthasterias-glacialis",
       "year": 2002,
