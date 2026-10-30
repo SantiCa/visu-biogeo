@@ -29,7 +29,7 @@ export function buttonHelp(button){
  if(button.dataset.toggle||button.dataset.mapToggle)return 'Abre o pliega las ramas de este grupo.';
  if(button.dataset.rankGuide)return 'Explica qué significa este rango taxonómico y cómo se distingue de los demás.';
  if(help[button.id])return help[button.id];
- if(button.dataset.view)return 'Abre '+({study:'el repaso con imágenes',catalog:'el catálogo y la lectura libre',classification:'los árboles de taxonomía, minerales y rocas',priorities:'tus prioridades de Andalucía',progress:'el resumen de tu aprendizaje',settings:'la cuenta, instalación y copias de seguridad'}[button.dataset.view]||'esta sección')+'.';
+ if(button.dataset.view)return 'Abre '+({study:'el repaso con imágenes',catalog:'el catálogo y la lectura libre',classification:'los árboles de taxonomía, minerales y rocas',priorities:'tus especies prioritarias',progress:'el resumen de tu aprendizaje',settings:'la cuenta, instalación y copias de seguridad'}[button.dataset.view]||'esta sección')+'.';
  if(button.dataset.grade)return button.dataset.grade==='again'?'Guarda esta respuesta y pasa a otra entrada. Programa el siguiente repaso en 10 minutos.':'Guarda el resultado y adapta el intervalo al esfuerzo elegido. Después muestra otra entrada.';
  if(button.dataset.decision)return button.dataset.decision==='approved'?'Aprueba esta foto para el repaso. En una cuenta autorizada, la decisión se comparte con los demás usuarios.':'Excluye esta foto del repaso. En una cuenta autorizada, la decisión se comparte con los demás usuarios.';
  if(button.hasAttribute('data-save-priority'))return 'Guarda tu frecuencia y referencia personal para esta entrada; no modifica la prioridad de otros usuarios.';
