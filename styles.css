@@ -76,3 +76,10 @@ input:focus-visible,button:focus-visible,summary:focus-visible { outline:3px sol
 [data-theme="dark"] .map-node:not(.selected) rect { fill:#263e31; stroke:#85ab94; }
 [data-theme="dark"] .map-node:not(.selected) text { fill:#e4eee7; }
 [data-theme="dark"] a { color:#a9d9bd; }
+
+/* Mapa ampliado y vista rápida de sus nodos. */
+.guide-preview{position:fixed;z-index:1200;width:min(300px,calc(100vw - 16px));max-height:min(420px,calc(100vh - 16px));overflow:hidden;padding:13px;background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:12px;box-shadow:0 12px 35px #0004;pointer-events:none;font-size:.82rem;line-height:1.4}
+.guide-preview strong,.guide-preview-rank{display:block;overflow-wrap:anywhere}.guide-preview-rank,.guide-preview-example,.guide-preview-empty,.guide-preview figcaption{color:var(--muted);font-size:.72rem}.guide-preview p{margin:7px 0;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}.guide-preview figure{margin:8px 0 0}.guide-preview img{display:block;width:100%;height:140px;object-fit:contain;background:#e9eee9;border-radius:6px}.guide-preview figcaption{overflow-wrap:anywhere}
+body.guide-map-expanded{overflow:hidden}.map-expanded .tree-study-workspace{position:fixed;inset:0;z-index:1100;display:grid;grid-template-columns:minmax(0,1fr) minmax(250px,330px);gap:10px;padding:10px;background:var(--cream);align-items:stretch}.map-expanded .tree-study-navigation,.map-expanded #guide-map-wrap{min-height:0;height:100%}.map-expanded #guide-map-wrap{display:flex;flex-direction:column}.map-expanded .map-controls{flex-wrap:wrap}.map-expanded .guide-canvas{height:auto;flex:1;min-height:0}.map-expanded .guide-detail{max-height:none;height:100%}.map-expanded .map-help{flex:none;min-height:0;margin:8px 0 0}.map-expanded .guide-mini{bottom:45px}
+[data-theme="dark"] .guide-preview img{background:#26372d}
+@media(max-width:800px){.map-expanded .tree-study-workspace{grid-template-columns:1fr;grid-template-rows:minmax(0,1fr) minmax(100px,28vh)}.map-expanded .guide-detail{overflow:auto}.map-expanded .map-help{font-size:.7rem}.map-expanded .guide-mini{bottom:45px}}
