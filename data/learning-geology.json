@@ -1,4 +1,26 @@
 {
+  "arenisca-arcosica": {
+    "domain": "roca",
+    "path": [
+      "Sedimentarias",
+      "Detríticas",
+      "arenitas"
+    ],
+    "classification": "Sedimentarias",
+    "classificationAliases": [],
+    "formula": null,
+    "formulaKind": "no-fixed-formula",
+    "formulaQuiz": false,
+    "composition": "Arenisca rica en feldespato, con cuarzo y otros granos en proporciones variables.",
+    "description": "Arenisca detrítica rica en feldespato.",
+    "sources": [
+      {
+        "url": "https://apps.usgs.gov/thesaurus/term-simple.php?code=2.1.3.2&thcode=4",
+        "title": "USGS · Arkose"
+      }
+    ],
+    "checkedAt": "2026-10-30"
+  },
   "albita": {
     "domain": "mineral",
     "path": [
