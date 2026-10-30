@@ -1,4 +1,139 @@
 {
+  "acer-negundo": {
+    "commonName": "Arce negundo",
+    "description": "Árbol caducifolio originario de Norteamérica, con copa amplia y hojas opuestas compuestas. Presenta flores masculinas y femeninas en pies distintos; los femeninos producen racimos colgantes de frutos alados pareados que pueden persistir en invierno.",
+    "diagnostics": [
+      "Hojas imparipinnadas, normalmente con tres a siete folíolos; el terminal tiene un peciólulo largo y puede presentar lóbulos. Revisar la hoja completa y su inserción opuesta: un folíolo aislado puede confundirse con una hoja simple.",
+      "Los frutos son disámaras, con alas que forman un ángulo estrecho. Su presencia junto con hojas compuestas opuestas ayuda a reconocerlo frente a arces de hojas simples y palmeadas. La ausencia de frutos no excluye la especie, pues hay pies masculinos.",
+      "Existen cultivares con hojas blancas, rosadas o amarillentas. El color del follaje no determina por sí solo el cultivar ni sustituye a la disposición y división de las hojas."
+    ],
+    "etymology": "Lewis y Short documentan acer como el nombre latino del arce. Oregon State University vincula negundo, con cautela, al nombre de Vitex negundo por el parecido de sus hojas; Stanford también recoge esa transferencia del nombre y remite a nirgundi en sánscrito. La traducción literal del sánscrito y la motivación original de Linneo quedan pendientes de contraste con textos originales; se conserva la relación documentada con Vitex.",
+    "sources": [
+      {
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-negundo",
+        "title": "Oregon State University · Acer negundo: hojas, dioecia, disámaras, cultivares y relación de negundo con Vitex"
+      },
+      {
+        "url": "https://trees.stanford.edu/ENCYC/ACERneg.htm",
+        "title": "Stanford University · Acer negundo: folíolos, cultivares e historia del epíteto"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=acer",
+        "title": "Lewis y Short · acer: nombre latino del arce, distinto del adjetivo acer"
+      },
+      {
+        "url": "https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/mapa-forestal-espana/especies_arboreas.html",
+        "title": "MITECO · Especies arbóreas del Mapa Forestal: nombre común arce negundo"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocer ramillas con hojas completas y, cuando existan, frutos. La relación etimológica con Vitex está documentada en fuentes universitarias; no se atribuye una traducción sánscrita verificada de primera mano."
+  },
+  "achillea-millefolium": {
+    "commonName": "Milenrama",
+    "description": "Hierba perenne rizomatosa de tallos erectos, más o menos pelosos, y hojas muy finamente divididas. Sus numerosos capítulos pequeños se reúnen en grupos terminales de superficie aproximadamente plana; las flores periféricas suelen ser blancas y también pueden ser rosadas.",
+    "diagnostics": [
+      "Hojas alternas de contorno alargado, divididas dos o tres veces en segmentos estrechos. Combinar esta división fina con los capítulos: una hoja de aspecto plumoso por sí sola no identifica la especie.",
+      "Cada capítulo tiene pocas flores periféricas liguladas, habitualmente cuatro o cinco, alrededor de flores tubulosas. El conjunto de capítulos forma un corimbo; no confundirlo con una umbela de flores individuales de una apiácea.",
+      "Los frutos son pequeños aquenios comprimidos sin vilano. El número de lígulas y el color pueden variar; una foto general sin hojas y sin detalle de los capítulos puede dejar la identificación abierta."
+    ],
+    "etymology": "Achillea alude al héroe mitológico Aquiles y a la tradición que le atribuye el uso de esta hierba para curar heridas. Es una referencia legendaria del nombre, no una demostración histórica ni de eficacia medicinal. Millefolium significa mil hojas en latín y alude a la división fina del follaje, sin expresar un recuento literal de hojas.",
+    "sources": [
+      {
+        "url": "https://herbarivirtual.uib.es/es/general/1470/especie/achillea-millefolium-l-",
+        "title": "Universitat de les Illes Balears · Achillea millefolium: rizoma, hojas, capítulos y corimbo"
+      },
+      {
+        "url": "https://revistas.usal.es/index.php/0211-9714/article/download/6067/6087/20999",
+        "title": "Muñoz Centeno, Santos Bobillo y Alonso Beato (1999), Studia Botanica 18 · Achillea millefolium, p. 121: hojas, lígulas y aquenios"
+      },
+      {
+        "url": "https://mdc.mo.gov/discover-nature/field-guide/common-yarrow-common-milfoil",
+        "title": "Missouri Department of Conservation · Achillea millefolium: hojas alternas, variación floral y etimología mitológica y descriptiva"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento de la planta florida y sus hojas. No se asignan subespecies ni cultivares por el color de las flores; los usos atribuidos a Aquiles se mencionan únicamente como tradición etimológica."
+  },
+  "asplenium-trichomanes": {
+    "commonName": "Culantrillo menor",
+    "description": "Helecho pequeño de fisuras de rocas y muros, con rizoma corto y frondes estrechas divididas una sola vez. El pecíolo y el raquis son castaño oscuros y brillantes; a ambos lados se disponen numerosas pinnas pequeñas de contorno ovalado a oblongo.",
+    "diagnostics": [
+      "Lámina una vez pinnada, con pinnas enteras o crenadas y raquis oscuro. Examinar el eje de la fronde y la inserción de las pinnas; no basta la silueta general de un helecho pequeño.",
+      "Soros alargados en el envés, sobre las nervaduras, que pueden confluir al madurar. La vista del envés complementa el aspecto del haz y permite comprobar estructuras reproductoras.",
+      "Asplenium viride presenta el raquis verde y el pecíolo verde salvo la base castaña. A. trichomanes comprende varios tratamientos infraespecíficos: ni el sustrato ni una fotografía de conjunto permiten asignar con seguridad una subespecie o un citotipo."
+    ],
+    "etymology": "Flora of New Zealand relaciona Asplenium con el griego a y splen, sin bazo, por las supuestas propiedades antiguamente atribuidas a estos helechos frente al bazo aumentado; se trata de historia del nombre. Para trichomanes recoge el nombre griego usado por Teofrasto para este tipo de helecho. La segmentación ulterior de trichomanes y la intención concreta de reutilizar ese nombre quedan pendientes de contraste; no se presenta una traducción compuesta como segura.",
+    "sources": [
+      {
+        "url": "https://www.floraiberica.es/floraiberica/texto/pdfs/01_020_01_Asplenium.pdf",
+        "title": "Flora iberica, vol. I · Asplenium: A. trichomanes y subespecies, pp. 93–95; comparación con A. viride, p. 95"
+      },
+      {
+        "url": "https://www.nzflora.info/factsheet/taxon/Asplenium-trichomanes.html",
+        "title": "Brownsey y Perrie (2018), Flora of New Zealand · Asplenium trichomanes: reconocimiento, soros, etimología y límites del complejo"
+      },
+      {
+        "url": "https://www.nzflora.info/factsheet/taxon/Asplenium.html",
+        "title": "Brownsey y Perrie (2018), Flora of New Zealand · Asplenium: etimología histórica del género"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia en el sentido amplio del nombre del catálogo. Flora iberica aporta la comparación regional; no se trasladan citotipos ni distribuciones neozelandesas a ejemplares ibéricos. Quedan abiertas las determinaciones infraespecíficas sin material adecuado."
+  },
+  "aporia-crataegi": {
+    "commonName": "Blanca del majuelo",
+    "description": "Mariposa diurna de alas blancas recorridas por venas oscuras muy marcadas. Las hembras suelen tener las alas más translúcidas y las venas más pardas. Las orugas se alimentan de diversas rosáceas leñosas, entre ellas majuelos y endrinos.",
+    "diagnostics": [
+      "Nerviación oscura destacada tanto en el anverso como en el reverso, sobre un fondo claro. Revisar ambas alas: el blanco aislado es compartido por numerosos piéridos.",
+      "Carece de las manchas negras discales de Parnassius mnemosyne, otra mariposa blanca de alas parcialmente translúcidas. La comparación exige que esa zona alar esté visible y el ejemplar suficientemente conservado.",
+      "La pérdida de escamas también vuelve translúcidos a ejemplares desgastados. La transparencia por sí sola no permite determinar el sexo; el tamaño y la presencia de un majuelo tampoco confirman la especie."
+    ],
+    "etymology": "Crataegi significa de Crataegus, el género de los majuelos, plantas nutricias de sus orugas; no implica que solo utilicen ese género. Treccani deriva Aporia del griego áporos, inaccesible, y propone una explicación ligada a las copas de los árboles. La motivación original del nombre queda pendiente de contraste con la publicación de su autor: se recoge la raíz lingüística sin convertir esa explicación de conducta en un carácter diagnóstico.",
+    "sources": [
+      {
+        "url": "https://biodiversity.unitir.edu.al/Albania_aporia_crataegii.htm",
+        "title": "Cuvelier y Paparisto, Universidad de Tirana · Aporia crataegi: venas, desgaste, diferencias sexuales, plantas nutricias y comparación con Parnassius mnemosyne"
+      },
+      {
+        "url": "https://www.papilionea.it/aporia-crataegi/",
+        "title": "Papilionea · Aporia crataegi: etimología de crataegi y plantas nutricias"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/aporia_res-97ce3874-000e-11de-9d89-0016357eee51/",
+        "title": "Istituto della Enciclopedia Italiana, Treccani · Apòria: raíz griega y explicación propuesta para el nombre zoológico"
+      },
+      {
+        "url": "https://www.asociacion-zerynthia.org/especies",
+        "title": "Asociación ZERYNTHIA · Lista de mariposas de España: Aporia crataegi, blanca del majuelo"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en adultos con alas visibles. No se extrapola la fenología albanesa a Madrid ni se asigna sexo por transparencia. La motivación histórica del nombre genérico permanece abierta."
+  },
+  "arca-noae": {
+    "commonName": "Arca de Noé",
+    "description": "Bivalvo marino de concha gruesa, alargada y de contorno aproximadamente trapezoidal, con costillas radiales y bandas pardas sobre fondo claro. Vive fijado a sustratos duros mediante un biso; la concha puede estar cubierta de organismos incrustantes.",
+    "diagnostics": [
+      "Charnela larga y recta provista de numerosos dientes pequeños: es una dentición taxodonta. Los umbos son prominentes y están separados; conviene observar el borde dorsal y el interior de una valva.",
+      "Combinar contorno, costillas y charnela. Arca tetragona suele ser más pequeña, delicada y de contorno más rectangular; el tamaño por sí solo no basta para separarlas.",
+      "Las bandas externas y el relieve pueden quedar ocultos por algas o esponjas. Una concha incrustada sin charnela visible puede dejar dudas; la presencia de una esponja recubriéndola no demuestra la especie."
+    ],
+    "etymology": "DORIS explica Arca por el latín arca, cofre, y su asociación con una embarcación; noae alude a Noé. El binomio evoca el arca de Noé por la forma de la concha. Es una comparación del nombre, no un rasgo exclusivo para identificarla.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Arca-noae-Arche-de-Noe-118",
+        "title": "Didierlaurent, Brucy y Lamare, DORIS-FFESSM · Arca noae: concha, charnela, biso, especies parecidas y etimología"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento de conchas y ejemplares vivos. La determinación queda abierta si las incrustaciones impiden comprobar la forma y la charnela; no se atribuyen partes blandas a una valva vacía."
+  },
   "acer-platanoides": {
     "commonName": "Arce real",
     "description": "Árbol caducifolio de copa amplia y follaje denso. Las hojas son simples, opuestas y palmeadas, con lóbulos acabados en puntas largas. Produce flores amarillentas o amarillo-verdosas y frutos formados por dos sámaras, cada una con un ala.",
