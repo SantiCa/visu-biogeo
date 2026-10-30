@@ -1,5 +1,114 @@
 [
   {
+    "id": "melanargia-russiae",
+    "scientificName": "Melanargia russiae",
+    "kind": "organismo",
+    "aliases": [],
+    "studyLists": [
+      "Insectos"
+    ],
+    "sources": [
+      "Examen Madrid 2002 · recopilación no oficial"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "recopilacion-no-oficial",
+    "notes": "Nombre atribuido a una lista de un opositor; sin clave oficial ni imagen de la muestra."
+  },
+  {
+    "id": "arenisca-arcosica",
+    "scientificName": "Arenisca arcósica",
+    "kind": "roca",
+    "aliases": [
+      "Arcosa"
+    ],
+    "studyLists": [
+      "Rocas"
+    ],
+    "sources": [
+      "Examen Madrid 2002 · recopilación no oficial"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "recopilacion-no-oficial",
+    "notes": "Nombre atribuido a una lista de un opositor; sin clave oficial ni imagen de la muestra."
+  },
+  {
+    "id": "ocnus-planci",
+    "scientificName": "Ocnus planci",
+    "kind": "organismo",
+    "aliases": [
+      "Cucumaria planci"
+    ],
+    "studyLists": [
+      "Picnogónidos, poríferos y otros invertebrados"
+    ],
+    "sources": [
+      "Examen Madrid 2002 · recopilación no oficial"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "recopilacion-no-oficial",
+    "notes": "Nombre atribuido a una lista de un opositor; sin clave oficial ni imagen de la muestra."
+  },
+  {
+    "id": "estructura-egagropila-de-rapaz-nocturna",
+    "scientificName": "Egagrópila de rapaz nocturna",
+    "kind": "estructura",
+    "aliases": [],
+    "studyLists": [
+      "Restos y estructuras animales"
+    ],
+    "sources": [
+      "Examen Madrid 2002 · recopilación no oficial"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "recopilacion-no-oficial",
+    "notes": "Nombre atribuido a una lista de un opositor; sin clave oficial ni imagen de la muestra."
+  },
+  {
+    "id": "posidonia-sp",
+    "scientificName": "Posidonia sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "studyLists": [
+      "Flores"
+    ],
+    "sources": [
+      "Examen Madrid 2002 · recopilación no oficial"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "recopilacion-no-oficial",
+    "notes": "Nombre atribuido a una lista de un opositor; sin clave oficial ni imagen de la muestra."
+  },
+  {
+    "id": "estructura-epitelio-intestinal",
+    "scientificName": "Epitelio intestinal",
+    "kind": "estructura",
+    "aliases": [],
+    "studyLists": [
+      "Citología e histología animal"
+    ],
+    "sources": [
+      "Examen Madrid 2002 · recopilación no oficial"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "recopilacion-no-oficial",
+    "notes": "Nombre atribuido a una lista de un opositor; sin clave oficial ni imagen de la muestra."
+  },
+  {
+    "id": "turdus-viscivorus",
+    "scientificName": "Turdus viscivorus",
+    "kind": "organismo",
+    "aliases": [],
+    "studyLists": [
+      "Aves"
+    ],
+    "sources": [
+      "Examen Madrid 2002 · recopilación no oficial"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "recopilacion-no-oficial",
+    "notes": "Nombre atribuido a una lista de un opositor; sin clave oficial ni imagen de la muestra."
+  },
+  {
     "id": "abanico-aluvial-o-cono-de-deyeccion",
     "scientificName": "Abanico aluvial o cono de deyección",
     "kind": "relieve",
@@ -20696,7 +20805,7 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": [],
+    "aliases": ["Coluber hippocrepis"],
     "sourcePages": [
       {
         "file": "Listado de visu de Anfibios y Reptiles.pdf",
@@ -31756,7 +31865,7 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": [],
+    "aliases": ["Tellina planata"],
     "sourcePages": [
       {
         "file": "Listado de visu de MOLUSCOS.pdf",

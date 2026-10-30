@@ -1,4 +1,184 @@
 {
+  "melanargia-russiae": {
+    "provider": "PESI / Fauna Europaea",
+    "source": "https://www.eu-nomen.eu/portal/taxon.php?GUID=urn%3Alsid%3Afaunaeur.org%3Ataxname%3A441441",
+    "matchedName": "Melanargia russiae",
+    "rank": "species",
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Insecta"
+      },
+      {
+        "rank": "order",
+        "name": "Lepidoptera"
+      },
+      {
+        "rank": "family",
+        "name": "Nymphalidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Melanargia"
+      },
+      {
+        "rank": "species",
+        "name": "Melanargia russiae"
+      }
+    ],
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "family": "Nymphalidae",
+      "genus": "Melanargia",
+      "species": "Melanargia russiae"
+    },
+    "commonNames": [],
+    "commonName": null,
+    "group": "Insectos",
+    "checkedAt": "2026-10-30",
+    "commonNameStatus": "not-documented"
+  },
+  "ocnus-planci": {
+    "provider": "Museu Virtual da Biodiversidade",
+    "source": "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/equinodermes/ocnus-planci/",
+    "matchedName": "Ocnus planci",
+    "rank": "species",
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Echinodermata"
+      },
+      {
+        "rank": "class",
+        "name": "Holothuroidea"
+      },
+      {
+        "rank": "order",
+        "name": "Dendrochirotida"
+      },
+      {
+        "rank": "family",
+        "name": "Cucumariidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Ocnus"
+      },
+      {
+        "rank": "species",
+        "name": "Ocnus planci"
+      }
+    ],
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Dendrochirotida",
+      "family": "Cucumariidae",
+      "genus": "Ocnus",
+      "species": "Ocnus planci"
+    },
+    "commonNames": [],
+    "commonName": null,
+    "group": "Equinodermos",
+    "checkedAt": "2026-10-30",
+    "commonNameStatus": "not-documented"
+  },
+  "posidonia-sp": {
+    "provider": "Comisión Europea JRC",
+    "source": "https://publications.jrc.ec.europa.eu/repository/bitstream/JRC130756/JRC130756_01.pdf",
+    "matchedName": "Posidonia",
+    "rank": "genus",
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "family",
+        "name": "Posidoniaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Posidonia"
+      }
+    ],
+    "ranks": {
+      "kingdom": "Plantae",
+      "family": "Posidoniaceae",
+      "genus": "Posidonia"
+    },
+    "commonNames": [],
+    "commonName": null,
+    "group": "Plantas con flor",
+    "checkedAt": "2026-10-30",
+    "commonNameStatus": "not-documented"
+  },
+  "turdus-viscivorus": {
+    "provider": "Museo Nacional de Ciencias Naturales",
+    "source": "https://www.vertebradosibericos.org/aves/turvis.html",
+    "matchedName": "Turdus viscivorus",
+    "rank": "species",
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Chordata"
+      },
+      {
+        "rank": "class",
+        "name": "Aves"
+      },
+      {
+        "rank": "order",
+        "name": "Passeriformes"
+      },
+      {
+        "rank": "family",
+        "name": "Turdidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Turdus"
+      },
+      {
+        "rank": "species",
+        "name": "Turdus viscivorus"
+      }
+    ],
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Passeriformes",
+      "family": "Turdidae",
+      "genus": "Turdus",
+      "species": "Turdus viscivorus"
+    },
+    "commonNames": [],
+    "commonName": null,
+    "group": "Aves",
+    "checkedAt": "2026-10-30",
+    "commonNameStatus": "not-documented"
+  },
   "abies-alba": {
     "provider": "iNaturalist",
     "source": "https://www.inaturalist.org/taxa/136319",

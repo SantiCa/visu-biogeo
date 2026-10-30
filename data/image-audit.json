@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-27",
-  "catalogEntries": 2602,
+  "date": "2026-10-30",
+  "catalogEntries": 2609,
   "entriesWithApprovedImage": 2267,
   "entriesWithPair": 2123,
   "approvedImages": 4759,
-  "priorityEntries": 162,
-  "priorityWithPair": 162,
+  "priorityEntries": 163,
+  "priorityWithPair": 163,
   "decisions": {
     "approved": 4760,
     "rejected": 698,
@@ -78,6 +78,55 @@
   "brokenApprovedFiles": [],
   "priorityMissingPairs": [],
   "allMissingPairs": [
+    {
+      "id": "melanargia-russiae",
+      "name": "Melanargia russiae",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "arenisca-arcosica",
+      "name": "Arenisca arcósica",
+      "kind": "roca",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "ocnus-planci",
+      "name": "Ocnus planci",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-egagropila-de-rapaz-nocturna",
+      "name": "Egagrópila de rapaz nocturna",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "posidonia-sp",
+      "name": "Posidonia sp.",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-epitelio-intestinal",
+      "name": "Epitelio intestinal",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "turdus-viscivorus",
+      "name": "Turdus viscivorus",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
     {
       "id": "acanaladura",
       "name": "Acanaladura",
