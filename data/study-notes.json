@@ -1,4 +1,517 @@
 {
+  "acer-negundo": {
+    "commonName": "Arce negundo",
+    "description": "Árbol caducifolio originario de Norteamérica, con copa amplia y hojas opuestas compuestas. Presenta flores masculinas y femeninas en pies distintos; los femeninos producen racimos colgantes de frutos alados pareados que pueden persistir en invierno.",
+    "diagnostics": [
+      "Hojas imparipinnadas, normalmente con tres a siete folíolos; el terminal tiene un peciólulo largo y puede presentar lóbulos. Revisar la hoja completa y su inserción opuesta: un folíolo aislado puede confundirse con una hoja simple.",
+      "Los frutos son disámaras, con alas que forman un ángulo estrecho. Su presencia junto con hojas compuestas opuestas ayuda a reconocerlo frente a arces de hojas simples y palmeadas. La ausencia de frutos no excluye la especie, pues hay pies masculinos.",
+      "Existen cultivares con hojas blancas, rosadas o amarillentas. El color del follaje no determina por sí solo el cultivar ni sustituye a la disposición y división de las hojas."
+    ],
+    "etymology": "Lewis y Short documentan acer como el nombre latino del arce. Oregon State University vincula negundo, con cautela, al nombre de Vitex negundo por el parecido de sus hojas; Stanford también recoge esa transferencia del nombre y remite a nirgundi en sánscrito. La traducción literal del sánscrito y la motivación original de Linneo quedan pendientes de contraste con textos originales; se conserva la relación documentada con Vitex.",
+    "sources": [
+      {
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-negundo",
+        "title": "Oregon State University · Acer negundo: hojas, dioecia, disámaras, cultivares y relación de negundo con Vitex"
+      },
+      {
+        "url": "https://trees.stanford.edu/ENCYC/ACERneg.htm",
+        "title": "Stanford University · Acer negundo: folíolos, cultivares e historia del epíteto"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=acer",
+        "title": "Lewis y Short · acer: nombre latino del arce, distinto del adjetivo acer"
+      },
+      {
+        "url": "https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/mapa-forestal-espana/especies_arboreas.html",
+        "title": "MITECO · Especies arbóreas del Mapa Forestal: nombre común arce negundo"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocer ramillas con hojas completas y, cuando existan, frutos. La relación etimológica con Vitex está documentada en fuentes universitarias; no se atribuye una traducción sánscrita verificada de primera mano."
+  },
+  "achillea-millefolium": {
+    "commonName": "Milenrama",
+    "description": "Hierba perenne rizomatosa de tallos erectos, más o menos pelosos, y hojas muy finamente divididas. Sus numerosos capítulos pequeños se reúnen en grupos terminales de superficie aproximadamente plana; las flores periféricas suelen ser blancas y también pueden ser rosadas.",
+    "diagnostics": [
+      "Hojas alternas de contorno alargado, divididas dos o tres veces en segmentos estrechos. Combinar esta división fina con los capítulos: una hoja de aspecto plumoso por sí sola no identifica la especie.",
+      "Cada capítulo tiene pocas flores periféricas liguladas, habitualmente cuatro o cinco, alrededor de flores tubulosas. El conjunto de capítulos forma un corimbo; no confundirlo con una umbela de flores individuales de una apiácea.",
+      "Los frutos son pequeños aquenios comprimidos sin vilano. El número de lígulas y el color pueden variar; una foto general sin hojas y sin detalle de los capítulos puede dejar la identificación abierta."
+    ],
+    "etymology": "Achillea alude al héroe mitológico Aquiles y a la tradición que le atribuye el uso de esta hierba para curar heridas. Es una referencia legendaria del nombre, no una demostración histórica ni de eficacia medicinal. Millefolium significa mil hojas en latín y alude a la división fina del follaje, sin expresar un recuento literal de hojas.",
+    "sources": [
+      {
+        "url": "https://herbarivirtual.uib.es/es/general/1470/especie/achillea-millefolium-l-",
+        "title": "Universitat de les Illes Balears · Achillea millefolium: rizoma, hojas, capítulos y corimbo"
+      },
+      {
+        "url": "https://revistas.usal.es/index.php/0211-9714/article/download/6067/6087/20999",
+        "title": "Muñoz Centeno, Santos Bobillo y Alonso Beato (1999), Studia Botanica 18 · Achillea millefolium, p. 121: hojas, lígulas y aquenios"
+      },
+      {
+        "url": "https://mdc.mo.gov/discover-nature/field-guide/common-yarrow-common-milfoil",
+        "title": "Missouri Department of Conservation · Achillea millefolium: hojas alternas, variación floral y etimología mitológica y descriptiva"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento de la planta florida y sus hojas. No se asignan subespecies ni cultivares por el color de las flores; los usos atribuidos a Aquiles se mencionan únicamente como tradición etimológica."
+  },
+  "asplenium-trichomanes": {
+    "commonName": "Culantrillo menor",
+    "description": "Helecho pequeño de fisuras de rocas y muros, con rizoma corto y frondes estrechas divididas una sola vez. El pecíolo y el raquis son castaño oscuros y brillantes; a ambos lados se disponen numerosas pinnas pequeñas de contorno ovalado a oblongo.",
+    "diagnostics": [
+      "Lámina una vez pinnada, con pinnas enteras o crenadas y raquis oscuro. Examinar el eje de la fronde y la inserción de las pinnas; no basta la silueta general de un helecho pequeño.",
+      "Soros alargados en el envés, sobre las nervaduras, que pueden confluir al madurar. La vista del envés complementa el aspecto del haz y permite comprobar estructuras reproductoras.",
+      "Asplenium viride presenta el raquis verde y el pecíolo verde salvo la base castaña. A. trichomanes comprende varios tratamientos infraespecíficos: ni el sustrato ni una fotografía de conjunto permiten asignar con seguridad una subespecie o un citotipo."
+    ],
+    "etymology": "Flora of New Zealand relaciona Asplenium con el griego a y splen, sin bazo, por las supuestas propiedades antiguamente atribuidas a estos helechos frente al bazo aumentado; se trata de historia del nombre. Para trichomanes recoge el nombre griego usado por Teofrasto para este tipo de helecho. La segmentación ulterior de trichomanes y la intención concreta de reutilizar ese nombre quedan pendientes de contraste; no se presenta una traducción compuesta como segura.",
+    "sources": [
+      {
+        "url": "https://www.floraiberica.es/floraiberica/texto/pdfs/01_020_01_Asplenium.pdf",
+        "title": "Flora iberica, vol. I · Asplenium: A. trichomanes y subespecies, pp. 93–95; comparación con A. viride, p. 95"
+      },
+      {
+        "url": "https://www.nzflora.info/factsheet/taxon/Asplenium-trichomanes.html",
+        "title": "Brownsey y Perrie (2018), Flora of New Zealand · Asplenium trichomanes: reconocimiento, soros, etimología y límites del complejo"
+      },
+      {
+        "url": "https://www.nzflora.info/factsheet/taxon/Asplenium.html",
+        "title": "Brownsey y Perrie (2018), Flora of New Zealand · Asplenium: etimología histórica del género"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia en el sentido amplio del nombre del catálogo. Flora iberica aporta la comparación regional; no se trasladan citotipos ni distribuciones neozelandesas a ejemplares ibéricos. Quedan abiertas las determinaciones infraespecíficas sin material adecuado."
+  },
+  "aporia-crataegi": {
+    "commonName": "Blanca del majuelo",
+    "description": "Mariposa diurna de alas blancas recorridas por venas oscuras muy marcadas. Las hembras suelen tener las alas más translúcidas y las venas más pardas. Las orugas se alimentan de diversas rosáceas leñosas, entre ellas majuelos y endrinos.",
+    "diagnostics": [
+      "Nerviación oscura destacada tanto en el anverso como en el reverso, sobre un fondo claro. Revisar ambas alas: el blanco aislado es compartido por numerosos piéridos.",
+      "Carece de las manchas negras discales de Parnassius mnemosyne, otra mariposa blanca de alas parcialmente translúcidas. La comparación exige que esa zona alar esté visible y el ejemplar suficientemente conservado.",
+      "La pérdida de escamas también vuelve translúcidos a ejemplares desgastados. La transparencia por sí sola no permite determinar el sexo; el tamaño y la presencia de un majuelo tampoco confirman la especie."
+    ],
+    "etymology": "Crataegi significa de Crataegus, el género de los majuelos, plantas nutricias de sus orugas; no implica que solo utilicen ese género. Treccani deriva Aporia del griego áporos, inaccesible, y propone una explicación ligada a las copas de los árboles. La motivación original del nombre queda pendiente de contraste con la publicación de su autor: se recoge la raíz lingüística sin convertir esa explicación de conducta en un carácter diagnóstico.",
+    "sources": [
+      {
+        "url": "https://biodiversity.unitir.edu.al/Albania_aporia_crataegii.htm",
+        "title": "Cuvelier y Paparisto, Universidad de Tirana · Aporia crataegi: venas, desgaste, diferencias sexuales, plantas nutricias y comparación con Parnassius mnemosyne"
+      },
+      {
+        "url": "https://www.papilionea.it/aporia-crataegi/",
+        "title": "Papilionea · Aporia crataegi: etimología de crataegi y plantas nutricias"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/aporia_res-97ce3874-000e-11de-9d89-0016357eee51/",
+        "title": "Istituto della Enciclopedia Italiana, Treccani · Apòria: raíz griega y explicación propuesta para el nombre zoológico"
+      },
+      {
+        "url": "https://www.asociacion-zerynthia.org/especies",
+        "title": "Asociación ZERYNTHIA · Lista de mariposas de España: Aporia crataegi, blanca del majuelo"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en adultos con alas visibles. No se extrapola la fenología albanesa a Madrid ni se asigna sexo por transparencia. La motivación histórica del nombre genérico permanece abierta."
+  },
+  "arca-noae": {
+    "commonName": "Arca de Noé",
+    "description": "Bivalvo marino de concha gruesa, alargada y de contorno aproximadamente trapezoidal, con costillas radiales y bandas pardas sobre fondo claro. Vive fijado a sustratos duros mediante un biso; la concha puede estar cubierta de organismos incrustantes.",
+    "diagnostics": [
+      "Charnela larga y recta provista de numerosos dientes pequeños: es una dentición taxodonta. Los umbos son prominentes y están separados; conviene observar el borde dorsal y el interior de una valva.",
+      "Combinar contorno, costillas y charnela. Arca tetragona suele ser más pequeña, delicada y de contorno más rectangular; el tamaño por sí solo no basta para separarlas.",
+      "Las bandas externas y el relieve pueden quedar ocultos por algas o esponjas. Una concha incrustada sin charnela visible puede dejar dudas; la presencia de una esponja recubriéndola no demuestra la especie."
+    ],
+    "etymology": "DORIS explica Arca por el latín arca, cofre, y su asociación con una embarcación; noae alude a Noé. El binomio evoca el arca de Noé por la forma de la concha. Es una comparación del nombre, no un rasgo exclusivo para identificarla.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Arca-noae-Arche-de-Noe-118",
+        "title": "Didierlaurent, Brucy y Lamare, DORIS-FFESSM · Arca noae: concha, charnela, biso, especies parecidas y etimología"
+      }
+    ],
+    "reviewedAt": "2026-10-30",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento de conchas y ejemplares vivos. La determinación queda abierta si las incrustaciones impiden comprobar la forma y la charnela; no se atribuyen partes blandas a una valva vacía."
+  },
+  "acer-platanoides": {
+    "commonName": "Arce real",
+    "description": "Árbol caducifolio de copa amplia y follaje denso. Las hojas son simples, opuestas y palmeadas, con lóbulos acabados en puntas largas. Produce flores amarillentas o amarillo-verdosas y frutos formados por dos sámaras, cada una con un ala.",
+    "diagnostics": [
+      "Hojas generalmente con cinco lóbulos agudos y dientes grandes, sostenidas por pecíolos largos. Comprobar la disposición opuesta en una ramilla; una hoja palmeada aislada no demuestra que sea este arce.",
+      "El pecíolo puede liberar savia lechosa al separarse. Es un carácter de examen del material, no algo que pueda deducirse de una fotografía general de la hoja.",
+      "Sámaras pareadas con alas muy abiertas, junto con lóbulos foliares puntiagudos y corimbos de flores amarillentas. La combinación ayuda a separarlo de otros arces; los cultivares pueden alterar el color del follaje, de modo que el verde o el púrpura no bastan como diagnóstico."
+    ],
+    "etymology": "El Missouri Botanical Garden recoge Acer como el nombre latino del arce. Tanto esa fuente como Oregon State University explican platanoides como parecido a Platanus, el plátano de sombra y sus congéneres. Es un epíteto comparativo de semejanza, no una adscripción al género Platanus.",
+    "sources": [
+      {
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-platanoides",
+        "title": "Oregon State University · Acer platanoides: hojas opuestas, savia, flores, sámaras y variación de cultivares"
+      },
+      {
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275380",
+        "title": "Missouri Botanical Garden · Acer platanoides: descripción y significado de Acer y platanoides"
+      },
+      {
+        "url": "https://sib.gob.ar/especies/acer-platanoides",
+        "title": "Administración de Parques Nacionales de Argentina · Acer platanoides: nombre común arce real"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento mediante ramillas, hojas y estructuras reproductoras. Las observaciones de savia requieren material; no se asignan cultivares a partir del color aislado."
+  },
+  "alnus-glutinosa": {
+    "commonName": "Aliso",
+    "description": "Árbol caducifolio asociado a riberas y otros suelos húmedos. En sus formas típicas presenta hojas redondeadas, a menudo escotadas en el extremo, y amentos masculinos alargados. Las estructuras femeninas maduras son ovoides, con brácteas leñosas, y recuerdan pequeñas piñas sin ser conos de una conífera.",
+    "diagnostics": [
+      "Hojas de margen irregularmente dentado y ápice obtuso, truncado o escotado. Combinar el contorno con ramillas y amentos; no convertir la escotadura en una condición obligatoria para todas las hojas.",
+      "Ramillas jóvenes generalmente sin pelos y pegajosas; amentos femeninos con pedúnculo, que se vuelven leñosos al madurar. Alnus incana suele presentar ramillas pelosas, hojas de ápice agudo y estructuras femeninas casi sentadas.",
+      "El nombre ha abarcado un complejo con tratamientos distintos. POWO sitúa actualmente Alnus lusitanica como sinónimo de A. glutinosa subsp. lusitanica. Una vista foliar general no permite asignar una subespecie ni resolver los límites de ese complejo."
+    ],
+    "etymology": "Lewis y Short documentan alnus como nombre latino del aliso y glutinosus como pegajoso o viscoso, derivado de gluten, cola o sustancia adhesiva. Glutinosa es la forma femenina del adjetivo y concuerda descriptivamente con la adherencia de las partes jóvenes. El origen remoto de alnus queda pendiente de contraste documental; no se afirma una descomposición de sus sílabas.",
+    "sources": [
+      {
+        "url": "https://herbarivirtual.uib.es/es/general/1698/especie/alnus-glutinosa-l-gaertn-",
+        "title": "Universidad de las Islas Baleares · Alnus glutinosa: hojas, amentos femeninos y hábitat de ribera"
+      },
+      {
+        "url": "https://www.treesandshrubsonline.org/articles/alnus/alnus-glutinosa/",
+        "title": "Trees and Shrubs Online · Alnus glutinosa: variación, ramillas jóvenes y contraste con A. incana"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/77164770-1",
+        "title": "Royal Botanic Gardens, Kew · POWO, Alnus lusitanica: sinonimia con A. glutinosa subsp. lusitanica"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=alnus",
+        "title": "Lewis y Short · A Latin Dictionary, alnus; edición digital Alatius"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=glutinosus",
+        "title": "Lewis y Short · A Latin Dictionary, glutinosus: significado y relación con gluten; edición digital Alatius"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que conserva el nombre e ID del catálogo y explicita el alcance del complejo. No asigna subespecies ni reidentifica imágenes; raíz remota del género parcialmente pendiente."
+  },
+  "anas-platyrhynchos": {
+    "commonName": "Ánade azulón",
+    "description": "Pato de superficie de tamaño mediano a grande, frecuente en humedales muy diversos, incluidos estanques urbanos. Presenta un marcado cambio de aspecto entre sexos y plumajes: el macho de plumaje vistoso tiene cabeza verde, mientras que hembras, jóvenes y machos en eclipse muestran tonos predominantemente pardos.",
+    "diagnostics": [
+      "Macho en plumaje vistoso: cabeza verde iridiscente, collar blanco estrecho, pecho castaño y cuerpo grisáceo. Las plumas centrales negras de la cola se curvan hacia arriba.",
+      "En ambos sexos destaca un espejuelo alar azul violáceo enmarcado por negro y blanco. La hembra es parda moteada y presenta tonos anaranjados o pardos en el pico; el macho suele tenerlo amarillento.",
+      "El macho en eclipse y los jóvenes se parecen a la hembra: no exigir cabeza verde para reconocer la especie ni asignar sexo solo por un plumaje pardo. Combinar pico, espejuelo y otros detalles; con el ala oculta y una vista incompleta puede quedar sin resolver frente a otras anátidas."
+    ],
+    "etymology": "Jobling recoge Anas como el nombre latino del pato y platyrhynchos del griego platurrhunkhos, de pico ancho, compuesto de platus, ancho, y rhunkhos, pico. Es una construcción descriptiva documentada; el pico ancho se comparte con otras anátidas y el significado del nombre no las separa por sí solo.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/anade-azulon/",
+        "title": "SEO/BirdLife · Ánade azulón: tamaño, dimorfismo, cabeza, cola, espejuelo y plumaje juvenil"
+      },
+      {
+        "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130425",
+        "title": "Naturalis · Birds of Europe, Anas platyrhynchos: pico, espejuelo y semejanza entre hembra, juvenil y macho en eclipse"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), Anas (p. 46) y platyrhynchos (p. 309)"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en plumajes típicos. La edad, el sexo y la muda condicionan el diagnóstico; no se asignan subespecies ni procedencia a partir de una fotografía general."
+  },
+  "athene-noctua": {
+    "commonName": "Mochuelo europeo",
+    "description": "Pequeña rapaz de cabeza ancha y redondeada, cuerpo compacto y cola corta. El plumaje es pardo o grisáceo, con abundantes manchas blancas. Habita ambientes agrarios y otros espacios abiertos; aunque se incluye entre las rapaces nocturnas, también puede observarse activo durante el día.",
+    "diagnostics": [
+      "Cabeza voluminosa sin penachos cefálicos, ojos amarillos y cejas claras muy marcadas. Examinar esos rasgos junto al tamaño y las proporciones, no solo el color del ojo.",
+      "Dorso pardo moteado de blanco y partes inferiores más claras, también manchadas. Alas y cola cortas, con barras pardas; el vuelo puede resultar ondulado.",
+      "Una silueta pequeña y rechoncha sobre un poste orienta, pero sin escala ni detalles de cabeza y plumaje no confirma la especie. No se asignan sexo o subespecie por la expresión aparente de la cara."
+    ],
+    "etymology": "Jobling relaciona Athene con Atenea, la diosa griega asociada al mochuelo. Noctua es un nombre latino de la rapaz nocturna vinculada a Minerva, también recogido por ese autor. La referencia es lingüística e iconográfica; no implica que el ave tenga actividad exclusivamente nocturna.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/mochuelo-europeo/",
+        "title": "SEO/BirdLife · Mochuelo europeo: forma, ojos, cejas, plumaje, vuelo y actividad parcialmente diurna"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), Athene (p. 58) y noctua (p. 274)"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento por combinación de caracteres. Una vista distante o una silueta aislada no resuelven todos los detalles de identificación."
+  },
+  "acanthocardia-tuberculata": {
+    "commonName": "Corruco",
+    "description": "Bivalvo marino filtrador que vive parcialmente enterrado en sedimentos. Su concha es gruesa, muy convexa y de contorno redondeado. Las dos valvas reunidas muestran un perfil semejante a un corazón y una ornamentación de costillas radiales robustas.",
+    "diagnostics": [
+      "Alrededor de veinte costillas que parten del umbo, con espinas cortas y fuertes, separadas entre sí o reducidas a pequeños tubérculos. Observar especialmente el relieve cerca del borde de las valvas.",
+      "Umbo central y prominente e interior claro; el pie, cuando se ve en el animal vivo, es rosado o rojizo.",
+      "Acanthocardia aculeata presenta espinas más pronunciadas enlazadas por una carena. La ornamentación puede variar y algunas conchas de A. tuberculata carecen de espinas evidentes: no decidir por el color ni por contar costillas únicamente, y mantener la duda si el desgaste impide examinar el relieve."
+    ],
+    "etymology": "La ficha de DORIS del congénere A. aculeata explica Acanthocardia mediante el griego akantha, espina, y kardia, corazón, en referencia a la ornamentación y la forma de la concha. El diccionario del Missouri Botanical Garden documenta tuberculatus, cuya forma femenina es tuberculata, como provisto de pequeños abultamientos o tubérculos. Se citan las raíces del género compartido sin trasladar a esta especie los caracteres de A. aculeata.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Acanthocardia-tuberculata-Bucarde-tuberculee-2861",
+        "title": "DORIS-FFESSM · Acanthocardia tuberculata: concha, ornamentación, variación, pie y nombre español corruco"
+      },
+      {
+        "url": "https://doris.ffessm.fr/Especes/Acanthocardia-aculeata-Bucarde-epineuse-3398",
+        "title": "DORIS-FFESSM · Acanthocardia aculeata: origen griego del género compartido y contraste de las espinas"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=tuberculum",
+        "title": "Missouri Botanical Garden · A Grammatical Dictionary of Botanical Latin, tuberculum y tuberculatus: abultamientos y forma adjetiva"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que combina forma y ornamentación. Las conchas erosionadas o incompletas pueden impedir la confirmación específica; no se reidentifican imágenes del catálogo."
+  },
+  "ixodes-ricinus": {
+    "commonName": "Garrapata común o de las ovejas",
+    "description": "Ácaro parásito de vertebrados perteneciente a las garrapatas duras, con un escudo dorsal endurecido. El cuerpo de la hembra aumenta mucho al alimentarse y puede cambiar de aspecto pardo rojizo a grisáceo. Su reconocimiento exige distinguir sexo y fase de desarrollo.",
+    "diagnostics": [
+      "Las larvas tienen tres pares de patas; ninfas y adultos, cuatro. En el macho adulto el escudo cubre prácticamente todo el dorso y en la hembra solo la región anterior.",
+      "Los caracteres del género Ixodes incluyen ausencia de ojos y de festones en el borde posterior, palpos alargados y un surco anal que rodea el ano por delante. Estos rasgos reconocen el género, no bastan para confirmar I. ricinus.",
+      "En adultos, la espina interna de la coxa del primer par de patas es larga y alcanza la coxa siguiente. Debe valorarse con una clave y otros detalles de la cara ventral; no es un carácter exclusivo que resuelva por sí solo especies próximas.",
+      "Un análisis de 2025 cuestiona la separación de I. ricinus y las formas atribuidas a I. inopinatus mediante adultos de campo y recomienda revisar los criterios morfológicos y moleculares. Una foto dorsal o el cuerpo hinchado no permiten resolver esa delimitación."
+    ],
+    "etymology": "El TLFi documenta Ixodes como adaptación del griego ixṓdēs, pegajoso o viscoso. Lewis y Short recogen ricinus como nombre latino de una garrapata y también como nombre vegetal. La coincidencia con Ricinus communis no demuestra por sí sola que el epíteto zoológico se eligiera por semejanza con su semilla; esa motivación concreta queda pendiente de contraste con la fuente original.",
+    "sources": [
+      {
+        "url": "https://www.ecdc.europa.eu/en/disease-vectors/facts/tick-factsheets/ixodes-ricinus",
+        "title": "ECDC · Ixodes ricinus: fases, número de patas, escudo dorsal y dimorfismo sexual"
+      },
+      {
+        "url": "https://www.cfsph.iastate.edu/Factsheets/pdfs/ixodes_ricinus.pdf",
+        "title": "Anna Rovid Spickler, Iowa State University · Ixodes ricinus (2022), identificación: caracteres de Ixodes y espina de la coxa I"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.crpvbd.2025.100306",
+        "title": "Estrada-Peña y colaboradores · What is the status of Ixodes inopinatus (Ixodidae)? (2025): límites de identificación y revisión de adultos de campo"
+      },
+      {
+        "url": "https://www.cnrtl.fr/etymologie/ixode",
+        "title": "CNRTL · Trésor de la langue française informatisé, ixode: antecedente griego y nombre científico Ixodes"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=ricinus",
+        "title": "Lewis y Short · A Latin Dictionary, ricinus: garrapata y acepción vegetal; edición digital Alatius"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que distingue género, fases y confirmación específica. No reidentifica las imágenes del catálogo ni resuelve la delimitación del complejo; motivación histórica del epíteto parcialmente pendiente."
+  },
+  "maja-squinado": {
+    "commonName": "Centolla o araña de mar",
+    "description": "Crustáceo decápodo de caparazón convexo, estrechado hacia delante y cubierto de tubérculos y espinas. Presenta un rostro con dos puntas y patas largas; el primer par termina en pinzas y los cuatro restantes son marchadores. El nombre se utilizó históricamente con un alcance más amplio que el de M. squinado separado de M. brachydactyla.",
+    "diagnostics": [
+      "Rostro bifurcado, con dos espinas robustas en V, y bordes laterales del caparazón armados de espinas. La silueta y estos rasgos orientan hacia Maja, pero se comparten con especies próximas.",
+      "En machos adultos, la región distal del primer gonopodio presenta un perfil anguloso y una transición abrupta al proceso terminal, frente al perfil redondeado y transición gradual descritos para M. brachydactyla. Es un apéndice reproductor abdominal y no se aprecia en una fotografía dorsal.",
+      "El índice CL/ANSL compara la longitud del caparazón, sin espinas rostrales ni intestinales, con la distancia entre las puntas de las espinas antorbitales. La corrección de Guerao y colaboradores de 2014 asigna valores inferiores a 3 a M. squinado y superiores a 3 a M. brachydactyla en adultos; el texto original de 2011 los invertía. Un valor inferior a 3 tampoco excluye otros Maja: no usar el índice aisladamente ni estimarlo en una vista oblicua sin medidas fiables.",
+      "La procedencia mediterránea no confirma M. squinado: M. brachydactyla está documentada en Alborán con apoyo genético. Los juveniles no admiten sin más los criterios de adultos; ante una vista incompleta, mantener la determinación abierta y recurrir a examen especializado o identificación molecular."
+    ],
+    "etymology": "DORIS relaciona squinado con nombres occitanos provenzales de la araña de mar, como esquinado y esquinade. Para Maja o Maia recoge tanto un nombre antiguo de crustáceo citado en Aristóteles como referencias mitológicas. La fuente no establece cuál motivó la elección del género: esa atribución queda pendiente de contraste y no se da por demostrada una dedicatoria mitológica.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Maja-squinado-Grande-araignee-de-Mediterranee-1766",
+        "title": "DORIS-FFESSM · Maja squinado: descripción, nombres y antecedentes lingüísticos de Maja y squinado"
+      },
+      {
+        "url": "https://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/download/1236/1302/1280",
+        "title": "Guerao y colaboradores · Identification of European species of Maja (2011): gonopodios, definición de CL y ANSL y límites en juveniles; leer con la corrección de 2014"
+      },
+      {
+        "url": "https://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/download/1518/1659",
+        "title": "Guerao y colaboradores · Erratum (2014), Scientia Marina 78(1): 143: corrige la asignación del índice CL/ANSL a M. squinado y M. brachydactyla"
+      },
+      {
+        "url": "https://doi.org/10.1017/S1755267214000827",
+        "title": "Abelló, Guerao, Salmerón y García Raso · Maja brachydactyla in the western Mediterranean (2014): ejemplares de Alborán e identificación genética"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que conserva el ID y el nombre del catálogo, sin atribuir automáticamente a esta especie imágenes históricamente rotuladas M. squinado. Motivación del género parcialmente pendiente."
+  },
+  "mytilus-edulis": {
+    "commonName": "Mejillón común",
+    "description": "Molusco bivalvo filtrador que suele formar agrupaciones y se fija al sustrato mediante filamentos de biso. La concha tiene dos valvas de tamaño semejante y contorno aproximadamente triangular y alargado, con el extremo anterior más estrecho. El aspecto y las proporciones varían con el ambiente.",
+    "diagnostics": [
+      "Superficie con líneas concéntricas de crecimiento y sin costillas radiales; color generalmente azul, violáceo o pardo, bajo una cubierta externa o periostraco más oscura.",
+      "Interior nacarado blanquecino con borde azul oscuro o púrpura. El biso sale entre las valvas y fija el animal al soporte; estos caracteres orientan hacia un mejillón de concha lisa, sin confirmar por sí solos M. edulis.",
+      "MarLIN describe los umbones anteriores de M. edulis sin la curvatura hacia abajo habitual en M. galloprovincialis. La forma de la concha y el borde del manto deben valorarse conjuntamente: existe mucha variación y ningún carácter morfológico aislado separa con seguridad todas las especies próximas.",
+      "La hibridación complica la identificación. Los estudios comparativos muestran que marcadores moleculares individuales pueden discrepar y que un análisis de varios loci resulta más informativo. Una fotografía general o el nombre común no permiten descartar híbridos ni confirmar la especie."
+    ],
+    "etymology": "DORIS recoge Mytilus del latín mitulus, nombre del mejillón. Edulis es el adjetivo latino comestible, documentado por Lewis y Short y relacionado con edo, comer. La traducción reúne dos correspondencias léxicas; el epíteto no distingue a M. edulis de otros mejillones que también se han utilizado como alimento.",
+    "sources": [
+      {
+        "url": "https://www.marlin.ac.uk/species/detail/1421",
+        "title": "Marine Biological Association · MarLIN, Mytilus edulis: concha, biso, variación y comparación con M. galloprovincialis"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31873129/",
+        "title": "Comparison between single and multi-locus approaches for specimen identification in Mytilus mussels (2019): discordancia entre marcadores e identificación con varios loci"
+      },
+      {
+        "url": "https://doris.ffessm.fr/Especes/Mytilus-edulis-Moule-commune-581",
+        "title": "DORIS-FFESSM · Mytilus edulis: nombres, hibridación y antecedentes latinos de Mytilus y edulis"
+      },
+      {
+        "url": "https://cld.bbaw.de/lemma/lat/edulis",
+        "title": "Lewis y Short · A Latin Dictionary, edulis; edición digital de la Academia de Ciencias de Berlín-Brandeburgo"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que separa reconocimiento morfológico e identificación específica frente a congéneres e híbridos. Se mantienen el ID y el nombre del catálogo sin reidentificar sus imágenes."
+  },
+  "juniperus-communis": {
+    "commonName": "Enebro común",
+    "description": "Conífera perennifolia de porte variable, desde arbusto bajo hasta arbolito. Mantiene hojas estrechas, rígidas y punzantes. Los conos femeninos forman gálbulos carnosos al madurar; son estructuras reproductoras de una gimnosperma, no bayas verdaderas.",
+    "diagnostics": [
+      "Acículas agrupadas de tres en tres alrededor de la ramilla, con una banda blanquecina ancha en el haz y envés verde.",
+      "La banda blanca puede quedar algo dividida en su base por un nervio verde fino. Examinar varias hojas completas: en el enebro de la miera, J. oxycedrus, son típicas dos líneas blancas separadas por una franja verde.",
+      "Los gálbulos maduros son globosos u ovoides y contienen semillas rodeadas por escamas carnosas soldadas. Combinar hojas y conos; el porte aislado no determina la especie ni permite asignar una subespecie."
+    ],
+    "etymology": "Juniperus es el nombre latino del enebro, como recoge la UC3M. La misma fuente interpreta communis por su distribución amplia y abundancia, de acuerdo con el sentido de común del adjetivo. El origen remoto del nombre latino Juniperus queda pendiente de contraste documental; no se añade una descomposición de sus sílabas sin referencia.",
+    "sources": [
+      {
+        "url": "https://www.ehu.eus/documents/1686888/3913390/8.%2BJuniperus%2Bcommunis.pdf",
+        "title": "Universidad del País Vasco · Juniperus communis: hojas en verticilos, banda blanca y formación de los gálbulos"
+      },
+      {
+        "url": "https://apps.caib.es/sites/canviclimatic2/f/75918",
+        "title": "Guía para el desarrollo de normativa local en la lucha contra el cambio climático · tabla de especies: contraste foliar entre J. communis y J. oxycedrus"
+      },
+      {
+        "url": "https://www.uc3m.es/ss/Satellite/Sostenibilidad/es/TextoDosColumnas/1371335848059/Enebro_Comun",
+        "title": "Universidad Carlos III de Madrid · Enebro común: nombre latino Juniperus e interpretación de communis"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que combina caracteres foliares y reproductivos. Conserva el alcance del catálogo sin asignar subespecies; la raíz remota del género permanece parcialmente pendiente."
+  },
+  "limosa-limosa": {
+    "commonName": "Aguja colinegra",
+    "description": "Ave limícola de patas y cuello largos, con pico muy prolongado y casi recto. Busca alimento en sustratos húmedos de marismas, estuarios, arrozales y otros humedales. El plumaje adulto cambia entre tonos castaño-anaranjados durante la reproducción y un aspecto mucho más gris fuera de ella.",
+    "diagnostics": [
+      "Pico largo, con base anaranjada y extremo oscuro; patas oscuras y silueta esbelta. La longitud del pico varía, entre otros factores, con el sexo.",
+      "En vuelo destaca una franja blanca en el ala y una cola blanca con una banda terminal negra ancha. Estos caracteres son especialmente útiles cuando el plumaje corporal es gris.",
+      "En plumaje nupcial aparecen cabeza, cuello y pecho castaños y barreado en los flancos. La aguja colipinta puede confundirse con ella: comprobar el conjunto, especialmente ala y cola; una vista parcial del pico o el tono rojizo no bastan."
+    ],
+    "etymology": "Jobling deriva limosa del latín limosus, fangoso, formado sobre limus, barro o limo. Documenta que el nombre genérico Limosa procede del epíteto de Scolopax limosa, la combinación original. Su repetición actual como género y epíteto forma un tautónimo; la traducción del nombre no sustituye los caracteres de identificación.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/aguja-colinegra/",
+        "title": "SEO/BirdLife · Aguja colinegra: pico, diferencias entre sexos, plumajes, hábitat y posible confusión con la colipinta"
+      },
+      {
+        "url": "https://festivaldelasgrullas.juntaex.es/es/El-Festival/otras-aves-invernantes/detalle-aves/Aguja-Colinegra-Limosa-limosa/",
+        "title": "Junta de Extremadura · Aguja colinegra: franja alar blanca y patrón blanco y negro de la cola"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), voces Limosa y limosa, p. 227"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia centrada en adultos y en la combinación de silueta y plumaje. La estación y el sexo alteran el aspecto; no se asignan subespecies a partir de una fotografía general."
+  },
+  "lumbricus-terrestris": {
+    "commonName": "Lombriz de tierra común",
+    "description": "Anélido terrestre de cuerpo alargado y segmentado, con pigmentación dorsal rojiza a violácea y pequeñas quetas dispuestas en pares. En los ejemplares sexualmente maduros se desarrolla el clitelo, una región glandular engrosada. La apariencia general de lombriz de tierra se comparte con numerosas especies.",
+    "diagnostics": [
+      "En la descripción del neotipo, el clitelo ocupa los segmentos 32 a 37 y los tubérculos pubertarios los segmentos 33 a 36. Son engrosamientos relacionados con la reproducción que deben examinarse en un adulto y contando los segmentos desde el extremo anterior.",
+      "Comprobar con lupa quetas, clitelo y otros caracteres de una clave; el tamaño, el color o la segmentación por sí solos no identifican la especie.",
+      "La investigación molecular separa L. terrestris de L. herculeus, una especie de aspecto muy semejante. Los caracteres externos compartidos no resuelven con seguridad esa separación; una fotografía general queda como orientación y la confirmación puede requerir análisis genético."
+    ],
+    "etymology": "Lewis y Short documentan lumbricus en latín tanto para un gusano intestinal como, en otros usos, para una lombriz de tierra. Terrestris significa perteneciente a la tierra o al medio terrestre y se forma sobre terra. Son correspondencias léxicas documentadas; el sentido histórico amplio de lumbricus no equipara taxonómicamente las lombrices de tierra con los gusanos intestinales.",
+    "sources": [
+      {
+        "url": "https://alpinesoils.eu/wp-content/uploads/2020/05/Eathworms-Identification-sheets-1.pdf",
+        "title": "Proyecto Alpinesoils · Earthworms: identification sheets, ficha de Lumbricus terrestris: pigmentación, quetas y clitelo"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015629",
+        "title": "James y colaboradores · DNA Barcoding Reveals Cryptic Diversity in Lumbricus terrestris (2010): descripción del neotipo y separación de L. herculeus"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.ympev.2016.09.011",
+        "title": "Martinsson y Erséus · Cryptic speciation and limited hybridization within Lumbricus earthworms (2017): apoyo nuclear a la separación e hibridación limitada"
+      },
+      {
+        "url": "https://cld.bbaw.de/lemma/lat/lumbricus",
+        "title": "Lewis y Short · A Latin Dictionary, voz lumbricus; edición digital de la Academia de Ciencias de Berlín-Brandeburgo"
+      },
+      {
+        "url": "https://cld.bbaw.de/lemma/lat/terrestris",
+        "title": "Lewis y Short · A Latin Dictionary, voz terrestris; edición digital de la Academia de Ciencias de Berlín-Brandeburgo"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que conserva el nombre e ID del catálogo. Los rasgos de la morfoespecie no certifican L. terrestris en sentido estricto frente a L. herculeus; no se reidentifican las imágenes existentes."
+  },
+  "sepia-officinalis": {
+    "commonName": "Sepia común, jibia o choco",
+    "description": "Molusco cefalópodo de cuerpo ancho, ovalado y aplanado, bordeado por una aleta a cada lado del manto. Presenta ocho brazos y dos tentáculos extensibles para capturar presas. Bajo el manto alberga una concha interna calcárea, el sepión. Su coloración puede cambiar rápidamente y no constituye un patrón fijo de la especie.",
+    "diagnostics": [
+      "Manto ancho y aletas laterales que recorren gran parte de su longitud; distinguir los ocho brazos de los dos tentáculos largos, que pueden permanecer retraídos.",
+      "Las mazas terminales de los tentáculos llevan cinco o seis filas de ventosas en la descripción de MarLIN. El sepión es alargado, con lados aproximadamente paralelos y extremos redondeados.",
+      "La silueta y el sepión orientan hacia una sepia, pero la confirmación de S. officinalis frente a especies próximas exige una clave y detalles de ventosas y concha. No identificarla solo por el color ni por una concha incompleta sin escala."
+    ],
+    "etymology": "Sepia continúa el latín sepia, procedente del griego sēpía, nombre del animal documentado en el DLE. El diccionario de latín botánico del Missouri Botanical Garden explica officinalis como relativo a la oficina o botica y, en los epítetos científicos, asociado al uso farmacológico histórico. Esa explicación léxica no demuestra qué uso concreto motivó el epíteto de esta especie; la motivación precisa de Linneo queda pendiente de contraste con su texto original.",
+    "sources": [
+      {
+        "url": "https://www.marlin.ac.uk/species/detail/1098",
+        "title": "Marine Biological Association · MarLIN, Sepia officinalis: descripción, tentáculos, filas de ventosas, sepión y coloración variable"
+      },
+      {
+        "url": "https://dle.rae.es/sepia",
+        "title": "RAE-ASALE · DLE, sepia: nombre latino y antecedente griego; nombres comunes jibia y choco"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=officinalis",
+        "title": "Missouri Botanical Garden · A Grammatical Dictionary of Botanical Latin, officinalis: sentido de botica y uso como epíteto"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia que distingue reconocimiento general y confirmación específica. Motivación histórica del epíteto parcialmente pendiente; el significado del nombre no acredita propiedades medicinales actuales."
+  },
+  "vanellus-vanellus": {
+    "commonName": "Avefría europea",
+    "description": "Ave limícola de cuerpo compacto, de unos treinta centímetros, con un penacho fino y oscuro en la cabeza. Combina dorso de reflejos verdosos y partes inferiores blancas con una zona negra en el pecho. Frecuenta campos abiertos, pastizales y humedales, y suele agruparse en bandos.",
+    "diagnostics": [
+      "Penacho de plumas estrechas en la cabeza, pico corto y contraste entre pecho negro y vientre blanco; las partes superiores pueden mostrar reflejos verdes según la luz.",
+      "En vuelo tiene alas anchas y redondeadas y un diseño de blanco y negro llamativo; la cola es blanca con una banda oscura en el extremo.",
+      "Los jóvenes presentan tonos menos vivos y penacho más corto. Combinar cabeza, pecho, silueta y alas; no exigir un penacho largo en todas las edades ni deducir el sexo de una vista general."
+    ],
+    "etymology": "Jobling recoge vanellus como nombre latino medieval de la avefría, diminutivo del latín vannus, aventador utilizado para separar el grano. Documenta que el género Vanellus tomó el epíteto de Tringa vanellus, su combinación original. El nombre actual repite el término como género y epíteto específico y constituye un tautónimo.",
+    "sources": [
+      {
+        "url": "https://www.juntadeandalucia.es/avra/export/sites/WebEPSA/parque-alamillo/contenido/naturaleza/Documentos-imagenes/aves/Guia_Aves_Alamillo.pdf",
+        "title": "Junta de Andalucía · Guía de aves del Parque del Alamillo, p. 55: identificación, plumaje juvenil, alas, cola y hábitat de la avefría europea"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "James A. Jobling · The Helm Dictionary of Scientific Bird Names (2010), voces Vanellus y vanellus, p. 398"
+      }
+    ],
+    "reviewedAt": "2026-10-29",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento por combinación de rasgos. La edad y la iluminación modifican el aspecto del penacho y los reflejos; no se infiere sexo a partir de un único carácter."
+  },
   "scolymus-hispanicus": {
     "commonName": "Cardillo o tagarnina",
     "description": "Hierba espinosa de raíz perenne, con roseta basal y tallos ramificados que pueden alcanzar alrededor de metro y medio. Presenta hojas alternas, profundamente divididas en la base, y capítulos amarillos situados en las axilas de las hojas. Es propia de bordes de caminos y otros ambientes alterados de la región mediterránea y Macaronesia.",
