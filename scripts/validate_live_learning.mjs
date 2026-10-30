@@ -10,4 +10,4 @@ const checks=await Promise.all(paths.map(async path=>{const response=await fetch
  }
  return {path,status:response.status,hashMatches:createHash('sha256').update(checked).digest('hex')===manifest.files[path].hash,...(providerScriptAdded?{providerScriptAdded}: {})};}));
 const response=await fetch(new URL('api/media/activate',origin),{method:'POST'});const report={publicFiles:checks,unsignedActivationStatus:response.status,site:origin,manifestDigest:manifest.digest};
-await writeFile(new URL('output/validation-zero-photos-v8.12.json',root),JSON.stringify(report,null,2));console.log(JSON.stringify(report));if(checks.some(r=>r.status!==200||!r.hashMatches)||response.status!==403)process.exitCode=1;
+await writeFile(new URL('output/validation-zero-photos-v8.13.json',root),JSON.stringify(report,null,2));console.log(JSON.stringify(report));if(checks.some(r=>r.status!==200||!r.hashMatches)||response.status!==403)process.exitCode=1;

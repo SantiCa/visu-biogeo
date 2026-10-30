@@ -1,12 +1,12 @@
 # Estado del proyecto
 
-Actualizado el 30 de octubre de 2026. Base funcional y de catálogo: **8.12**.
+Actualizado el 30 de octubre de 2026. Base funcional y de catálogo: **8.13**.
 
 Repositorio: `https://github.com/SantiCa/visu-biogeo` (privado). GitHub controla fuentes y cambios. La aplicación publicada sigue en `https://visu-biogeo-santica.nimblequail260.chatgpt.site/`; la sincronización sigue en el mismo proyecto Supabase.
 
-La versión 8.12 permite priorizar Andalucía, Madrid o ambas y reúne 483 fichas, incluidas las 103 prioridades biológicas de Andalucía. El historial de Madrid es incompleto: combina exámenes disponibles y una recopilación académica sin fecha; las 40 correspondencias de la lista de 2002 proceden de un opositor y no de una clave oficial. Diez denominaciones de esa lista siguen sin vincular. La tanda de foraminíferos permanece en el PR #5 en borrador y no está publicada. Los casos A9, A10 y A15 de Andalucía 2021 siguen pendientes.
+La versión 8.13 amplía el mapa de clasificación y completa las 50 correspondencias de la lista de Madrid 2002, atribuida a un opositor y sin clave oficial. El historial madrileño sigue siendo incompleto. El catálogo tiene 2.609 entradas y 483 fichas; las siete entradas nuevas carecen de imágenes aprobadas. La tanda de foraminíferos permanece en el PR #5 en borrador y no está publicada. Los casos A9, A10 y A15 de Andalucía 2021 siguen pendientes.
 
-Publicación: versión 19 de Sites, manifiesto activo `aa3bc42ca0d5cb23f0756b8040ee6d4cf1b736dc703ab4457674e174ce926737`, 4.758 archivos. Se verificaron 4.704 imágenes locales, 69 pruebas JavaScript, 15 Python incluida la prueba nativa, el selector en móvil, los archivos públicos y el paquete Windows. La sincronización con cuentas reales queda pendiente de comprobación manual.
+Publicación: versión 20 de Sites, manifiesto activo `55232373ebecd383a33d2b605484913bfe32b63382b3cd37ad1427456e209651`, 4.758 archivos. Se verificaron 4.704 imágenes locales, 69 pruebas JavaScript, 15 Python incluida la prueba nativa, archivos públicos y paquete Windows. El mapa fue revisado en escritorio y móvil por su PR; la sincronización con cuentas reales queda pendiente de comprobación manual.
 
 La raíz local definitiva es **`C:\Users\Santiago\Documents\ChatGPT\App Visu`**, coincidiendo con el proyecto que ya estaba abierto en Codex. Los archivos y `.git` están directamente en esa carpeta; la subcarpeta intermedia `Visu BioGeo` de la restauración se retiró. `traslado-local/` conserva los respaldos e informes históricos con sus rutas originales y queda fuera de Git.
 

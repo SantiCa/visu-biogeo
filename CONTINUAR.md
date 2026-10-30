@@ -221,15 +221,15 @@ Proyecto: **`appgprj_6ade076290f8819199ecb0073730325e`**. Audiencia actual: **p�
 
 Checkout: `hosting/visu-biogeo-media`. Su manifiesto `.openai/hosting.json` mantiene `d1: null` y `r2: "BUCKET"`. Las imágenes públicas se sirven desde R2 mediante un manifiesto y una activación firmada; la base Supabase es otro servicio y no se reemplaza al publicar.
 
-Última fuente publicada: **`a3ff4905043465b8b74a93632c5e2701d252c741`** (8.12).
+Última fuente publicada: **`bd7e309a97165923cdb2d562df62501134e09090`** (8.13).
 
-Versión guardada de Sites: **19**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_f26a0abb83b08191bac760699e9489ce`**.
+Versión guardada de Sites: **20**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_e4314e31323c81918284de91aa87a473`**.
 
-Archivo de publicación: `worktrees/prioridades-madrid/output/visu-v8.12.tar.gz`. Es el pequeño artefacto del Worker, **no** una copia completa del proyecto ni el banco de fotos.
+Archivo de publicación: `worktrees/publicacion-813/output/visu-v8.13.tar.gz`. Es el pequeño artefacto del Worker, **no** una copia completa del proyecto ni el banco de fotos.
 
-Revisión de entorno final: **18**. Despliegue final: **`appgdep_6ae3ecf402308191bfc91d08cfb69fdd`**.
+Revisión de entorno final: **19**. Despliegue final: **`appgdep_6ae4704957a48191bb4fd6d8137650c3`**.
 
-Manifiesto activo: **`aa3bc42ca0d5cb23f0756b8040ee6d4cf1b736dc703ab4457674e174ce926737`**, 4758 archivos públicos.
+Manifiesto activo: **`55232373ebecd383a33d2b605484913bfe32b63382b3cd37ad1427456e209651`**, 4758 archivos públicos.
 
 En otro ordenador, instalar/conectar el plugin Sites con la cuenta del propietario y leer su `SKILL.md` vigente. La ruta del helper cambia con la instalación: no copiar la ruta de caché de Codex del ordenador anterior. El helper de fuente se llama `scripts/site-workflow.mjs` dentro del plugin Sites. Primero obtener `get_site` y credencial de escritura para este mismo proyecto, y abrir el checkout con el helper antes de editarlo. Mantener las credenciales solo en memoria y pasarlas por **stdin oculto**, nunca en argumentos o archivos.
 

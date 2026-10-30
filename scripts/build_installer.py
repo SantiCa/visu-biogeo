@@ -6,7 +6,7 @@ from prepare_release import public_files,ROOT
 def main():
     files=public_files();release=ROOT/'output/windows-installer';release.mkdir(parents=True,exist_ok=True)
     executable=ROOT/'Abrir Visu BioGeo.exe'
-    version='8.12-'+hashlib.sha256(b''.join((ROOT/name).read_bytes() for name in files if not name.startswith('assets/'))+executable.read_bytes()).hexdigest()[:12]
+    version='8.13-'+hashlib.sha256(b''.join((ROOT/name).read_bytes() for name in files if not name.startswith('assets/'))+executable.read_bytes()).hexdigest()[:12]
     (release/'version.txt').write_text(version,encoding='ascii')
     payload=release/'payload.zip'
     with zipfile.ZipFile(payload,'w',zipfile.ZIP_DEFLATED,compresslevel=1) as archive:
