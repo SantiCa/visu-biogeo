@@ -34132,5 +34132,25 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "posidonia-resolucion-20261031",
+    "picksSha256": "1db294a40da3f8518cb61a3499c8682792dc525fe028ea3332923d3ad7e33691",
+    "date": "2026-10-31",
+    "note": "Sustitución del detalle por una versión de mayor resolución de la misma fotografía; fuente y recorte verificados.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "posidonia-sp",
+        "url": "https://www.nature.com/articles/s43247-026-03631-8.pdf#page=4&figure=3&photo=provence",
+        "status": "rejected"
+      },
+      {
+        "index": 1,
+        "itemId": "posidonia-sp",
+        "url": "https://www.nature.com/articles/s43247-026-03631-8_reference.pdf#page=27&figure=3&photo=provence",
+        "status": "approved"
+      }
+    ]
   }
 ]
