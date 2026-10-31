@@ -34152,5 +34152,37 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "ocnus-verificado-20261031",
+    "picksSha256": "d085c0b187167422cafcf4230aa4752e42b2cc23188be7b3e97eaea51d6d1bdf",
+    "date": "2026-10-31",
+    "note": "Se sustituyen observaciones de identificación comunitaria por fotografías dorsal y ventral separadas del ejemplar NMV F82971 examinado por especialistas.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "ocnus-planci",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 1,
+        "itemId": "ocnus-planci",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
+        "status": "rejected"
+      },
+      {
+        "index": 2,
+        "itemId": "ocnus-planci",
+        "url": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5g",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "ocnus-planci",
+        "url": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5h",
+        "status": "approved"
+      }
+    ]
   }
 ]

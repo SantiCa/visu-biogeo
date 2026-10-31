@@ -103218,42 +103218,94 @@
   "ocnus-planci": {
     "images": [
       {
-        "url": "./assets/reviewed/a3d2bc50c74b1cd70920.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
         "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
         "page": "https://www.inaturalist.org/observations/19108027",
-        "author": "Julien Renoult",
+        "author": "jujurenoult",
         "license": "CC BY 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "description": "Holoturia con tentáculos arborescentes y cuerpo parcialmente visible.",
         "examUse": "detail",
-        "status": "approved",
+        "status": "rejected",
         "verificationSources": [
           "https://www.marlin.ac.uk/species/detail/1861/1000"
         ],
         "reviewedAt": "2026-10-31",
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
-        "reviewNote": "Detalle compatible con la identificación comunitaria de Ocnus planci. Los caracteres visibles no permiten por sí solos descartar taxones similares; no usar como vista diagnóstica de especie.",
-        "reviewBatch": "madrid-2002-20261030",
-        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg"
+        "reviewNote": "Sustituida: observación comunitaria compatible, pero sin osículos ni examen que permita confirmar la especie; no se considera identificación errónea.",
+        "reviewBatch": "ocnus-verificado-20261031"
       },
       {
-        "url": "./assets/reviewed/8b9897b84c8aba4966c9.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
         "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
         "page": "https://www.inaturalist.org/observations/10143687",
-        "author": "Julien Renoult",
+        "author": "jujurenoult",
         "license": "CC BY 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "description": "Holoturia en sustrato con corona de tentáculos extendida.",
         "examUse": "detail",
-        "status": "approved",
+        "status": "rejected",
         "verificationSources": [
           "https://www.marlin.ac.uk/species/detail/1861/1000"
         ],
         "reviewedAt": "2026-10-31",
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
-        "reviewNote": "Detalle compatible con la identificación comunitaria de Ocnus planci. Los caracteres visibles no permiten por sí solos descartar taxones similares; no usar como vista diagnóstica de especie.",
-        "reviewBatch": "madrid-2002-20261030",
-        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg"
+        "reviewNote": "Sustituida: observación comunitaria compatible, pero sin osículos ni examen que permita confirmar la especie; no se considera identificación errónea.",
+        "reviewBatch": "ocnus-verificado-20261031"
+      },
+      {
+        "url": "./assets/reviewed/ca10f6d9e55695f8ac20.jpg",
+        "page": "https://www.biodiversitylibrary.org/page/55485878",
+        "author": "P. Mark O’Loughlin y Nicola Alcock / Museums Victoria",
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "description": "Vista dorsal del ejemplar conservado NMV F82971, Ocnus planci, figura 5g de O’Loughlin y Alcock (2000).",
+        "examUse": "detail",
+        "status": "approved",
+        "reference": "Fotografía dorsal recortada de la figura 5; espécimen comparativo del Mediterráneo occidental estudiado por los autores. Escaneo BHL del volumen 58(1). · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "verificationSources": [
+          "https://www.vliz.be/imisdocs/publications/32198.pdf",
+          "https://museumsvictoria.com.au/collections-research/journals/memoirs-of-museum-victoria/about-memoirs/"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Fotografía distinta de vista dorsal del mismo espécimen de museo NMV F82971 estudiado por O’Loughlin y Alcock; los osículos que sustentan la identificación están documentados en la misma figura, pero no son visibles en este recorte. Se conserva como detalle.",
+        "reviewBatch": "ocnus-verificado-20261031",
+        "crop": [
+          0.034,
+          0.467,
+          0.27,
+          0.125
+        ],
+        "originalUrl": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5g",
+        "key": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5g"
+      },
+      {
+        "url": "./assets/reviewed/0458d9943fe40c6b83ff.jpg",
+        "page": "https://www.biodiversitylibrary.org/page/55485878",
+        "author": "P. Mark O’Loughlin y Nicola Alcock / Museums Victoria",
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "description": "Vista ventral del ejemplar conservado NMV F82971, Ocnus planci, figura 5h de O’Loughlin y Alcock (2000).",
+        "examUse": "detail",
+        "status": "approved",
+        "reference": "Fotografía ventral recortada de la figura 5; espécimen comparativo del Mediterráneo occidental estudiado por los autores. Escaneo BHL del volumen 58(1). · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "verificationSources": [
+          "https://www.vliz.be/imisdocs/publications/32198.pdf",
+          "https://museumsvictoria.com.au/collections-research/journals/memoirs-of-museum-victoria/about-memoirs/"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Fotografía distinta de vista ventral del mismo espécimen de museo NMV F82971 estudiado por O’Loughlin y Alcock; los osículos que sustentan la identificación están documentados en la misma figura, pero no son visibles en este recorte. Se conserva como detalle.",
+        "reviewBatch": "ocnus-verificado-20261031",
+        "crop": [
+          0.318,
+          0.467,
+          0.27,
+          0.125
+        ],
+        "originalUrl": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5h",
+        "key": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5h"
       }
     ]
   },

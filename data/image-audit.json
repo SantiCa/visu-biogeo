@@ -8,12 +8,13 @@
   "priorityWithPair": 163,
   "decisions": {
     "approved": 4774,
-    "rejected": 699,
+    "rejected": 701,
     "pending": 3
   },
   "imageSources": {
-    "www.inaturalist.org": 3456,
+    "www.inaturalist.org": 3454,
     "geodil.dperkins.org": 236,
+    "www.biodiversitylibrary.org": 2,
     "www.nps.gov": 27,
     "npgallery.nps.gov": 37,
     "www.nature.com": 1,
