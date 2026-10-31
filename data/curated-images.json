@@ -103267,14 +103267,14 @@
         "license": "CC0 1.0",
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "description": "Muestra de arcosa de Montana; contiene cuarzo y feldespato.",
-        "examUse": "diagnostic",
+        "examUse": "detail",
         "status": "approved",
         "verificationSources": [
           "https://commons.wikimedia.org/wiki/File:Arkose_(GeoDIL_number_-_473).jpg"
         ],
         "reviewedAt": "2026-10-31",
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
-        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewNote": "Muestra identificada como arcosa por GeoDIL. La composición mineral y proporción de feldespato no pueden establecerse sin ambigüedad a partir de esta fotografía; clasificada como detalle.",
         "reviewBatch": "madrid-2002-20261030",
         "originalUrl": "https://geodil.dperkins.org/i/473.jpg"
       },
@@ -103286,14 +103286,14 @@
         "license": "CC0 1.0",
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "description": "Arcosa rojiza: muestra derecha de la comparación original con granito.",
-        "examUse": "diagnostic",
+        "examUse": "detail",
         "status": "approved",
         "verificationSources": [
           "https://commons.wikimedia.org/wiki/File:Granite_and_arkose_(GeoDIL_number_-_2).jpg"
         ],
         "reviewedAt": "2026-10-31",
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
-        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewNote": "Muestra identificada como arcosa por GeoDIL. La composición mineral y proporción de feldespato no pueden establecerse sin ambigüedad a partir de esta fotografía; clasificada como detalle.",
         "reviewBatch": "madrid-2002-20261030",
         "crop": [
           0.56,
