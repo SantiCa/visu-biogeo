@@ -34032,5 +34032,157 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "madrid-2002-20261030",
+    "picksSha256": "ae50c57176fd3859624b8edebe149b58e417fa7abf448109b1c4a7da3b72d12d",
+    "date": "2026-10-31",
+    "note": "Fuente, licencia, imagen y encuadre contrastados; uso según rasgos visibles.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "melanargia-russiae",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20674408/original.jpeg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "melanargia-russiae",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136143805/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "turdus-viscivorus",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6271368/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "turdus-viscivorus",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254577037/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 4,
+        "itemId": "ocnus-planci",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 5,
+        "itemId": "ocnus-planci",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
+        "status": "approved"
+      },
+      {
+        "index": 6,
+        "itemId": "arenisca-arcosica",
+        "url": "https://geodil.dperkins.org/i/473.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 7,
+        "itemId": "arenisca-arcosica",
+        "url": "https://geodil.dperkins.org/i/2.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 8,
+        "itemId": "estructura-epitelio-intestinal",
+        "url": "https://iiif.wellcomecollection.org/image/B0007180/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 9,
+        "itemId": "estructura-epitelio-intestinal",
+        "url": "https://iiif.wellcomecollection.org/image/B0006246/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 10,
+        "itemId": "posidonia-sp",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452175523/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 11,
+        "itemId": "estructura-egagropila-de-rapaz-nocturna",
+        "url": "https://www.nps.gov/common/uploads/nri/20241031/teachers/E8DD978D-906F-CA43-ECEA38B3B551EDBE/E8DD978D-906F-CA43-ECEA38B3B551EDBE.jpg",
+        "status": "approved"
+      }
+    ]
+  },
+  {
+    "batch": "madrid-parejas-20261031",
+    "picksSha256": "da1e87b4430f2c42ceb8c5200f8338e990d194af64266f35405fa7a961db594c",
+    "date": "2026-10-31",
+    "note": "Fotografía independiente, fuente y licencia contrastadas; original y recorte revisados.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "posidonia-sp",
+        "url": "https://www.nature.com/articles/s43247-026-03631-8.pdf#page=4&figure=3&photo=provence",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "estructura-egagropila-de-rapaz-nocturna",
+        "url": "https://npgallery.nps.gov/GetAsset/6b98ae44-1dd8-b71b-0b39-14994a908a6d/original",
+        "status": "approved"
+      }
+    ]
+  },
+  {
+    "batch": "posidonia-resolucion-20261031",
+    "picksSha256": "1db294a40da3f8518cb61a3499c8682792dc525fe028ea3332923d3ad7e33691",
+    "date": "2026-10-31",
+    "note": "Sustitución del detalle por una versión de mayor resolución de la misma fotografía; fuente y recorte verificados.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "posidonia-sp",
+        "url": "https://www.nature.com/articles/s43247-026-03631-8.pdf#page=4&figure=3&photo=provence",
+        "status": "rejected"
+      },
+      {
+        "index": 1,
+        "itemId": "posidonia-sp",
+        "url": "https://www.nature.com/articles/s43247-026-03631-8_reference.pdf#page=27&figure=3&photo=provence",
+        "status": "approved"
+      }
+    ]
+  },
+  {
+    "batch": "ocnus-verificado-20261031",
+    "picksSha256": "d085c0b187167422cafcf4230aa4752e42b2cc23188be7b3e97eaea51d6d1bdf",
+    "date": "2026-10-31",
+    "note": "Se sustituyen observaciones de identificación comunitaria por fotografías dorsal y ventral separadas del ejemplar NMV F82971 examinado por especialistas.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "ocnus-planci",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 1,
+        "itemId": "ocnus-planci",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
+        "status": "rejected"
+      },
+      {
+        "index": 2,
+        "itemId": "ocnus-planci",
+        "url": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5g",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "ocnus-planci",
+        "url": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5h",
+        "status": "approved"
+      }
+    ]
   }
 ]
