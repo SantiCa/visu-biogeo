@@ -103130,5 +103130,275 @@
         "examUseNote": "Revisión visual y cotejo con OMM/SMHI. La identificación documental no implica que una foto fija demuestre evolución, movimiento u origen. Cauda y flumen se recortan según las coordenadas de las anotaciones OMM, manteniendo usos de detalle. Lote clouds810-completion, índice 0."
       }
     ]
+  },
+  "melanargia-russiae": {
+    "images": [
+      {
+        "url": "./assets/reviewed/892f0c6d7bd30fb6e9dd.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/20674408/original.jpeg",
+        "page": "https://www.inaturalist.org/observations/13981581",
+        "author": "Kostas Zontanos (kostaszontanos)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista dorsal, con trazos oscuros en la celda del ala anterior.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://atlas.libellules-et-papillons-lr.org/atlas/espece/53707"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20674408/original.jpeg"
+      },
+      {
+        "url": "./assets/reviewed/87f03012e0e9f3dca482.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/136143805/original.jpg",
+        "page": "https://www.inaturalist.org/observations/82924788",
+        "author": "Evgenij Samarin",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista ventral, con ocelos y dibujo de las alas posteriores.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://biodiversity.unitir.edu.al/Albania_Melanargia_russiae.html"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136143805/original.jpg"
+      }
+    ]
+  },
+  "turdus-viscivorus": {
+    "images": [
+      {
+        "url": "./assets/reviewed/4aaa0c4d6716c4fcb3a7.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/6271368/original.jpg",
+        "page": "https://www.inaturalist.org/observations/5101712",
+        "author": "Nigel Voaden",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista lateral del zorzal, con pecho y flancos moteados.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.rspb.org.uk/birds-and-wildlife/mistle-thrush"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6271368/original.jpg"
+      },
+      {
+        "url": "./assets/reviewed/aace1a4a7b070c395723.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/254577037/original.jpg",
+        "page": "https://www.inaturalist.org/observations/147895709",
+        "author": "Griha Hasanov",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista frontal y lateral de otro ejemplar, con manchas redondeadas.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.bto.org/sites/default/files/u23/downloads/pdfs/factsheet_thrushes.pdf"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254577037/original.jpg"
+      }
+    ]
+  },
+  "ocnus-planci": {
+    "images": [
+      {
+        "url": "./assets/reviewed/a3d2bc50c74b1cd70920.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
+        "page": "https://www.inaturalist.org/observations/19108027",
+        "author": "Julien Renoult",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Holoturia con tentáculos arborescentes y cuerpo parcialmente visible.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.marlin.ac.uk/species/detail/1861/1000"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Detalle compatible con la identificación comunitaria de Ocnus planci. Los caracteres visibles no permiten por sí solos descartar taxones similares; no usar como vista diagnóstica de especie.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg"
+      },
+      {
+        "url": "./assets/reviewed/8b9897b84c8aba4966c9.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
+        "page": "https://www.inaturalist.org/observations/10143687",
+        "author": "Julien Renoult",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Holoturia en sustrato con corona de tentáculos extendida.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.marlin.ac.uk/species/detail/1861/1000"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Detalle compatible con la identificación comunitaria de Ocnus planci. Los caracteres visibles no permiten por sí solos descartar taxones similares; no usar como vista diagnóstica de especie.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg"
+      }
+    ]
+  },
+  "arenisca-arcosica": {
+    "images": [
+      {
+        "url": "./assets/reviewed/d12e0f69ec4361bc1f19.jpg",
+        "key": "https://geodil.dperkins.org/i/473.jpg",
+        "page": "https://geodil.dperkins.org/h/473.html",
+        "author": "Nessa Eull / GeoDIL",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "description": "Muestra de arcosa de Montana; contiene cuarzo y feldespato.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://commons.wikimedia.org/wiki/File:Arkose_(GeoDIL_number_-_473).jpg"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://geodil.dperkins.org/i/473.jpg"
+      },
+      {
+        "url": "./assets/reviewed/58a14f2303086ca61584.jpg",
+        "key": "https://geodil.dperkins.org/i/2.jpg",
+        "page": "https://geodil.dperkins.org/h/2.html",
+        "author": "Dexter Perkins / GeoDIL",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "description": "Arcosa rojiza: muestra derecha de la comparación original con granito.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://commons.wikimedia.org/wiki/File:Granite_and_arkose_(GeoDIL_number_-_2).jpg"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "crop": [
+          0.56,
+          0.02,
+          0.42,
+          0.92
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://geodil.dperkins.org/i/2.jpg"
+      }
+    ]
+  },
+  "estructura-epitelio-intestinal": {
+    "images": [
+      {
+        "url": "./assets/reviewed/465514242ff7080c4f5f.jpg",
+        "key": "https://iiif.wellcomecollection.org/image/B0007180/full/full/0/default.jpg",
+        "page": "https://wellcomecollection.org/works/s39bfr8e",
+        "author": "S. Schuller / Wellcome Collection",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Criocorte fluorescente de mucosa intestinal humana con vellosidades y criptas.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Anatomy_Lab/20%3A__The_Digestive_System/20.04%3A_Small_Intestine"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Muestra con marcaje fluorescente, no tinción histológica convencional; útil como detalle, no como única referencia de reconocimiento.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://iiif.wellcomecollection.org/image/B0007180/full/full/0/default.jpg"
+      },
+      {
+        "url": "./assets/reviewed/bce2dba68617fea3b74b.jpg",
+        "key": "https://iiif.wellcomecollection.org/image/B0006246/full/full/0/default.jpg",
+        "page": "https://wellcomecollection.org/works/guj6edk6",
+        "author": "S. Schuller / Wellcome Collection",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Epitelio cilíndrico de intestino delgado humano, marcado por fluorescencia.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Anatomy_Lab/20%3A__The_Digestive_System/20.04%3A_Small_Intestine"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Muestra con marcaje fluorescente, no tinción histológica convencional; útil como detalle, no como única referencia de reconocimiento.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://iiif.wellcomecollection.org/image/B0006246/full/full/0/default.jpg"
+      }
+    ]
+  },
+  "posidonia-sp": {
+    "images": [
+      {
+        "url": "./assets/reviewed/dbc1d0ca6586900cc4b8.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/452175523/original.jpg",
+        "page": "https://www.inaturalist.org/observations/252579026",
+        "author": "Golfopolikayak",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Inflorescencia de Posidonia oceanica; recorte de la fotografía superior izquierda de un montaje.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://admin.algaebase.org/search/species/detail/?distro=y&species_id=18577"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Una sola fotografía de flores procedente de un montaje; la especie es P. oceanica, incluida en Posidonia sp.; falta una segunda fotografía independiente.",
+        "reviewBatch": "madrid-2002-20261030",
+        "crop": [
+          0,
+          0,
+          0.343,
+          0.62
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452175523/original.jpg"
+      }
+    ]
+  },
+  "estructura-egagropila-de-rapaz-nocturna": {
+    "images": [
+      {
+        "url": "./assets/reviewed/1ee5bd6085de314a8fed.jpg",
+        "key": "https://www.nps.gov/common/uploads/nri/20241031/teachers/E8DD978D-906F-CA43-ECEA38B3B551EDBE/E8DD978D-906F-CA43-ECEA38B3B551EDBE.jpg",
+        "page": "https://www.nps.gov/teachers/classrooms/owl-pellets-from-the-past.htm",
+        "author": "L. Parry / National Park Service",
+        "license": "Public domain",
+        "licenseUrl": "https://www.usa.gov/government-works",
+        "description": "Egagrópila con restos óseos y pelo en el suelo; rapaz nocturna según la fuente.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.usgs.gov/media/videos/burrowing-owl-regurgitating-a-pellet"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "La fuente identifica una egagrópila de búho, con pelo y huesos expuestos; falta una segunda fotografía independiente.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://www.nps.gov/common/uploads/nri/20241031/teachers/E8DD978D-906F-CA43-ECEA38B3B551EDBE/E8DD978D-906F-CA43-ECEA38B3B551EDBE.jpg"
+      }
+    ]
   }
 }

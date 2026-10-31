@@ -34032,5 +34032,85 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "madrid-2002-20261030",
+    "picksSha256": "ae50c57176fd3859624b8edebe149b58e417fa7abf448109b1c4a7da3b72d12d",
+    "date": "2026-10-31",
+    "note": "Fuente, licencia, imagen y encuadre contrastados; uso según rasgos visibles.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "melanargia-russiae",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20674408/original.jpeg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "melanargia-russiae",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136143805/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "turdus-viscivorus",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6271368/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "turdus-viscivorus",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254577037/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 4,
+        "itemId": "ocnus-planci",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 5,
+        "itemId": "ocnus-planci",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
+        "status": "approved"
+      },
+      {
+        "index": 6,
+        "itemId": "arenisca-arcosica",
+        "url": "https://geodil.dperkins.org/i/473.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 7,
+        "itemId": "arenisca-arcosica",
+        "url": "https://geodil.dperkins.org/i/2.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 8,
+        "itemId": "estructura-epitelio-intestinal",
+        "url": "https://iiif.wellcomecollection.org/image/B0007180/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 9,
+        "itemId": "estructura-epitelio-intestinal",
+        "url": "https://iiif.wellcomecollection.org/image/B0006246/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 10,
+        "itemId": "posidonia-sp",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452175523/original.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 11,
+        "itemId": "estructura-egagropila-de-rapaz-nocturna",
+        "url": "https://www.nps.gov/common/uploads/nri/20241031/teachers/E8DD978D-906F-CA43-ECEA38B3B551EDBE/E8DD978D-906F-CA43-ECEA38B3B551EDBE.jpg",
+        "status": "approved"
+      }
+    ]
   }
 ]

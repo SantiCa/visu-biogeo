@@ -1,23 +1,24 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "catalogEntries": 2609,
-  "entriesWithApprovedImage": 2267,
-  "entriesWithPair": 2123,
-  "approvedImages": 4759,
+  "entriesWithApprovedImage": 2274,
+  "entriesWithPair": 2128,
+  "approvedImages": 4771,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4760,
+    "approved": 4772,
     "rejected": 698,
     "pending": 3
   },
   "imageSources": {
-    "geodil.dperkins.org": 234,
-    "www.inaturalist.org": 3449,
+    "www.inaturalist.org": 3456,
+    "geodil.dperkins.org": 236,
+    "www.nps.gov": 27,
+    "wellcomecollection.org": 2,
     "commons.wikimedia.org": 72,
     "www.asturnatura.com": 199,
     "npgallery.nps.gov": 36,
-    "www.nps.gov": 26,
     "pubchem.ncbi.nlm.nih.gov": 67,
     "valsanagra.it": 3,
     "public.wmo.int": 6,
@@ -79,52 +80,17 @@
   "priorityMissingPairs": [],
   "allMissingPairs": [
     {
-      "id": "melanargia-russiae",
-      "name": "Melanargia russiae",
-      "kind": "organismo",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "arenisca-arcosica",
-      "name": "Arenisca arcósica",
-      "kind": "roca",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "ocnus-planci",
-      "name": "Ocnus planci",
-      "kind": "organismo",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "estructura-egagropila-de-rapaz-nocturna",
       "name": "Egagrópila de rapaz nocturna",
       "kind": "estructura",
-      "approvedImages": 0,
+      "approvedImages": 1,
       "priority": false
     },
     {
       "id": "posidonia-sp",
       "name": "Posidonia sp.",
       "kind": "organismo",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "estructura-epitelio-intestinal",
-      "name": "Epitelio intestinal",
-      "kind": "estructura",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "turdus-viscivorus",
-      "name": "Turdus viscivorus",
-      "kind": "organismo",
-      "approvedImages": 0,
+      "approvedImages": 1,
       "priority": false
     },
     {
