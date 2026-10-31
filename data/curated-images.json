@@ -103365,7 +103365,7 @@
         ],
         "reviewedAt": "2026-10-31",
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
-        "reviewNote": "Una sola fotografía de flores procedente de un montaje; la especie es P. oceanica, incluida en Posidonia sp.; falta una segunda fotografía independiente.",
+        "reviewNote": "Una sola fotografía de flores procedente de un montaje; la especie es P. oceanica, incluida en Posidonia sp.; la segunda fotografía independiente está registrada en madrid-parejas-20261031.",
         "reviewBatch": "madrid-2002-20261030",
         "crop": [
           0,
@@ -103375,6 +103375,31 @@
         ],
         "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
         "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452175523/original.jpg"
+      },
+      {
+        "url": "./assets/reviewed/8ce6c66aba9c9f85e931.jpg",
+        "page": "https://www.nature.com/articles/s43247-026-03631-8",
+        "author": "Bruno Belloni; Astruch et al. (2026)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Posidonia oceanica en flor bajo el agua, Provenza; primera fotografía de la figura 3 de Astruch et al. (2026).",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://ofb.gouv.fr/especes/posidonie-posidonia-oceanica"
+        ],
+        "reference": "Foto de Bruno Belloni en figura 3, Astruch et al., DOI 10.1038/s43247-026-03631-8; recortada del PDF. · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Floración submarina identificada por Astruch et al.; la fotografía es independiente de la inflorescencia recogida en playa. El recorte de la figura tiene resolución limitada y se clasifica como detalle.",
+        "reviewBatch": "madrid-parejas-20261031",
+        "crop": [
+          0.003,
+          0.738,
+          0.244,
+          0.257
+        ],
+        "originalUrl": "https://www.nature.com/articles/s43247-026-03631-8.pdf#page=4&figure=3&photo=provence"
       }
     ]
   },
@@ -103395,9 +103420,34 @@
         ],
         "reviewedAt": "2026-10-31",
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
-        "reviewNote": "La fuente identifica una egagrópila de búho, con pelo y huesos expuestos; falta una segunda fotografía independiente.",
+        "reviewNote": "La fuente identifica una egagrópila de búho, con pelo y huesos expuestos; la segunda fotografía independiente está registrada en madrid-parejas-20261031.",
         "reviewBatch": "madrid-2002-20261030",
         "originalUrl": "https://www.nps.gov/common/uploads/nri/20241031/teachers/E8DD978D-906F-CA43-ECEA38B3B551EDBE/E8DD978D-906F-CA43-ECEA38B3B551EDBE.jpg"
+      },
+      {
+        "url": "./assets/reviewed/a077d917f941de7b45fd.jpg",
+        "page": "https://npgallery.nps.gov/SearchResults/albumid/6512657B-1DD8-B71B-0BD28ABA029AAF4B",
+        "author": "National Park Service",
+        "license": "Public domain",
+        "licenseUrl": "https://www.usa.gov/government-works",
+        "description": "Egagrópilas de búho con pelo y restos de huesos, en la tundra de Noatak, Alaska.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.nps.gov/teachers/classrooms/owl-pellets-from-the-past.htm"
+        ],
+        "reference": "NPS, Noatak National Preserve, imagen 6b98ae44; recorte de una fotografía independiente. · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "La fuente NPS identifica egagrópila de búho; fotografía distinta de la publicada por L. Parry. Recorte de ejemplares y restos sobre el sustrato.",
+        "reviewBatch": "madrid-parejas-20261031",
+        "crop": [
+          0.195,
+          0.22,
+          0.53,
+          0.56
+        ],
+        "originalUrl": "https://npgallery.nps.gov/GetAsset/6b98ae44-1dd8-b71b-0b39-14994a908a6d/original"
       }
     ]
   }

@@ -2,12 +2,12 @@
   "date": "2026-10-31",
   "catalogEntries": 2609,
   "entriesWithApprovedImage": 2274,
-  "entriesWithPair": 2128,
-  "approvedImages": 4771,
+  "entriesWithPair": 2130,
+  "approvedImages": 4773,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4772,
+    "approved": 4774,
     "rejected": 698,
     "pending": 3
   },
@@ -15,10 +15,11 @@
     "www.inaturalist.org": 3456,
     "geodil.dperkins.org": 236,
     "www.nps.gov": 27,
+    "npgallery.nps.gov": 37,
+    "www.nature.com": 1,
     "wellcomecollection.org": 2,
     "commons.wikimedia.org": 72,
     "www.asturnatura.com": 199,
-    "npgallery.nps.gov": 36,
     "pubchem.ncbi.nlm.nih.gov": 67,
     "valsanagra.it": 3,
     "public.wmo.int": 6,
@@ -79,20 +80,6 @@
   "brokenApprovedFiles": [],
   "priorityMissingPairs": [],
   "allMissingPairs": [
-    {
-      "id": "estructura-egagropila-de-rapaz-nocturna",
-      "name": "Egagrópila de rapaz nocturna",
-      "kind": "estructura",
-      "approvedImages": 1,
-      "priority": false
-    },
-    {
-      "id": "posidonia-sp",
-      "name": "Posidonia sp.",
-      "kind": "organismo",
-      "approvedImages": 1,
-      "priority": false
-    },
     {
       "id": "acanaladura",
       "name": "Acanaladura",

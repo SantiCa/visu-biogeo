@@ -34112,5 +34112,25 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "madrid-parejas-20261031",
+    "picksSha256": "da1e87b4430f2c42ceb8c5200f8338e990d194af64266f35405fa7a961db594c",
+    "date": "2026-10-31",
+    "note": "Fotografía independiente, fuente y licencia contrastadas; original y recorte revisados.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "posidonia-sp",
+        "url": "https://www.nature.com/articles/s43247-026-03631-8.pdf#page=4&figure=3&photo=provence",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "estructura-egagropila-de-rapaz-nocturna",
+        "url": "https://npgallery.nps.gov/GetAsset/6b98ae44-1dd8-b71b-0b39-14994a908a6d/original",
+        "status": "approved"
+      }
+    ]
   }
 ]
