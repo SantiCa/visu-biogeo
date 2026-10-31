@@ -1,4 +1,131 @@
 {
+  "turdus-viscivorus": {
+    "commonName": "Zorzal charlo",
+    "description": "Zorzal grande y robusto, de dorso pardo grisáceo y partes inferiores claras con motas oscuras gruesas. Suele adoptar una postura erguida y presenta cola relativamente larga. Consume invertebrados y frutos, incluidas las bayas de muérdago.",
+    "diagnostics": [
+      "Moteado oscuro desde la garganta hasta el vientre, con manchas destacadas a los lados del pecho. Combinar el patrón con la estructura corporal: las motas ventrales por sí solas son comunes a varios zorzales.",
+      "En vuelo o con el ala levantada se aprecia la región axilar blanca. Es un carácter útil cuando está visible; una fotografía lateral con el ala cerrada no permite comprobarlo.",
+      "Frente al zorzal común, es más corpulento, alargado y erguido. Los jóvenes presentan moteado adicional en el dorso; no exigir un dorso uniforme a cualquier edad ni estimar el tamaño sin una referencia."
+    ],
+    "etymology": "Turdus es el nombre latino del zorzal, documentado por Lewis y Short. Jobling explica viscivorus por viscum, muérdago, y -vorus, que come, relacionado con vorare, devorar: comedor de muérdago. El nombre alude a una parte de su dieta, no a una alimentación exclusiva.",
+    "sources": [
+      {
+        "url": "https://seo.org/ave/zorzal-charlo/",
+        "title": "SEO/BirdLife · Zorzal charlo: estructura, moteado, axilas blancas, plumaje juvenil y alimentación"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=turdus",
+        "title": "Lewis y Short · turdus: nombre latino del zorzal"
+      },
+      {
+        "url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf",
+        "title": "Jobling (2010), The Helm Dictionary of Scientific Bird Names · viscivorus, p. 404: viscum y -vorus"
+      }
+    ],
+    "reviewedAt": "2026-10-31",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento visual de adultos y jóvenes. No se determina sexo ni subespecie; las axilas blancas solo se valoran cuando la vista permite observarlas."
+  },
+  "hemorrhois-hippocrepis": {
+    "commonName": "Culebra de herradura",
+    "description": "Culebra de cuerpo y cola largos, cabeza diferenciada y ojos grandes con pupila redonda. Suele mostrar manchas dorsales oscuras, aproximadamente redondeadas, sobre un fondo más claro, y una marca cefálica que recuerda una herradura. Los ejemplares viejos pueden oscurecerse mucho.",
+    "diagnostics": [
+      "La marca oscura de la zona parietal debe examinarse junto con la serie de manchas dorsales, que hacia la cola tienden a confluir en bandas. El contraste puede ser mayor en jóvenes y reducirse en adultos oscuros.",
+      "Una hilera de escamas suboculares separa el ojo de buena parte de las supralabiales. No convertir esa separación en absoluta: alguna supralabial puede contactar con el ojo. Este carácter requiere una vista lateral de la cabeza con suficiente detalle.",
+      "Escamas dorsales lisas y pupila redonda complementan el patrón de manchas. Una vista general de una serpiente oscura no permite confirmar la especie ni asignar sexo o subespecie."
+    ],
+    "etymology": "The Reptile Database explica hippocrepis a partir del griego hippos, caballo, y krepis, calzado: herradura, en relación con la marca de la cabeza. La etimología y la motivación original de Hemorrhois quedan pendientes de contraste documental; no se propone una traducción literal del nombre genérico.",
+    "sources": [
+      {
+        "url": "https://www.vertebradosibericos.org/reptiles/identificacion/hemhipid.html",
+        "title": "Enciclopedia Virtual de los Vertebrados Españoles, MNCN-CSIC · Hemorrhois hippocrepis: identificación, variación y contacto variable entre ojo y supralabiales"
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Hemorrhois/hippocrepis?search_param=%28%28search%3D%27Cas%27%29%29",
+        "title": "The Reptile Database · Hemorrhois hippocrepis: sinonimia Coluber hippocrepis y etimología del epíteto"
+      }
+    ],
+    "reviewedAt": "2026-10-31",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento mediante cuerpo y cabeza. Se conserva Coluber hippocrepis como nombre histórico del catálogo; el nombre de la lista de opositor no valida la identificación de una muestra de examen sin imagen."
+  },
+  "buxus-sempervirens": {
+    "commonName": "Boj",
+    "description": "Arbusto o pequeño árbol perennifolio, densamente ramificado. Las hojas son pequeñas, opuestas, coriáceas y de pecíolo corto, más oscuras y brillantes por el haz. Las flores pequeñas se agrupan en las axilas de las hojas y originan cápsulas con tres compartimentos.",
+    "diagnostics": [
+      "Hojas simples y opuestas, de contorno ovalado a oblongo, con ápice obtuso o escotado y margen algo vuelto hacia abajo. Revisar varias hojas y su inserción: una hoja pequeña y brillante aislada es insuficiente.",
+      "Glomérulos axilares con varias flores masculinas alrededor de una femenina central. El fruto es una cápsula trilocular con estilos persistentes, que producen tres salientes; estos detalles ayudan más que el porte recortado de un seto.",
+      "Existe variación silvestre y numerosos cultivares. Ni la altura, alterada por la poda, ni el follaje variegado permiten identificar por sí solos la especie o el cultivar; sin estructuras reproductoras puede ser necesario ampliar la comparación con otros arbustos de hoja opuesta."
+    ],
+    "etymology": "Lewis y Short recogen buxus como nombre latino del boj y lo relacionan con el griego pyxos. Sempervirens significa siempre verde, como indica Oregon State University, en referencia a la persistencia del follaje. La ficha se limita a esos significados documentados, sin proponer un origen remoto adicional de la raíz del género.",
+    "sources": [
+      {
+        "url": "https://herbarivirtual.uib.es/es/general/2394/especie/buxus-sempervirens-l-",
+        "title": "Universitat de les Illes Balears · Buxus sempervirens: hojas, glomérulos florales y cápsula trilocular"
+      },
+      {
+        "url": "https://landscapeplants.oregonstate.edu/plants/buxus-sempervirens",
+        "title": "Oregon State University · Buxus sempervirens: variación foliar, cultivares, cápsula y significado de sempervirens"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=buxus",
+        "title": "Lewis y Short · buxus: nombre latino del boj y relación con pyxos"
+      }
+    ],
+    "reviewedAt": "2026-10-31",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia de reconocimiento botánico. No se asignan cultivares por el aspecto del seto. La correspondencia de Buxux sempervirens en la lista de opositor es provisional y no constituye una determinación oficial."
+  },
+  "arctostaphylos-uva-ursi": {
+    "commonName": "Gayuba",
+    "description": "Mata perennifolia de ramas tendidas que forman tapices. Presenta hojas alternas, coriáceas, de contorno espatulado a obovado, con haz verde brillante. Las flores blancas o rosadas tienen la corola soldada en forma de pequeña urna; los frutos maduros son carnosos y rojos.",
+    "diagnostics": [
+      "Combinar porte rastrero y hojas alternas de margen entero, más anchas hacia el extremo. Observar una ramilla completa: la disposición alterna es más informativa que el brillo de una hoja aislada.",
+      "Flores colgantes en racimos cortos, con corola estrechada hacia la abertura. Los frutos son drupas globosas; el rojo por sí solo no distingue la gayuba de otras plantas de frutos rojos.",
+      "No exigir flores y frutos simultáneamente. Si solo se ve un tapiz verde sin detalle de hojas o estructuras reproductoras, la identificación puede quedar abierta; el tamaño y el color foliar tampoco determinan un cultivar."
+    ],
+    "etymology": "Oregon State University explica Arctostaphylos por el griego arktos, oso, y staphyle, racimo de uvas. Uva-ursi expresa en latín uva de oso. Ambos nombres evocan el mismo significado; la asociación con los osos no equivale a una observación de alimentación en cada población ni es un carácter diagnóstico.",
+    "sources": [
+      {
+        "url": "https://herbarivirtual.uib.es/es/general/1592/especie/arctostaphylos-uva-ursi-l-spreng-",
+        "title": "Universitat de les Illes Balears · Gayuba: porte, hojas alternas, flores y frutos; página rotulada Arctostaphyllos uva-ursi"
+      },
+      {
+        "url": "https://landscapeplants.oregonstate.edu/plants/arctostaphylos-uva-ursi",
+        "title": "Oregon State University · Arctostaphylos uva-ursi: hojas, flores, drupas, variación ornamental y significado de uva-ursi"
+      },
+      {
+        "url": "https://landscapeplants.oregonstate.edu/arctostaphylos",
+        "title": "Oregon State University · Arctostaphylos: raíces griegas del nombre genérico"
+      }
+    ],
+    "reviewedAt": "2026-10-31",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para reconocimiento de la mata, ramillas, flores y frutos. Se conserva el nombre del catálogo; Arctostaphyllus en la lista de opositor se vincula provisionalmente, sin convertir la errata en un sinónimo taxonómico."
+  },
+  "paracentrotus-lividus": {
+    "commonName": "Erizo de mar común",
+    "description": "Erizo regular de caparazón aproximadamente circular y relativamente bajo, con espinas largas y agudas. La coloración varía del verde al pardo y a distintos tonos violetas, a veces muy oscuros. Habita fondos rocosos y también praderas marinas.",
+    "diagnostics": [
+      "En un caparazón limpio y bien conservado, las placas ambulacrales presentan cinco o seis pares de poros dispuestos en arcos. Es un detalle que requiere aproximación o lupa; no se infiere de una imagen general cubierta de espinas.",
+      "Arbacia lixula suele tener espinas proporcionalmente más largas y una zona sin espinas alrededor de la boca. Combinar cara oral, forma y detalles del caparazón; el color oscuro no separa siempre ambas especies.",
+      "Paracentrotus lividus y Arbacia lixula son especies distintas, no la hembra y el macho de una misma especie. No se asigna sexo por el color ni se aplica el aspecto de las espinas a un caparazón vacío que ya las ha perdido."
+    ],
+    "etymology": "DORIS explica el latín lividus como azulado, negruzco o lívido, compatible con parte de su variación de color y sin implicar que todos los individuos sean violetas. La construcción y la motivación original de Paracentrotus quedan pendientes de contraste con una fuente etimológica específica.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Paracentrotus-lividus-Oursin-violet-1437",
+        "title": "Noyer, Petit de Voize y Jeglot, DORIS-FFESSM · Paracentrotus lividus: color variable, comparación con Arbacia y significado de lividus"
+      },
+      {
+        "url": "https://www.marlin.ac.uk/species/detail/1499",
+        "title": "Pizzolla, MarLIN, Marine Biological Association · Paracentrotus lividus: caparazón y cinco o seis pares de poros ambulacrales"
+      }
+    ],
+    "reviewedAt": "2026-10-31",
+    "reviewStatus": "reviewed",
+    "scope": "Síntesis propia para distinguir ejemplares vivos y caparazones. La identificación requiere caracteres observables; la atribución de Madrid 2002 y la recopilación académica sin fecha son evidencias de distinta procedencia, sin imagen oficial cotejada."
+  },
   "acer-negundo": {
     "commonName": "Arce negundo",
     "description": "Árbol caducifolio originario de Norteamérica, con copa amplia y hojas opuestas compuestas. Presenta flores masculinas y femeninas en pies distintos; los femeninos producen racimos colgantes de frutos alados pareados que pueden persistir en invierno.",
