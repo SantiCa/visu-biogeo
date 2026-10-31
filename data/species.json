@@ -8704,7 +8704,16 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": [],
+    "aliases": [
+      "Serinus citrinella"
+    ],
+    "aliasSources": [
+      {
+        "name": "Serinus citrinella",
+        "source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=729200",
+        "method": "ITIS enumera Serinus citrinella como sinónimo explícito de Carduelis citrinella (TSN 729200); combinación histórica de la misma especie."
+      }
+    ],
     "sourcePages": [
       {
         "file": "Listado visu de Aves.pdf",
@@ -20336,7 +20345,16 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": [],
+    "aliases": [
+      "Phalacrocorax aristotelis"
+    ],
+    "aliasSources": [
+      {
+        "name": "Phalacrocorax aristotelis",
+        "source": "https://www.marinespecies.org/aphia.php?id=137178&p=taxdetails",
+        "method": "WoRMS remite Phalacrocorax aristotelis (AphiaID 137178) al nombre aceptado Gulosus aristotelis; combinación histórica de la misma especie."
+      }
+    ],
     "sourcePages": [
       {
         "file": "Listado visu de Aves.pdf",
@@ -25098,7 +25116,16 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": [],
+    "aliases": [
+      "Parus cristatus"
+    ],
+    "aliasSources": [
+      {
+        "name": "Parus cristatus",
+        "source": "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NHMSYS0001688298",
+        "method": "El Species Dictionary del NHM enumera Parus cristatus como sinónimo explícito del nombre aceptado Lophophanes cristatus; combinación histórica de la misma especie."
+      }
+    ],
     "sourcePages": [
       {
         "file": "Listado visu de Aves.pdf",
@@ -31763,7 +31790,16 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": [],
+    "aliases": [
+      "Parus ater"
+    ],
+    "aliasSources": [
+      {
+        "name": "Parus ater",
+        "source": "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NHMSYS0001688300",
+        "method": "El Species Dictionary del NHM enumera Parus ater como sinónimo explícito del nombre aceptado Periparus ater; combinación histórica de la misma especie."
+      }
+    ],
     "sourcePages": [
       {
         "file": "Listado visu de Aves.pdf",
@@ -34008,7 +34044,16 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": [],
+    "aliases": [
+      "Parus palustris"
+    ],
+    "aliasSources": [
+      {
+        "name": "Parus palustris",
+        "source": "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NHMSYS0000530535",
+        "method": "El Species Dictionary del NHM marca Parus palustris como sinónimo del nombre aceptado Poecile palustris; combinación histórica de la misma especie."
+      }
+    ],
     "sourcePages": [
       {
         "file": "Listado visu de Aves.pdf",
