@@ -100,14 +100,30 @@
     "commonNameStatus": "not-documented"
   },
   "posidonia-sp": {
-    "provider": "Comisión Europea JRC",
-    "source": "https://publications.jrc.ec.europa.eu/repository/bitstream/JRC130756/JRC130756_01.pdf",
+    "provider": "iNaturalist",
+    "source": "https://www.inaturalist.org/taxa/118944",
     "matchedName": "Posidonia",
     "rank": "genus",
     "hierarchy": [
       {
         "rank": "kingdom",
         "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "subphylum",
+        "name": "Angiospermae"
+      },
+      {
+        "rank": "class",
+        "name": "Liliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Alismatales"
       },
       {
         "rank": "family",
@@ -120,14 +136,38 @@
     ],
     "ranks": {
       "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "subphylum": "Angiospermae",
+      "class": "Liliopsida",
+      "order": "Alismatales",
       "family": "Posidoniaceae",
       "genus": "Posidonia"
     },
     "commonNames": [],
     "commonName": null,
     "group": "Plantas con flor",
-    "checkedAt": "2026-10-30",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-04",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Linaje del género Posidonia en iNaturalist (taxón 118944), coherente con el espécimen BM000990230 en clase, orden y familia. Se mantiene la identificación a género de la lista de Madrid.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "references": [
+        {
+          "source": "https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/592939",
+          "citation": "Natural History Museum, ejemplar de herbario BM000990230."
+        }
+      ],
+      "previousClassification": {
+        "provider": "Comisión Europea JRC",
+        "source": "https://publications.jrc.ec.europa.eu/repository/bitstream/JRC130756/JRC130756_01.pdf",
+        "checkedAt": "2026-10-30",
+        "ranks": {
+          "kingdom": "Plantae",
+          "family": "Posidoniaceae",
+          "genus": "Posidonia"
+        }
+      }
+    }
   },
   "turdus-viscivorus": {
     "provider": "Museo Nacional de Ciencias Naturales",
@@ -17748,8 +17788,8 @@
     "commonNameStatus": "documented"
   },
   "belemnitella": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/9161059",
+    "provider": "Museo Virtual de Paleontología · Universidad de Huelva",
+    "source": "https://www.uhu.es/museovirtualpaleontologia/galerias/invertebrados/fichas/cefalopodos.html",
     "matchedName": "Belemnitella",
     "rank": "genus",
     "ranks": {
@@ -17757,7 +17797,7 @@
       "phylum": "Mollusca",
       "class": "Cephalopoda",
       "order": "Belemnitida",
-      "family": "Bellemnitellidae",
+      "family": "Belemnitellidae",
       "genus": "Belemnitella"
     },
     "hierarchy": [
@@ -17779,7 +17819,7 @@
       },
       {
         "rank": "family",
-        "name": "Bellemnitellidae"
+        "name": "Belemnitellidae"
       },
       {
         "rank": "genus",
@@ -17789,8 +17829,31 @@
     "commonName": null,
     "commonNames": [],
     "group": "Moluscos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-10-31",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "La ficha Belemnitella sp. de la Universidad de Huelva documenta Belemnitellidae. Se corrige la grafía Bellemnitellidae del registro automático y se mantiene la familia ya documentada en taxonomy.json.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-10-31",
+      "references": [
+        {
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616638/",
+          "citation": "Keutgen, N. y Remin, Z. (2024). Belemnites of the family Belemnitellidae Pavlow, 1914 from the Late Cretaceous Maastrichtian stage in the Northern Hemisphere. Netherlands Journal of Geosciences 103: e19. DOI: 10.1017/njg.2024.15."
+        }
+      ],
+      "previousClassification": {
+        "provider": "GBIF",
+        "source": "https://www.gbif.org/species/9161059",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Belemnitida",
+          "family": "Bellemnitellidae",
+          "genus": "Belemnitella"
+        }
+      }
+    }
   },
   "belemnopsis": {
     "provider": "GBIF",
@@ -22298,16 +22361,22 @@
     "commonNameStatus": "documented"
   },
   "calceola": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=5242",
+    "provider": "Museums Victoria",
+    "source": "https://collections.museumsvictoria.com.au/specimens/523848",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Cnidaria",
       "class": "Anthozoa",
+      "subclass": "Rugosa",
       "order": "Cystiphyllida",
       "family": "Goniophyllidae",
       "genus": "Calceola"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Cnidaria"
@@ -22315,6 +22384,10 @@
       {
         "rank": "class",
         "name": "Anthozoa"
+      },
+      {
+        "rank": "subclass",
+        "name": "Rugosa"
       },
       {
         "rank": "order",
@@ -22331,22 +22404,40 @@
     ],
     "commonName": "Coral fósil con forma de zapatilla",
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-04",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "El ejemplar P 96412 documenta los rangos superiores de Calceola en la clasificación de Museums Victoria. El registro mantiene la resolución a género.",
     "commonNameStatus": "documented",
     "matchedName": "Calceola",
-    "rank": "genus"
+    "rank": "genus",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "previousClassification": {
+        "provider": "Paleobiology Database",
+        "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=5242",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "phylum": "Cnidaria",
+          "class": "Anthozoa",
+          "order": "Cystiphyllida",
+          "family": "Goniophyllidae",
+          "genus": "Calceola"
+        },
+        "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas."
+      }
+    }
   },
   "calceola-sandalina": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/5819126",
+    "provider": "Museums Victoria",
+    "source": "https://collections.museumsvictoria.com.au/specimens/523848",
     "matchedName": "Calceola sandalina",
     "rank": "species",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Cnidaria",
       "class": "Anthozoa",
+      "subclass": "Rugosa",
+      "order": "Cystiphyllida",
       "family": "Goniophyllidae",
       "genus": "Calceola",
       "species": "Calceola sandalina"
@@ -22365,6 +22456,14 @@
         "name": "Anthozoa"
       },
       {
+        "rank": "subclass",
+        "name": "Rugosa"
+      },
+      {
+        "rank": "order",
+        "name": "Cystiphyllida"
+      },
+      {
         "rank": "family",
         "name": "Goniophyllidae"
       },
@@ -22380,8 +22479,31 @@
     "commonName": null,
     "commonNames": [],
     "group": "Cnidarios",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-04",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "La ficha del ejemplar P 96412 documenta Rugosa y Cystiphyllida. Se sigue el mismo tratamiento de Goniophyllidae que en la ficha de la Universidad de Huelva.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "references": [
+        {
+          "source": "https://www.uhu.es/museovirtualpaleontologia/galerias/invertebrados/fichas/corales.html",
+          "citation": "Universidad de Huelva, Museo Virtual de Paleontología, ficha Calceola sandalina."
+        }
+      ],
+      "previousClassification": {
+        "provider": "GBIF",
+        "source": "https://www.gbif.org/species/5819126",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Animalia",
+          "phylum": "Cnidaria",
+          "class": "Anthozoa",
+          "family": "Goniophyllidae",
+          "genus": "Calceola",
+          "species": "Calceola sandalina"
+        }
+      }
+    }
   },
   "calendula-arvensis": {
     "provider": "iNaturalist",
@@ -32595,14 +32717,15 @@
     "commonNameStatus": "documented"
   },
   "citrus-x-sinensis": {
-    "provider": null,
-    "source": "https://www.inaturalist.org/taxa/331122",
+    "provider": "Royal Botanic Gardens, Kew",
+    "source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:772052-1",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
       "class": "Magnoliopsida",
       "order": "Sapindales",
-      "family": "Rutaceae"
+      "family": "Rutaceae",
+      "genus": "Citrus"
     },
     "hierarchy": [
       {
@@ -32624,6 +32747,10 @@
       {
         "rank": "family",
         "name": "Rutaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Citrus"
       }
     ],
     "commonName": "naranja",
@@ -32638,11 +32765,27 @@
       "Naranjo dulce",
       "naranja mandarina"
     ],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-04",
     "status": "pending",
-    "reviewNote": "Rangos superiores documentados mediante la familia; identificación terminal pendiente.",
+    "reviewNote": "Kew documenta Citrus × sinensis dentro del género Citrus. Se incorpora ese rango y queda pendiente la decisión sobre el tratamiento del híbrido en el catálogo.",
     "commonNameStatus": "documented",
-    "higherRankSource": "https://www.inaturalist.org/taxa/331124"
+    "higherRankSource": "https://www.inaturalist.org/taxa/331124",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "previousClassification": {
+        "provider": null,
+        "source": "https://www.inaturalist.org/taxa/331122",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Plantae",
+          "phylum": "Tracheophyta",
+          "class": "Magnoliopsida",
+          "order": "Sapindales",
+          "family": "Rutaceae"
+        },
+        "reviewNote": "Rangos superiores documentados mediante la familia; identificación terminal pendiente."
+      }
+    }
   },
   "cladocora-caespitosa": {
     "provider": "iNaturalist",
@@ -55347,22 +55490,32 @@
     "commonNameStatus": "documented"
   },
   "globigerina": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=1498",
+    "provider": "World Register of Marine Species",
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=112197",
     "ranks": {
+      "kingdom": "Chromista",
       "phylum": "Foraminifera",
-      "order": "Foraminifera",
+      "class": "Globothalamea",
+      "order": "Rotaliida",
       "family": "Globigerinidae",
       "genus": "Globigerina"
     },
     "hierarchy": [
       {
+        "rank": "kingdom",
+        "name": "Chromista"
+      },
+      {
         "rank": "phylum",
         "name": "Foraminifera"
       },
       {
+        "rank": "class",
+        "name": "Globothalamea"
+      },
+      {
         "rank": "order",
-        "name": "Foraminifera"
+        "name": "Rotaliida"
       },
       {
         "rank": "family",
@@ -55375,12 +55528,27 @@
     ],
     "commonName": "Globigerina (foraminífero)",
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-04",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "Linaje del género Globigerina d’Orbigny, 1826 según WoRMS (AphiaID 112197). Foraminifera queda en el rango de filo y Rotaliida en el de orden.",
     "commonNameStatus": "documented",
     "matchedName": "Globigerina",
-    "rank": "genus"
+    "rank": "genus",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "previousClassification": {
+        "provider": "Paleobiology Database",
+        "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=1498",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "phylum": "Foraminifera",
+          "order": "Foraminifera",
+          "family": "Globigerinidae",
+          "genus": "Globigerina"
+        },
+        "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas."
+      }
+    }
   },
   "globularia-alypum": {
     "provider": "iNaturalist",
@@ -59117,14 +59285,15 @@
     "commonNameStatus": "documented"
   },
   "hildoceras": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4626336",
+    "provider": "British Geological Survey",
+    "source": "https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=554579",
     "matchedName": "Hildoceras",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
+      "order": "Ammonitida",
       "family": "Hildoceratidae",
       "genus": "Hildoceras"
     },
@@ -59142,6 +59311,10 @@
         "name": "Cephalopoda"
       },
       {
+        "rank": "order",
+        "name": "Ammonitida"
+      },
+      {
         "rank": "family",
         "name": "Hildoceratidae"
       },
@@ -59153,8 +59326,24 @@
     "commonName": null,
     "commonNames": [],
     "group": "Moluscos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-04",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El holotipo BGS GSM49281 documenta Ammonitida para Hildoceras. La entrada de examen permanece a rango de género.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "previousClassification": {
+        "provider": "GBIF",
+        "source": "https://www.gbif.org/species/4626336",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "family": "Hildoceratidae",
+          "genus": "Hildoceras"
+        }
+      }
+    }
   },
   "himanthalia-elongata": {
     "provider": "iNaturalist",
@@ -81016,14 +81205,15 @@
     "commonNameStatus": "documented"
   },
   "muscicapa-striata-subsp-balearica": {
-    "provider": null,
-    "source": "https://www.asturnatura.com/especie/muscicapa-striata-subsp-balearica",
+    "provider": "Pons et al. (2016) · Journal of Avian Biology",
+    "source": "https://doi.org/10.1111/jav.00859",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Passeriformes",
-      "family": "Muscicapidae"
+      "family": "Muscicapidae",
+      "genus": "Muscicapa"
     },
     "hierarchy": [
       {
@@ -81045,15 +81235,35 @@
       {
         "rank": "family",
         "name": "Muscicapidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Muscicapa"
       }
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-04",
     "status": "pending",
-    "reviewNote": "Rangos superiores documentados mediante la familia; identificación terminal pendiente.",
+    "reviewNote": "Tanto la combinación original de la lista como el tratamiento insular de Pons et al. sitúan balearica en Muscicapa. Se documenta el género y queda pendiente el tratamiento del rango terminal.",
     "commonNameStatus": "not-documented",
-    "higherRankSource": "https://www.inaturalist.org/taxa/13094"
+    "higherRankSource": "https://www.inaturalist.org/taxa/13094",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "previousClassification": {
+        "provider": null,
+        "source": "https://www.asturnatura.com/especie/muscicapa-striata-subsp-balearica",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Passeriformes",
+          "family": "Muscicapidae"
+        },
+        "reviewNote": "Rangos superiores documentados mediante la familia; identificación terminal pendiente."
+      }
+    }
   },
   "mustelus-asterias": {
     "provider": "iNaturalist",
@@ -90167,8 +90377,8 @@
     "commonNameStatus": "documented"
   },
   "paraceratherium": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4830663",
+    "provider": "Deng et al. (2021) · Communications Biology",
+    "source": "https://doi.org/10.1038/s42003-021-02170-6",
     "matchedName": "Paraceratherium",
     "rank": "genus",
     "ranks": {
@@ -90176,7 +90386,7 @@
       "phylum": "Chordata",
       "class": "Mammalia",
       "order": "Perissodactyla",
-      "family": "Hyracodontidae",
+      "family": "Paraceratheriidae",
       "genus": "Paraceratherium"
     },
     "hierarchy": [
@@ -90198,7 +90408,7 @@
       },
       {
         "rank": "family",
-        "name": "Hyracodontidae"
+        "name": "Paraceratheriidae"
       },
       {
         "rank": "genus",
@@ -90208,8 +90418,32 @@
     "commonName": null,
     "commonNames": [],
     "group": "Mamíferos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-10-31",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se sigue la clasificación de Paraceratherium en Paraceratheriidae de la sección Systematic paleontology de Deng et al. (2021), p. 2, coherente con taxonomy.json. La asignación anterior a Hyracodontidae se conserva como procedencia histórica, sin tratar ambas familias como sinónimos.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-10-31",
+      "references": [
+        {
+          "source": "https://doi.org/10.1038/s42003-021-02170-6",
+          "citation": "Deng, T. et al. (2021). An Oligocene giant rhino provides insights into Paraceratherium evolution. Communications Biology 4: 639.",
+          "section": "Systematic paleontology, p. 2."
+        }
+      ],
+      "previousClassification": {
+        "provider": "GBIF",
+        "source": "https://www.gbif.org/species/4830663",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Perissodactyla",
+          "family": "Hyracodontidae",
+          "genus": "Paraceratherium"
+        }
+      }
+    }
   },
   "parachondrostoma-arrigonis": {
     "provider": "iNaturalist",
@@ -90295,9 +90529,10 @@
     "commonNameStatus": "documented"
   },
   "paradoxides": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=19422",
+    "provider": "University of New Brunswick",
+    "source": "https://unbgeology.lib.unb.ca/specimens/unb-2020-0305",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Arthropoda",
       "class": "Trilobita",
       "order": "Redlichiida",
@@ -90305,6 +90540,10 @@
       "genus": "Paradoxides"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Arthropoda"
@@ -90328,12 +90567,28 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-04",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "La colección de Ciencias de la Tierra de la UNB documenta el reino Animalia en la ficha de Paradoxides sp. UNB 2020-0305.",
     "commonNameStatus": "not-documented",
     "matchedName": "Paradoxides",
-    "rank": "genus"
+    "rank": "genus",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "previousClassification": {
+        "provider": "Paleobiology Database",
+        "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=19422",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "phylum": "Arthropoda",
+          "class": "Trilobita",
+          "order": "Redlichiida",
+          "family": "Paradoxididae",
+          "genus": "Paradoxides"
+        },
+        "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas."
+      }
+    }
   },
   "paramecium-caudatum": {
     "provider": "iNaturalist",
@@ -92342,16 +92597,43 @@
     "commonNameStatus": "documented"
   },
   "pectunculus": {
-    "provider": null,
-    "source": null,
-    "ranks": {},
-    "hierarchy": [],
+    "provider": "International Commission on Zoological Nomenclature",
+    "source": "https://www.iczn.org/assets/49200f77de/names_works_supplement.pdf",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Mollusca",
+      "class": "Bivalvia"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Mollusca"
+      },
+      {
+        "rank": "class",
+        "name": "Bivalvia"
+      }
+    ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-04",
     "status": "pending",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
-    "commonNameStatus": "not-documented"
+    "reviewNote": "El índice de la ICZN, p. 61, recoge Pectunculus da Costa, 1778 y Pectunculus Lamarck, 1799 como nombres de bivalvos. La entrada carece de autor y de ejemplar documentado. Se registran sus rangos compartidos y quedan pendientes el orden, la familia y el género aceptado.",
+    "commonNameStatus": "not-documented",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "previousClassification": {
+        "provider": null,
+        "source": null,
+        "checkedAt": "2026-10-26",
+        "ranks": {},
+        "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas."
+      }
+    }
   },
   "pedicularis-sylvatica": {
     "provider": "iNaturalist",
@@ -104928,16 +105210,16 @@
     "commonNameStatus": "documented"
   },
   "pygope": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8059993",
+    "provider": "Università degli Studi di Padova",
+    "source": "https://collections.geoscienze.unipd.it/pygope",
     "matchedName": "Pygope",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Brachiopoda",
       "class": "Rhynchonellata",
-      "order": "Rhynchonellida",
-      "family": "Rhynchonellidae",
+      "order": "Terebratulida",
+      "family": "Pygopidae",
       "genus": "Pygope"
     },
     "hierarchy": [
@@ -104955,11 +105237,11 @@
       },
       {
         "rank": "order",
-        "name": "Rhynchonellida"
+        "name": "Terebratulida"
       },
       {
         "rank": "family",
-        "name": "Rhynchonellidae"
+        "name": "Pygopidae"
       },
       {
         "rank": "genus",
@@ -104969,8 +105251,31 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-10-31",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "La colección universitaria de Padua documenta Pygope Link, 1830 en Terebratulida y Pygopidae. La revisión conserva la fuente y los rangos de la clasificación anterior.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-10-31",
+      "references": [
+        {
+          "source": "https://real.mtak.hu/183634/",
+          "citation": "Vörös, A. (2023). Morphology and function of the perforation (keyhole) in Pygopidae (Terebratulida, Brachiopoda). Annales Musei historico-naturalis hungarici 115: 295–310."
+        }
+      ],
+      "previousClassification": {
+        "provider": "GBIF",
+        "source": "https://www.gbif.org/species/8059993",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Animalia",
+          "phylum": "Brachiopoda",
+          "class": "Rhynchonellata",
+          "order": "Rhynchonellida",
+          "family": "Rhynchonellidae",
+          "genus": "Pygope"
+        }
+      }
+    }
   },
   "pyrenaearia-velascoi": {
     "provider": "GBIF",
@@ -133196,14 +133501,15 @@
     "commonNameStatus": "documented"
   },
   "isoetes-velatum": {
-    "provider": null,
-    "source": "https://www.gbif.org/species/3074",
+    "provider": "Flora iberica · Real Jardín Botánico-CSIC",
+    "source": "https://www.floraiberica.es/floraiberica/texto/pdfs/01_003_01_Isoetes.pdf",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
       "class": "Lycopodiopsida",
       "order": "Isoetales",
-      "family": "Isoetaceae"
+      "family": "Isoetaceae",
+      "genus": "Isoetes"
     },
     "hierarchy": [
       {
@@ -133225,15 +133531,41 @@
       {
         "rank": "family",
         "name": "Isoetaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Isoetes"
       }
     ],
     "commonName": "Isoetes; licófito acuático",
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-04",
     "status": "pending",
-    "reviewNote": "Rangos superiores documentados a través de la familia; la grafía y circunscripción específica del listado requieren revisión.",
+    "reviewNote": "Flora iberica recoge la grafía del examen I. velatum en el género Isoetes. Se documenta el género y queda pendiente la circunscripción de la especie frente al tratamiento de Kew, que incluye I. velata en I. longissima.",
     "commonNameStatus": "documented",
-    "rank": "species"
+    "rank": "species",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-04",
+      "references": [
+        {
+          "source": "https://powo.science.kew.org/taxon/77052669-1",
+          "citation": "Plants of the World Online, Isoetes velata A.Braun."
+        }
+      ],
+      "previousClassification": {
+        "provider": null,
+        "source": "https://www.gbif.org/species/3074",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Plantae",
+          "phylum": "Tracheophyta",
+          "class": "Lycopodiopsida",
+          "order": "Isoetales",
+          "family": "Isoetaceae"
+        },
+        "reviewNote": "Rangos superiores documentados a través de la familia; la grafía y circunscripción específica del listado requieren revisión."
+      }
+    }
   },
   "genetta-genetta": {
     "provider": "iNaturalist",
