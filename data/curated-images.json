@@ -103633,5 +103633,117 @@
         "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153454/iss070e042458_lrg.jpg"
       }
     ]
+  },
+  "banquisa": {
+    "images": [
+      {
+        "url": "./assets/reviewed/f0220a0c91bff1b26a12.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/ice-in-the-weddell-sea-91490/",
+        "author": "NASA / Digital Mapping System (Operation IceBridge)",
+        "description": "Vista aérea de placas de hielo marino de distintos tamaños, con canales oscuros de agua abierta, en el mar de Weddell (12 de noviembre de 2017).",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/ice-in-the-weddell-sea-91490/",
+          "https://nsidc.org/learn/cryosphere-glossary/pack-ice"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+        "reviewBatch": "costa-hielo-20261105",
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/91000/91490/SeaIceWeddell_dms_2017316_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/ffe775f4e844b381123f.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/splintering-sea-ice-in-the-amundsen-gulf-151418/",
+        "author": "Allison Nussbaum / NASA Earth Observatory, con datos Aqua MODIS",
+        "description": "Fragmentos de hielo marino separados por agua abierta tras la rotura del hielo fijo en el golfo de Amundsen (30 de mayo de 2023).",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/splintering-sea-ice-in-the-amundsen-gulf-151418/",
+          "https://www.antarctica.gov.au/about-antarctica/ice-and-atmosphere/sea-ice/pack-ice/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+        "reviewBatch": "costa-hielo-20261105",
+        "crop": [
+          0.32,
+          0.26,
+          0.31,
+          0.31
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/151000/151418/amundsengulf_amo_2023150_lrg.jpg"
+      }
+    ]
+  },
+  "atolon-atolon-de-glover-agujero-azul-de-belice": {
+    "images": [
+      {
+        "url": "./assets/reviewed/afee8840d891593a2ce5.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/great-blue-hole-belize-37741/",
+        "author": "Jesse Allen / NASA Earth Observatory, con datos EO-1 ALI",
+        "description": "Lighthouse Reef (Belice), con un borde arrecifal somero que rodea la laguna y el Gran Agujero Azul como una mancha circular oscura (24 de marzo de 2009).",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/great-blue-hole-belize-37741/",
+          "https://whc.unesco.org/en/list/764/maps/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+        "reviewBatch": "costa-hielo-20261105",
+        "crop": [
+          0.06,
+          0.02,
+          0.79,
+          0.97
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/37000/37741/greatbluehole_ali_2009083_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/021407e7458e84499d13.jpg",
+        "page": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?frame=81945&mission=ISS062&roll=E",
+        "author": "NASA / ISS Expedition 62, Earth Science and Remote Sensing Unit",
+        "description": "Fotografía orbital ISS062-E-81945 del atolón Lighthouse Reef, con la laguna, el borde arrecifal y el Gran Agujero Azul en el extremo izquierdo de la vista (5 de marzo de 2020).",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?frame=81945&mission=ISS062&roll=E",
+          "https://whc.unesco.org/en/list/764/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+        "reviewBatch": "costa-hielo-20261105",
+        "crop": [
+          0.13,
+          0.29,
+          0.82,
+          0.48
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS062/ISS062-E-81945.JPG"
+      }
+    ]
   }
 }

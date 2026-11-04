@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "catalogEntries": 2609,
-  "entriesWithApprovedImage": 2276,
-  "entriesWithPair": 2132,
-  "approvedImages": 4777,
+  "entriesWithApprovedImage": 2278,
+  "entriesWithPair": 2134,
+  "approvedImages": 4781,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4778,
+    "approved": 4782,
     "rejected": 701,
     "pending": 3
   },
@@ -36,6 +36,8 @@
     "www.miteco.gob.es": 7,
     "www.juntadeandalucia.es": 1,
     "cloudatlas.wmo.int": 27,
+    "science.nasa.gov": 10,
+    "eol.jsc.nasa.gov": 1,
     "medcell.org": 7,
     "histology.siu.edu": 9,
     "ammonoid.treatise.geolex.org": 1,
@@ -50,7 +52,6 @@
     "www.rcsb.org": 10,
     "home.nps.gov": 8,
     "www.weather.gov": 4,
-    "science.nasa.gov": 7,
     "www.antarcticglaciers.org": 6,
     "www.science.smith.edu": 10,
     "www.digitalatlasofancientlife.org": 1,
@@ -350,13 +351,6 @@
       "priority": false
     },
     {
-      "id": "atolon-atolon-de-glover-agujero-azul-de-belice",
-      "name": "Atolón. Atolón de Glover / Agujero azul de Belice",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "australopithecus-afarensis",
       "name": "Australopithecus afarensis",
       "kind": "fosil",
@@ -381,13 +375,6 @@
       "id": "balanus",
       "name": "Balanus",
       "kind": "fosil",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "banquisa",
-      "name": "Banquisa",
-      "kind": "relieve",
       "approvedImages": 0,
       "priority": false
     },

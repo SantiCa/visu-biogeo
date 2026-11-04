@@ -34216,5 +34216,37 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "costa-hielo-20261105",
+    "picksSha256": "dd775ab1cc0c155f2ea11a95580c34da4751fa56e3f4aa348068f5509113e145",
+    "date": "2026-11-05",
+    "note": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "banquisa",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/91000/91490/SeaIceWeddell_dms_2017316_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "banquisa",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/151000/151418/amundsengulf_amo_2023150_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "atolon-atolon-de-glover-agujero-azul-de-belice",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/37000/37741/greatbluehole_ali_2009083_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "atolon-atolon-de-glover-agujero-azul-de-belice",
+        "url": "https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS062/ISS062-E-81945.JPG",
+        "status": "approved"
+      }
+    ]
   }
 ]

@@ -1,10 +1,10 @@
 # Estado de la revisión de imágenes
 
-Fecha: 2026-11-04. Catálogo: 2609 entradas.
+Fecha: 2026-11-05. Catálogo: 2609 entradas.
 
-- 4777 imágenes aprobadas y 2132 entradas con al menos dos imágenes distintas según su referencia.
+- 4781 imágenes aprobadas y 2134 entradas con al menos dos imágenes distintas según su referencia.
 - 163/163 prioritarias del histórico disponible con pareja. El histórico es parcial: no cubre todos los exámenes de las últimas dos décadas.
-- 477 entradas pendientes de completar la pareja; 333 sin imagen aprobada.
+- 475 entradas pendientes de completar la pareja; 331 sin imagen aprobada.
 - Archivos aprobados no legibles: 0.
 
 | Grupo | Entradas | Con pareja aprobada | Pendientes de pareja |
@@ -17,7 +17,7 @@ Fecha: 2026-11-04. Catálogo: 2609 entradas.
 | Lámina delgada | 80 | 57 | 23 |
 | Moléculas | 46 | 38 | 8 |
 | Nubes | 23 | 23 | 0 |
-| Geomorfología | 149 | 52 | 97 |
+| Geomorfología | 149 | 54 | 95 |
 
 ## Alcance y pendientes
 
