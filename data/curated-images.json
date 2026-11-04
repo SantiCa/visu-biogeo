@@ -103521,5 +103521,117 @@
         "originalUrl": "https://npgallery.nps.gov/GetAsset/6b98ae44-1dd8-b71b-0b39-14994a908a6d/original"
       }
     ]
+  },
+  "albufera-o-lagoon": {
+    "images": [
+      {
+        "url": "./assets/reviewed/7c69ce0634ec495f84b6.jpg",
+        "key": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/145000/145571/iss059e036214_lrg.jpg",
+        "page": "https://earthobservatory.nasa.gov/images/145571/punta-banda-baja-california",
+        "author": "NASA / tripulación ISS Expedición 59",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "description": "Laguna costera de Punta Banda, Baja California; cordón litoral que la separa de la bahía y comunicación con el mar.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://oceanservice.noaa.gov/facts/lagoon.html"
+        ],
+        "reviewedAt": "2026-11-04",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "NASA identifica la laguna costera; se conservan barrera litoral, agua interior y mar en el recorte.",
+        "reviewBatch": "relieves-20261104",
+        "crop": [
+          0.16,
+          0.17,
+          0.55,
+          0.64
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/145000/145571/iss059e036214_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/9f9c22c48e9104692f7e.jpg",
+        "key": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/150000/150964/iss067e373246_lrg.jpg",
+        "page": "https://earthobservatory.nasa.gov/images/150964/south-padre-island",
+        "author": "NASA / tripulación ISS Expedición 67",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "description": "Laguna Madre, Texas, resguardada del golfo por la isla barrera de South Padre.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://oceanservice.noaa.gov/facts/lagoon.html"
+        ],
+        "reviewedAt": "2026-11-04",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "NASA identifica la laguna costera; se conservan barrera litoral, agua interior y mar en el recorte.",
+        "reviewBatch": "relieves-20261104",
+        "crop": [
+          0.02,
+          0.02,
+          0.96,
+          0.94
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/150000/150964/iss067e373246_lrg.jpg"
+      }
+    ]
+  },
+  "aluviones-llanura-aluvial-llanura-de-inundacion": {
+    "images": [
+      {
+        "url": "./assets/reviewed/7b97a240e4cd1c1b4885.jpg",
+        "key": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/151000/151078/iss064e014990_lrg.jpg",
+        "page": "https://earthobservatory.nasa.gov/images/151078/muddy-water-and-a-wide-floodplain",
+        "author": "NASA / tripulación ISS Expedición 64",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "description": "Llanura aluvial del Amazonas: canales y superficies bajas con depósitos y lagunas asociadas.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.nps.gov/subjects/geology/fluvial-landforms.htm"
+        ],
+        "reviewedAt": "2026-11-04",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "NASA identifica la llanura fluvial; fotografía orbital de contexto que muestra cauces y zonas bajas. Detalle: una imagen por sí sola no demuestra la periodicidad de inundación ni la composición sedimentaria.",
+        "reviewBatch": "relieves-20261104",
+        "crop": [
+          0.0,
+          0.0,
+          1,
+          0.8
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/151000/151078/iss064e014990_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/b262dd4eaba1830e2e3e.jpg",
+        "key": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153454/iss070e042458_lrg.jpg",
+        "page": "https://www.visibleearth.nasa.gov/images/153454/meanders-of-the-irrawaddy-river/153456l",
+        "author": "NASA / tripulación ISS Expedición 70",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "description": "Llanura de inundación del Irrawaddy, Myanmar: cauces activos y antiguos meandros sobre terrenos bajos.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.nps.gov/dewa/learn/nature/floodplains.htm"
+        ],
+        "reviewedAt": "2026-11-04",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "NASA identifica la llanura fluvial; fotografía orbital de contexto que muestra cauces y zonas bajas. Detalle: una imagen por sí sola no demuestra la periodicidad de inundación ni la composición sedimentaria.",
+        "reviewBatch": "relieves-20261104",
+        "crop": [
+          0.14,
+          0.1,
+          0.72,
+          0.75
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153454/iss070e042458_lrg.jpg"
+      }
+    ]
   }
 }

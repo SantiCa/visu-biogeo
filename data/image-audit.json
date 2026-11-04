@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-04",
   "catalogEntries": 2609,
-  "entriesWithApprovedImage": 2274,
-  "entriesWithPair": 2130,
-  "approvedImages": 4773,
+  "entriesWithApprovedImage": 2276,
+  "entriesWithPair": 2132,
+  "approvedImages": 4777,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4774,
+    "approved": 4778,
     "rejected": 701,
     "pending": 3
   },
@@ -22,8 +22,10 @@
     "commons.wikimedia.org": 72,
     "www.asturnatura.com": 199,
     "pubchem.ncbi.nlm.nih.gov": 67,
+    "earthobservatory.nasa.gov": 3,
     "valsanagra.it": 3,
     "public.wmo.int": 6,
+    "www.visibleearth.nasa.gov": 1,
     "mmegias.webs.uvigo.es": 164,
     "geovirtual2.cl": 7,
     "www.gbif.org": 120,
@@ -127,20 +129,6 @@
       "id": "estructura-ala-de-insecto-mosca",
       "name": "Ala de insecto, mosca",
       "kind": "estructura",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "albufera-o-lagoon",
-      "name": "Albufera o lagoon",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "aluviones-llanura-aluvial-llanura-de-inundacion",
-      "name": "Aluviones. Llanura aluvial. Llanura de inundación",
-      "kind": "relieve",
       "approvedImages": 0,
       "priority": false
     },

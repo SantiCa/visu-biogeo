@@ -34184,5 +34184,37 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "relieves-20261104",
+    "picksSha256": "83a928738076452f5a7264cc490ce270fe23a952ad789b4f1eb24db43b7a9e6b",
+    "date": "2026-11-04",
+    "note": "Original y recorte revisados; correspondencia de paisaje y licencia contrastadas con NASA y fuentes independientes.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "albufera-o-lagoon",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/145000/145571/iss059e036214_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "albufera-o-lagoon",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/150000/150964/iss067e373246_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "aluviones-llanura-aluvial-llanura-de-inundacion",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/151000/151078/iss064e014990_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "aluviones-llanura-aluvial-llanura-de-inundacion",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153454/iss070e042458_lrg.jpg",
+        "status": "approved"
+      }
+    ]
   }
 ]
