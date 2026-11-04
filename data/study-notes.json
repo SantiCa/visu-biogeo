@@ -1,4 +1,151 @@
 {
+  "evernia-prunastri": {
+    "commonName": "Musgo de roble",
+    "description": "Liquen de aspecto arbustivo que forma matas sobre la corteza de troncos y ramillas. Los lóbulos son blandos, aplanados y ramificados, con la cara superior verde grisácea y el envés predominantemente blanco. En la superficie y los bordes pueden aparecer zonas granulosas con soredios.",
+    "diagnostics": [
+      "Comparar ambas caras del mismo lóbulo. La diferencia entre el haz verdoso y el envés blanco ayuda a separarlo de Ramalina farinacea, cuyo envés carece de ese blanco característico.",
+      "Pseudevernia furfuracea suele mostrar el haz más gris, con isidios en muchos ejemplares, y un envés que se oscurece. Conviene comprobar el color del envés y la forma de las estructuras de propagación con una lupa.",
+      "Los soredios pueden concentrarse en los bordes o extenderse por la superficie. Una vista que solo muestre el haz o el árbol donde crece puede dejar abierta la identificación."
+    ],
+    "etymology": "Prunastri se interpreta como «del ciruelo silvestre». La observación de Linneo en Flora Suecica vincula el liquen especialmente con el endrino y también lo documenta en fresnos y sauces. La formación del nombre genérico Evernia queda pendiente de contraste con una fuente etimológica.",
+    "sources": [
+      {
+        "url": "https://britishlichensociety.org.uk/resources/species-accounts/evernia-prunastri",
+        "title": "British Lichen Society · Evernia prunastri: lóbulos, soredios, sustratos y especies similares"
+      },
+      {
+        "url": "https://www.e-rara.ch/download/pdf/17413920.pdf",
+        "title": "Linneo, Flora Suecica, entrada 1092 · Lichen prunastri y su asociación con el endrino"
+      },
+      {
+        "url": "https://www.boe.es/doue/2009/342/L00059-00209.pdf",
+        "title": "Diario Oficial de la Unión Europea, edición española · Denominación musgo de roble para el extracto de Evernia prunastri"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento visual del talo desarrollado. La lista de opositor aporta una atribución histórica de examen. El epíteto recoge una asociación con un sustrato entre varios posibles."
+  },
+  "helichrysum-stoechas": {
+    "commonName": "Siempreviva amarilla",
+    "description": "Mata aromática y ramificada, leñosa en la base, con tallos grisáceos algo vellosos. Las hojas son estrechas, lineares y de margen vuelto hacia el envés. En los extremos de los tallos se agrupan capítulos amarillos rodeados de brácteas secas.",
+    "diagnostics": [
+      "Observar los capítulos de perfil. El involucro es aproximadamente globoso y está formado por brácteas amarillentas que se solapan de manera laxa.",
+      "En la comparación con H. italicum de la flora de Pina de Ebro, este último presenta involucros más cilíndricos y brácteas solapadas regularmente. El amarillo de los capítulos se comparte con otros congéneres.",
+      "Las hojas lineares y revolutas orientan hacia la especie junto con la forma del involucro. Una mata estéril o una foto que solo muestre el conjunto floral puede requerir una clave y una vista de detalle."
+    ],
+    "etymology": "El portal de la Universidad de Trieste interpreta Helichrysum a partir del griego helios, sol, y chrysos, oro, y relaciona stoechas con el nombre griego de las islas Estécades. El herbario de Tiurana recoge una lectura distinta del primer elemento genérico y vincula stoechas con un antiguo nombre del espliego. La historia de la formación y aplicación de ambos nombres queda pendiente de contraste con las fuentes clásicas.",
+    "sources": [
+      {
+        "url": "https://monteriza.aranzadi.eus/wp-content/uploads/flora/064.helichrysum-stoechas.pdf",
+        "title": "Blasco-Zumeta, Flora de Pina de Ebro · Helichrysum stoechas: descripción, láminas y comparación con H. italicum"
+      },
+      {
+        "url": "https://bibdigital.rjb.csic.es/medias/72/d8/62/a7/72d862a7-7058-4756-aed0-b90939a436ad/files/GALAN_Etnobot_Cordoba.pdf",
+        "title": "Biblioteca Digital del Real Jardín Botánico-CSIC · Etnobotánica de Córdoba, p. 163: nombre común y diagnosis"
+      },
+      {
+        "url": "https://dryades.units.it/Roma/index.php?id=5494&num=7092&procedure=taxon_page",
+        "title": "Universidad de Trieste, Dryades · Helichrysum stoechas subsp. stoechas: interpretación de los nombres"
+      },
+      {
+        "url": "https://www.tiurana.cat/turisme-a-tiurana/herbari-eradelesbruixes/cens-de-plantes-silvestres-de-tiurana/sempreviva-helichrysum-stoechas",
+        "title": "Herbari de l’Era de les Bruixes, Ayuntamiento de Tiurana · Lecturas alternativas de Helichrysum y stoechas"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento mediante hojas, porte e involucros maduros. El detalle de los capítulos permite aplicar las comparaciones con especies próximas."
+  },
+  "pelodytes-punctatus": {
+    "commonName": "Sapillo moteado septentrional",
+    "description": "Anuro pequeño y esbelto, con hocico alargado y ojos prominentes. El dorso es granular, con verrugas bajas y motas a menudo verdosas sobre un fondo variable. El vientre suele ser claro.",
+    "diagnostics": [
+      "Pupila vertical, tímpano poco aparente y ausencia de grandes glándulas parotoideas. Los dedos posteriores son largos y tienen una membrana interdigital reducida.",
+      "Las verrugas dorsales pueden alinearse en series discontinuas. El moteado varía mucho y el aspecto externo se solapa con otros Pelodytes ibéricos. Para determinar ejemplares dudosos conviene valorar procedencia, canto y, cuando proceda, datos genéticos.",
+      "Dufresnes y colaboradores documentaron una zona extensa de introgresión con el linaje descrito como P. hespericus, que trataron como subespecie de P. punctatus. La mención de Madrid 2002 es anterior a esa revisión y carece de detalle suficiente para asignar el ejemplar a un linaje."
+    ],
+    "etymology": "Pelodytes combina los términos griegos pēlos, barro, y dytēs, buceador. El epíteto punctatus significa punteado o moteado en latín científico. Ese sentido concuerda con el dibujo dorsal, cuya expresión varía entre individuos.",
+    "sources": [
+      {
+        "url": "https://www.vertebradosibericos.org/anfibios/identificacion/pelpunid.html",
+        "title": "Enciclopedia Virtual de los Vertebrados Españoles, MNCN-CSIC · Pelodytes punctatus: nombre común, caracteres y variación"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41437-020-0294-z",
+        "title": "Dufresnes et al. (2020), Heredity · Introgresión y delimitación de especies en Pelodytes"
+      },
+      {
+        "url": "https://www.asociaciontimon.org/especies/pelodytes-punctatus/",
+        "title": "Asociación Herpetológica Timon · Pelodytes: raíces griegas del nombre genérico"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=maculatus",
+        "title": "Missouri Botanical Garden, diccionario de latín botánico · Uso de punctatus en el sentido de punteado"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de adultos y límites del diagnóstico en el complejo ibérico. Se conserva el nombre de la entrada histórica y queda abierta la asignación del ejemplar de examen."
+  },
+  "cetonia-aurata": {
+    "commonName": "Cetonia dorada",
+    "description": "Escarabajo robusto y ancho, frecuente sobre flores, con brillo metálico. En muchos adultos el dorso es verde con reflejos dorados o cobrizos y los élitros muestran pequeñas marcas transversales blanquecinas. El color y la cantidad de marcas varían.",
+    "diagnostics": [
+      "En vista ventral, el saliente situado entre las patas medias es abombado y redondeado por delante. Es útil al aplicar una clave frente a cetonias de aspecto dorsal parecido.",
+      "La clave comparativa de Lompe separa C. aurata de C. carthami por el punteado del pronoto y la línea media libre de puntos en C. aurata. El brillo y las marcas blancas se valoran junto con esos detalles.",
+      "Las alas membranosas salen por escotaduras laterales durante el vuelo con los élitros cerrados. Una foto dorsal de un escarabajo verde puede resultar insuficiente si faltan el detalle del pronoto y la vista ventral."
+    ],
+    "etymology": "Aurata es la forma femenina del latín auratus, dorado o revestido de oro, derivado de aurum. Describe bien los reflejos metálicos de muchos ejemplares. Treccani considera incierto el origen de Cetonia, que queda pendiente de contraste.",
+    "sources": [
+      {
+        "url": "https://www.cen-centrevaldeloire.org/la-cetoine-doree/",
+        "title": "Conservatoire d’espaces naturels Centre-Val de Loire · Cetonia aurata: aspecto, flores y salida lateral de las alas"
+      },
+      {
+        "url": "https://coleonet.de/coleo/texte/cetonia.htm",
+        "title": "Arved Lompe, Käfer Europas · Clave de Cetonia: saliente ventral, variación y punteado del pronoto"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=auratus",
+        "title": "Lewis y Short · auratus: dorado y relación con aurum"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/cetonia/",
+        "title": "Treccani · Cetonia: origen incierto del nombre genérico"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de adultos mediante caracteres dorsales y ventrales. La comparación con congéneres cercanos requiere una clave y detalle suficiente."
+  },
+  "nepa-cinerea": {
+    "commonName": "Escorpión de agua",
+    "description": "Chinche acuática de cuerpo ancho y aplanado, de tono pardo grisáceo. Las patas delanteras se pliegan para sujetar presas y el extremo del abdomen lleva un tubo respiratorio fino. Suele acechar entre la vegetación o sobre el fondo de aguas tranquilas.",
+    "diagnostics": [
+      "Combinar el contorno ovalado y aplanado con el primer par de patas prensiles. Las otras dos parejas de patas son más delgadas y tienen forma distinta.",
+      "El tubo respiratorio del adulto está formado por dos canales que se juntan y permiten tomar aire de la superficie. Se observa como una prolongación del extremo posterior del abdomen.",
+      "Ranatra linearis también tiene patas prensiles y tubo respiratorio, pero su cuerpo es mucho más estrecho y alargado. Si el extremo abdominal queda oculto o roto, conviene revisar el contorno y las patas antes de determinar la muestra."
+    ],
+    "etymology": "Nepa es un nombre latino documentado para el escorpión. DORIS lo relaciona con el aspecto de las patas prensiles. Cinerea es la forma femenina de cinereus, del color de la ceniza, derivado de cinis. El epíteto describe el tono general.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Nepa-cinerea-Nepe-2591",
+        "title": "DORIS-FFESSM · Nepa cinerea: tubo respiratorio, patas, etimología y comparación con Ranatra"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=nepa",
+        "title": "Lewis y Short · nepa: acepción latina de escorpión"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=cinereus",
+        "title": "Lewis y Short · cinereus: del color de la ceniza"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento del adulto por la silueta y los apéndices. Las ninfas y los ejemplares incompletos pueden requerir una clave especializada."
+  },
   "cerambyx-cerdo": {
     "commonName": "Gran capricornio",
     "description": "Escarabajo alargado, de cuerpo oscuro, pronoto rugoso y antenas muy desarrolladas. Los élitros se estrechan hacia atrás y suelen aclararse hacia un ápice pardo rojizo. Las larvas se desarrollan en la madera de árboles del género Quercus.",
