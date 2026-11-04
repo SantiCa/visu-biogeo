@@ -198,7 +198,7 @@ async function initCloud(){
 }
 
 function applyPreferences(){
- $('#priority-region').value=['andalucia','madrid','ambas'].includes(data.preferences.priorityRegion?.value)?data.preferences.priorityRegion.value:'andalucia';
+ $('#priority-region').value=['andalucia','madrid','castilla-la-mancha','ambas'].includes(data.preferences.priorityRegion?.value)?data.preferences.priorityRegion.value:'andalucia';
  $('#practice-family').checked=data.preferences?.practiceClassification?.value!==false;
  $('#study-region').value=data.preferences.examPhotoMode?.value||'andalucia';$('#madrid-details-only').checked=data.preferences.madridDetailsOnly?.value===true;renderRegion();
  $('#saved-photos-only').checked=!!data.preferences?.savedPhotosOnly?.value;$('#catalog-saved-photos-only').checked=$('#saved-photos-only').checked;
@@ -227,7 +227,7 @@ async function init(){
  for(const item of catalog){const documented=taxonomy[item.id],t=documented?.reviewStatus==='pending'?null:documented;item.family=t?.family;item.familySource=t?.source;item.familyAliases=t?.aliases||[];const learning=learningTaxonomy[item.id];if(learning?.ranks?.family){item.family=learning.ranks.family;item.familySource=learning.source;}const cl=classificationFor(item,classification[item.id]);item.classificationGroup=cl?.group||null;item.classificationSource=cl?.source||null;}
  const legacy=(()=>{try{return JSON.parse(localStorage.getItem('visu-biogeo-state-v1'))?.records||{};}catch{return {};}})();account=await read('last-account','guest');data={...empty(),...await read('account:'+account,account==='guest'?{records:legacy}:{})};await save();applyPreferences();await refreshOffline();setupInstallUI();setupButtonHelp();community.bindAdmin();await community.activate();
  exams=await fetchJson('./data/exams.json').catch(()=>({documents:history.years.map(y=>({...y,region:'Andalucía',url:y.source})),events:history.events.map(e=>({...e,region:'Andalucía'}))}));
- priorityEvents=[...history.events,...exams.events.filter(e=>e.region==='Madrid')];
+ priorityEvents=[...history.events,...exams.events.filter(e=>e.region&&e.region!=='Andalucía')];
  for(const item of catalog)item.examEvents=exams.events.filter(e=>e.itemId===item.id);
  setupExamFilters();
  $('#classification-priority').nextSibling.textContent='Solo prioritarias seleccionadas';$('#offline-priority-only').nextSibling.textContent='Descargar solo prioritarias seleccionadas';

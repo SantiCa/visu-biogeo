@@ -25,7 +25,8 @@ export function selectImagePair(images,previous=[],rng=Math.random) {
 }
 export function priorityInfo(item, events=[], overrides={}, region='andalucia') {
   const evidence=events.filter(e=>e.itemId===item.id);
-  const selected=evidence.filter(e=>region==='ambas'||(region==='madrid'?e.region==='Madrid':!e.region||e.region==='Andalucía'));
+  const regionNames={madrid:'Madrid','castilla-la-mancha':'Castilla-La Mancha'};
+  const selected=evidence.filter(e=>region==='ambas'||(region==='andalucia'?(!e.region||e.region==='Andalucía'):e.region===regionNames[region]));
   const years=[...new Set(selected.map(e=>e.year).filter(Number.isInteger))].sort();
   const occurrences=new Set(selected.filter(e=>Number.isInteger(e.year)).map(e=>(e.region||'Andalucía')+':'+e.year));
   const undocumentedMadrid=selected.some(e=>e.region==='Madrid'&&!Number.isInteger(e.year));
