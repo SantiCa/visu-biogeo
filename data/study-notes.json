@@ -1,4 +1,143 @@
 {
+  "cerambyx-cerdo": {
+    "commonName": "Gran capricornio",
+    "description": "Escarabajo alargado, de cuerpo oscuro, pronoto rugoso y antenas muy desarrolladas. Los élitros se estrechan hacia atrás y suelen aclararse hacia un ápice pardo rojizo. Las larvas se desarrollan en la madera de árboles del género Quercus.",
+    "diagnostics": [
+      "En el adulto, valorar la forma y la superficie de los élitros. En C. cerdo son convexos, con punteado grueso y poco pelo. En C. welensii son más paralelos, con punteado más fino y pubescencia sedosa de tono dorado.",
+      "La longitud de las antenas varía con el sexo y ambas especies pueden presentar tonos rojizos. Para comparar una foto conviene ver el contorno y la escultura de los élitros con luz suficiente.",
+      "Las galerías y orificios en una encina orientan hacia un insecto xilófago. La separación entre los dos capricornios exige caracteres del ejemplar, especialmente si solo hay larvas o señales en la madera."
+    ],
+    "etymology": "El nombre científico Cerambyx transcribe el griego kerambyx, nombre de un escarabajo longicornio según la Académie française. Lewis y Short documentan cerdo en latín con el sentido de artesano. La aplicación de esa voz al epíteto de Linneo queda pendiente de contraste con una fuente histórica.",
+    "sources": [
+      {
+        "url": "https://dehesa.unex.es/bitstream/10662/889/1/TDUEX_2013_Vicente_Calle.pdf",
+        "title": "Vicente Calle, Universidad de Extremadura · Morfología y clave comparativa de los Cerambyx ibéricos, tabla I.2"
+      },
+      {
+        "url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/espacios-protegidos/cerambyx_cerdo_tcm30-196931.pdf",
+        "title": "MITECO · Cerambyx cerdo: identificación, especies similares y relación con Quercus"
+      },
+      {
+        "url": "https://dictionnaire-academie.fr/article/A9C1357",
+        "title": "Dictionnaire de l’Académie française · cérambyx: procedencia griega"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=cerdo",
+        "title": "Lewis y Short · cerdo: acepción latina de artesano"
+      }
+    ],
+    "reviewedAt": "2026-11-04",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de adultos mediante varios caracteres concordantes. El diagnóstico a partir de una larva aislada o de daños en madera puede quedar indeterminado."
+  },
+  "chondrus-crispus": {
+    "commonName": "Musgo de Irlanda",
+    "description": "Alga roja marina de tacto cartilaginoso que crece en matas adheridas a la roca por un disco. Cada fronde se ensancha desde un estipe estrecho hasta formar una lámina dividida varias veces en dos. El tono habitual es rojo violáceo, con variantes más claras, verdosas o amarillentas.",
+    "diagnostics": [
+      "Lámina aplanada sin nervio medio visible, con ramificación en horquillas y segmentos de anchura variable. Una vista de la mata completa permite seguir el paso del estipe estrecho a las láminas.",
+      "Mastocarpus stellatus puede parecerse. El tramo acanalado de su talo y las papilas salientes de sus frondes femeninas fértiles ayudan a separarlo. Si faltan las papilas, conviene revisar el perfil del talo y la forma de la lámina.",
+      "El color, la anchura de los segmentos y el grado de rizado varían mucho. Una fronde desprendida sin base visible puede requerir una clave algal y examen adicional."
+    ],
+    "etymology": "DORIS relaciona Chondrus con la raíz que significa cartílago y crispus con el adjetivo latino para rizado. La primera alusión concuerda con la consistencia del talo y la segunda con el aspecto de algunas matas, que varía entre ejemplares.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Chondrus-crispus-Goemon-frise-2302",
+        "title": "DORIS-FFESSM · Chondrus crispus: nombre común, talo, variación, comparación y etimología"
+      },
+      {
+        "url": "https://doris.ffessm.fr/Especes/Mastocarpus-stellatus-Gigartine-3062",
+        "title": "DORIS-FFESSM · Mastocarpus stellatus: tramo acanalado del talo y papilas de las frondes fértiles"
+      },
+      {
+        "url": "https://www.seaweed.ie/descriptions/Chondrus_crispus.php",
+        "title": "Guiry, Seaweed.ie · Chondrus crispus: disco de fijación, lámina y variabilidad"
+      }
+    ],
+    "reviewedAt": "2026-11-04",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento del talo erecto. La lista de opositor escribe Chomdrus crispus y su correspondencia con el taxón del catálogo queda como atribución provisional."
+  },
+  "marthasterias-glacialis": {
+    "commonName": "Estrella de mar espinosa",
+    "description": "Estrella de mar de disco central bien diferenciado y normalmente cinco brazos robustos que se afinan hacia la punta. El dorso está cubierto de espinas cónicas conspicuas. Vive en fondos marinos, incluidos sustratos rocosos, y se alimenta de invertebrados como los bivalvos.",
+    "diagnostics": [
+      "Buscar tres hileras longitudinales de espinas gruesas en cada brazo. En vistas cercanas se aprecian pequeños pedicelarios agrupados alrededor de la base de las espinas.",
+      "Asterias rubens suele mostrar una sola hilera media bien marcada de espinas pequeñas y otras más dispersas. La disposición de las espinas tiene más valor que un color parecido o una estimación de talla sin escala.",
+      "Los ejemplares pequeños pueden recordar a Coscinasterias tenuispina, que suele tener más de cinco brazos. Valorar el número junto con el patrón dorsal, pues la pérdida o regeneración de brazos puede alterar la silueta típica."
+    ],
+    "etymology": "Glacialis es un adjetivo latino derivado de glacies, hielo. DORIS vincula el elemento asterias con el griego aster, estrella, y ofrece una interpretación hipotética de la primera parte del género. El origen concreto de Marthasterias queda pendiente de contraste con su publicación original.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Marthasterias-glacialis-Etoile-de-mer-glaciaire-336",
+        "title": "DORIS-FFESSM · Marthasterias glacialis: espinas, pedicelarios, especies próximas y etimología"
+      },
+      {
+        "url": "https://www.miteco.gob.es/content/dam/miteco/es/costas/temas/temas-pm/eemm/tercer-ciclo/documentos/12A-NOR-D6-ANEXOS.pdf",
+        "title": "MITECO · Evaluación del medio marino noratlántico, descriptor 6, anexo, p. 58: estrella espinosa"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=glacialis",
+        "title": "Lewis y Short · glacialis: adjetivo latino derivado de glacies"
+      }
+    ],
+    "reviewedAt": "2026-11-04",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de la cara dorsal de ejemplares enteros o con brazos regenerados. La vista general orienta y el detalle del relieve dorsal afina la identificación."
+  },
+  "origanum-vulgare": {
+    "commonName": "Orégano",
+    "description": "Hierba aromática perenne con base algo leñosa y tallos de sección cuadrangular. Las hojas son opuestas, de ovadas a elípticas, con pequeñas glándulas. Las flores se agrupan en espigas cortas que forman conjuntos terminales ramificados.",
+    "diagnostics": [
+      "Combinar tallos cuadrangulares y hojas opuestas con la inflorescencia. Las brácteas rodean los grupos de flores y pueden ser verdes o purpúreas. La sección del tallo y el aroma se comparten con otras labiadas.",
+      "El cáliz es tubular, con cinco dientes parecidos y pelos en la garganta. La corola puede ser blanca o purpúrea. Estos caracteres se valoran mejor con una vista cercana de flores y brácteas.",
+      "Dentro de la especie varían el tamaño de las brácteas, el color floral y la densidad de la inflorescencia. La asignación a una subespecie requiere una clave y material con detalle suficiente."
+    ],
+    "etymology": "Origanum recupera el nombre latino origanum, tomado del griego origanon, que designaba una planta aromática identificada como orégano o mejorana silvestre en Lewis y Short. Vulgare es la forma neutra de vulgaris, común. La explicación remota del término griego queda pendiente de contraste.",
+    "sources": [
+      {
+        "url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/iect_origanum_vulgare_tcm30-164102.pdf_tcm30-164102.pdf",
+        "title": "Benítez Cruz, González-Tejero y Molero-Mesa, MITECO · Origanum vulgare: descripción y variación de brácteas y corola"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=origanum",
+        "title": "Lewis y Short · origanum: denominación latina y antecedente griego"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=vulgaris",
+        "title": "Lewis y Short · vulgaris, vulgare: común u ordinario"
+      }
+    ],
+    "reviewedAt": "2026-11-04",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento a nivel de especie con tallo, hojas e inflorescencia. La ficha reúne caracteres de las formas ibéricas y deja abierta la determinación infraespecífica."
+  },
+  "retama-sphaerocarpa": {
+    "commonName": "Retama amarilla",
+    "description": "Arbusto de ramas largas y flexibles, de tono gris verdoso y con hojas estrechas que caen pronto. Las flores amarillas, pequeñas y papilionadas, aparecen en racimos laterales. El fruto es una legumbre corta y abultada que suele contener una semilla.",
+    "diagnostics": [
+      "Las ramillas jóvenes tienen costillas longitudinales y pelos cortos aplicados que les dan aspecto plateado. En época de floración buscar racimos laterales de flores pequeñas.",
+      "La legumbre madura es seca, indehiscente y aproximadamente ovoide, con una punta diminuta y sin quilla marcada. Puede permanecer en la planta y aporta un carácter útil cuando han caído las flores y las hojas.",
+      "Frente a la retama blanca, Retama monosperma, combinar las flores amarillas con la legumbre seca y sin quilla pronunciada. El porte de ramas finas se comparte con otras genisteas."
+    ],
+    "etymology": "Flora iberica remite Retama al castellano retama y al árabe andalusí ratama, del árabe clásico ratam. Flora Catalana explica sphaerocarpa por el griego sphaira, esfera, y karpos, fruto. El epíteto alude al contorno redondeado de la legumbre, que Flora iberica describe como aproximadamente ovoide.",
+    "sources": [
+      {
+        "url": "https://www.floraiberica.es/floraiberica/texto/pdfs/07_11%20Retama.pdf",
+        "title": "Talavera, Flora iberica VII(I), pp. 137–141 · Retama: etimología genérica, clave, lámina y descripción"
+      },
+      {
+        "url": "https://herbariodocenteuam.github.io/Paneles/paneles/fichas/Retama_sphaerocarpa.pdf",
+        "title": "Herbario docente MA-UAM · Retama sphaerocarpa: ramillas flexibles, hojas fugaces, racimos y fruto"
+      },
+      {
+        "url": "https://www.floracatalana.cat/drupal843/index.php/node/12105",
+        "title": "Flora Catalana, glosario etimológico · sphaerocarpa: esfera y fruto"
+      }
+    ],
+    "reviewedAt": "2026-11-04",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento mediante ramillas y estructuras reproductoras. La forma de la legumbre se interpreta como aproximada y el porte por sí solo deja abierta la identificación."
+  },
   "turdus-viscivorus": {
     "commonName": "Zorzal charlo",
     "description": "Zorzal grande y robusto, de dorso pardo grisáceo y partes inferiores claras con motas oscuras gruesas. Suele adoptar una postura erguida y presenta cola relativamente larga. Consume invertebrados y frutos, incluidas las bayas de muérdago.",
