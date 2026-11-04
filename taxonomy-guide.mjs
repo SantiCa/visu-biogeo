@@ -93,10 +93,25 @@ export function expandThrough(tree,target='phylum'){
  for(const n of tree.index.values())if(n.children.length&&(target==='all'||n.rank==='domain'||n.rank==='kingdom'||(limit>=0&&ranks.indexOf(n.rank)>=0&&ranks.indexOf(n.rank)<limit)))open.add(n.id);
  return open;
 }
+// Biological ranks occupy fixed columns even when a lineage omits intermediate ranks.
+const rankColumns=Object.fromEntries(ranks.map((rank,index)=>[rank,index+2]));
+function mapColumn(node){
+ if(node.rank==='root')return 0;
+ if(node.rank==='domain')return 1;
+ if(node.rank==='entry')return ranks.length+3;
+ if(node.rank==='pending')return node.name.startsWith('Reino ')?2:ranks.length+2;
+ return rankColumns[node.rank]??node.depth;
+}
+function branchHue(node,parentHue){
+ if(node.rank==='root')return 155;
+ let hash=0;for(const c of node.name)hash=(hash*31+c.codePointAt(0))>>>0;
+ if(node.rank==='domain'||node.rank==='kingdom'||node.rank==='phylum')return hash%360;
+ return (parentHue+(hash%31)-15+360)%360;
+}
 export function layoutStudyTree(tree,expanded){
  const nodes=[],edges=[];let nextY=40;
- function visit(n){const children=expanded.has(n.id)?n.children:[];const p={...n,x:n.depth*272+24,y:0,visibleChildren:children.length};nodes.push(p);
-  if(children.length){const ps=children.map(c=>{const q=visit(c);edges.push({from:p,to:q});return q;});p.y=(ps[0].y+ps.at(-1).y)/2;}else {p.y=nextY;nextY+=72;}
+ function visit(n,parentHue=155){const children=expanded.has(n.id)?n.children:[],hue=branchHue(n,parentHue);const p={...n,x:mapColumn(n)*272+24,y:0,hue,visibleChildren:children.length};nodes.push(p);
+  if(children.length){const ps=children.map(c=>{const q=visit(c,hue);edges.push({from:p,to:q});return q;});p.y=(ps[0].y+ps.at(-1).y)/2;}else {p.y=nextY;nextY+=72;}
   return p;
  }visit(tree.root);return {nodes,edges,width:Math.max(300,...nodes.map(n=>n.x+250)),height:Math.max(160,nextY)};
 }
@@ -141,16 +156,17 @@ export function createTaxonomyStudy(host,options){
  function fitMap(){const svg=$('#guide-canvas'),ratio=(svg.clientWidth||650)/(svg.clientHeight||600);view={x:-20,y:-20,w:Math.max(layout.width+40,(layout.height+40)*ratio),h:Math.max(layout.height+40,(layout.width+40)/ratio)};drawMap();}
  function focusSelected(){const n=layout.nodes.find(n=>n.id===selected);if(!n)return;if(mode==='map'){view.x=n.x+110-view.w/2;view.y=n.y-view.h/2;drawMap();}else{$('#guide-outline').querySelector('[aria-current="true"]')?.scrollIntoView({block:'center',behavior:'smooth'});}}
  function svgEl(tag,attrs={},text){const e=document.createElementNS(svgNS,tag);for(const[k,v]of Object.entries(attrs))e.setAttribute(k,v);if(text)e.textContent=text;return e;}
- function drawMap(){if(!layout)return;hidePreview();const svg=$('#guide-canvas');svg.setAttribute('preserveAspectRatio','none');svg.setAttribute('viewBox',`${view.x} ${view.y} ${view.w} ${view.h}`);svg.replaceChildren();const ratio=(svg.clientWidth||650)/view.w,showLabels=ratio>.28;
+ let mapWidth=0;
+ function drawMap(){if(!layout)return;hidePreview();const svg=$('#guide-canvas');if(svg.clientWidth)mapWidth=svg.clientWidth;svg.setAttribute('preserveAspectRatio','none');svg.setAttribute('viewBox',`${view.x} ${view.y} ${view.w} ${view.h}`);svg.replaceChildren();const ratio=(svg.clientWidth||650)/view.w,showLabels=ratio>.28;
   const visible=n=>n.x+250>view.x&&n.x<view.x+view.w&&n.y+28>view.y&&n.y-28<view.y+view.h;
-  for(const e of layout.edges){if(Math.max(e.from.y,e.to.y)+30<view.y||Math.min(e.from.y,e.to.y)-30>view.y+view.h||e.to.x<view.x||e.from.x>view.x+view.w)continue;svg.append(svgEl('path',{d:`M${e.from.x+236},${e.from.y} H${e.from.x+252} V${e.to.y} H${e.to.x}`,fill:'none',stroke:'#b4cbbd','stroke-width':2}));}
+  for(const e of layout.edges){if(Math.max(e.from.y,e.to.y)+30<view.y||Math.min(e.from.y,e.to.y)-30>view.y+view.h||e.to.x<view.x||e.from.x>view.x+view.w)continue;svg.append(svgEl('path',{d:`M${e.from.x+236},${e.from.y} H${(e.from.x+236+e.to.x)/2} V${e.to.y} H${e.to.x}`,fill:'none',stroke:`hsl(${e.to.hue} 45% 42%)`,'stroke-width':3}));}
   for(const n of layout.nodes.filter(visible)){
-   const group=svgEl('g',{'data-map-select':n.id,role:'button',tabindex:showLabels?'0':'-1','aria-label':n.name+' · '+n.count+' entradas','aria-describedby':'guide-preview',class:'map-node'+(n.id===selected?' selected':'')});group.append(svgEl('rect',{x:n.x,y:n.y-25,width:236,height:50,rx:9,fill:n.id===selected?'#123c32':n.itemId?'#f7edda':'#fffefa',stroke:'#7c9c89'}));
+   const group=svgEl('g',{'data-map-select':n.id,role:'button',tabindex:showLabels?'0':'-1','aria-label':n.name+' · '+n.count+' entradas','aria-describedby':'guide-preview',style:`--branch-hue:${n.hue}`,class:'map-node'+(n.id===selected?' selected':'')});group.append(svgEl('rect',{x:n.x,y:n.y-25,width:236,height:50,rx:9,fill:n.id===selected?'#123c32':`hsl(${n.hue} 44% 91%)`,stroke:`hsl(${n.hue} 45% 38%)`}));
    if(showLabels){group.append(svgEl('text',{x:n.x+10,y:n.y-5,fill:n.id===selected?'#fff':'#567366','font-size':10},(n.label||rankGuide(n.rank).label)+' · '+n.count));const name=n.name.length>27?n.name.slice(0,25)+'…':n.name;group.append(svgEl('text',{x:n.x+10,y:n.y+13,fill:n.id===selected?'#fff':'#17251f','font-size':13,'font-weight':600},name));if(n.children.length){const t=svgEl('text',{x:n.x+216,y:n.y+8,fill:n.id===selected?'#fff':'#123c32','font-size':22,'data-map-toggle':n.id,role:'button',tabindex:'0','aria-label':(expanded.has(n.id)?'Plegar ':'Desplegar ')+n.name},expanded.has(n.id)?'−':'+');group.append(t);}}
    svg.append(group);
   }
   $('#guide-zoom').textContent=Math.round(ratio*100)+'%';const mini=$('#guide-mini');mini.replaceChildren();const miniRatio=150/110;const mw=Math.max(layout.width,layout.height*miniRatio),mh=mw/miniRatio;mini.setAttribute('viewBox',`0 0 ${mw} ${mh}`);
-  for(const n of layout.nodes)mini.append(svgEl('rect',{x:n.x,y:n.y-12,width:220,height:24,fill:n.id===selected?'#c37a24':'#6a9680'}));mini.append(svgEl('rect',{x:view.x,y:view.y,width:view.w,height:view.h,fill:'#e8a94025',stroke:'#b57720','stroke-width':Math.max(4,mw/100)}));
+  for(const n of layout.nodes)mini.append(svgEl('rect',{x:n.x,y:n.y-12,width:220,height:24,fill:n.id===selected?'#c37a24':`hsl(${n.hue} 45% 45%)`}));mini.append(svgEl('rect',{x:view.x,y:view.y,width:view.w,height:view.h,fill:'#e8a94025',stroke:'#b57720','stroke-width':Math.max(4,mw/100)}));
  }
  function zoom(factor,point){const svg=$('#guide-canvas'),rect=svg.getBoundingClientRect();const px=point?(point.x-rect.left)/rect.width:.5,py=point?(point.y-rect.top)/rect.height:.5;const w=Math.max(280,Math.min(layout.width+layout.height*3,view.w*factor)),f=w/view.w;view={x:view.x+view.w*px*(1-f),y:view.y+view.h*py*(1-f),w,h:view.h*f};drawMap();}
  function switchMode(value){if(value!=='map'&&host.classList.contains('map-expanded'))setExpanded(false);mode=value;$('#guide-outline').hidden=mode==='map';$('#guide-map-wrap').hidden=mode!=='map';$('#guide-explore').setAttribute('aria-pressed',mode==='explore');$('#guide-map').setAttribute('aria-pressed',mode==='map');if(mode==='map'){if(selected==='root'){const preferred=['Arthropoda','Tracheophyta','Fungi','Silicatos','Ígneas'].map(name=>[...tree.index.values()].find(n=>n.name===name)).find(Boolean);if(preferred)select(preferred.id);}fitMap();const svg=$('#guide-canvas'),width=svg.clientWidth||650,height=svg.clientHeight||580;view.w=width/.6;view.h=height/.6;focusSelected();}}
@@ -181,6 +197,7 @@ export function createTaxonomyStudy(host,options){
   drawMap();if(!open)button.focus();
  }
  $('#guide-expand').addEventListener('click',()=>setExpanded(!host.classList.contains('map-expanded')));
+ window.addEventListener('resize',()=>{if(mode!=='map'||!layout||!mapWidth)return;const rect=svg.getBoundingClientRect();if(!rect.width||!rect.height)return;const scale=mapWidth/view.w,cx=view.x+view.w/2,cy=view.y+view.h/2;view.w=rect.width/scale;view.h=rect.height/scale;view.x=cx-view.w/2;view.y=cy-view.h/2;drawMap();});
  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&host.classList.contains('map-expanded')){e.preventDefault();setExpanded(false);}else if(e.key==='Escape')hidePreview();});
  svg.addEventListener('pointerover',e=>{if(e.pointerType==='touch'||pointers.size)return;const node=e.target.closest('[data-map-select]');if(node)showPreview(node.dataset.mapSelect,e.clientX,e.clientY);});
  svg.addEventListener('pointerout',e=>{const node=e.target.closest('[data-map-select]');if(node&&!node.contains(e.relatedTarget))hidePreview();});
