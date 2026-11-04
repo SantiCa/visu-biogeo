@@ -1,13 +1,13 @@
 {
   "date": "2026-11-05",
   "catalogEntries": 2609,
-  "entriesWithApprovedImage": 2278,
-  "entriesWithPair": 2134,
-  "approvedImages": 4781,
+  "entriesWithApprovedImage": 2280,
+  "entriesWithPair": 2136,
+  "approvedImages": 4785,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4782,
+    "approved": 4786,
     "rejected": 701,
     "pending": 3
   },
@@ -36,7 +36,7 @@
     "www.miteco.gob.es": 7,
     "www.juntadeandalucia.es": 1,
     "cloudatlas.wmo.int": 27,
-    "science.nasa.gov": 10,
+    "science.nasa.gov": 13,
     "eol.jsc.nasa.gov": 1,
     "medcell.org": 7,
     "histology.siu.edu": 9,
@@ -61,6 +61,7 @@
     "www.cfb.unh.edu": 4,
     "www.microscopy-uk.org.uk": 1,
     "www.nasa.gov": 1,
+    "www.flickr.com": 1,
     "www.pi.ingv.it": 1,
     "www.usgs.gov": 1,
     "www.whoi.edu": 1,
@@ -925,13 +926,6 @@
       "priority": false
     },
     {
-      "id": "domo-salino-diapiro",
-      "name": "Domo salino. Diapiro",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "dorycnium-fulgurans",
       "name": "Dorycnium fulgurans",
       "kind": "organismo",
@@ -1474,13 +1468,6 @@
       "id": "jumillita",
       "name": "Jumillita",
       "kind": "roca",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "karst-en-torres",
-      "name": "Karst en torres",
-      "kind": "relieve",
       "approvedImages": 0,
       "priority": false
     },

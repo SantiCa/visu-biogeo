@@ -103745,5 +103745,105 @@
         "originalUrl": "https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS062/ISS062-E-81945.JPG"
       }
     ]
+  },
+  "domo-salino-diapiro": {
+    "images": [
+      {
+        "url": "./assets/reviewed/0c36042f42088f2e1915.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/salt-dome-in-the-zagros-mountains-iran-6465/",
+        "author": "NASA / ISS Expedition 12, Crew Earth Observations",
+        "description": "Diapiro de Kuh-e-Namak (Dashti), con afloramiento claro de sal y estratos circundantes levantados, en la fotografía ISS012-E-18774 (28 de febrero de 2006).",
+        "examUse": "detail",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/salt-dome-in-the-zagros-mountains-iran-6465/",
+          "https://www.sciencedirect.com/science/article/pii/0191814184900622"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+        "reviewBatch": "diapiros-karst-20261105",
+        "crop": [
+          0.24,
+          0.08,
+          0.48,
+          0.83
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/6000/6465/ISS012-E-18774_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/4b37855ab275ed1db421.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/salt-glacier-zagros-mountains-91264/",
+        "author": "NASA / ISS Expedition 52, Earth Science and Remote Sensing Unit",
+        "description": "Domo central y lóbulos de sal extruida que descienden hacia los valles del Zagros, en la fotografía ISS052-E-8401 (24 de junio de 2017).",
+        "examUse": "detail",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/salt-glacier-zagros-mountains-91264/",
+          "https://iugs-geoheritage.org/geoheritage_sites/salt-domes-and-glaciers-of-the-zagros-fold-and-thrust-belt/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+        "reviewBatch": "diapiros-karst-20261105",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/91000/91264/iss052e008401_lrg.jpg"
+      }
+    ]
+  },
+  "karst-en-torres": {
+    "images": [
+      {
+        "url": "./assets/reviewed/0b4bdde0d24055b94fb5.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/the-emerald-isles-of-ha-long-bay-149803/",
+        "author": "Norman Kuring / NASA Ocean Color Web, con datos Landsat 8 del USGS",
+        "description": "Vista orbital de Hạ Long y Bai Tu Long (1 de diciembre de 2021), con grupos de islotes calizos separados por el mar. El perfil vertical de las torres se aprecia poco en planta.",
+        "examUse": "detail",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/the-emerald-isles-of-ha-long-bay-149803/",
+          "https://whc.unesco.org/en/list/672/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+        "reviewBatch": "diapiros-karst-20261105",
+        "crop": [
+          0.21,
+          0.26,
+          0.65,
+          0.66
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/149000/149803/halongbay_oli_2021335_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/dd5f73e8377b5dc49f44.jpg",
+        "page": "https://www.flickr.com/photos/tuan-trang/8888350545/",
+        "author": "Tuấn Mai (titanevn)",
+        "description": "Tam Cốc, Ninh Bình (19 de mayo de 2013). Vista oblicua de torres calizas de flancos abruptos elevadas sobre la llanura aluvial.",
+        "examUse": "diagnostic",
+        "title": "Tam Cốc",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.flickr.com/photos/tuan-trang/8888350545/",
+          "https://whc.unesco.org/en/list/1438/",
+          "https://science.nasa.gov/earth/earth-observatory/the-towers-of-trang-an/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+        "reviewBatch": "diapiros-karst-20261105",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2025/the-towers-of-tr%C3%A0ng-an/trangan_pho_20130519.jpg"
+      }
+    ]
   }
 }

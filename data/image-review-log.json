@@ -34248,5 +34248,37 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "diapiros-karst-20261105",
+    "picksSha256": "054893a3eb56614810365a73f68ae42a69dd37db5935dc2651be5f350552e813",
+    "date": "2026-11-05",
+    "note": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "domo-salino-diapiro",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/6000/6465/ISS012-E-18774_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "domo-salino-diapiro",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/91000/91264/iss052e008401_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "karst-en-torres",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/149000/149803/halongbay_oli_2021335_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "karst-en-torres",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2025/the-towers-of-tr%C3%A0ng-an/trangan_pho_20130519.jpg",
+        "status": "approved"
+      }
+    ]
   }
 ]
