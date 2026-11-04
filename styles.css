@@ -83,3 +83,6 @@ input:focus-visible,button:focus-visible,summary:focus-visible { outline:3px sol
 body.guide-map-expanded{overflow:hidden}.map-expanded .tree-study-workspace{position:fixed;inset:0;z-index:1100;display:grid;grid-template-columns:minmax(0,1fr) minmax(250px,330px);gap:10px;padding:10px;background:var(--cream);align-items:stretch}.map-expanded .tree-study-navigation,.map-expanded #guide-map-wrap{min-height:0;height:100%}.map-expanded #guide-map-wrap{display:flex;flex-direction:column}.map-expanded .map-controls{flex-wrap:wrap}.map-expanded .guide-canvas{height:auto;flex:1;min-height:0}.map-expanded .guide-detail{max-height:none;height:100%}.map-expanded .map-help{flex:none;min-height:0;margin:8px 0 0}.map-expanded .guide-mini{bottom:45px}
 [data-theme="dark"] .guide-preview img{background:#26372d}
 @media(max-width:800px){.map-expanded .tree-study-workspace{grid-template-columns:1fr;grid-template-rows:minmax(0,1fr) minmax(100px,28vh)}.map-expanded .guide-detail{overflow:auto}.map-expanded .map-help{font-size:.7rem}.map-expanded .guide-mini{bottom:45px}}
+
+/* El tono del linaje se conserva también en el tema oscuro. */
+[data-theme="dark"] .map-node:not(.selected) rect { fill:hsl(var(--branch-hue) 25% 23%); stroke:hsl(var(--branch-hue) 42% 65%); }
