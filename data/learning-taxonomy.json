@@ -40397,15 +40397,20 @@
     "commonNameStatus": "not-documented"
   },
   "dactylioceras": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4626004",
+    "provider": "Paleobiology Database",
+    "source": "https://paleobiodb.org/data1.2/taxa/single.json?id=txn:14749&show=parent,immparent",
     "matchedName": "Dactylioceras",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
+      "subclass": "Ammonoidea",
+      "order": "Ammonitida",
+      "suborder": "Ammonitina",
+      "superfamily": "Eoderoceratoidea",
       "family": "Dactylioceratidae",
+      "subfamily": "Dactylioceratinae",
       "genus": "Dactylioceras"
     },
     "hierarchy": [
@@ -40422,8 +40427,28 @@
         "name": "Cephalopoda"
       },
       {
+        "rank": "subclass",
+        "name": "Ammonoidea"
+      },
+      {
+        "rank": "order",
+        "name": "Ammonitida"
+      },
+      {
+        "rank": "suborder",
+        "name": "Ammonitina"
+      },
+      {
+        "rank": "superfamily",
+        "name": "Eoderoceratoidea"
+      },
+      {
         "rank": "family",
         "name": "Dactylioceratidae"
+      },
+      {
+        "rank": "subfamily",
+        "name": "Dactylioceratinae"
       },
       {
         "rank": "genus",
@@ -40433,8 +40458,24 @@
     "commonName": null,
     "commonNames": [],
     "group": "Moluscos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "PBDB y la revisión taxonómica de Dactylioceratidae documentan Ammonoidea, Ammonitida, Ammonitina, Eoderoceratoidea y Dactylioceratinae para el género.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-05",
+      "previousClassification": {
+        "provider": "GBIF",
+        "source": "https://www.gbif.org/species/4626004",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "family": "Dactylioceratidae",
+          "genus": "Dactylioceras"
+        }
+      }
+    }
   },
   "dactylis-glomerata": {
     "provider": "iNaturalist",
