@@ -1,13 +1,13 @@
 {
   "date": "2026-11-05",
   "catalogEntries": 2609,
-  "entriesWithApprovedImage": 2280,
-  "entriesWithPair": 2136,
-  "approvedImages": 4785,
+  "entriesWithApprovedImage": 2282,
+  "entriesWithPair": 2138,
+  "approvedImages": 4789,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4786,
+    "approved": 4790,
     "rejected": 701,
     "pending": 3
   },
@@ -36,7 +36,7 @@
     "www.miteco.gob.es": 7,
     "www.juntadeandalucia.es": 1,
     "cloudatlas.wmo.int": 27,
-    "science.nasa.gov": 13,
+    "science.nasa.gov": 17,
     "eol.jsc.nasa.gov": 1,
     "medcell.org": 7,
     "histology.siu.edu": 9,
@@ -1136,13 +1136,6 @@
       "priority": false
     },
     {
-      "id": "flecha",
-      "name": "Flecha",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "flexicalimene",
       "name": "Flexicalymene",
       "kind": "fosil",
@@ -1427,13 +1420,6 @@
       "name": "Inachus dorsettensis",
       "kind": "organismo",
       "approvedImages": 1,
-      "priority": false
-    },
-    {
-      "id": "indlandsis",
-      "name": "Indlandsis",
-      "kind": "relieve",
-      "approvedImages": 0,
       "priority": false
     },
     {

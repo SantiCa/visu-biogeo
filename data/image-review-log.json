@@ -34280,5 +34280,37 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "indlandsis-flechas-20261105",
+    "picksSha256": "d27787068204c7fdcc938debd15e63fb596243933f39821cc0ee39f61fd265e3",
+    "date": "2026-11-05",
+    "note": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "indlandsis",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153985/greenlandseaice_tmo_20250224_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "indlandsis",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/36000/36839/Antarctica_AMO_2009027_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "flecha",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/149000/149674/dungenessspit_oli2_202296_lrg.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "flecha",
+        "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/5000/5754/farewell_ast_2001044_lrg.jpg",
+        "status": "approved"
+      }
+    ]
   }
 ]

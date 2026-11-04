@@ -99085,6 +99085,59 @@
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
         "reviewNote": "Revisión individual de formas y pies de fuente NPS/NASA. Se excluyen Ebro rotulado que revela Delta y una vista de cauce activo sin lago abandonado inequívoco. Recortes de Mamoré conservan meandros y paleocauces visibles y eliminan los rótulos. El recorte de paleocauce es una vista de detalle, no una fotografía general de diagnóstico. No se interpreta el color de la imagen orbital como litología.",
         "reviewBatch": "coastal-oct26-next"
+      },
+      {
+        "url": "./assets/reviewed/f0930017a2126a2ab677.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/dungeness-spit-149674/",
+        "author": "Lauren Dauphin / NASA Earth Observatory, con datos Landsat 9 del USGS",
+        "description": "Flecha de Dungeness (Washington), unida a la costa por un extremo y con una punta curva que delimita la bahía (6 de abril de 2022).",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/dungeness-spit-149674/",
+          "https://www.fws.gov/project/habitats-dungeness-national-wildlife-refuge"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+        "reviewBatch": "indlandsis-flechas-20261105",
+        "crop": [
+          0.17,
+          0.26,
+          0.39,
+          0.36
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/149000/149674/dungenessspit_oli2_202296_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/8e7c818eb9563baf38cb.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/farewell-spit-new-zealand-5754/",
+        "author": "NASA/GSFC/METI/ERSDAC/JAROS y equipo científico ASTER de EE. UU. y Japón",
+        "description": "Flecha de Farewell (Nueva Zelanda), unida a tierra junto al cabo y prolongada sobre Golden Bay, con bajos intermareales en su lado abrigado (13 de febrero de 2001).",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/farewell-spit-new-zealand-5754/",
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/farewell-spit-and-puponga-farm-park/",
+          "https://asterweb.jpl.nasa.gov/gallery-detail.asp?name=Farewell"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+        "reviewBatch": "indlandsis-flechas-20261105",
+        "crop": [
+          0.25,
+          0.025,
+          0.73,
+          0.55
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/5000/5754/farewell_ast_2001044_lrg.jpg"
       }
     ]
   },
@@ -103843,6 +103896,55 @@
         "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
         "reviewBatch": "diapiros-karst-20261105",
         "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2025/the-towers-of-tr%C3%A0ng-an/trangan_pho_20130519.jpg"
+      }
+    ]
+  },
+  "indlandsis": {
+    "images": [
+      {
+        "url": "./assets/reviewed/50eab00c19ff48b8da11.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/whorls-of-white-off-greenland-153985/",
+        "author": "Lauren Dauphin / NASA Earth Observatory, con datos Terra MODIS",
+        "description": "Margen meridional del indlandsis de Groenlandia. El recorte se centra en el hielo apoyado sobre tierra y su contacto con el relieve montañoso (24 de febrero de 2025).",
+        "examUse": "detail",
+        "status": "approved",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/whorls-of-white-off-greenland-153985/",
+          "https://nsidc.org/learn/parts-cryosphere/ice-sheets"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+        "reviewBatch": "indlandsis-flechas-20261105",
+        "crop": [
+          0,
+          0,
+          0.6,
+          0.54
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153985/greenlandseaice_tmo_20250224_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/ba3f23b44f367ff843c5.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/antarctica-36839/",
+        "author": "MODIS Rapid Response Team / NASA Goddard Space Flight Center",
+        "description": "Mosaico orbital de la Antártida en verano austral, compuesto con pasadas MODIS del 27 de enero de 2009. Muestra la continuidad del manto de hielo a escala continental.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/antarctica-36839/",
+          "https://nsidc.org/learn/parts-cryosphere/ice-sheets"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+        "reviewBatch": "indlandsis-flechas-20261105",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/36000/36839/Antarctica_AMO_2009027_lrg.jpg"
       }
     ]
   }

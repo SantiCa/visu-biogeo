@@ -2,9 +2,9 @@
 
 Fecha: 2026-11-05. Catálogo: 2609 entradas.
 
-- 4785 imágenes aprobadas y 2136 entradas con al menos dos imágenes distintas según su referencia.
+- 4789 imágenes aprobadas y 2138 entradas con al menos dos imágenes distintas según su referencia.
 - 163/163 prioritarias del histórico disponible con pareja. El histórico es parcial: no cubre todos los exámenes de las últimas dos décadas.
-- 473 entradas pendientes de completar la pareja; 329 sin imagen aprobada.
+- 471 entradas pendientes de completar la pareja; 327 sin imagen aprobada.
 - Archivos aprobados no legibles: 0.
 
 | Grupo | Entradas | Con pareja aprobada | Pendientes de pareja |
@@ -17,7 +17,7 @@ Fecha: 2026-11-05. Catálogo: 2609 entradas.
 | Lámina delgada | 80 | 57 | 23 |
 | Moléculas | 46 | 38 | 8 |
 | Nubes | 23 | 23 | 0 |
-| Geomorfología | 149 | 56 | 93 |
+| Geomorfología | 149 | 58 | 91 |
 
 ## Alcance y pendientes
 
