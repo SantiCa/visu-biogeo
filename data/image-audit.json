@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-30",
-  "catalogEntries": 2609,
-  "entriesWithApprovedImage": 2267,
-  "entriesWithPair": 2123,
-  "approvedImages": 4759,
+  "date": "2026-11-05",
+  "catalogEntries": 2611,
+  "entriesWithApprovedImage": 2271,
+  "entriesWithPair": 2125,
+  "approvedImages": 4765,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4760,
+    "approved": 4766,
     "rejected": 698,
     "pending": 3
   },
   "imageSources": {
     "geodil.dperkins.org": 234,
     "www.inaturalist.org": 3449,
-    "commons.wikimedia.org": 72,
+    "commons.wikimedia.org": 78,
     "www.asturnatura.com": 199,
     "npgallery.nps.gov": 36,
     "www.nps.gov": 26,
@@ -3204,7 +3204,7 @@
       "id": "estructura-craneo-de-canis-lupus",
       "name": "Cráneo de Canis lupus",
       "kind": "estructura",
-      "approvedImages": 0,
+      "approvedImages": 1,
       "priority": false
     },
     {
@@ -3239,7 +3239,7 @@
       "id": "estructura-craneo-de-vulpes-vulpes",
       "name": "Cráneo de Vulpes vulpes",
       "kind": "estructura",
-      "approvedImages": 0,
+      "approvedImages": 1,
       "priority": false
     },
     {

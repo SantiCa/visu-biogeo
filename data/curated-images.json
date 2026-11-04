@@ -103130,5 +103130,105 @@
         "examUseNote": "Revisión visual y cotejo con OMM/SMHI. La identificación documental no implica que una foto fija demuestre evolución, movimiento u origen. Cauda y flumen se recortan según las coordenadas de las anotaciones OMM, manteniendo usos de detalle. Lote clouds810-completion, índice 0."
       }
     ]
+  },
+  "canis-lupus": {
+    "images": [
+      {
+        "url": "./assets/reviewed/508fc6bbc2cdbd4dcfa7.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Iberian_Wolf_AdF_001.jpg",
+        "author": "Arturo de Frias Marques",
+        "license": "CC BY-SA 4.0",
+        "description": "Lobo ibérico: vista oblicua del ejemplar, con hocico, orejas, dorso y extremidades visibles.",
+        "examUse": "diagnostic",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Iberian_Wolf_AdF_001.jpg",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Cotejo de fuente y revisión visual",
+        "reviewBatch": "lobo-zorro-20261105",
+        "reviewNote": "Imagen revisada; copia JPEG redimensionada cuando supera 1600 píxeles. Sin recorte."
+      },
+      {
+        "url": "./assets/reviewed/4988e03d402426cb200a.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Canis_lupus_baileyi_running.jpg",
+        "author": "Jim Clark / U.S. Fish and Wildlife Service",
+        "license": "Dominio público (USFWS)",
+        "description": "Lobo mexicano: vista lateral con silueta, proporciones y cola visibles. La respuesta se pide a nivel de especie.",
+        "examUse": "diagnostic",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Canis_lupus_baileyi_running.jpg",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Cotejo de fuente y revisión visual",
+        "reviewBatch": "lobo-zorro-20261105",
+        "reviewNote": "Imagen revisada; copia JPEG redimensionada cuando supera 1600 píxeles. Sin recorte."
+      }
+    ]
+  },
+  "vulpes-vulpes": {
+    "images": [
+      {
+        "url": "./assets/reviewed/8195d8e6960808ebab92.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_standing.jpg",
+        "author": "Jim Thiele / U.S. Fish and Wildlife Service",
+        "license": "Dominio público (USFWS)",
+        "description": "Zorro común de perfil, con hocico fino, orejas puntiagudas y cola tupida visibles.",
+        "examUse": "diagnostic",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vulpes_vulpes_standing.jpg",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Cotejo de fuente y revisión visual",
+        "reviewBatch": "lobo-zorro-20261105",
+        "reviewNote": "Imagen revisada; copia JPEG redimensionada cuando supera 1600 píxeles. Sin recorte."
+      },
+      {
+        "url": "./assets/reviewed/4ae3a4b56b0e47c9476f.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Red_Fox_%28Vulpes_vulpes%29_-British_Wildlife_Centre-8.jpg",
+        "author": "Keven Law",
+        "license": "CC BY-SA 2.0",
+        "description": "Dos zorros de la misma especie; se distinguen la cabeza, las orejas, el pecho claro y el pelaje rojizo.",
+        "examUse": "diagnostic",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Red_Fox_%28Vulpes_vulpes%29_-British_Wildlife_Centre-8.jpg",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Cotejo de fuente y revisión visual",
+        "reviewBatch": "lobo-zorro-20261105",
+        "reviewNote": "Imagen revisada; copia JPEG redimensionada cuando supera 1600 píxeles. Sin recorte."
+      }
+    ]
+  },
+  "estructura-craneo-de-canis-lupus": {
+    "images": [
+      {
+        "url": "./assets/reviewed/180ee3cd6c240486843f.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Canis_lupus_skull%2C_lateral_view_1.JPG",
+        "author": "Kirill Tsukanov",
+        "license": "CC0 1.0",
+        "description": "Vista lateral del cráneo de lobo de la colección de la Universidad Estatal de Moscú.",
+        "examUse": "detail",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Canis_lupus_skull%2C_lateral_view_1.JPG",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Cotejo de fuente y revisión visual",
+        "reviewBatch": "lobo-zorro-20261105",
+        "reviewNote": "Imagen revisada; copia JPEG redimensionada cuando supera 1600 píxeles. Sin recorte."
+      }
+    ]
+  },
+  "estructura-craneo-de-vulpes-vulpes": {
+    "images": [
+      {
+        "url": "./assets/reviewed/f1a8668b1df3bdd12d32.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_02_MWNH_386c.jpg",
+        "author": "Klaus Rassinger y Gerhard Cammerer / Museum Wiesbaden",
+        "license": "CC BY-SA 3.0",
+        "description": "Vista lateral del cráneo de zorro de la colección del Museum Wiesbaden.",
+        "examUse": "detail",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vulpes_vulpes_02_MWNH_386c.jpg",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Cotejo de fuente y revisión visual",
+        "reviewBatch": "lobo-zorro-20261105",
+        "reviewNote": "Imagen revisada; copia JPEG redimensionada cuando supera 1600 píxeles. Sin recorte."
+      }
+    ]
   }
 }

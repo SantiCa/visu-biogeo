@@ -141108,5 +141108,111 @@
     "commonNameStatus": "documented",
     "subjectType": "anatomical-part",
     "parentTaxon": "Genetta genetta"
+  },
+  "canis-lupus": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/5219173",
+    "matchedName": "Canis lupus",
+    "rank": "species",
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Chordata"
+      },
+      {
+        "rank": "class",
+        "name": "Mammalia"
+      },
+      {
+        "rank": "order",
+        "name": "Carnivora"
+      },
+      {
+        "rank": "family",
+        "name": "Canidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Canis"
+      },
+      {
+        "rank": "species",
+        "name": "Canis lupus"
+      }
+    ],
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "species": "Canis lupus"
+    },
+    "commonName": "Lobo",
+    "commonNames": [
+      "Lobo",
+      "Lobo gris"
+    ],
+    "group": "Mamíferos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "documented"
+  },
+  "vulpes-vulpes": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/5219243",
+    "matchedName": "Vulpes vulpes",
+    "rank": "species",
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Chordata"
+      },
+      {
+        "rank": "class",
+        "name": "Mammalia"
+      },
+      {
+        "rank": "order",
+        "name": "Carnivora"
+      },
+      {
+        "rank": "family",
+        "name": "Canidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Vulpes"
+      },
+      {
+        "rank": "species",
+        "name": "Vulpes vulpes"
+      }
+    ],
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "species": "Vulpes vulpes"
+    },
+    "commonName": "Zorro común",
+    "commonNames": [
+      "Zorro común",
+      "Zorro"
+    ],
+    "group": "Mamíferos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "documented"
   }
 }
