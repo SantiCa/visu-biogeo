@@ -27517,6 +27517,7 @@
     "ranks": {
       "phylum": "Mollusca",
       "class": "Cephalopoda",
+      "subclass": "Ammonoidea",
       "order": "Ceratitida",
       "family": "Ceratitidae",
       "genus": "Ceratites"
@@ -27529,6 +27530,10 @@
       {
         "rank": "class",
         "name": "Cephalopoda"
+      },
+      {
+        "rank": "subclass",
+        "name": "Ammonoidea"
       },
       {
         "rank": "order",
@@ -27550,7 +27555,14 @@
     "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
     "commonNameStatus": "not-documented",
     "matchedName": "Ceratites",
-    "rank": "genus"
+    "rank": "genus",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-05",
+      "sources": [
+        "https://ammonoid.treatise.geolex.org/displayInfo.php?genera=Ceratites"
+      ],
+      "note": "El Treatise documenta la subclase Ammonoidea para el género."
+    }
   },
   "ceratitis-capitata": {
     "provider": "iNaturalist",
@@ -87410,6 +87422,7 @@
     "ranks": {
       "phylum": "Mollusca",
       "class": "Cephalopoda",
+      "subclass": "Orthoceratoidea",
       "order": "Orthocerida",
       "family": "Orthoceratidae",
       "genus": "Orthoceras"
@@ -87422,6 +87435,10 @@
       {
         "rank": "class",
         "name": "Cephalopoda"
+      },
+      {
+        "rank": "subclass",
+        "name": "Orthoceratoidea"
       },
       {
         "rank": "order",
@@ -87443,7 +87460,14 @@
     "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
     "commonNameStatus": "not-documented",
     "matchedName": "Orthoceras",
-    "rank": "genus"
+    "rank": "genus",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-05",
+      "sources": [
+        "https://fossiilid.info/1284"
+      ],
+      "note": "Se sigue la clasificación moderna de Orthoceras en sentido estricto. La subclase se aplica al género y no valida identificaciones de ejemplares de examen."
+    }
   },
   "oryctes-nasicornis": {
     "provider": "iNaturalist",
