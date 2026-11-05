@@ -26579,5 +26579,44 @@
     "group": "Mamíferos",
     "source": "https://www.gbif.org/species/5219243",
     "checkedAt": "2026-11-05"
+  },
+  "cordulegaster-boltonii": {
+    "family": "Cordulegastridae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Odonata",
+      "Cordulegastridae"
+    ],
+    "group": "Insectos",
+    "source": "https://www.gbif.org/species/7936251",
+    "checkedAt": "2026-11-05"
+  },
+  "euphydryas-aurinia": {
+    "family": "Nymphalidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Lepidoptera",
+      "Nymphalidae"
+    ],
+    "group": "Insectos",
+    "source": "https://www.gbif.org/species/4535809",
+    "checkedAt": "2026-11-05"
+  },
+  "bombus-terrestris": {
+    "family": "Apidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Hymenoptera",
+      "Apidae"
+    ],
+    "group": "Insectos",
+    "source": "https://www.gbif.org/species/1340503",
+    "checkedAt": "2026-11-05"
   }
 }
