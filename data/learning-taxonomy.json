@@ -142443,5 +142443,117 @@
     "commonNameStatus": "not-documented",
     "status": "documented",
     "reviewNote": "El PDF escribe «Lagenaria sicula»; se conserva esa grafía como procedencia, no como alias aceptado. Se interpreta el rótulo «Calabaza del peregrino» como Lagenaria siceraria, nombre aceptado en GBIF y documentado con ese nombre común y familia por el inventario etnobotánico de MAPA. No se afirma que «Lagenaria sicula» sea un sinónimo taxonómico válido."
+  },
+  "himantoglossum-hircinum": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/5324951",
+    "sources": [
+      "https://www.gbif.org/species/5324951",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:638840-1"
+    ],
+    "matchedName": "Himantoglossum hircinum",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Liliopsida",
+      "order": "Asparagales",
+      "family": "Orchidaceae",
+      "genus": "Himantoglossum",
+      "species": "Himantoglossum hircinum"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Liliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Asparagales"
+      },
+      {
+        "rank": "family",
+        "name": "Orchidaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Himantoglossum"
+      },
+      {
+        "rank": "species",
+        "name": "Himantoglossum hircinum"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Himanthoglossum hircinum»; se corrige la grafía a Himantoglossum hircinum. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF."
+  },
+  "euphorbia-pyrenaica": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/3065197",
+    "sources": [
+      "https://www.gbif.org/species/3065197",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:347975-1"
+    ],
+    "matchedName": "Euphorbia pyrenaica",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malpighiales",
+      "family": "Euphorbiaceae",
+      "genus": "Euphorbia",
+      "species": "Euphorbia pyrenaica"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Malpighiales"
+      },
+      {
+        "rank": "family",
+        "name": "Euphorbiaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Euphorbia"
+      },
+      {
+        "rank": "species",
+        "name": "Euphorbia pyrenaica"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Euphorbia pirenaica»; se corrige la grafía a Euphorbia pyrenaica. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF."
   }
 }
