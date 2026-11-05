@@ -34032,5 +34032,49 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "lobo-zorro-20261105",
+    "picksSha256": "800c8b427cb3b9b3e8d3c55e1a902315e43f816614a683577cc8bcd484d63b59",
+    "date": "2026-11-05",
+    "note": "Cuatro vistas de animales y dos vistas de cráneos de colección; los restos se estudian por separado.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "canis-lupus",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Iberian_Wolf_AdF_001.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "canis-lupus",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Canis_lupus_baileyi_running.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "vulpes-vulpes",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vulpes_vulpes_standing.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "vulpes-vulpes",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Red_Fox_%28Vulpes_vulpes%29_-British_Wildlife_Centre-8.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 4,
+        "itemId": "estructura-craneo-de-canis-lupus",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Canis_lupus_skull%2C_lateral_view_1.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 5,
+        "itemId": "estructura-craneo-de-vulpes-vulpes",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vulpes_vulpes_02_MWNH_386c.jpg",
+        "status": "approved"
+      }
+    ]
   }
 ]

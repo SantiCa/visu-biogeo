@@ -20823,7 +20823,9 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": ["Coluber hippocrepis"],
+    "aliases": [
+      "Coluber hippocrepis"
+    ],
     "sourcePages": [
       {
         "file": "Listado de visu de Anfibios y Reptiles.pdf",
@@ -31901,7 +31903,9 @@
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
-    "aliases": ["Tellina planata"],
+    "aliases": [
+      "Tellina planata"
+    ],
     "sourcePages": [
       {
         "file": "Listado de visu de MOLUSCOS.pdf",
@@ -48607,6 +48611,34 @@
     "notes": "",
     "studyLists": [
       "Fósiles"
+    ]
+  },
+  {
+    "id": "canis-lupus",
+    "scientificName": "Canis lupus",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Fauna común · ampliación del catálogo"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "revisado",
+    "studyLists": [
+      "Mamíferos"
+    ]
+  },
+  {
+    "id": "vulpes-vulpes",
+    "scientificName": "Vulpes vulpes",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Fauna común · ampliación del catálogo"
+    ],
+    "sourcePages": [],
+    "catalogStatus": "revisado",
+    "studyLists": [
+      "Mamíferos"
     ]
   }
 ]
