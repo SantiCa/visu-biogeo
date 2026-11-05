@@ -104403,6 +104403,40 @@
         "reviewNote": "Fuentes y licencias contrastadas; originales examinados visualmente. La planta es solo vista de estudio; las dos estrellas son fotografías independientes.",
         "reviewBatch": "fuentes-organismos",
         "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Starr-130221-1608-Arachis_hypogaea-leaves_and_flower-Waihee-Maui_%2824838171459%29.jpg"
+      },
+      {
+        "url": "./assets/reviewed/ae9fb7dc5cf8bd41d616.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Peanuts_(Arachis_hypogaea)_-_in_shell,_shell_cracked_open,_shelled,_peeled.jpg",
+        "author": "Ivar Leidus",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "description": "Vainas cerrada y abierta y semillas; imagen apilada por el autor.",
+        "examUse": "diagnostic",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Vainas y semillas de cacahuete visibles, adecuadas para el listado de tipos de frutos.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+        "reviewBatch": "pendientes-cuatro-20261105",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Peanuts_%28Arachis_hypogaea%29_-_in_shell%2C_shell_cracked_open%2C_shelled%2C_peeled.jpg"
+      },
+      {
+        "url": "./assets/reviewed/563984aa3e1f9b98a4a4.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Arachis_hypogaea_15-p.bot-ara.hypo-0012.jpg",
+        "author": "Gilles Ayotte / Université Laval",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "description": "Detalle del fruto seco abierto, colección botánica 15-p.bot-ara.hypo-0012.",
+        "examUse": "diagnostic",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Vaina abierta y semillas visibles para el listado de tipos de frutos.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+        "reviewBatch": "pendientes-cuatro-20261105",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arachis_hypogaea_15-p.bot-ara.hypo-0012.jpg"
       }
     ]
   },
@@ -104441,6 +104475,129 @@
         "reviewNote": "Fuentes y licencias contrastadas; originales examinados visualmente. La planta es solo vista de estudio; las dos estrellas son fotografías independientes.",
         "reviewBatch": "fuentes-organismos",
         "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Asterina_gibbosa_3.jpg"
+      }
+    ]
+  },
+  "anabaena-spiroides": {
+    "images": [
+      {
+        "url": "./assets/reviewed/35e272770e210d3289a5.jpg",
+        "page": "https://www.protisten.de/home-new/bac-cya-chlorobi/bac-cya/bac-nostocales/dolichospermum-spiroides/",
+        "author": "Wolfgang Bettighofer",
+        "license": "CC BY-NC-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "description": "Microfotografía de Dolichospermum spiroides, muestra de Vollstedter See, 2019; escala 10 µm.",
+        "examUse": "insufficient",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "La forma enrollada es compatible, pero no basta por sí sola para separar especies próximas.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+        "reviewBatch": "pendientes-cuatro-20261105",
+        "originalUrl": "https://www.protisten.de/wp-content/uploads/2024/01/Dolichospermum-spiroides-040-200-2-9219549-556-VOS_NEW.jpg",
+        "key": "https://www.protisten.de/wp-content/uploads/2024/01/Dolichospermum-spiroides-040-200-2-9219549-556-VOS_NEW.jpg"
+      },
+      {
+        "url": "./assets/reviewed/af0d45b775e8ed7a3979.jpg",
+        "page": "https://www.protisten.de/home-new/bac-cya-chlorobi/bac-cya/bac-nostocales/dolichospermum-spiroides/",
+        "author": "Wolfgang Bettighofer",
+        "license": "CC BY-NC-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "description": "Microfotografía de Dolichospermum spiroides, muestra de Hiddensee Bodden, 2010; escala 10 µm.",
+        "examUse": "insufficient",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Fragmento de filamento: identificación específica insuficiente sin caracteres adicionales.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+        "reviewBatch": "pendientes-cuatro-20261105",
+        "originalUrl": "https://www.protisten.de/wp-content/uploads/2024/01/Dolichospermum-spiroides-063-200-P9182498-504-HID_NEW.jpg",
+        "key": "https://www.protisten.de/wp-content/uploads/2024/01/Dolichospermum-spiroides-063-200-P9182498-504-HID_NEW.jpg"
+      }
+    ]
+  },
+  "arion-rufus": {
+    "images": [
+      {
+        "url": "./assets/reviewed/ea06557b6058e41d6daa.jpg",
+        "page": "https://www.inaturalist.org/observations/117841811",
+        "author": "Fippe",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Ejemplar identificado por la comunidad como Arion ater rufus; observación 117841811.",
+        "examUse": "insufficient",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Aspecto externo compatible con el complejo Arion ater/rufus, no separa de especies afines.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+        "reviewBatch": "pendientes-cuatro-20261105",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/199051988/large.jpg"
+      },
+      {
+        "url": "./assets/reviewed/f6265dd36b9cd6dfe17f.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Arion_rufus.jpg",
+        "author": "Alekas",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+        "description": "Ejemplar identificado como Arion rufus por el autor.",
+        "examUse": "insufficient",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Aspecto externo compatible con el complejo Arion ater/rufus; la identificación específica precisa contraste anatómico.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+        "reviewBatch": "pendientes-cuatro-20261105",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Arion_rufus.jpg"
+      }
+    ]
+  },
+  "berberomeloe-majalis": {
+    "images": [
+      {
+        "url": "./assets/reviewed/9e1e49a061dfa1c2821e.jpg",
+        "page": "https://www.inaturalist.org/observations/278658573",
+        "author": "Carlos Jiménez",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Ejemplar identificado por la comunidad; Camarena de la Sierra, Teruel, 2025.",
+        "examUse": "insufficient",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Vista general compatible; especies próximas de Berberomeloe no se distinguen con certeza por esta vista.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+        "reviewBatch": "pendientes-cuatro-20261105",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500360255/large.jpeg"
+      },
+      {
+        "url": "./assets/reviewed/15505a3bb6c4753706cc.jpg",
+        "page": "https://www.inaturalist.org/observations/72992375",
+        "author": "castieler",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Ejemplar identificado por la comunidad; Ademuz, Valencia, 2021.",
+        "examUse": "insufficient",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Vista general compatible; la distribución apoya la identificación, pero la fotografía no excluye por sí sola especies próximas.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+        "reviewBatch": "pendientes-cuatro-20261105",
+        "crop": [
+          0.44,
+          0.3,
+          0.3,
+          0.43
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119110540/original.jpeg"
       }
     ]
   }

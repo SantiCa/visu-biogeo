@@ -34526,5 +34526,61 @@
         "status": "approved"
       }
     ]
+  },
+  {
+    "batch": "pendientes-cuatro-20261105",
+    "picksSha256": "e13203419e79085eee0dbd122f58495ba82168d704c3079e5fc481582a9e3b24",
+    "date": "2026-11-05",
+    "note": "Originales y licencias revisados; fotografías independientes. Arachis muestra frutos diagnósticos; las demás se admiten para estudio con uso insuficiente en examen por identificación específica no concluyente.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "arachis-hypogaea",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Peanuts_%28Arachis_hypogaea%29_-_in_shell%2C_shell_cracked_open%2C_shelled%2C_peeled.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "arachis-hypogaea",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arachis_hypogaea_15-p.bot-ara.hypo-0012.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "anabaena-spiroides",
+        "url": "https://www.protisten.de/wp-content/uploads/2024/01/Dolichospermum-spiroides-040-200-2-9219549-556-VOS_NEW.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 3,
+        "itemId": "anabaena-spiroides",
+        "url": "https://www.protisten.de/wp-content/uploads/2024/01/Dolichospermum-spiroides-063-200-P9182498-504-HID_NEW.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 4,
+        "itemId": "arion-rufus",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199051988/large.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 5,
+        "itemId": "arion-rufus",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Arion_rufus.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 6,
+        "itemId": "berberomeloe-majalis",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500360255/large.jpeg",
+        "status": "approved"
+      },
+      {
+        "index": 7,
+        "itemId": "berberomeloe-majalis",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119110540/original.jpeg",
+        "status": "approved"
+      }
+    ]
   }
 ]

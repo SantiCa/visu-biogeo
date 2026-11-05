@@ -1,25 +1,25 @@
 {
   "date": "2026-11-05",
   "catalogEntries": 2641,
-  "entriesWithApprovedImage": 2291,
-  "entriesWithPair": 2144,
-  "approvedImages": 4808,
+  "entriesWithApprovedImage": 2294,
+  "entriesWithPair": 2148,
+  "approvedImages": 4816,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4809,
+    "approved": 4817,
     "rejected": 705,
     "pending": 3
   },
   "imageSources": {
-    "www.inaturalist.org": 3454,
+    "www.inaturalist.org": 3457,
     "geodil.dperkins.org": 236,
     "www.biodiversitylibrary.org": 2,
     "www.nps.gov": 27,
     "npgallery.nps.gov": 37,
     "www.nature.com": 1,
     "wellcomecollection.org": 2,
-    "commons.wikimedia.org": 86,
+    "commons.wikimedia.org": 89,
     "www.asturnatura.com": 199,
     "pubchem.ncbi.nlm.nih.gov": 67,
     "earthobservatory.nasa.gov": 3,
@@ -29,6 +29,7 @@
     "mmegias.webs.uvigo.es": 164,
     "geovirtual2.cl": 7,
     "www.gbif.org": 120,
+    "www.protisten.de": 2,
     "www.alexstrekeisen.it": 115,
     "geology.com": 72,
     "www.larioja.org": 1,
@@ -147,13 +148,6 @@
       "id": "ambar",
       "name": "Ámbar",
       "kind": "roca",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "anabaena-spiroides",
-      "name": "Anabaena spiroides",
-      "kind": "organismo",
       "approvedImages": 0,
       "priority": false
     },
@@ -309,13 +303,6 @@
       "name": "Arion iratii",
       "kind": "organismo",
       "approvedImages": 1,
-      "priority": false
-    },
-    {
-      "id": "arion-rufus",
-      "name": "Arion rufus",
-      "kind": "organismo",
-      "approvedImages": 0,
       "priority": false
     },
     {
@@ -3385,13 +3372,6 @@
       "priority": false
     },
     {
-      "id": "berberomeloe-majalis",
-      "name": "Berberomeloe majalis",
-      "kind": "organismo",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "herpestes-ichneumon",
       "name": "Herpestes ichneumon",
       "kind": "organismo",
@@ -3487,13 +3467,6 @@
       "name": "Coronella austriaca",
       "kind": "organismo",
       "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "arachis-hypogaea",
-      "name": "Arachis hypogaea",
-      "kind": "organismo",
-      "approvedImages": 1,
       "priority": false
     },
     {
