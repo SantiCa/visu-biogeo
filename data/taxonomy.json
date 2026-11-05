@@ -14816,5 +14816,29 @@
     "checkedAt": "2026-11-05",
     "aliases": [],
     "reviewStatus": "documented"
+  },
+  "cordulegaster-boltonii": {
+    "family": "Cordulegastridae",
+    "matchedName": "Cordulegaster boltonii",
+    "source": "https://www.gbif.org/species/7936251",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "euphydryas-aurinia": {
+    "family": "Nymphalidae",
+    "matchedName": "Euphydryas aurinia",
+    "source": "https://www.gbif.org/species/4535809",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "bombus-terrestris": {
+    "family": "Apidae",
+    "matchedName": "Bombus terrestris",
+    "source": "https://www.gbif.org/species/1340503",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }

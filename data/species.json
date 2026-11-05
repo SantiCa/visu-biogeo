@@ -48987,5 +48987,67 @@
       "Crustáceos"
     ],
     "parentTaxon": "Crustacea"
+  },
+  {
+    "id": "cordulegaster-boltonii",
+    "scientificName": "Cordulegaster boltonii",
+    "kind": "organismo",
+    "aliases": [
+      "Cordulegaster annulatus"
+    ],
+    "sources": [
+      "Listado de  visu de INSECTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu de INSECTOS.pdf",
+        "page": 9
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Cordulegaster annulatus es el nombre histórico empleado por el PDF. Se vincula a Cordulegaster boltonii según NHM (uso de Latreille, no el homónimo de Fabricius); no se crea una segunda especie.",
+    "studyLists": [
+      "Insectos"
+    ]
+  },
+  {
+    "id": "euphydryas-aurinia",
+    "scientificName": "Euphydryas aurinia",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu de INSECTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu de INSECTOS.pdf",
+        "page": 13
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Euphydrias aurinia»; se corrige la errata a Euphydryas aurinia. La grafía original se conserva como procedencia, no como alias aceptado.",
+    "studyLists": [
+      "Insectos"
+    ]
+  },
+  {
+    "id": "bombus-terrestris",
+    "scientificName": "Bombus terrestris",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de animales de la región mediterránea.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de animales de la región mediterránea.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Bombus terrestres»; se corrige la errata a Bombus terrestris. La grafía original se conserva como procedencia, no como alias aceptado.",
+    "studyLists": [
+      "Insectos"
+    ]
   }
 ]

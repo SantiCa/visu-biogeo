@@ -141970,5 +141970,173 @@
     "commonNameStatus": "not-documented",
     "subjectType": "larval-stage",
     "reviewNote": "Forma larvaria, no taxón. Solo se documenta el grupo de origen; no se asignan clase, orden, familia, género ni especie."
+  },
+  "cordulegaster-boltonii": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/7936251",
+    "sources": [
+      "https://www.gbif.org/species/7936251",
+      "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000145045"
+    ],
+    "matchedName": "Cordulegaster boltonii",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Odonata",
+      "family": "Cordulegastridae",
+      "genus": "Cordulegaster",
+      "species": "Cordulegaster boltonii"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Insecta"
+      },
+      {
+        "rank": "order",
+        "name": "Odonata"
+      },
+      {
+        "rank": "family",
+        "name": "Cordulegastridae"
+      },
+      {
+        "rank": "genus",
+        "name": "Cordulegaster"
+      },
+      {
+        "rank": "species",
+        "name": "Cordulegaster boltonii"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Insectos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "Cordulegaster annulatus es el nombre histórico empleado por el PDF. Se vincula a Cordulegaster boltonii según NHM (uso de Latreille, no el homónimo de Fabricius); no se crea una segunda especie."
+  },
+  "euphydryas-aurinia": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/4535809",
+    "sources": [
+      "https://www.gbif.org/species/4535809",
+      "https://www.miteco.gob.es/es/biodiversidad/publicaciones/pbl_invert_artropodos_habitat.html"
+    ],
+    "matchedName": "Euphydryas aurinia",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "family": "Nymphalidae",
+      "genus": "Euphydryas",
+      "species": "Euphydryas aurinia"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Insecta"
+      },
+      {
+        "rank": "order",
+        "name": "Lepidoptera"
+      },
+      {
+        "rank": "family",
+        "name": "Nymphalidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Euphydryas"
+      },
+      {
+        "rank": "species",
+        "name": "Euphydryas aurinia"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Insectos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Euphydrias aurinia»; se corrige la errata a Euphydryas aurinia. La grafía original se conserva como procedencia, no como alias aceptado."
+  },
+  "bombus-terrestris": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/1340503",
+    "sources": [
+      "https://www.gbif.org/species/1340503",
+      "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000009838"
+    ],
+    "matchedName": "Bombus terrestris",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "species": "Bombus terrestris"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Insecta"
+      },
+      {
+        "rank": "order",
+        "name": "Hymenoptera"
+      },
+      {
+        "rank": "family",
+        "name": "Apidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Bombus"
+      },
+      {
+        "rank": "species",
+        "name": "Bombus terrestris"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Insectos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Bombus terrestres»; se corrige la errata a Bombus terrestris. La grafía original se conserva como procedencia, no como alias aceptado."
   }
 }
