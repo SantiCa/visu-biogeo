@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';
-import {buildClassificationForest,quizFields,evaluateIdentification,formulaMatches,phylumLabel} from '../classification-learning.mjs';
+import {buildClassificationForest,classificationPath,quizFields,evaluateIdentification,formulaMatches,phylumLabel} from '../classification-learning.mjs';
 import {review,DAY} from '../engine.mjs';
 const item={id:'encina',kind:'organismo',scientificName:'Quercus ilex',family:'Fagaceae',aliases:[]};
 const tax={rank:'species',ranks:{kingdom:'Plantae',phylum:'Tracheophyta',class:'Magnoliopsida',order:'Fagales',family:'Fagaceae',genus:'Quercus',species:'Quercus ilex'}};
@@ -25,4 +25,20 @@ test('all catalogue entries appear once in the classification tree, and every mi
  const load=async n=>JSON.parse(await readFile(new URL('../data/'+n,import.meta.url),'utf8'));const [catalog,t,g]=await Promise.all(['species.json','learning-taxonomy.json','learning-geology.json'].map(load));
  const tree=buildClassificationForest(catalog,t,g),leaves=[];function walk(n){if(n.itemId)leaves.push(n.itemId);n.children?.forEach(walk);}walk(tree);assert.equal(leaves.length,catalog.length);assert.equal(new Set(leaves).size,catalog.length);
  for(const item of catalog.filter(i=>['mineral','roca'].includes(i.kind))){assert(g[item.id]?.path.length>=2,item.id);assert(g[item.id].sources.length,item.id);if(item.kind==='roca'){assert.equal(g[item.id].formula,null);assert.equal(g[item.id].formulaQuiz,false);}}
+});
+
+test('reviewed fossil families agree in the catalogue, identification grading and study path',async()=>{
+ const load=async n=>JSON.parse(await readFile(new URL('../data/'+n,import.meta.url),'utf8'));
+ const [catalog,learning,documented]=await Promise.all(['species.json','learning-taxonomy.json','taxonomy.json'].map(load));
+ const ids=['pygope','belemnitella','paraceratherium'];
+ for(const [index,id] of ids.entries()){
+  const item=catalog.find(row=>row.id===id),tax=learning[id],family=documented[id].family;
+  assert.equal(documented[id].reviewStatus,'documented',id);
+  assert.equal(evaluateIdentification(item,tax,{}, {name:item.scientificName,family}).results.family,true,id);
+  const wrongFamily=documented[ids[(index+1)%ids.length]].family;
+  assert.equal(evaluateIdentification(item,tax,{}, {name:item.scientificName,family:wrongFamily}).results.family,false,id);
+  assert.equal(classificationPath(item,tax,{}).find(node=>node.rank==='family').name,family,id);
+  assert.equal(tax.hierarchy.find(node=>node.rank==='family').name,family,id);
+ }
+ assert.equal(classificationPath(catalog.find(row=>row.id==='pygope'),learning.pygope,{}).find(node=>node.rank==='order').name,'Terebratulida');
 });

@@ -42,7 +42,7 @@ def apply_evidence(catalog,history,exams,evidence):
         else:history['events'].append(event)
     for event in history['events']:
         if event['year']==2016:event['supportingDocuments']=[{'file':'EXAMEN PRÁCTICO DE ANDALUCÍA 2016.pdf','page':6}]
-    history['reviewedAt']=evidence['reviewedAt'];history['answerKeyDocuments']=evidence['documents'];history['uncertainAnswers']=evidence['unresolved']
+    history['reviewedAt']=max(history.get('reviewedAt',''),evidence['reviewedAt']);history['answerKeyDocuments']=evidence['documents'];history['uncertainAnswers']=evidence['unresolved']
     history['limitations']=[
         'La serie 2006–2025 sigue siendo parcial; no localizar un año no demuestra que no hubiera convocatoria.',
         'Las frecuencias cuentan años distintos con evidencia de reconocimiento o clasificación nominal. Una misma entrada en dos opciones del mismo año cuenta una sola vez.',
@@ -62,7 +62,7 @@ def apply_evidence(catalog,history,exams,evidence):
         else:combined.append(event)
     if not inserted:combined.extend(recognition)
     exams['events']=combined
-    exams['reviewedAt']=evidence['reviewedAt']
+    exams['reviewedAt']=max(exams.get('reviewedAt',''),evidence['reviewedAt'])
     for doc in exams['documents']:
         if doc.get('region')=='Andalucía':
             year=doc['year'];doc['coverage']=summaries[year];doc['answerKeys']=[r for r in evidence['documents'] if r['id']=='solution-'+str(year)];doc['uncertainAnswers']=[r for r in evidence['unresolved'] if r['year']==year]

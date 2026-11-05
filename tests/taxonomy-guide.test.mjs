@@ -26,3 +26,12 @@ test('rank explanations distinguish rank from taxon and group facts cite primary
  assert(rankGuide('subfamily').text.includes('inferior'));assert(rankGuide('superfamily').text.includes('superior'));
  for(const g of Object.values(TAXON_GUIDE))assert(/^https:\/\/(openstax.org|www.nps.gov|www.asturnatura.com|genent.cals.ncsu.edu)\//.test(g.source));
 });
+
+test('map aligns biological ranks across incomplete lineages and preserves the direction of every edge',()=>{
+ const tree=buildStudyTree(catalog,taxonomy,geology,profiles,{group:'all'}),map=layoutStudyTree(tree,expandThrough(tree,'all'));
+ for(const rank of ['kingdom','phylum','class','order','family','genus']){
+  const columns=new Set(map.nodes.filter(n=>n.rank===rank).map(n=>n.x));assert.equal(columns.size,1,rank);
+ }
+ for(const edge of map.edges)assert(edge.to.x>edge.from.x,`${edge.from.rank}: ${edge.from.name} → ${edge.to.rank}: ${edge.to.name}`);
+ const genera=map.nodes.filter(n=>n.rank==='genus');assert(new Set(genera.map(n=>n.hue)).size>1);
+});

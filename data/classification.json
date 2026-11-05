@@ -26549,5 +26549,35 @@
     "group": "Algas rojas",
     "source": "https://www.inaturalist.org/taxa/87457",
     "checkedAt": "2026-10-26"
+  },
+  "canis-lupus": {
+    "family": "Canidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Mammalia",
+      "Carnivora",
+      "Canidae",
+      "Canis",
+      "Canis lupus"
+    ],
+    "group": "Mamíferos",
+    "source": "https://www.gbif.org/species/5219173",
+    "checkedAt": "2026-11-05"
+  },
+  "vulpes-vulpes": {
+    "family": "Canidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Mammalia",
+      "Carnivora",
+      "Canidae",
+      "Vulpes",
+      "Vulpes vulpes"
+    ],
+    "group": "Mamíferos",
+    "source": "https://www.gbif.org/species/5219243",
+    "checkedAt": "2026-11-05"
   }
 }

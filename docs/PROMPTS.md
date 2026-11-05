@@ -4,6 +4,8 @@ Abrir un chat nuevo por cambio concreto dentro del proyecto **App Visu**, cuya r
 
 No crear siete chats vacíos ni mantener un chat interminable por área. Elegir el área de la tarea y sustituir el texto entre corchetes. `AGENTS.md` ya contiene las reglas de contexto, ramas, validación y PR; no hace falta pegarlo ni copiar conversaciones anteriores.
 
+Al comenzar una tarea nueva, ejecutar `python scripts/start_task.py area-resumen` desde el repositorio y usar la ruta devuelta. El comando exige una raíz limpia y crea una copia desde `origin/main` actualizado. Para continuar un PR abierto, seguir usando su worktree.
+
 ## Interfaz
 
 ```text

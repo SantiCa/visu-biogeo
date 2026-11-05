@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-26",
-  "biologicalEntries": 1886,
-  "rankedPhyla": 1881,
-  "commonNames": 1251,
+  "date": "2026-11-05",
+  "biologicalEntries": 1897,
+  "rankedPhyla": 1888,
+  "commonNames": 1253,
   "notApplicableIds": [
     "coprolito",
     "cruziana",
@@ -10,6 +10,10 @@
     "icnita"
   ],
   "pendingIds": [
-    "pectunculus"
+    "trypanosoma-sp",
+    "burhinus-oedicnemus",
+    "phlomis-herba-venti",
+    "berberomeloe-majalis",
+    "herpestes-ichneumon"
   ]
 }

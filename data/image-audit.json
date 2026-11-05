@@ -1,26 +1,31 @@
 {
-  "date": "2026-10-30",
-  "catalogEntries": 2609,
-  "entriesWithApprovedImage": 2267,
-  "entriesWithPair": 2123,
-  "approvedImages": 4759,
+  "date": "2026-11-05",
+  "catalogEntries": 2616,
+  "entriesWithApprovedImage": 2289,
+  "entriesWithPair": 2143,
+  "approvedImages": 4805,
   "priorityEntries": 163,
   "priorityWithPair": 163,
   "decisions": {
-    "approved": 4760,
-    "rejected": 698,
+    "approved": 4806,
+    "rejected": 705,
     "pending": 3
   },
   "imageSources": {
-    "geodil.dperkins.org": 234,
-    "www.inaturalist.org": 3449,
-    "commons.wikimedia.org": 72,
+    "www.inaturalist.org": 3454,
+    "geodil.dperkins.org": 236,
+    "www.biodiversitylibrary.org": 2,
+    "www.nps.gov": 27,
+    "npgallery.nps.gov": 37,
+    "www.nature.com": 1,
+    "wellcomecollection.org": 2,
+    "commons.wikimedia.org": 83,
     "www.asturnatura.com": 199,
-    "npgallery.nps.gov": 36,
-    "www.nps.gov": 26,
     "pubchem.ncbi.nlm.nih.gov": 67,
+    "earthobservatory.nasa.gov": 3,
     "valsanagra.it": 3,
     "public.wmo.int": 6,
+    "www.visibleearth.nasa.gov": 1,
     "mmegias.webs.uvigo.es": 164,
     "geovirtual2.cl": 7,
     "www.gbif.org": 120,
@@ -31,6 +36,8 @@
     "www.miteco.gob.es": 7,
     "www.juntadeandalucia.es": 1,
     "cloudatlas.wmo.int": 27,
+    "science.nasa.gov": 17,
+    "eol.jsc.nasa.gov": 1,
     "medcell.org": 7,
     "histology.siu.edu": 9,
     "ammonoid.treatise.geolex.org": 1,
@@ -45,7 +52,6 @@
     "www.rcsb.org": 10,
     "home.nps.gov": 8,
     "www.weather.gov": 4,
-    "science.nasa.gov": 7,
     "www.antarcticglaciers.org": 6,
     "www.science.smith.edu": 10,
     "www.digitalatlasofancientlife.org": 1,
@@ -55,13 +61,16 @@
     "www.cfb.unh.edu": 4,
     "www.microscopy-uk.org.uk": 1,
     "www.nasa.gov": 1,
+    "www.flickr.com": 1,
     "www.pi.ingv.it": 1,
     "www.usgs.gov": 1,
     "www.whoi.edu": 1,
     "response.restoration.noaa.gov": 4,
     "www.uv.es": 6,
     "uwaterloo.ca": 2,
+    "egusphere.copernicus.org": 2,
     "www.csmc.uni-hamburg.de": 1,
+    "jm.copernicus.org": 3,
     "www.cdc.gov": 6,
     "parquesnaturales.gva.es": 1,
     "gq.mines.gouv.qc.ca": 1,
@@ -78,55 +87,6 @@
   "brokenApprovedFiles": [],
   "priorityMissingPairs": [],
   "allMissingPairs": [
-    {
-      "id": "melanargia-russiae",
-      "name": "Melanargia russiae",
-      "kind": "organismo",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "arenisca-arcosica",
-      "name": "Arenisca arcósica",
-      "kind": "roca",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "ocnus-planci",
-      "name": "Ocnus planci",
-      "kind": "organismo",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "estructura-egagropila-de-rapaz-nocturna",
-      "name": "Egagrópila de rapaz nocturna",
-      "kind": "estructura",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "posidonia-sp",
-      "name": "Posidonia sp.",
-      "kind": "organismo",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "estructura-epitelio-intestinal",
-      "name": "Epitelio intestinal",
-      "kind": "estructura",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "turdus-viscivorus",
-      "name": "Turdus viscivorus",
-      "kind": "organismo",
-      "approvedImages": 0,
-      "priority": false
-    },
     {
       "id": "acanaladura",
       "name": "Acanaladura",
@@ -173,27 +133,6 @@
       "id": "estructura-ala-de-insecto-mosca",
       "name": "Ala de insecto, mosca",
       "kind": "estructura",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "albufera-o-lagoon",
-      "name": "Albufera o lagoon",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "aluviones-llanura-aluvial-llanura-de-inundacion",
-      "name": "Aluviones. Llanura aluvial. Llanura de inundación",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "alveolina",
-      "name": "Alveolina",
-      "kind": "fosil",
       "approvedImages": 0,
       "priority": false
     },
@@ -408,13 +347,6 @@
       "priority": false
     },
     {
-      "id": "atolon-atolon-de-glover-agujero-azul-de-belice",
-      "name": "Atolón. Atolón de Glover / Agujero azul de Belice",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "australopithecus-afarensis",
       "name": "Australopithecus afarensis",
       "kind": "fosil",
@@ -439,13 +371,6 @@
       "id": "balanus",
       "name": "Balanus",
       "kind": "fosil",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "banquisa",
-      "name": "Banquisa",
-      "kind": "relieve",
       "approvedImages": 0,
       "priority": false
     },
@@ -996,13 +921,6 @@
       "priority": false
     },
     {
-      "id": "domo-salino-diapiro",
-      "name": "Domo salino. Diapiro",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "dorycnium-fulgurans",
       "name": "Dorycnium fulgurans",
       "kind": "organismo",
@@ -1209,13 +1127,6 @@
       "id": "molecula-filosilicato",
       "name": "Filosilicato",
       "kind": "molecula",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "flecha",
-      "name": "Flecha",
-      "kind": "relieve",
       "approvedImages": 0,
       "priority": false
     },
@@ -1507,13 +1418,6 @@
       "priority": false
     },
     {
-      "id": "indlandsis",
-      "name": "Indlandsis",
-      "kind": "relieve",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "molecula-inosilicatos-de-cadena-doble-anfiboles",
       "name": "Inosilicatos de cadena doble. ANFÍBOLES",
       "kind": "molecula",
@@ -1545,13 +1449,6 @@
       "id": "jumillita",
       "name": "Jumillita",
       "kind": "roca",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "karst-en-torres",
-      "name": "Karst en torres",
-      "kind": "relieve",
       "approvedImages": 0,
       "priority": false
     },
@@ -1794,13 +1691,6 @@
       "priority": false
     },
     {
-      "id": "nummulites",
-      "name": "Nummulites",
-      "kind": "fosil",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
       "id": "ocre-rojo",
       "name": "Ocre rojo",
       "kind": "mineral",
@@ -1845,13 +1735,6 @@
     {
       "id": "operculina",
       "name": "Operculina",
-      "kind": "fosil",
-      "approvedImages": 0,
-      "priority": false
-    },
-    {
-      "id": "orbitolina",
-      "name": "Orbitolina",
       "kind": "fosil",
       "approvedImages": 0,
       "priority": false
@@ -3204,7 +3087,7 @@
       "id": "estructura-craneo-de-canis-lupus",
       "name": "Cráneo de Canis lupus",
       "kind": "estructura",
-      "approvedImages": 0,
+      "approvedImages": 1,
       "priority": false
     },
     {
@@ -3239,7 +3122,7 @@
       "id": "estructura-craneo-de-vulpes-vulpes",
       "name": "Cráneo de Vulpes vulpes",
       "kind": "estructura",
-      "approvedImages": 0,
+      "approvedImages": 1,
       "priority": false
     },
     {
@@ -3477,6 +3360,41 @@
       "id": "montlivaltia-sp",
       "name": "Montlivaltia sp",
       "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "trypanosoma-sp",
+      "name": "Trypanosoma sp.",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "burhinus-oedicnemus",
+      "name": "Burhinus oedicnemus",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "phlomis-herba-venti",
+      "name": "Phlomis herba-venti",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "berberomeloe-majalis",
+      "name": "Berberomeloe majalis",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "herpestes-ichneumon",
+      "name": "Herpestes ichneumon",
+      "kind": "organismo",
       "approvedImages": 0,
       "priority": false
     }
