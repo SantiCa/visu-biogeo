@@ -99085,6 +99085,59 @@
         "reviewMethod": "Correspondencia con la fuente y revisión visual",
         "reviewNote": "Revisión individual de formas y pies de fuente NPS/NASA. Se excluyen Ebro rotulado que revela Delta y una vista de cauce activo sin lago abandonado inequívoco. Recortes de Mamoré conservan meandros y paleocauces visibles y eliminan los rótulos. El recorte de paleocauce es una vista de detalle, no una fotografía general de diagnóstico. No se interpreta el color de la imagen orbital como litología.",
         "reviewBatch": "coastal-oct26-next"
+      },
+      {
+        "url": "./assets/reviewed/f0930017a2126a2ab677.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/dungeness-spit-149674/",
+        "author": "Lauren Dauphin / NASA Earth Observatory, con datos Landsat 9 del USGS",
+        "description": "Flecha de Dungeness (Washington), unida a la costa por un extremo y con una punta curva que delimita la bahía (6 de abril de 2022).",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/dungeness-spit-149674/",
+          "https://www.fws.gov/project/habitats-dungeness-national-wildlife-refuge"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+        "reviewBatch": "indlandsis-flechas-20261105",
+        "crop": [
+          0.17,
+          0.26,
+          0.39,
+          0.36
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/149000/149674/dungenessspit_oli2_202296_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/8e7c818eb9563baf38cb.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/farewell-spit-new-zealand-5754/",
+        "author": "NASA/GSFC/METI/ERSDAC/JAROS y equipo científico ASTER de EE. UU. y Japón",
+        "description": "Flecha de Farewell (Nueva Zelanda), unida a tierra junto al cabo y prolongada sobre Golden Bay, con bajos intermareales en su lado abrigado (13 de febrero de 2001).",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/farewell-spit-new-zealand-5754/",
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/farewell-spit-and-puponga-farm-park/",
+          "https://asterweb.jpl.nasa.gov/gallery-detail.asp?name=Farewell"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+        "reviewBatch": "indlandsis-flechas-20261105",
+        "crop": [
+          0.25,
+          0.025,
+          0.73,
+          0.55
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/5000/5754/farewell_ast_2001044_lrg.jpg"
       }
     ]
   },
@@ -103228,6 +103281,770 @@
         "reviewMethod": "Cotejo de fuente y revisión visual",
         "reviewBatch": "lobo-zorro-20261105",
         "reviewNote": "Imagen revisada; copia JPEG redimensionada cuando supera 1600 píxeles. Sin recorte."
+      }
+    ]
+  },
+  "melanargia-russiae": {
+    "images": [
+      {
+        "url": "./assets/reviewed/892f0c6d7bd30fb6e9dd.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/20674408/original.jpeg",
+        "page": "https://www.inaturalist.org/observations/13981581",
+        "author": "Kostas Zontanos (kostaszontanos)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista dorsal, con trazos oscuros en la celda del ala anterior.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://atlas.libellules-et-papillons-lr.org/atlas/espece/53707"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20674408/original.jpeg"
+      },
+      {
+        "url": "./assets/reviewed/87f03012e0e9f3dca482.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/136143805/original.jpg",
+        "page": "https://www.inaturalist.org/observations/82924788",
+        "author": "Evgenij Samarin",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista ventral, con ocelos y dibujo de las alas posteriores.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://biodiversity.unitir.edu.al/Albania_Melanargia_russiae.html"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136143805/original.jpg"
+      }
+    ]
+  },
+  "turdus-viscivorus": {
+    "images": [
+      {
+        "url": "./assets/reviewed/4aaa0c4d6716c4fcb3a7.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/6271368/original.jpg",
+        "page": "https://www.inaturalist.org/observations/5101712",
+        "author": "Nigel Voaden",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista lateral del zorzal, con pecho y flancos moteados.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.rspb.org.uk/birds-and-wildlife/mistle-thrush"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6271368/original.jpg"
+      },
+      {
+        "url": "./assets/reviewed/aace1a4a7b070c395723.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/254577037/original.jpg",
+        "page": "https://www.inaturalist.org/observations/147895709",
+        "author": "Griha Hasanov",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Vista frontal y lateral de otro ejemplar, con manchas redondeadas.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.bto.org/sites/default/files/u23/downloads/pdfs/factsheet_thrushes.pdf"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Contraste de identificación con fuente independiente y revisión visual de esta fotografía.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254577037/original.jpg"
+      }
+    ]
+  },
+  "ocnus-planci": {
+    "images": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/29323858/original.jpg",
+        "page": "https://www.inaturalist.org/observations/19108027",
+        "author": "jujurenoult",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Holoturia con tentáculos arborescentes y cuerpo parcialmente visible.",
+        "examUse": "detail",
+        "status": "rejected",
+        "verificationSources": [
+          "https://www.marlin.ac.uk/species/detail/1861/1000"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Sustituida: observación comunitaria compatible, pero sin osículos ni examen que permita confirmar la especie; no se considera identificación errónea.",
+        "reviewBatch": "ocnus-verificado-20261031"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/13993364/original.jpeg",
+        "page": "https://www.inaturalist.org/observations/10143687",
+        "author": "jujurenoult",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Holoturia en sustrato con corona de tentáculos extendida.",
+        "examUse": "detail",
+        "status": "rejected",
+        "verificationSources": [
+          "https://www.marlin.ac.uk/species/detail/1861/1000"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Sustituida: observación comunitaria compatible, pero sin osículos ni examen que permita confirmar la especie; no se considera identificación errónea.",
+        "reviewBatch": "ocnus-verificado-20261031"
+      },
+      {
+        "url": "./assets/reviewed/ca10f6d9e55695f8ac20.jpg",
+        "page": "https://www.biodiversitylibrary.org/page/55485878",
+        "author": "P. Mark O’Loughlin y Nicola Alcock / Museums Victoria",
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "description": "Vista dorsal del ejemplar conservado NMV F82971, Ocnus planci, figura 5g de O’Loughlin y Alcock (2000).",
+        "examUse": "detail",
+        "status": "approved",
+        "reference": "Fotografía dorsal recortada de la figura 5; espécimen comparativo del Mediterráneo occidental estudiado por los autores. Escaneo BHL del volumen 58(1). · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "verificationSources": [
+          "https://www.vliz.be/imisdocs/publications/32198.pdf",
+          "https://museumsvictoria.com.au/collections-research/journals/memoirs-of-museum-victoria/about-memoirs/"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Fotografía distinta de vista dorsal del mismo espécimen de museo NMV F82971 estudiado por O’Loughlin y Alcock; los osículos que sustentan la identificación están documentados en la misma figura, pero no son visibles en este recorte. Se conserva como detalle.",
+        "reviewBatch": "ocnus-verificado-20261031",
+        "crop": [
+          0.034,
+          0.467,
+          0.27,
+          0.125
+        ],
+        "originalUrl": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5g",
+        "key": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5g"
+      },
+      {
+        "url": "./assets/reviewed/0458d9943fe40c6b83ff.jpg",
+        "page": "https://www.biodiversitylibrary.org/page/55485878",
+        "author": "P. Mark O’Loughlin y Nicola Alcock / Museums Victoria",
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "description": "Vista ventral del ejemplar conservado NMV F82971, Ocnus planci, figura 5h de O’Loughlin y Alcock (2000).",
+        "examUse": "detail",
+        "status": "approved",
+        "reference": "Fotografía ventral recortada de la figura 5; espécimen comparativo del Mediterráneo occidental estudiado por los autores. Escaneo BHL del volumen 58(1). · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "verificationSources": [
+          "https://www.vliz.be/imisdocs/publications/32198.pdf",
+          "https://museumsvictoria.com.au/collections-research/journals/memoirs-of-museum-victoria/about-memoirs/"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Fotografía distinta de vista ventral del mismo espécimen de museo NMV F82971 estudiado por O’Loughlin y Alcock; los osículos que sustentan la identificación están documentados en la misma figura, pero no son visibles en este recorte. Se conserva como detalle.",
+        "reviewBatch": "ocnus-verificado-20261031",
+        "crop": [
+          0.318,
+          0.467,
+          0.27,
+          0.125
+        ],
+        "originalUrl": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5h",
+        "key": "https://archive.org/download/memoirsmuseumvi58muse/memoirsmuseumvi58muse_jp2.zip/memoirsmuseumvi58muse_jp2/memoirsmuseumvi58muse_0033.jp2#figure=5h"
+      }
+    ]
+  },
+  "arenisca-arcosica": {
+    "images": [
+      {
+        "url": "./assets/reviewed/d12e0f69ec4361bc1f19.jpg",
+        "key": "https://geodil.dperkins.org/i/473.jpg",
+        "page": "https://geodil.dperkins.org/h/473.html",
+        "author": "Nessa Eull / GeoDIL",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "description": "Muestra de arcosa de Montana; contiene cuarzo y feldespato.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://commons.wikimedia.org/wiki/File:Arkose_(GeoDIL_number_-_473).jpg"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Muestra identificada como arcosa por GeoDIL. La composición mineral y proporción de feldespato no pueden establecerse sin ambigüedad a partir de esta fotografía; clasificada como detalle.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://geodil.dperkins.org/i/473.jpg"
+      },
+      {
+        "url": "./assets/reviewed/58a14f2303086ca61584.jpg",
+        "key": "https://geodil.dperkins.org/i/2.jpg",
+        "page": "https://geodil.dperkins.org/h/2.html",
+        "author": "Dexter Perkins / GeoDIL",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "description": "Arcosa rojiza: muestra derecha de la comparación original con granito.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://commons.wikimedia.org/wiki/File:Granite_and_arkose_(GeoDIL_number_-_2).jpg"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Muestra identificada como arcosa por GeoDIL. La composición mineral y proporción de feldespato no pueden establecerse sin ambigüedad a partir de esta fotografía; clasificada como detalle.",
+        "reviewBatch": "madrid-2002-20261030",
+        "crop": [
+          0.56,
+          0.02,
+          0.42,
+          0.92
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://geodil.dperkins.org/i/2.jpg"
+      }
+    ]
+  },
+  "estructura-epitelio-intestinal": {
+    "images": [
+      {
+        "url": "./assets/reviewed/465514242ff7080c4f5f.jpg",
+        "key": "https://iiif.wellcomecollection.org/image/B0007180/full/full/0/default.jpg",
+        "page": "https://wellcomecollection.org/works/s39bfr8e",
+        "author": "S. Schuller / Wellcome Collection",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Criocorte fluorescente de mucosa intestinal humana con vellosidades y criptas.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Anatomy_Lab/20%3A__The_Digestive_System/20.04%3A_Small_Intestine"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Muestra con marcaje fluorescente, no tinción histológica convencional; útil como detalle, no como única referencia de reconocimiento.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://iiif.wellcomecollection.org/image/B0007180/full/full/0/default.jpg"
+      },
+      {
+        "url": "./assets/reviewed/bce2dba68617fea3b74b.jpg",
+        "key": "https://iiif.wellcomecollection.org/image/B0006246/full/full/0/default.jpg",
+        "page": "https://wellcomecollection.org/works/guj6edk6",
+        "author": "S. Schuller / Wellcome Collection",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Epitelio cilíndrico de intestino delgado humano, marcado por fluorescencia.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Anatomy_Lab/20%3A__The_Digestive_System/20.04%3A_Small_Intestine"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Muestra con marcaje fluorescente, no tinción histológica convencional; útil como detalle, no como única referencia de reconocimiento.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://iiif.wellcomecollection.org/image/B0006246/full/full/0/default.jpg"
+      }
+    ]
+  },
+  "posidonia-sp": {
+    "images": [
+      {
+        "url": "./assets/reviewed/dbc1d0ca6586900cc4b8.jpg",
+        "key": "https://inaturalist-open-data.s3.amazonaws.com/photos/452175523/original.jpg",
+        "page": "https://www.inaturalist.org/observations/252579026",
+        "author": "Golfopolikayak",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Inflorescencia de Posidonia oceanica; recorte de la fotografía superior izquierda de un montaje.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://admin.algaebase.org/search/species/detail/?distro=y&species_id=18577"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Una sola fotografía de flores procedente de un montaje; la especie es P. oceanica, incluida en Posidonia sp.; la segunda fotografía independiente está registrada en madrid-parejas-20261031.",
+        "reviewBatch": "madrid-2002-20261030",
+        "crop": [
+          0,
+          0,
+          0.343,
+          0.62
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452175523/original.jpg"
+      },
+      {
+        "url": "https://www.nature.com/articles/s43247-026-03631-8.pdf#page=4&figure=3&photo=provence",
+        "page": "https://www.nature.com/articles/s43247-026-03631-8",
+        "author": "Bruno Belloni; Astruch et al. (2026)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Posidonia oceanica en flor bajo el agua, Provenza; primera fotografía de la figura 3 de Astruch et al. (2026).",
+        "examUse": "detail",
+        "status": "rejected",
+        "verificationSources": [
+          "https://ofb.gouv.fr/especes/posidonie-posidonia-oceanica"
+        ],
+        "reference": "Foto de Bruno Belloni en figura 3, Astruch et al., DOI 10.1038/s43247-026-03631-8; recortada del PDF.",
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Versión de menor resolución sustituida por el recorte del manuscrito de la editorial; representa la misma fotografía, no una vista independiente.",
+        "reviewBatch": "posidonia-resolucion-20261031"
+      },
+      {
+        "url": "./assets/reviewed/9d995716d2deda1c4121.jpg",
+        "page": "https://www.nature.com/articles/s43247-026-03631-8",
+        "author": "Bruno Belloni; Astruch et al. (2026)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Posidonia oceanica en flor bajo el agua, Provenza; fotografía de Bruno Belloni en la figura 3 del manuscrito de Astruch et al. (2026).",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://ofb.gouv.fr/especes/posidonie-posidonia-oceanica"
+        ],
+        "reference": "Fotografía de Bruno Belloni en Astruch et al., DOI 10.1038/s43247-026-03631-8; recortada del manuscrito de la editorial, a mayor resolución. · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "sourceImage": "xref218.jpeg",
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Misma fotografía de Bruno Belloni que la versión sustituida, procedente de la figura 3 del manuscrito; resolución mayor y encuadre revisado. Es independiente de la fotografía de iNaturalist.",
+        "reviewBatch": "posidonia-resolucion-20261031",
+        "crop": [
+          0.003,
+          0.738,
+          0.244,
+          0.257
+        ],
+        "originalUrl": "https://www.nature.com/articles/s43247-026-03631-8_reference.pdf#page=27&figure=3&photo=provence"
+      }
+    ]
+  },
+  "estructura-egagropila-de-rapaz-nocturna": {
+    "images": [
+      {
+        "url": "./assets/reviewed/1ee5bd6085de314a8fed.jpg",
+        "key": "https://www.nps.gov/common/uploads/nri/20241031/teachers/E8DD978D-906F-CA43-ECEA38B3B551EDBE/E8DD978D-906F-CA43-ECEA38B3B551EDBE.jpg",
+        "page": "https://www.nps.gov/teachers/classrooms/owl-pellets-from-the-past.htm",
+        "author": "L. Parry / National Park Service",
+        "license": "Public domain",
+        "licenseUrl": "https://www.usa.gov/government-works",
+        "description": "Egagrópila con restos óseos y pelo en el suelo; rapaz nocturna según la fuente.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.usgs.gov/media/videos/burrowing-owl-regurgitating-a-pellet"
+        ],
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "La fuente identifica una egagrópila de búho, con pelo y huesos expuestos; la segunda fotografía independiente está registrada en madrid-parejas-20261031.",
+        "reviewBatch": "madrid-2002-20261030",
+        "originalUrl": "https://www.nps.gov/common/uploads/nri/20241031/teachers/E8DD978D-906F-CA43-ECEA38B3B551EDBE/E8DD978D-906F-CA43-ECEA38B3B551EDBE.jpg"
+      },
+      {
+        "url": "./assets/reviewed/a077d917f941de7b45fd.jpg",
+        "page": "https://npgallery.nps.gov/SearchResults/albumid/6512657B-1DD8-B71B-0BD28ABA029AAF4B",
+        "author": "National Park Service",
+        "license": "Public domain",
+        "licenseUrl": "https://www.usa.gov/government-works",
+        "description": "Egagrópilas de búho con pelo y restos de huesos, en la tundra de Noatak, Alaska.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.nps.gov/teachers/classrooms/owl-pellets-from-the-past.htm"
+        ],
+        "reference": "NPS, Noatak National Preserve, imagen 6b98ae44; recorte de una fotografía independiente. · Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "La fuente NPS identifica egagrópila de búho; fotografía distinta de la publicada por L. Parry. Recorte de ejemplares y restos sobre el sustrato.",
+        "reviewBatch": "madrid-parejas-20261031",
+        "crop": [
+          0.195,
+          0.22,
+          0.53,
+          0.56
+        ],
+        "originalUrl": "https://npgallery.nps.gov/GetAsset/6b98ae44-1dd8-b71b-0b39-14994a908a6d/original"
+      }
+    ]
+  },
+  "albufera-o-lagoon": {
+    "images": [
+      {
+        "url": "./assets/reviewed/7c69ce0634ec495f84b6.jpg",
+        "key": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/145000/145571/iss059e036214_lrg.jpg",
+        "page": "https://earthobservatory.nasa.gov/images/145571/punta-banda-baja-california",
+        "author": "NASA / tripulación ISS Expedición 59",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "description": "Laguna costera de Punta Banda, Baja California; cordón litoral que la separa de la bahía y comunicación con el mar.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://oceanservice.noaa.gov/facts/lagoon.html"
+        ],
+        "reviewedAt": "2026-11-04",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "NASA identifica la laguna costera; se conservan barrera litoral, agua interior y mar en el recorte.",
+        "reviewBatch": "relieves-20261104",
+        "crop": [
+          0.16,
+          0.17,
+          0.55,
+          0.64
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/145000/145571/iss059e036214_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/9f9c22c48e9104692f7e.jpg",
+        "key": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/150000/150964/iss067e373246_lrg.jpg",
+        "page": "https://earthobservatory.nasa.gov/images/150964/south-padre-island",
+        "author": "NASA / tripulación ISS Expedición 67",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "description": "Laguna Madre, Texas, resguardada del golfo por la isla barrera de South Padre.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://oceanservice.noaa.gov/facts/lagoon.html"
+        ],
+        "reviewedAt": "2026-11-04",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "NASA identifica la laguna costera; se conservan barrera litoral, agua interior y mar en el recorte.",
+        "reviewBatch": "relieves-20261104",
+        "crop": [
+          0.02,
+          0.02,
+          0.96,
+          0.94
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/150000/150964/iss067e373246_lrg.jpg"
+      }
+    ]
+  },
+  "aluviones-llanura-aluvial-llanura-de-inundacion": {
+    "images": [
+      {
+        "url": "./assets/reviewed/7b97a240e4cd1c1b4885.jpg",
+        "key": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/151000/151078/iss064e014990_lrg.jpg",
+        "page": "https://earthobservatory.nasa.gov/images/151078/muddy-water-and-a-wide-floodplain",
+        "author": "NASA / tripulación ISS Expedición 64",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "description": "Llanura aluvial del Amazonas: canales y superficies bajas con depósitos y lagunas asociadas.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.nps.gov/subjects/geology/fluvial-landforms.htm"
+        ],
+        "reviewedAt": "2026-11-04",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "NASA identifica la llanura fluvial; fotografía orbital de contexto que muestra cauces y zonas bajas. Detalle: una imagen por sí sola no demuestra la periodicidad de inundación ni la composición sedimentaria.",
+        "reviewBatch": "relieves-20261104",
+        "crop": [
+          0.0,
+          0.0,
+          1,
+          0.8
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/151000/151078/iss064e014990_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/b262dd4eaba1830e2e3e.jpg",
+        "key": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153454/iss070e042458_lrg.jpg",
+        "page": "https://www.visibleearth.nasa.gov/images/153454/meanders-of-the-irrawaddy-river/153456l",
+        "author": "NASA / tripulación ISS Expedición 70",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "description": "Llanura de inundación del Irrawaddy, Myanmar: cauces activos y antiguos meandros sobre terrenos bajos.",
+        "examUse": "detail",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.nps.gov/dewa/learn/nature/floodplains.htm"
+        ],
+        "reviewedAt": "2026-11-04",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "NASA identifica la llanura fluvial; fotografía orbital de contexto que muestra cauces y zonas bajas. Detalle: una imagen por sí sola no demuestra la periodicidad de inundación ni la composición sedimentaria.",
+        "reviewBatch": "relieves-20261104",
+        "crop": [
+          0.14,
+          0.1,
+          0.72,
+          0.75
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153454/iss070e042458_lrg.jpg"
+      }
+    ]
+  },
+  "banquisa": {
+    "images": [
+      {
+        "url": "./assets/reviewed/f0220a0c91bff1b26a12.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/ice-in-the-weddell-sea-91490/",
+        "author": "NASA / Digital Mapping System (Operation IceBridge)",
+        "description": "Vista aérea de placas de hielo marino de distintos tamaños, con canales oscuros de agua abierta, en el mar de Weddell (12 de noviembre de 2017).",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/ice-in-the-weddell-sea-91490/",
+          "https://nsidc.org/learn/cryosphere-glossary/pack-ice"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+        "reviewBatch": "costa-hielo-20261105",
+        "crop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/91000/91490/SeaIceWeddell_dms_2017316_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/ffe775f4e844b381123f.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/splintering-sea-ice-in-the-amundsen-gulf-151418/",
+        "author": "Allison Nussbaum / NASA Earth Observatory, con datos Aqua MODIS",
+        "description": "Fragmentos de hielo marino separados por agua abierta tras la rotura del hielo fijo en el golfo de Amundsen (30 de mayo de 2023).",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/splintering-sea-ice-in-the-amundsen-gulf-151418/",
+          "https://www.antarctica.gov.au/about-antarctica/ice-and-atmosphere/sea-ice/pack-ice/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+        "reviewBatch": "costa-hielo-20261105",
+        "crop": [
+          0.32,
+          0.26,
+          0.31,
+          0.31
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/151000/151418/amundsengulf_amo_2023150_lrg.jpg"
+      }
+    ]
+  },
+  "atolon-atolon-de-glover-agujero-azul-de-belice": {
+    "images": [
+      {
+        "url": "./assets/reviewed/afee8840d891593a2ce5.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/great-blue-hole-belize-37741/",
+        "author": "Jesse Allen / NASA Earth Observatory, con datos EO-1 ALI",
+        "description": "Lighthouse Reef (Belice), con un borde arrecifal somero que rodea la laguna y el Gran Agujero Azul como una mancha circular oscura (24 de marzo de 2009).",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/great-blue-hole-belize-37741/",
+          "https://whc.unesco.org/en/list/764/maps/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+        "reviewBatch": "costa-hielo-20261105",
+        "crop": [
+          0.06,
+          0.02,
+          0.79,
+          0.97
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/37000/37741/greatbluehole_ali_2009083_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/021407e7458e84499d13.jpg",
+        "page": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?frame=81945&mission=ISS062&roll=E",
+        "author": "NASA / ISS Expedition 62, Earth Science and Remote Sensing Unit",
+        "description": "Fotografía orbital ISS062-E-81945 del atolón Lighthouse Reef, con la laguna, el borde arrecifal y el Gran Agujero Azul en el extremo izquierdo de la vista (5 de marzo de 2020).",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "verificationSources": [
+          "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?frame=81945&mission=ISS062&roll=E",
+          "https://whc.unesco.org/en/list/764/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Originales y encuadres cotejados con NASA, NSIDC, Australian Antarctic Program y UNESCO. Dos capturas independientes por entrada. Las vistas de Belice documentan Lighthouse Reef y el Gran Agujero Azul.",
+        "reviewBatch": "costa-hielo-20261105",
+        "crop": [
+          0.13,
+          0.29,
+          0.82,
+          0.48
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS062/ISS062-E-81945.JPG"
+      }
+    ]
+  },
+  "domo-salino-diapiro": {
+    "images": [
+      {
+        "url": "./assets/reviewed/0c36042f42088f2e1915.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/salt-dome-in-the-zagros-mountains-iran-6465/",
+        "author": "NASA / ISS Expedition 12, Crew Earth Observations",
+        "description": "Diapiro de Kuh-e-Namak (Dashti), con afloramiento claro de sal y estratos circundantes levantados, en la fotografía ISS012-E-18774 (28 de febrero de 2006).",
+        "examUse": "detail",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/salt-dome-in-the-zagros-mountains-iran-6465/",
+          "https://www.sciencedirect.com/science/article/pii/0191814184900622"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+        "reviewBatch": "diapiros-karst-20261105",
+        "crop": [
+          0.24,
+          0.08,
+          0.48,
+          0.83
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/6000/6465/ISS012-E-18774_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/4b37855ab275ed1db421.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/salt-glacier-zagros-mountains-91264/",
+        "author": "NASA / ISS Expedition 52, Earth Science and Remote Sensing Unit",
+        "description": "Domo central y lóbulos de sal extruida que descienden hacia los valles del Zagros, en la fotografía ISS052-E-8401 (24 de junio de 2017).",
+        "examUse": "detail",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/salt-glacier-zagros-mountains-91264/",
+          "https://iugs-geoheritage.org/geoheritage_sites/salt-domes-and-glaciers-of-the-zagros-fold-and-thrust-belt/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+        "reviewBatch": "diapiros-karst-20261105",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/91000/91264/iss052e008401_lrg.jpg"
+      }
+    ]
+  },
+  "karst-en-torres": {
+    "images": [
+      {
+        "url": "./assets/reviewed/0b4bdde0d24055b94fb5.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/the-emerald-isles-of-ha-long-bay-149803/",
+        "author": "Norman Kuring / NASA Ocean Color Web, con datos Landsat 8 del USGS",
+        "description": "Vista orbital de Hạ Long y Bai Tu Long (1 de diciembre de 2021), con grupos de islotes calizos separados por el mar. El perfil vertical de las torres se aprecia poco en planta.",
+        "examUse": "detail",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "status": "approved",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/the-emerald-isles-of-ha-long-bay-149803/",
+          "https://whc.unesco.org/en/list/672/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+        "reviewBatch": "diapiros-karst-20261105",
+        "crop": [
+          0.21,
+          0.26,
+          0.65,
+          0.66
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/149000/149803/halongbay_oli_2021335_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/dd5f73e8377b5dc49f44.jpg",
+        "page": "https://www.flickr.com/photos/tuan-trang/8888350545/",
+        "author": "Tuấn Mai (titanevn)",
+        "description": "Tam Cốc, Ninh Bình (19 de mayo de 2013). Vista oblicua de torres calizas de flancos abruptos elevadas sobre la llanura aluvial.",
+        "examUse": "diagnostic",
+        "title": "Tam Cốc",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "status": "approved",
+        "verificationSources": [
+          "https://www.flickr.com/photos/tuan-trang/8888350545/",
+          "https://whc.unesco.org/en/list/1438/",
+          "https://science.nasa.gov/earth/earth-observatory/the-towers-of-trang-an/"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Dos capturas independientes por entrada. Originales y encuadres revisados y contrastados con NASA, bibliografía de tectónica salina, IUGS y UNESCO. Tam Cốc conserva el encuadre de la copia de NASA y la licencia indicada por el autor.",
+        "reviewBatch": "diapiros-karst-20261105",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2025/the-towers-of-tr%C3%A0ng-an/trangan_pho_20130519.jpg"
+      }
+    ]
+  },
+  "indlandsis": {
+    "images": [
+      {
+        "url": "./assets/reviewed/50eab00c19ff48b8da11.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/whorls-of-white-off-greenland-153985/",
+        "author": "Lauren Dauphin / NASA Earth Observatory, con datos Terra MODIS",
+        "description": "Margen meridional del indlandsis de Groenlandia. El recorte se centra en el hielo apoyado sobre tierra y su contacto con el relieve montañoso (24 de febrero de 2025).",
+        "examUse": "detail",
+        "status": "approved",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/whorls-of-white-off-greenland-153985/",
+          "https://nsidc.org/learn/parts-cryosphere/ice-sheets"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+        "reviewBatch": "indlandsis-flechas-20261105",
+        "crop": [
+          0,
+          0,
+          0.6,
+          0.54
+        ],
+        "reference": "Recorte docente: se conserva la región identificada y se excluyen rótulos o paneles ajenos.",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153985/greenlandseaice_tmo_20250224_lrg.jpg"
+      },
+      {
+        "url": "./assets/reviewed/ba3f23b44f367ff843c5.jpg",
+        "page": "https://science.nasa.gov/earth/earth-observatory/antarctica-36839/",
+        "author": "MODIS Rapid Response Team / NASA Goddard Space Flight Center",
+        "description": "Mosaico orbital de la Antártida en verano austral, compuesto con pasadas MODIS del 27 de enero de 2009. Muestra la continuidad del manto de hielo a escala continental.",
+        "examUse": "diagnostic",
+        "status": "approved",
+        "license": "Public domain",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "verificationSources": [
+          "https://science.nasa.gov/earth/earth-observatory/antarctica-36839/",
+          "https://nsidc.org/learn/parts-cryosphere/ice-sheets"
+        ],
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Capturas independientes verificadas con NASA, NSIDC y las agencias de conservación de cada flecha. Originales y recortes revisados visualmente. Groenlandia queda como detalle del margen del manto.",
+        "reviewBatch": "indlandsis-flechas-20261105",
+        "originalUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/36000/36839/Antarctica_AMO_2009027_lrg.jpg"
       }
     ]
   }
