@@ -1590,7 +1590,8 @@
     "scientificName": "Alnus glutinosa",
     "sources": [
       "Listado de ÁRBOLES Y ARBUSTOS.pdf",
-      "Examen Madrid · recopilación sin fecha"
+      "Examen Madrid · recopilación sin fecha",
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -1603,6 +1604,10 @@
       {
         "file": "VISUS DE MADRID DE VARIOS AÑOS.pdf",
         "page": 1
+      },
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
       }
     ],
     "catalogStatus": "importado",
@@ -11060,7 +11065,8 @@
     "id": "claviceps-purpurea",
     "scientificName": "Claviceps purpurea",
     "sources": [
-      "LISTADO de visu DE HONGOS.pdf"
+      "LISTADO de visu DE HONGOS.pdf",
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -11069,9 +11075,16 @@
       {
         "file": "LISTADO de visu DE HONGOS.pdf",
         "page": 5
+      },
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
       }
     ],
-    "catalogStatus": "importado"
+    "catalogStatus": "importado",
+    "studyLists": [
+      "Hongos"
+    ]
   },
   {
     "id": "clavulina-cinerea",
@@ -11386,7 +11399,8 @@
     "scientificName": "Coccinella septempunctata",
     "sources": [
       "Listado de  visu de INSECTOS.pdf",
-      "Examen Andalucía 2018"
+      "Examen Andalucía 2018",
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -11399,10 +11413,16 @@
       {
         "file": "SOLUCIÓN PRÁCTICO Andalucía 18.  Biogeo.pdf",
         "page": 11
+      },
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
       }
     ],
     "catalogStatus": "importado",
-    "studyLists": []
+    "studyLists": [
+      "Insectos"
+    ]
   },
   {
     "id": "coccothraustes-coccothraustes",
@@ -14622,7 +14642,8 @@
     "id": "digitalis-purpurea",
     "scientificName": "Digitalis purpurea",
     "sources": [
-      "Listado visu de flores.pdf"
+      "Listado visu de flores.pdf",
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -14631,9 +14652,16 @@
       {
         "file": "Listado visu de flores.pdf",
         "page": 6
+      },
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
       }
     ],
-    "catalogStatus": "importado"
+    "catalogStatus": "importado",
+    "studyLists": [
+      "Flores"
+    ]
   },
   {
     "id": "diodora-graeca",
@@ -16176,7 +16204,8 @@
     "id": "equisetum-arvense",
     "scientificName": "Equisetum arvense",
     "sources": [
-      "Listado de visu de helechos.pdf"
+      "Listado de visu de helechos.pdf",
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -16185,9 +16214,16 @@
       {
         "file": "Listado de visu de helechos.pdf",
         "page": 3
+      },
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
       }
     ],
-    "catalogStatus": "importado"
+    "catalogStatus": "importado",
+    "studyLists": [
+      "Helechos"
+    ]
   },
   {
     "id": "equisetum-ramosissimum",
@@ -22631,7 +22667,8 @@
     "scientificName": "Juniperus communis",
     "sources": [
       "Listado de ÁRBOLES Y ARBUSTOS.pdf",
-      "Examen Andalucía 2018"
+      "Examen Andalucía 2018",
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -22644,10 +22681,16 @@
       {
         "file": "SOLUCIÓN PRÁCTICO Andalucía 18.  Biogeo.pdf",
         "page": 11
+      },
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
       }
     ],
     "catalogStatus": "importado",
-    "studyLists": []
+    "studyLists": [
+      "Árboles y arbustos"
+    ]
   },
   {
     "id": "juniperus-oxycedrus",
@@ -25218,7 +25261,8 @@
     "scientificName": "Lucanus cervus",
     "sources": [
       "Listado de  visu de INSECTOS.pdf",
-      "Examen Madrid · recopilación sin fecha"
+      "Examen Madrid · recopilación sin fecha",
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -25231,6 +25275,10 @@
       {
         "file": "VISUS DE MADRID DE VARIOS AÑOS.pdf",
         "page": 8
+      },
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
       }
     ],
     "catalogStatus": "importado",
@@ -29610,7 +29658,8 @@
     "id": "oriolus-oriolus",
     "scientificName": "Oriolus oriolus",
     "sources": [
-      "Listado visu de Aves.pdf"
+      "Listado visu de Aves.pdf",
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -29619,9 +29668,16 @@
       {
         "file": "Listado visu de Aves.pdf",
         "page": 14
+      },
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
       }
     ],
-    "catalogStatus": "importado"
+    "catalogStatus": "importado",
+    "studyLists": [
+      "Aves"
+    ]
   },
   {
     "id": "orobanche-rapum-genistae",
@@ -32539,7 +32595,8 @@
     "id": "physalia-physalis",
     "scientificName": "Physalia physalis",
     "sources": [
-      "Listado visu Phylum Cnidaria.pdf"
+      "Listado visu Phylum Cnidaria.pdf",
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -32548,9 +32605,16 @@
       {
         "file": "Listado visu Phylum Cnidaria.pdf",
         "page": 1
+      },
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
       }
     ],
-    "catalogStatus": "importado"
+    "catalogStatus": "importado",
+    "studyLists": [
+      "Cnidarios"
+    ]
   },
   {
     "id": "physeter-catodon",
@@ -33654,7 +33718,8 @@
     "scientificName": "Pleurodeles waltl",
     "sources": [
       "Listado de visu de Anfibios y Reptiles.pdf",
-      "Examen Madrid · recopilación sin fecha"
+      "Examen Madrid · recopilación sin fecha",
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -33667,6 +33732,10 @@
       {
         "file": "VISUS DE MADRID DE VARIOS AÑOS.pdf",
         "page": 6
+      },
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
       }
     ],
     "catalogStatus": "importado",
@@ -36600,7 +36669,8 @@
     "scientificName": "Rhizocarpon geographicum",
     "sources": [
       "Listado de VISU DE LÍQUENES.pdf",
-      "Examen Madrid · recopilación sin fecha"
+      "Examen Madrid · recopilación sin fecha",
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -36613,6 +36683,10 @@
       {
         "file": "VISUS DE MADRID DE VARIOS AÑOS.pdf",
         "page": 4
+      },
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
       }
     ],
     "catalogStatus": "importado",
@@ -37836,7 +37910,8 @@
     "id": "saturnia-pyri",
     "scientificName": "Saturnia pyri",
     "sources": [
-      "Listado de  visu de INSECTOS.pdf"
+      "Listado de  visu de INSECTOS.pdf",
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -37845,9 +37920,16 @@
       {
         "file": "Listado de  visu de INSECTOS.pdf",
         "page": 14
+      },
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
       }
     ],
-    "catalogStatus": "importado"
+    "catalogStatus": "importado",
+    "studyLists": [
+      "Insectos"
+    ]
   },
   {
     "id": "saxicola-rubetra",
@@ -38280,7 +38362,8 @@
     "scientificName": "Secale cereale",
     "sources": [
       "Listado de visu de Poáceas (Gramíneas).pdf",
-      "Listado de visu de TIPOS DE FRUTOS.pdf"
+      "Listado de visu de TIPOS DE FRUTOS.pdf",
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -38293,9 +38376,16 @@
       {
         "file": "Listado de visu de TIPOS DE FRUTOS.pdf",
         "page": 6
+      },
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
       }
     ],
-    "catalogStatus": "importado"
+    "catalogStatus": "importado",
+    "studyLists": [
+      "Poáceas (gramíneas)"
+    ]
   },
   {
     "id": "estructura-seccion-de-cerebelo",
@@ -42398,7 +42488,8 @@
     "id": "trichinella-spiralis",
     "scientificName": "Trichinella spiralis",
     "sources": [
-      "Listado de visu de Gusanos.pdf"
+      "Listado de visu de Gusanos.pdf",
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -42407,9 +42498,16 @@
       {
         "file": "Listado de visu de Gusanos.pdf",
         "page": 2
+      },
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
       }
     ],
-    "catalogStatus": "importado"
+    "catalogStatus": "importado",
+    "studyLists": [
+      "Gusanos"
+    ]
   },
   {
     "id": "estructura-tricoma",
@@ -46060,12 +46158,17 @@
     "kind": "organismo",
     "aliases": [],
     "sources": [
-      "Examen Madrid · recopilación sin fecha"
+      "Examen Madrid · recopilación sin fecha",
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
     ],
     "sourcePages": [
       {
         "file": "VISUS DE MADRID DE VARIOS AÑOS.pdf",
         "page": 3
+      },
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
       }
     ],
     "catalogStatus": "recopilacion-sin-fecha",
@@ -48639,6 +48742,101 @@
     "catalogStatus": "revisado",
     "studyLists": [
       "Mamíferos"
+    ]
+  },
+  {
+    "id": "trypanosoma-sp",
+    "scientificName": "Trypanosoma sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "VISU Castilla-La Mancha 2015 · PRECEGE"
+    ],
+    "sourcePages": [
+      {
+        "file": "Castilla-la-mancha-examen-2015.pdf",
+        "page": 12
+      }
+    ],
+    "catalogStatus": "examen",
+    "studyLists": [
+      "Bacterias, virus y protozoos"
+    ]
+  },
+  {
+    "id": "burhinus-oedicnemus",
+    "scientificName": "Burhinus oedicnemus",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
+    ],
+    "sourcePages": [
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
+      }
+    ],
+    "catalogStatus": "examen",
+    "studyLists": [
+      "Aves"
+    ]
+  },
+  {
+    "id": "phlomis-herba-venti",
+    "scientificName": "Phlomis herba-venti",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
+    ],
+    "sourcePages": [
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
+      }
+    ],
+    "catalogStatus": "examen",
+    "studyLists": [
+      "Flores"
+    ]
+  },
+  {
+    "id": "berberomeloe-majalis",
+    "scientificName": "Berberomeloe majalis",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
+    ],
+    "sourcePages": [
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
+      }
+    ],
+    "catalogStatus": "examen",
+    "studyLists": [
+      "Insectos"
+    ]
+  },
+  {
+    "id": "herpestes-ichneumon",
+    "scientificName": "Herpestes ichneumon",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "VISU Castilla-La Mancha 2021 · PRECEGE"
+    ],
+    "sourcePages": [
+      {
+        "file": "PRECEGE-EXAMEN-PRACTICO-Castilla-Mancha-21.pdf",
+        "page": 7
+      }
+    ],
+    "catalogStatus": "examen",
+    "studyLists": [
+      "Animales de la región mediterránea"
     ]
   }
 ]
