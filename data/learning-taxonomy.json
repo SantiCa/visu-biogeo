@@ -141666,5 +141666,117 @@
     "group": "Mamíferos",
     "checkedAt": "2026-11-05",
     "commonNameStatus": "documented"
+  },
+  "arachis-hypogaea": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/5353770",
+    "sources": [
+      "https://www.gbif.org/species/5353770",
+      "https://powo.science.kew.org/taxon/318562-2"
+    ],
+    "matchedName": "Arachis hypogaea",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Arachis",
+      "species": "Arachis hypogaea"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Fabales"
+      },
+      {
+        "rank": "family",
+        "name": "Fabaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Arachis"
+      },
+      {
+        "rank": "species",
+        "name": "Arachis hypogaea"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Arachys hipogea»; se conserva esa grafía como procedencia, no como alias aceptado. El rótulo «Cacahuete» y el contexto de frutos leguminosos se vinculan al nombre aceptado Arachis hypogaea (POWO/GBIF)."
+  },
+  "lagenaria-siceraria": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/2874672",
+    "sources": [
+      "https://www.gbif.org/species/2874672",
+      "https://www.mapa.gob.es/dam/mapa/contenido/agricultura/temas/medios-de-produccion/semillas-y-plantas-de-vivero/recursos-fitogeneticos-para-la-agricultura-y-la-alimentacion/docs/iectba_1_capitulos/capitulo_3_fichas_especies/tardio_etal2018_iectbavol1_106-110_lagenariasicerariamolinastandl.pdf"
+    ],
+    "matchedName": "Lagenaria siceraria",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "genus": "Lagenaria",
+      "species": "Lagenaria siceraria"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Cucurbitales"
+      },
+      {
+        "rank": "family",
+        "name": "Cucurbitaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Lagenaria"
+      },
+      {
+        "rank": "species",
+        "name": "Lagenaria siceraria"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Lagenaria sicula»; se conserva esa grafía como procedencia, no como alias aceptado. Se interpreta el rótulo «Calabaza del peregrino» como Lagenaria siceraria, nombre aceptado en GBIF y documentado con ese nombre común y familia por el inventario etnobotánico de MAPA. No se afirma que «Lagenaria sicula» sea un sinónimo taxonómico válido."
   }
 }

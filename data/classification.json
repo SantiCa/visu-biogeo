@@ -26579,5 +26579,31 @@
     "group": "Mamíferos",
     "source": "https://www.gbif.org/species/5219243",
     "checkedAt": "2026-11-05"
+  },
+  "arachis-hypogaea": {
+    "family": "Fabaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Fabales",
+      "Fabaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/5353770",
+    "checkedAt": "2026-11-05"
+  },
+  "lagenaria-siceraria": {
+    "family": "Cucurbitaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Cucurbitales",
+      "Cucurbitaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/2874672",
+    "checkedAt": "2026-11-05"
   }
 }
