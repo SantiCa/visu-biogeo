@@ -10990,7 +10990,7 @@
       "El abdomen del macho se ensancha ligeramente hacia el extremo; el de la hembra es más paralelo y termina en un ovipositor conspicuo.",
       "El patrón negro y amarillo orienta, pero no sustituye comparar otros Cordulegaster si la fotografía no permite examinar la cabeza y el abdomen."
     ],
-    "etymology": "Cordulegaster combina las raíces griegas kordyle, maza o engrosamiento, y gaster, vientre: alude al abdomen algo claviforme. Boltonii es una dedicatoria al Sr. Bolton, descubridor del ejemplar, según el pasaje de Donovan reproducido por D’Antonio y Vegliante. El nombre de pila del homenajeado queda pendiente: las fuentes posteriores discrepan y el pasaje citado no lo precisa.",
+    "etymology": "Cordulegaster combina las raíces griegas kordyle, maza o engrosamiento, y gaster, vientre: alude al abdomen algo claviforme. En la descripción original, Donovan dedica boltonii al Sr. Bolton que descubrió el ejemplar en Yorkshire y lo comunicó a Drury. El catálogo especializado de Hämäläinen (2015, p. 24) identifica al homenajeado como Thomas Bolton (1722–1778). El nombre de pila procede de esa investigación posterior: Donovan no lo especifica.",
     "sources": [
       {
         "url": "https://british-dragonflies.org.uk/species/golden-ringed-dragonfly/",
@@ -11007,6 +11007,14 @@
       {
         "url": "https://www.habitas.org.uk/dragonflyireland/nameans.htm",
         "title": "National Museums Northern Ireland — raíces del género; identidad de Bolton no precisada"
+      },
+      {
+        "url": "https://archive.org/details/CUbiodiversity1123244-9685/page/n54/mode/1up",
+        "title": "Donovan, The natural history of British insects, vol. XII, p. 97, lámina 430 — dedicatoria original al Sr. Bolton"
+      },
+      {
+        "url": "https://dragonflyfund.org/wp-content/uploads/2024/06/IDF_Report_80_Hamalainen_2015_small.pdf",
+        "title": "Hämäläinen, 2015, IDF Report 80, p. 24 — identifica al homenajeado como Thomas Bolton"
       }
     ],
     "reviewedAt": "2026-11-05",
@@ -11148,7 +11156,7 @@
       "Tras la fecundación, el ginóforo dirige el desarrollo del fruto hacia el suelo; el fruto maduro es una legumbre con pared reticulada.",
       "La parte llamada cacahuete en la alimentación es la semilla; distinguirla de la vaina completa y de otros frutos secos."
     ],
-    "etymology": "Plan Agropecuario explica Arachis como diminutivo del griego arakos, nombre antiguo de una leguminosa, y advierte que su significado remoto no es seguro. Hypogaea significa bajo tierra, en referencia al desarrollo subterráneo del fruto, según NC State. Queda pendiente precisar la historia remota de Arachis; no se adopta como demostrada la segmentación hipotética a + rachis.",
+    "etymology": "Linneo explica la formación de Arachis en Critica botanica (1737, p. 114): lo presenta como un acortamiento final de Arachidna. Se corrige así la explicación anterior como diminutivo directo de arakos. Merriam-Webster relaciona arachidna con el griego arachidna, antiguo nombre de una leguminosa geocárpica; esa planta antigua no se identifica aquí con el cacahuete americano ni se asigna un significado seguro a su raíz más remota. Hypogaea significa bajo tierra, por el desarrollo subterráneo del fruto, según NC State.",
     "sources": [
       {
         "url": "https://plants.ces.ncsu.edu/plants/arachis-hypogaea/",
@@ -11157,6 +11165,14 @@
       {
         "url": "https://www.planagropecuario.org.uy/publicaciones/revista/R142/R_142_61.pdf",
         "title": "Pereira Machín, Plan Agropecuario — origen genérico de Arachis e incertidumbre de su interpretación remota"
+      },
+      {
+        "url": "https://archive.org/details/bub_gb_TBMAAAAAQAAJ/page/n135/mode/1up",
+        "title": "Linneo, Critica botanica, 1737, p. 114, Detruncatio Caudae — Arachidna → Arachis"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/arachis",
+        "title": "Merriam-Webster — historia de Arachis y del nombre grecolatino arachidna"
       }
     ],
     "reviewedAt": "2026-11-05",
@@ -11171,7 +11187,7 @@
       "Los frutos maduros presentan una cubierta endurecida; existen formas alargadas, redondeadas o con estrechamiento.",
       "Comparar con Cucurbita y otras cucurbitáceas usando flores y planta cuando el fruto aislado sea ambiguo."
     ],
-    "etymology": "NC State relaciona Lagenaria con el griego lagenos, vaso o frasco. El latín sicera designa una bebida embriagante, según Lewis & Short. Queda pendiente documentar en la publicación de Molina la derivación y motivación precisas de siceraria: el significado de sicera por sí solo no prueba el uso que motivó el epíteto.",
+    "etymology": "NC State relaciona Lagenaria con el griego lagenos, vaso o frasco. Siceraria remite a sicera, bebida embriagante en latín. Molina explica la motivación en Saggio sulla storia naturale del Chili (1782, p. 133): llama Cucurbita siceraria a la gran calabaza de sidra porque los indígenas la usaban como recipiente para fermentar su sidra. La alusión es al uso del fruto como recipiente; no a que su pulpa produzca sidra por sí misma.",
     "sources": [
       {
         "url": "https://plants.ces.ncsu.edu/plants/lagenaria-siceraria/",
@@ -11180,6 +11196,10 @@
       {
         "url": "https://logeion.org/sicera",
         "title": "Logeion, Lewis & Short — significado de sicera; no acredita por sí solo la motivación de siceraria"
+      },
+      {
+        "url": "https://archive.org/details/saggiosullastori01moli/page/133/mode/1up",
+        "title": "Molina, Saggio sulla storia naturale del Chili, 1782, p. 133 — Cucurbita siceraria y motivación del nombre por la fermentación de sidra en su interior"
       }
     ],
     "reviewedAt": "2026-11-05",
@@ -11240,7 +11260,7 @@
       "Valorar la ornamentación de pliegues y su relación con el umbo; una concha incompleta puede ocultar los caracteres necesarios.",
       "El nombre histórico Exogyra flabellata corresponde a esta entrada. Un fósil identificado solo como Exogyra no se convierte automáticamente en esta especie."
     ],
-    "etymology": "Flabellatum corresponde a la forma latina del adjetivo flabelado, con forma de abanico; Treccani documenta ese significado del término botánico. La aplicación histórica concreta del epíteto por Goldfuss y la construcción de Ceratostreon quedan pendientes de contraste nomenclatural. No se deduce la intención del autor a partir de la forma de la concha.",
+    "etymology": "Flabellatum es el neutro del latín botánico flabellatus, en forma de abanico, derivado de flabellum, abanico, según el diccionario de Missouri Botanical Garden. Goldfuss, en Petrefacta Germaniae II, p. 38, describe Exogyra flabellata con pliegues ramificados y divergentes, pero no explica expresamente la elección del nombre. Quedan pendientes la construcción documentada de Ceratostreon y la motivación precisa del epíteto: la compatibilidad de la descripción con un abanico no demuestra por sí sola la intención del autor.",
     "sources": [
       {
         "url": "https://sge.usal.es/archivos/REV/26%282%29/art07.pdf",
@@ -11253,6 +11273,14 @@
       {
         "url": "https://www.treccani.it/vocabolario/flabellato/",
         "title": "Treccani — significado morfológico de flabellato; no explica la elección histórica del binomio"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=flabellatus",
+        "title": "P. M. Eckel, Missouri Botanical Garden — flabellatus, -a, -um y flabellum"
+      },
+      {
+        "url": "https://digi.bib.uni-mannheim.de/werksansicht/54716/42/einzelseiten/nogridview",
+        "title": "Goldfuss, Petrefacta Germaniae II, p. 38, n.º 15 — descripción original de Exogyra flabellata; sin explicación expresa de la elección del epíteto"
       }
     ],
     "reviewedAt": "2026-11-05",
@@ -11521,7 +11549,7 @@
       "El envés presenta un tomento blanco persistente que debe verse junto al haz y al margen.",
       "Flores agrupadas y pomos rojos apoyan la comparación; otras Aria e híbridos requieren una revisión más detallada que el color del envés."
     ],
-    "etymology": "Edulis es un adjetivo latino que significa comestible, según Lewis & Short. Sánchez de Lorenzo-Cáceres explica aria, en el sinónimo Sorbus aria, como un antiguo nombre latino de una encina aplicado por algunos botánicos al mostajo. Queda pendiente verificar la transferencia histórica de ese nombre al género Aria; la etimología de Sorbus no se traslada al género actual.",
+    "etymology": "Aria conserva un antiguo nombre de árbol: Backer advierte que la identidad del árbol griego así llamado no está establecida con seguridad. La historia botánica sí está documentada: Persoon usa Aria dentro de Sorbus en Synopsis plantarum II (1806, p. 38), y Host lo eleva a género en Flora austriaca II (1831, p. 7), como recoge IPNI. No se le atribuye la etimología de Sorbus. Edulis es el adjetivo latino comestible, según Lewis & Short; su significado no sustituye una identificación segura del fruto.",
     "sources": [
       {
         "url": "https://www.treesandshrubsonline.org/articles/aria/aria-edulis/",
@@ -11538,6 +11566,18 @@
       {
         "url": "https://www.arbolesornamentales.es/Sorbus%20aria.pdf",
         "title": "Sánchez de Lorenzo-Cáceres, 2025 — aria en el sinónimo Sorbus aria; no explica la transferencia al género"
+      },
+      {
+        "url": "https://archive.org/details/synopsisplantar02persgoog/page/n737/mode/1up",
+        "title": "Persoon, Synopsis plantarum II, 1806, p. 38 — Aria como subdivisión de Sorbus"
+      },
+      {
+        "url": "https://www.ipni.org/n/33661-1",
+        "title": "IPNI — Aria (Pers.) Host, Flora austriaca II: 7 (1831), basado en Sorbus subgen. Aria Pers."
+      },
+      {
+        "url": "https://www.dbnl.org/tekst/back062verk02_01/back062verk02_01_0005.php",
+        "title": "C. A. Backer, voces Aria/aria — antiguo nombre griego de árbol de identidad incierta"
       }
     ],
     "reviewedAt": "2026-11-05",

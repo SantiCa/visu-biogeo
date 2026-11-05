@@ -8,7 +8,7 @@
   "profilesWithCommonName": 218,
   "profilesWithMnemonic": 0,
   "familyNameConstructionNotes": 95,
-  "profilesWithWhollyOrPartlyPendingEtymology": 290,
+  "profilesWithWhollyOrPartlyPendingEtymology": 286,
   "etymologyPendingIds": [
     "melanargia-russiae",
     "panopea-glycimeris",
@@ -295,11 +295,7 @@
     "estructura-corteza-cerebral-celulas-piramidales",
     "estructura-cristales-de-oxalato",
     "estructura-embrion-semilla",
-    "cordulegaster-boltonii",
-    "arachis-hypogaea",
-    "lagenaria-siceraria",
-    "ceratostreon-flabellatum",
-    "aria-edulis"
+    "ceratostreon-flabellatum"
   ],
   "errors": [],
   "scope": "Una ficha descriptiva no implica etimología completa. El texto indica las partes pendientes y no convierte asociaciones de memoria en explicaciones lingüísticas. Las notas de familia explican su construcción nomenclatural; las raíces remotas solo se completan con referencia."
