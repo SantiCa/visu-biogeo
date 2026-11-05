@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "catalogEntries": 2616,
+  "catalogEntries": 2641,
   "entriesWithApprovedImage": 2289,
   "entriesWithPair": 2143,
   "approvedImages": 4805,
@@ -3394,6 +3394,181 @@
     {
       "id": "herpestes-ichneumon",
       "name": "Herpestes ichneumon",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "porcellana-platycheles",
+      "name": "Porcellana platycheles",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cypris",
+      "name": "Cypris sp.",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cyclops",
+      "name": "Cyclops sp.",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "caprella",
+      "name": "Caprella sp.",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "pagurus",
+      "name": "Pagurus sp.",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-larva-nauplius",
+      "name": "Larva Nauplius",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "estructura-larva-zoea",
+      "name": "Larva Zoea",
+      "kind": "estructura",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cordulegaster-boltonii",
+      "name": "Cordulegaster boltonii",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "euphydryas-aurinia",
+      "name": "Euphydryas aurinia",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "bombus-terrestris",
+      "name": "Bombus terrestris",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "siren-lacertina",
+      "name": "Siren lacertina",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "rana-pyrenaica",
+      "name": "Rana pyrenaica",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "coronella-austriaca",
+      "name": "Coronella austriaca",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "arachis-hypogaea",
+      "name": "Arachis hypogaea",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "lagenaria-siceraria",
+      "name": "Lagenaria siceraria",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "himantoglossum-hircinum",
+      "name": "Himantoglossum hircinum",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "euphorbia-pyrenaica",
+      "name": "Euphorbia pyrenaica",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "ceratostreon-flabellatum",
+      "name": "Ceratostreon flabellatum",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "encrinus-liliiformis",
+      "name": "Encrinus liliiformis",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "archaeopteryx-lithographica",
+      "name": "Archaeopteryx lithographica",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "homo-neanderthalensis",
+      "name": "Homo neanderthalensis",
+      "kind": "fosil",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "membranipora-membranacea",
+      "name": "Membranipora membranacea",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "asterina-gibbosa",
+      "name": "Asterina gibbosa",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "cyathus-striatus",
+      "name": "Cyathus striatus",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "helvella-crispa",
+      "name": "Helvella crispa",
       "kind": "organismo",
       "approvedImages": 0,
       "priority": false
