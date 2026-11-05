@@ -14776,5 +14776,29 @@
     "source": "https://www.inaturalist.org/taxa/87457",
     "checkedAt": "2026-10-26",
     "aliases": []
+  },
+  "siren-lacertina": {
+    "family": "Sirenidae",
+    "matchedName": "Siren lacertina",
+    "source": "https://www.gbif.org/species/2432068",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "rana-pyrenaica": {
+    "family": "Ranidae",
+    "matchedName": "Rana pyrenaica",
+    "source": "https://www.gbif.org/species/2426793",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "coronella-austriaca": {
+    "family": "Colubridae",
+    "matchedName": "Coronella austriaca",
+    "source": "https://www.inaturalist.org/taxa/26904",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }
