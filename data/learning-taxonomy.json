@@ -141666,5 +141666,112 @@
     "group": "Mamíferos",
     "checkedAt": "2026-11-05",
     "commonNameStatus": "documented"
+  },
+  "archaeopteryx-lithographica": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/4847899",
+    "sources": [
+      "https://www.gbif.org/species/4847899",
+      "https://www.nhm.ac.uk/our-science/services/collections/palaeontology/fossil-birds.html"
+    ],
+    "matchedName": "Archaeopteryx lithographica",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "family": "Archaeopterygidae",
+      "genus": "Archaeopteryx",
+      "species": "Archaeopteryx lithographica"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Chordata"
+      },
+      {
+        "rank": "class",
+        "name": "Aves"
+      },
+      {
+        "rank": "family",
+        "name": "Archaeopterygidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Archaeopteryx"
+      },
+      {
+        "rank": "species",
+        "name": "Archaeopteryx lithographica"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Aves",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF emplea «Archaeopterix lithographica»; se normaliza a Archaeopteryx lithographica y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Nombre contrastado con NHM. La entrada genérica Archaeopteryx (id archaeopterix) permanece independiente. GBIF no documenta orden en esta ficha; no se completa por inferencia."
+  },
+  "homo-neanderthalensis": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/4827584",
+    "sources": [
+      "https://www.gbif.org/species/4827584",
+      "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis"
+    ],
+    "matchedName": "Homo neanderthalensis",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Hominidae",
+      "genus": "Homo",
+      "species": "Homo neanderthalensis"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Chordata"
+      },
+      {
+        "rank": "class",
+        "name": "Mammalia"
+      },
+      {
+        "rank": "order",
+        "name": "Primates"
+      },
+      {
+        "rank": "family",
+        "name": "Hominidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Homo"
+      },
+      {
+        "rank": "species",
+        "name": "Homo neanderthalensis"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Mamíferos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF emplea «Homo neanderthalis»; se normaliza a Homo neanderthalensis y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Se adopta el tratamiento a especie de GBIF y Smithsonian. La entrada genérica Homo y las de Homo sapiens y Homo heidelbergensis permanecen independientes."
   }
 }

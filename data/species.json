@@ -48838,5 +48838,45 @@
     "studyLists": [
       "Animales de la región mediterránea"
     ]
+  },
+  {
+    "id": "archaeopteryx-lithographica",
+    "scientificName": "Archaeopteryx lithographica",
+    "kind": "fosil",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de fósiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de fósiles.pdf",
+        "page": 9
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF emplea «Archaeopterix lithographica»; se normaliza a Archaeopteryx lithographica y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Nombre contrastado con NHM. La entrada genérica Archaeopteryx (id archaeopterix) permanece independiente. GBIF no documenta orden en esta ficha; no se completa por inferencia.",
+    "studyLists": [
+      "Fósiles"
+    ]
+  },
+  {
+    "id": "homo-neanderthalensis",
+    "scientificName": "Homo neanderthalensis",
+    "kind": "fosil",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de fósiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de fósiles.pdf",
+        "page": 13
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF emplea «Homo neanderthalis»; se normaliza a Homo neanderthalensis y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Se adopta el tratamiento a especie de GBIF y Smithsonian. La entrada genérica Homo y las de Homo sapiens y Homo heidelbergensis permanecen independientes.",
+    "studyLists": [
+      "Fósiles"
+    ]
   }
 ]

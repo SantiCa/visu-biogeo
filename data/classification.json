@@ -26579,5 +26579,30 @@
     "group": "Mamíferos",
     "source": "https://www.gbif.org/species/5219243",
     "checkedAt": "2026-11-05"
+  },
+  "archaeopteryx-lithographica": {
+    "family": "Archaeopterygidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Aves",
+      "Archaeopterygidae"
+    ],
+    "group": "Aves",
+    "source": "https://www.gbif.org/species/4847899",
+    "checkedAt": "2026-11-05"
+  },
+  "homo-neanderthalensis": {
+    "family": "Hominidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Mammalia",
+      "Primates",
+      "Hominidae"
+    ],
+    "group": "Mamíferos",
+    "source": "https://www.gbif.org/species/4827584",
+    "checkedAt": "2026-11-05"
   }
 }

@@ -14776,5 +14776,21 @@
     "source": "https://www.inaturalist.org/taxa/87457",
     "checkedAt": "2026-10-26",
     "aliases": []
+  },
+  "archaeopteryx-lithographica": {
+    "family": "Archaeopterygidae",
+    "matchedName": "Archaeopteryx lithographica",
+    "source": "https://www.gbif.org/species/4847899",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "homo-neanderthalensis": {
+    "family": "Hominidae",
+    "matchedName": "Homo neanderthalensis",
+    "source": "https://www.gbif.org/species/4827584",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }
