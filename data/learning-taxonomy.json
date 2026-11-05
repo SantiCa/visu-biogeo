@@ -49206,6 +49206,9 @@
       "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
+      "subclass": "Ammonoidea",
+      "order": "Ammonitida",
+      "suborder": "Ammonitina",
       "family": "Aspidoceratidae",
       "genus": "Euaspidoceras"
     },
@@ -49223,6 +49226,18 @@
         "name": "Cephalopoda"
       },
       {
+        "rank": "subclass",
+        "name": "Ammonoidea"
+      },
+      {
+        "rank": "order",
+        "name": "Ammonitida"
+      },
+      {
+        "rank": "suborder",
+        "name": "Ammonitina"
+      },
+      {
         "rank": "family",
         "name": "Aspidoceratidae"
       },
@@ -49235,7 +49250,15 @@
     "commonNames": [],
     "group": "Moluscos",
     "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El estudio del material fósil de Yecla documenta Ammonoidea y Ammonitida para el género, y el Treatise on Invertebrate Paleontology documenta Ammonitina.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-05",
+      "sources": [
+        "https://museoarqueologicodeyecla.org/wp-content/uploads/2016/06/El-periodo-jurasico-en-Las-Atalayas-de-Yecla-Murcia-a-traves-del-estudio-de-su-material-fosil.pdf",
+        "https://files.core.ac.uk/download/235892069.pdf"
+      ]
+    }
   },
   "eucalyptus-globulus": {
     "provider": "iNaturalist",
