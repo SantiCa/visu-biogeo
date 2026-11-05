@@ -141666,5 +141666,309 @@
     "group": "Mamíferos",
     "checkedAt": "2026-11-05",
     "commonNameStatus": "documented"
+  },
+  "porcellana-platycheles": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/5178358",
+    "matchedName": "Porcellana platycheles",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Porcellanidae",
+      "genus": "Porcellana",
+      "species": "Porcellana platycheles"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Malacostraca"
+      },
+      {
+        "rank": "order",
+        "name": "Decapoda"
+      },
+      {
+        "rank": "family",
+        "name": "Porcellanidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Porcellana"
+      },
+      {
+        "rank": "species",
+        "name": "Porcellana platycheles"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Crustáceos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "Nombre y linaje contrastados también con WoRMS/DecaNet a través de PESI.",
+    "sources": [
+      "https://www.gbif.org/species/5178358",
+      "https://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:marinespecies.org:taxname:107190"
+    ]
+  },
+  "cypris": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/1028971",
+    "matchedName": "Cypris",
+    "rank": "genus",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Ostracoda",
+      "order": "Podocopida",
+      "family": "Cyprididae",
+      "genus": "Cypris"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Ostracoda"
+      },
+      {
+        "rank": "order",
+        "name": "Podocopida"
+      },
+      {
+        "rank": "family",
+        "name": "Cyprididae"
+      },
+      {
+        "rank": "genus",
+        "name": "Cypris"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Crustáceos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented"
+  },
+  "cyclops": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/8067085",
+    "matchedName": "Cyclops",
+    "rank": "genus",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Copepoda",
+      "order": "Cyclopoida",
+      "family": "Cyclopidae",
+      "genus": "Cyclops"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Copepoda"
+      },
+      {
+        "rank": "order",
+        "name": "Cyclopoida"
+      },
+      {
+        "rank": "family",
+        "name": "Cyclopidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Cyclops"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Crustáceos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented"
+  },
+  "caprella": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/2220023",
+    "matchedName": "Caprella",
+    "rank": "genus",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Amphipoda",
+      "family": "Caprellidae",
+      "genus": "Caprella"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Malacostraca"
+      },
+      {
+        "rank": "order",
+        "name": "Amphipoda"
+      },
+      {
+        "rank": "family",
+        "name": "Caprellidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Caprella"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Crustáceos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented"
+  },
+  "pagurus": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/2224189",
+    "matchedName": "Pagurus",
+    "rank": "genus",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Paguridae",
+      "genus": "Pagurus"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "class",
+        "name": "Malacostraca"
+      },
+      {
+        "rank": "order",
+        "name": "Decapoda"
+      },
+      {
+        "rank": "family",
+        "name": "Paguridae"
+      },
+      {
+        "rank": "genus",
+        "name": "Pagurus"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Crustáceos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented"
+  },
+  "estructura-larva-nauplius": {
+    "provider": "Natural History Museum of Los Angeles County",
+    "source": "https://research.nhm.org/glossary/define.html?term=Nauplius",
+    "matchedName": "Crustacea",
+    "rank": "subphylum",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "subphylum",
+        "name": "Crustacea"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Crustáceos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "subjectType": "larval-stage",
+    "reviewNote": "Forma larvaria, no taxón. Solo se documenta el grupo de origen; no se asignan clase, orden, familia, género ni especie."
+  },
+  "estructura-larva-zoea": {
+    "provider": "Natural History Museum of Los Angeles County",
+    "source": "https://research.nhm.org/glossary/define.html?term=Zoea",
+    "matchedName": "Crustacea",
+    "rank": "subphylum",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Arthropoda"
+      },
+      {
+        "rank": "subphylum",
+        "name": "Crustacea"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Crustáceos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "subjectType": "larval-stage",
+    "reviewNote": "Forma larvaria, no taxón. Solo se documenta el grupo de origen; no se asignan clase, orden, familia, género ni especie."
   }
 }

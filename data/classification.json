@@ -26579,5 +26579,70 @@
     "group": "Mamíferos",
     "source": "https://www.gbif.org/species/5219243",
     "checkedAt": "2026-11-05"
+  },
+  "porcellana-platycheles": {
+    "family": "Porcellanidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Malacostraca",
+      "Decapoda",
+      "Porcellanidae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/5178358",
+    "checkedAt": "2026-11-05"
+  },
+  "cypris": {
+    "family": "Cyprididae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Ostracoda",
+      "Podocopida",
+      "Cyprididae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/1028971",
+    "checkedAt": "2026-11-05"
+  },
+  "cyclops": {
+    "family": "Cyclopidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Copepoda",
+      "Cyclopoida",
+      "Cyclopidae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/8067085",
+    "checkedAt": "2026-11-05"
+  },
+  "caprella": {
+    "family": "Caprellidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Malacostraca",
+      "Amphipoda",
+      "Caprellidae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/2220023",
+    "checkedAt": "2026-11-05"
+  },
+  "pagurus": {
+    "family": "Paguridae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Malacostraca",
+      "Decapoda",
+      "Paguridae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/2224189",
+    "checkedAt": "2026-11-05"
   }
 }

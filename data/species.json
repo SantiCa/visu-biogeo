@@ -7844,7 +7844,8 @@
     "id": "calliactis-parasitica",
     "scientificName": "Calliactis parasitica",
     "sources": [
-      "Listado visu Phylum Cnidaria.pdf"
+      "Listado visu Phylum Cnidaria.pdf",
+      "Listado de  visu crustáceos.pdf"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -7852,6 +7853,10 @@
     "sourcePages": [
       {
         "file": "Listado visu Phylum Cnidaria.pdf",
+        "page": 2
+      },
+      {
+        "file": "Listado de  visu crustáceos.pdf",
         "page": 2
       }
     ],
@@ -48838,5 +48843,149 @@
     "studyLists": [
       "Animales de la región mediterránea"
     ]
+  },
+  {
+    "id": "porcellana-platycheles",
+    "scientificName": "Porcellana platycheles",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Porcellana platychelles»; se corrige la errata a Porcellana platycheles, nombre aceptado. No es una especie adicional.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "cypris",
+    "scientificName": "Cypris sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF indica Cypris sp.; identificación a género, sin especie determinada.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "cyclops",
+    "scientificName": "Cyclops sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF indica Cyclops sp.; identificación a género, sin especie determinada.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "caprella",
+    "scientificName": "Caprella sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF indica Caprella sp.; identificación a género, sin especie determinada.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "pagurus",
+    "scientificName": "Pagurus sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF indica Pagurus sp.; identificación a género, sin especie determinada. Aparece asociado a Suberites domuncula; no se atribuye a Pagurus bernhardus.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "estructura-larva-nauplius",
+    "scientificName": "Larva Nauplius",
+    "kind": "estructura",
+    "aliases": [
+      "Larva nauplio"
+    ],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Forma larvaria de crustáceo; no es un género ni una especie. El PDF no determina el organismo de origen.",
+    "studyLists": [
+      "Crustáceos"
+    ],
+    "parentTaxon": "Crustacea"
+  },
+  {
+    "id": "estructura-larva-zoea",
+    "scientificName": "Larva Zoea",
+    "kind": "estructura",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Forma larvaria de crustáceo; no es un género ni una especie. El PDF no determina el organismo de origen.",
+    "studyLists": [
+      "Crustáceos"
+    ],
+    "parentTaxon": "Crustacea"
   }
 ]

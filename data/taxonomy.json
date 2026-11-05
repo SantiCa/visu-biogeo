@@ -14776,5 +14776,45 @@
     "source": "https://www.inaturalist.org/taxa/87457",
     "checkedAt": "2026-10-26",
     "aliases": []
+  },
+  "porcellana-platycheles": {
+    "family": "Porcellanidae",
+    "matchedName": "Porcellana platycheles",
+    "source": "https://www.gbif.org/species/5178358",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "cypris": {
+    "family": "Cyprididae",
+    "matchedName": "Cypris",
+    "source": "https://www.gbif.org/species/1028971",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "cyclops": {
+    "family": "Cyclopidae",
+    "matchedName": "Cyclops",
+    "source": "https://www.gbif.org/species/8067085",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "caprella": {
+    "family": "Caprellidae",
+    "matchedName": "Caprella",
+    "source": "https://www.gbif.org/species/2220023",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "pagurus": {
+    "family": "Paguridae",
+    "matchedName": "Pagurus",
+    "source": "https://www.gbif.org/species/2224189",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }
