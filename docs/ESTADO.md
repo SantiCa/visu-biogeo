@@ -1,12 +1,14 @@
 # Estado del proyecto
 
-Actualizado el 30 de octubre de 2026. Base funcional y de catálogo: **8.13**.
+Actualizado el 5 de noviembre de 2026. Base funcional y de catálogo: **8.14**.
 
-Repositorio: `https://github.com/SantiCa/visu-biogeo` (privado). GitHub controla fuentes y cambios. La aplicación publicada sigue en `https://visu-biogeo-santica.nimblequail260.chatgpt.site/`; la sincronización sigue en el mismo proyecto Supabase.
+Repositorio: `https://github.com/SantiCa/visu-biogeo` (privado). GitHub controla fuentes y cambios. La aplicación está publicada en `https://visu-biogeo-santica.santic1290.chatgpt.site/`; la dirección anterior de nimblequail260 redirige a ella. El proyecto de Sites y el de Supabase se conservan.
 
-La versión 8.13 amplía el mapa de clasificación y completa las 50 correspondencias de la lista de Madrid 2002, atribuida a un opositor y sin clave oficial. El historial madrileño sigue siendo incompleto. El catálogo tiene 2.609 entradas y 483 fichas; las siete entradas nuevas carecen de imágenes aprobadas. La tanda de foraminíferos permanece en el PR #5 en borrador y no está publicada. Los casos A9, A10 y A15 de Andalucía 2021 siguen pendientes.
+La versión 8.14 integra las tandas terminadas de imágenes, fichas, alias, rangos taxonómicos, mapa y prioridades de Castilla-La Mancha. El catálogo tiene 2.616 entradas y 503 fichas. Lobo y zorro figuran como especies además de sus cráneos; sus evidencias de examen siguen separadas. Las 50 correspondencias de Madrid 2002 se atribuyen a un opositor, sin clave oficial. El historial madrileño sigue siendo incompleto. Los casos A9, A10 y A15 de Andalucía 2021 y los rangos de las cinco entradas nuevas de Castilla-La Mancha siguen pendientes.
 
-Publicación: versión 20 de Sites, manifiesto activo `55232373ebecd383a33d2b605484913bfe32b63382b3cd37ad1427456e209651`, 4.758 archivos. Se verificaron 4.704 imágenes locales, 69 pruebas JavaScript, 15 Python incluida la prueba nativa, archivos públicos y paquete Windows. El mapa fue revisado en escritorio y móvil por su PR; la sincronización con cuentas reales queda pendiente de comprobación manual.
+Publicación: versión 22 de Sites, manifiesto activo `52e0390d7f938ca641efa69585a1c159422fc39ce28f3aa6900a86a58e7494d9`, 4.804 archivos. Banco combinado de 4.750 archivos físicos aprobados y 4.805 referencias, con 2.289 entradas ilustradas, 2.143 con pareja y 327 sin imagen. Se verificaron hashes, 71 pruebas JavaScript, 15 Python incluida la prueba nativa y el paquete Windows 8.14. La web, el mapa y las imágenes se comprobaron tras publicar. Supabase rechaza lecturas anónimas y mantiene el alta pública desactivada; la sincronización con cuentas reales queda pendiente de comprobación manual.
+
+El backend de medios rechaza propiedades heredadas como rutas de archivo. Los importadores conservan la fecha más reciente y la posición de los documentos y eventos al reaplicar evidencia. Las tareas nuevas arrancan con `scripts/start_task.py` desde una raíz limpia y una copia actualizada de `origin/main`; los worktrees integrados se conservan para consulta. El traspaso de esta integración y sus solapes queda en el PR #35.
 
 La raíz local definitiva es **`C:\Users\Santiago\Documents\ChatGPT\App Visu`**, coincidiendo con el proyecto que ya estaba abierto en Codex. Los archivos y `.git` están directamente en esa carpeta; la subcarpeta intermedia `Visu BioGeo` de la restauración se retiró. `traslado-local/` conserva los respaldos e informes históricos con sus rutas originales y queda fuera de Git.
 

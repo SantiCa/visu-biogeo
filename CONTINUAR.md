@@ -221,15 +221,15 @@ Proyecto: **`appgprj_6ade076290f8819199ecb0073730325e`**. Audiencia actual: **p�
 
 Checkout: `hosting/visu-biogeo-media`. Su manifiesto `.openai/hosting.json` mantiene `d1: null` y `r2: "BUCKET"`. Las imágenes públicas se sirven desde R2 mediante un manifiesto y una activación firmada; la base Supabase es otro servicio y no se reemplaza al publicar.
 
-Última fuente publicada: **`bd7e309a97165923cdb2d562df62501134e09090`** (8.13).
+Última fuente publicada: **`f547981ee1d8357ce9be40c1fa2fe8b945daf669`** (8.14). Dirección canónica: **`https://visu-biogeo-santica.santic1290.chatgpt.site/`**; la dirección anterior redirige a ella.
 
-Versión guardada de Sites: **20**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_e4314e31323c81918284de91aa87a473`**.
+Versión guardada de Sites: **22**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_b999fc2420e481919788f59e4b950a3f`**.
 
-Archivo de publicación: `worktrees/publicacion-813/output/visu-v8.13.tar.gz`. Es el pequeño artefacto del Worker, **no** una copia completa del proyecto ni el banco de fotos.
+Archivo de publicación: `worktrees/publicacion-814/output/visu-v8.14-final.tar.gz`. Es el pequeño artefacto del Worker. El banco de fotos permanece fuera de Git.
 
-Revisión de entorno final: **19**. Despliegue final: **`appgdep_6ae4704957a48191bb4fd6d8137650c3`**.
+Revisión de entorno final: **21**. Despliegue final: **`appgdep_6aec33dd3c388191b7daaabe5071d69e`**.
 
-Manifiesto activo: **`55232373ebecd383a33d2b605484913bfe32b63382b3cd37ad1427456e209651`**, 4758 archivos públicos.
+Manifiesto activo: **`52e0390d7f938ca641efa69585a1c159422fc39ce28f3aa6900a86a58e7494d9`**, 4804 archivos públicos, incluidas 4750 imágenes físicas aprobadas.
 
 En otro ordenador, instalar/conectar el plugin Sites con la cuenta del propietario y leer su `SKILL.md` vigente. La ruta del helper cambia con la instalación: no copiar la ruta de caché de Codex del ordenador anterior. El helper de fuente se llama `scripts/site-workflow.mjs` dentro del plugin Sites. Primero obtener `get_site` y credencial de escritura para este mismo proyecto, y abrir el checkout con el helper antes de editarlo. Mantener las credenciales solo en memoria y pasarlas por **stdin oculto**, nunca en argumentos o archivos.
 
@@ -245,7 +245,7 @@ Para subir/activar medios, arrancar `node scripts/upload_site_media.mjs` en una 
 
 Después de preparar el manifiesto y la clave pública, publicar con el flujo de Sites para la audiencia actual, utilizando los IDs y el commit devueltos por sus herramientas. El uploader recibe `root`, `coreRoot`, `manifest`, `origin`, `serviceToken` y `report` por stdin; obtener `serviceToken` de la respuesta autorizada de `get_site`, sin imprimirlo. `coreRoot` es `hosting/visu-biogeo-media/web`; `root` es esta carpeta. Esperar a `phase: active` y al informe de subida. Un despliegue del Worker por sí solo no activa los datos nuevos.
 
-Comprobar después `node scripts/validate_live_learning.mjs`, la integridad del instalador y la interfaz. Actualizar informe de publicación y este documento con las cifras reales. No crear un sitio nuevo ni sustituir Supabase. En un asistente sin acceso a Sites se puede seguir trabajando y usar la app local; la publicación debe quedar expresamente pendiente hasta recuperar esa conexión.
+Comprobar después `node scripts/validate_live_learning.mjs URL_CANONICA`, la integridad del instalador y la interfaz. El argumento opcional permite verificar directamente la dirección devuelta por Sites. Actualizar informe de publicación y este documento con las cifras reales. No crear un sitio nuevo ni sustituir Supabase. En un asistente sin acceso a Sites se puede seguir trabajando y usar la app local; la publicación debe quedar expresamente pendiente hasta recuperar esa conexión.
 
 ## 12. Continuar sin rehacer trabajo terminado
 
