@@ -26777,5 +26777,31 @@
     "group": "Plantas con flor",
     "source": "https://www.gbif.org/species/3065197",
     "checkedAt": "2026-11-05"
+  },
+  "ceratostreon-flabellatum": {
+    "family": "Gryphaeidae",
+    "lineage": [
+      "Animalia",
+      "Mollusca",
+      "Bivalvia",
+      "Ostreida",
+      "Gryphaeidae"
+    ],
+    "group": "Moluscos",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
+    "checkedAt": "2026-11-05"
+  },
+  "encrinus-liliiformis": {
+    "family": "Encrinidae",
+    "lineage": [
+      "Animalia",
+      "Echinodermata",
+      "Crinoidea",
+      "Encrinida",
+      "Encrinidae"
+    ],
+    "group": "Equinodermos",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=387782",
+    "checkedAt": "2026-11-05"
   }
 }

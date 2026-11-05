@@ -49189,5 +49189,47 @@
     "studyLists": [
       "Plantas de la región eurosiberiana"
     ]
+  },
+  {
+    "id": "ceratostreon-flabellatum",
+    "scientificName": "Ceratostreon flabellatum",
+    "kind": "fosil",
+    "aliases": [
+      "Exogyra flabellata"
+    ],
+    "sources": [
+      "Listado de visu de fósiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de fósiles.pdf",
+        "page": 7
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Exogyra flavellata»; se conserva como procedencia, no como alias aceptado. PBDB recombina Exogyra flabellata como Ceratostreon flabellatum; se conserva el nombre histórico como alias de una única especie. La recombinación está corroborada por WoRMS. La entrada genérica Exogyra permanece independiente.",
+    "studyLists": [
+      "Fósiles"
+    ]
+  },
+  {
+    "id": "encrinus-liliiformis",
+    "scientificName": "Encrinus liliiformis",
+    "kind": "fosil",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de fósiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de fósiles.pdf",
+        "page": 8
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Encrinus liliformis»; se conserva como procedencia, no como alias aceptado. Se corrige la grafía a Encrinus liliiformis, especie documentada por PBDB y GBIF. La entrada genérica Encrinus permanece independiente.",
+    "studyLists": [
+      "Fósiles"
+    ]
   }
 ]
