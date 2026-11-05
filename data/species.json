@@ -49109,5 +49109,45 @@
     "studyLists": [
       "Anfibios y reptiles"
     ]
+  },
+  {
+    "id": "arachis-hypogaea",
+    "scientificName": "Arachis hypogaea",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de TIPOS DE FRUTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de TIPOS DE FRUTOS.pdf",
+        "page": 3
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Arachys hipogea»; se conserva esa grafía como procedencia, no como alias aceptado. El rótulo «Cacahuete» y el contexto de frutos leguminosos se vinculan al nombre aceptado Arachis hypogaea (POWO/GBIF).",
+    "studyLists": [
+      "Tipos de frutos"
+    ]
+  },
+  {
+    "id": "lagenaria-siceraria",
+    "scientificName": "Lagenaria siceraria",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de TIPOS DE FRUTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de TIPOS DE FRUTOS.pdf",
+        "page": 10
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Lagenaria sicula»; se conserva esa grafía como procedencia, no como alias aceptado. Se interpreta el rótulo «Calabaza del peregrino» como Lagenaria siceraria, nombre aceptado en GBIF y documentado con ese nombre común y familia por el inventario etnobotánico de MAPA. No se afirma que «Lagenaria sicula» sea un sinónimo taxonómico válido.",
+    "studyLists": [
+      "Tipos de frutos"
+    ]
   }
 ]

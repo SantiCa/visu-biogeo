@@ -14864,5 +14864,21 @@
     "checkedAt": "2026-11-05",
     "aliases": [],
     "reviewStatus": "documented"
+  },
+  "arachis-hypogaea": {
+    "family": "Fabaceae",
+    "matchedName": "Arachis hypogaea",
+    "source": "https://www.gbif.org/species/5353770",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "lagenaria-siceraria": {
+    "family": "Cucurbitaceae",
+    "matchedName": "Lagenaria siceraria",
+    "source": "https://www.gbif.org/species/2874672",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }
