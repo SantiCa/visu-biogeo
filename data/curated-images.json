@@ -104384,5 +104384,64 @@
         "reference": "Sin retoque de rasgos; original conservado en el lote local. Identificación del catálogo a nivel de género."
       }
     ]
+  },
+  "arachis-hypogaea": {
+    "images": [
+      {
+        "url": "./assets/reviewed/f04a14760d7200909009.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Starr-130221-1608-Arachis_hypogaea-leaves_and_flower-Waihee-Maui_(24838171459).jpg",
+        "author": "Forest & Kim Starr",
+        "license": "CC BY 3.0 US",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+        "description": "Hojas y flor; Waihee, Maui.",
+        "examUse": "insufficient",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Hojas y flor: vista de estudio; identificación específica insuficiente por sí sola.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Fuentes y licencias contrastadas; originales examinados visualmente. La planta es solo vista de estudio; las dos estrellas son fotografías independientes.",
+        "reviewBatch": "fuentes-organismos",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Starr-130221-1608-Arachis_hypogaea-leaves_and_flower-Waihee-Maui_%2824838171459%29.jpg"
+      }
+    ]
+  },
+  "asterina-gibbosa": {
+    "images": [
+      {
+        "url": "./assets/reviewed/fa60e2fe646c6fcf63f1.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Asterina_gibbosa_aboral.jpg",
+        "author": "Julien Renoult",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Cara aboral; observación 9950846.",
+        "examUse": "diagnostic",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Vista aboral completa con contorno pentagonal y brazos cortos visibles; identificación según la fuente, sin peritaje taxonómico.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Fuentes y licencias contrastadas; originales examinados visualmente. La planta es solo vista de estudio; las dos estrellas son fotografías independientes.",
+        "reviewBatch": "fuentes-organismos",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Asterina_gibbosa_aboral.jpg"
+      },
+      {
+        "url": "./assets/reviewed/5bf3f805573b45ecb5c0.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Asterina_gibbosa_3.jpg",
+        "author": "Frédéric Ducarme / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "description": "Cara aboral, Agay, Mediterráneo francés.",
+        "examUse": "diagnostic",
+        "examUseCheckedAt": "2026-11-05",
+        "examUseNote": "Vista aboral completa con contorno pentagonal y brazos cortos visibles; identificación según la fuente, sin peritaje taxonómico.",
+        "status": "approved",
+        "reviewedAt": "2026-11-05",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Fuentes y licencias contrastadas; originales examinados visualmente. La planta es solo vista de estudio; las dos estrellas son fotografías independientes.",
+        "reviewBatch": "fuentes-organismos",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Asterina_gibbosa_3.jpg"
+      }
+    ]
   }
 }

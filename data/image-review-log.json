@@ -34500,5 +34500,31 @@
         "supersededBy": "./assets/reviewed/50d2f608d75ff9fbf738.jpg"
       }
     ]
+  },
+  {
+    "batch": "fuentes-organismos",
+    "picksSha256": "5b6f2efb711e3bc039e61d204f335eb80656841dcadd47be1f254427782d86c4",
+    "date": "2026-11-05",
+    "note": "Fuentes y licencias contrastadas; originales examinados visualmente. La planta es solo vista de estudio; las dos estrellas son fotografías independientes.",
+    "decisions": [
+      {
+        "index": 0,
+        "itemId": "arachis-hypogaea",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Starr-130221-1608-Arachis_hypogaea-leaves_and_flower-Waihee-Maui_%2824838171459%29.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 1,
+        "itemId": "asterina-gibbosa",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Asterina_gibbosa_aboral.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "asterina-gibbosa",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Asterina_gibbosa_3.jpg",
+        "status": "approved"
+      }
+    ]
   }
 ]
