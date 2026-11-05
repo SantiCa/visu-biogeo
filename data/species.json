@@ -7844,7 +7844,8 @@
     "id": "calliactis-parasitica",
     "scientificName": "Calliactis parasitica",
     "sources": [
-      "Listado visu Phylum Cnidaria.pdf"
+      "Listado visu Phylum Cnidaria.pdf",
+      "Listado de  visu crustáceos.pdf"
     ],
     "andaluciaPriority": 0,
     "kind": "organismo",
@@ -7852,6 +7853,10 @@
     "sourcePages": [
       {
         "file": "Listado visu Phylum Cnidaria.pdf",
+        "page": 2
+      },
+      {
+        "file": "Listado de  visu crustáceos.pdf",
         "page": 2
       }
     ],
@@ -48837,6 +48842,514 @@
     "catalogStatus": "examen",
     "studyLists": [
       "Animales de la región mediterránea"
+    ]
+  },
+  {
+    "id": "porcellana-platycheles",
+    "scientificName": "Porcellana platycheles",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Porcellana platychelles»; se corrige la errata a Porcellana platycheles, nombre aceptado. No es una especie adicional.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "cypris",
+    "scientificName": "Cypris sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF indica Cypris sp.; identificación a género, sin especie determinada.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "cyclops",
+    "scientificName": "Cyclops sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF indica Cyclops sp.; identificación a género, sin especie determinada.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "caprella",
+    "scientificName": "Caprella sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF indica Caprella sp.; identificación a género, sin especie determinada.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "pagurus",
+    "scientificName": "Pagurus sp.",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF indica Pagurus sp.; identificación a género, sin especie determinada. Aparece asociado a Suberites domuncula; no se atribuye a Pagurus bernhardus.",
+    "studyLists": [
+      "Crustáceos"
+    ]
+  },
+  {
+    "id": "estructura-larva-nauplius",
+    "scientificName": "Larva Nauplius",
+    "kind": "estructura",
+    "aliases": [
+      "Larva nauplio"
+    ],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Forma larvaria de crustáceo; no es un género ni una especie. El PDF no determina el organismo de origen.",
+    "studyLists": [
+      "Crustáceos"
+    ],
+    "parentTaxon": "Crustacea"
+  },
+  {
+    "id": "estructura-larva-zoea",
+    "scientificName": "Larva Zoea",
+    "kind": "estructura",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu crustáceos.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu crustáceos.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Forma larvaria de crustáceo; no es un género ni una especie. El PDF no determina el organismo de origen.",
+    "studyLists": [
+      "Crustáceos"
+    ],
+    "parentTaxon": "Crustacea"
+  },
+  {
+    "id": "cordulegaster-boltonii",
+    "scientificName": "Cordulegaster boltonii",
+    "kind": "organismo",
+    "aliases": [
+      "Cordulegaster annulatus"
+    ],
+    "sources": [
+      "Listado de  visu de INSECTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu de INSECTOS.pdf",
+        "page": 9
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Cordulegaster annulatus es el nombre histórico empleado por el PDF. Se vincula a Cordulegaster boltonii según NHM (uso de Latreille, no el homónimo de Fabricius); no se crea una segunda especie.",
+    "studyLists": [
+      "Insectos"
+    ]
+  },
+  {
+    "id": "euphydryas-aurinia",
+    "scientificName": "Euphydryas aurinia",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de  visu de INSECTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de  visu de INSECTOS.pdf",
+        "page": 13
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Euphydrias aurinia»; se corrige la errata a Euphydryas aurinia. La grafía original se conserva como procedencia, no como alias aceptado.",
+    "studyLists": [
+      "Insectos"
+    ]
+  },
+  {
+    "id": "bombus-terrestris",
+    "scientificName": "Bombus terrestris",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de animales de la región mediterránea.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de animales de la región mediterránea.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Bombus terrestres»; se corrige la errata a Bombus terrestris. La grafía original se conserva como procedencia, no como alias aceptado.",
+    "studyLists": [
+      "Insectos"
+    ]
+  },
+  {
+    "id": "siren-lacertina",
+    "scientificName": "Siren lacertina",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de Anfibios y Reptiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de Anfibios y Reptiles.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Siren lac ertina»; se corrige a Siren lacertina. La grafía original se conserva como procedencia y no como alias aceptado.",
+    "studyLists": [
+      "Anfibios y reptiles"
+    ]
+  },
+  {
+    "id": "rana-pyrenaica",
+    "scientificName": "Rana pyrenaica",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de Anfibios y Reptiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de Anfibios y Reptiles.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Rana pirenaica»; se corrige a Rana pyrenaica. La grafía original se conserva como procedencia y no como alias aceptado.",
+    "studyLists": [
+      "Anfibios y reptiles"
+    ]
+  },
+  {
+    "id": "coronella-austriaca",
+    "scientificName": "Coronella austriaca",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de Anfibios y Reptiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de Anfibios y Reptiles.pdf",
+        "page": 5
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Nombre y familia contrastados con The Reptile Database; jerarquía documentada en iNaturalist 26904. La consulta preliminar GBIF devolvió múltiples coincidencias y no se usa como determinación.",
+    "studyLists": [
+      "Anfibios y reptiles"
+    ]
+  },
+  {
+    "id": "arachis-hypogaea",
+    "scientificName": "Arachis hypogaea",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de TIPOS DE FRUTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de TIPOS DE FRUTOS.pdf",
+        "page": 3
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Arachys hipogea»; se conserva esa grafía como procedencia, no como alias aceptado. El rótulo «Cacahuete» y el contexto de frutos leguminosos se vinculan al nombre aceptado Arachis hypogaea (POWO/GBIF).",
+    "studyLists": [
+      "Tipos de frutos"
+    ]
+  },
+  {
+    "id": "lagenaria-siceraria",
+    "scientificName": "Lagenaria siceraria",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de TIPOS DE FRUTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de TIPOS DE FRUTOS.pdf",
+        "page": 10
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Lagenaria sicula»; se conserva esa grafía como procedencia, no como alias aceptado. Se interpreta el rótulo «Calabaza del peregrino» como Lagenaria siceraria, nombre aceptado en GBIF y documentado con ese nombre común y familia por el inventario etnobotánico de MAPA. No se afirma que «Lagenaria sicula» sea un sinónimo taxonómico válido.",
+    "studyLists": [
+      "Tipos de frutos"
+    ]
+  },
+  {
+    "id": "himantoglossum-hircinum",
+    "scientificName": "Himantoglossum hircinum",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de plantas de la región mediterránea.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de plantas de la región mediterránea.pdf",
+        "page": 5
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Himanthoglossum hircinum»; se corrige la grafía a Himantoglossum hircinum. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF.",
+    "studyLists": [
+      "Plantas de la región mediterránea"
+    ]
+  },
+  {
+    "id": "euphorbia-pyrenaica",
+    "scientificName": "Euphorbia pyrenaica",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de vegetales de la región eurosiberiana.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de vegetales de la región eurosiberiana.pdf",
+        "page": 3
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Euphorbia pirenaica»; se corrige la grafía a Euphorbia pyrenaica. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF.",
+    "studyLists": [
+      "Plantas de la región eurosiberiana"
+    ]
+  },
+  {
+    "id": "ceratostreon-flabellatum",
+    "scientificName": "Ceratostreon flabellatum",
+    "kind": "fosil",
+    "aliases": [
+      "Exogyra flabellata"
+    ],
+    "sources": [
+      "Listado de visu de fósiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de fósiles.pdf",
+        "page": 7
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Exogyra flavellata»; se conserva como procedencia, no como alias aceptado. PBDB recombina Exogyra flabellata como Ceratostreon flabellatum; se conserva el nombre histórico como alias de una única especie. La recombinación está corroborada por WoRMS. La entrada genérica Exogyra permanece independiente.",
+    "studyLists": [
+      "Fósiles"
+    ]
+  },
+  {
+    "id": "encrinus-liliiformis",
+    "scientificName": "Encrinus liliiformis",
+    "kind": "fosil",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de fósiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de fósiles.pdf",
+        "page": 8
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Encrinus liliformis»; se conserva como procedencia, no como alias aceptado. Se corrige la grafía a Encrinus liliiformis, especie documentada por PBDB y GBIF. La entrada genérica Encrinus permanece independiente.",
+    "studyLists": [
+      "Fósiles"
+    ]
+  },
+  {
+    "id": "archaeopteryx-lithographica",
+    "scientificName": "Archaeopteryx lithographica",
+    "kind": "fosil",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de fósiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de fósiles.pdf",
+        "page": 9
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF emplea «Archaeopterix lithographica»; se normaliza a Archaeopteryx lithographica y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Nombre contrastado con NHM. La entrada genérica Archaeopteryx (id archaeopterix) permanece independiente. GBIF no documenta orden en esta ficha; no se completa por inferencia.",
+    "studyLists": [
+      "Fósiles"
+    ]
+  },
+  {
+    "id": "homo-neanderthalensis",
+    "scientificName": "Homo neanderthalensis",
+    "kind": "fosil",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de fósiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de fósiles.pdf",
+        "page": 13
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF emplea «Homo neanderthalis»; se normaliza a Homo neanderthalensis y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Se adopta el tratamiento a especie de GBIF y Smithsonian. La entrada genérica Homo y las de Homo sapiens y Homo heidelbergensis permanecen independientes.",
+    "studyLists": [
+      "Fósiles"
+    ]
+  },
+  {
+    "id": "membranipora-membranacea",
+    "scientificName": "Membranipora membranacea",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu PICNOGONIDOS, PORIFEROS....pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu PICNOGONIDOS, PORIFEROS....pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Membranipora membranácea»; se normaliza la grafía a Membranipora membranacea. La grafía original se conserva como procedencia, no como alias aceptado. Nombre contrastado con MarLIN; linaje documentado en GBIF.",
+    "studyLists": [
+      "Picnogónidos, poríferos y otros invertebrados"
+    ]
+  },
+  {
+    "id": "asterina-gibbosa",
+    "scientificName": "Asterina gibbosa",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu PICNOGONIDOS, PORIFEROS....pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu PICNOGONIDOS, PORIFEROS....pdf",
+        "page": 3
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Especie y linaje contrastados con IBERFAUNA (MNCN-CSIC), ficha 62536, e iNaturalist 210121. La consulta preliminar GBIF devolvió múltiples coincidencias y no se acepta como determinación. No se atribuyen a esta especie imágenes de otras asterinas.",
+    "studyLists": [
+      "Picnogónidos, poríferos y otros invertebrados"
+    ]
+  },
+  {
+    "id": "cyathus-striatus",
+    "scientificName": "Cyathus striatus",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "LISTADO de visu DE HONGOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "LISTADO de visu DE HONGOS.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Se adopta Nidulariaceae según iNaturalist y EPPO, coherente con la revisión molecular de Cyathus de 2023. Species Fungorum confirma el nombre, pero deja la familia incertae sedis; no se atribuye esa asignación familiar a dicha fuente.",
+    "studyLists": [
+      "Hongos"
+    ]
+  },
+  {
+    "id": "helvella-crispa",
+    "scientificName": "Helvella crispa",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "LISTADO de visu DE HONGOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "LISTADO de visu DE HONGOS.pdf",
+        "page": 4
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Kew/Index Fungorum confirma el nombre aceptado y Helvellaceae; la revisión europea de Helvella respalda su tratamiento específico. Helvella lacunosa permanece independiente y no se heredan sus imágenes.",
+    "studyLists": [
+      "Hongos"
     ]
   }
 ]

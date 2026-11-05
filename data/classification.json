@@ -26579,5 +26579,306 @@
     "group": "Mamíferos",
     "source": "https://www.gbif.org/species/5219243",
     "checkedAt": "2026-11-05"
+  },
+  "porcellana-platycheles": {
+    "family": "Porcellanidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Malacostraca",
+      "Decapoda",
+      "Porcellanidae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/5178358",
+    "checkedAt": "2026-11-05"
+  },
+  "cypris": {
+    "family": "Cyprididae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Ostracoda",
+      "Podocopida",
+      "Cyprididae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/1028971",
+    "checkedAt": "2026-11-05"
+  },
+  "cyclops": {
+    "family": "Cyclopidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Copepoda",
+      "Cyclopoida",
+      "Cyclopidae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/8067085",
+    "checkedAt": "2026-11-05"
+  },
+  "caprella": {
+    "family": "Caprellidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Malacostraca",
+      "Amphipoda",
+      "Caprellidae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/2220023",
+    "checkedAt": "2026-11-05"
+  },
+  "pagurus": {
+    "family": "Paguridae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Malacostraca",
+      "Decapoda",
+      "Paguridae"
+    ],
+    "group": "Crustáceos",
+    "source": "https://www.gbif.org/species/2224189",
+    "checkedAt": "2026-11-05"
+  },
+  "cordulegaster-boltonii": {
+    "family": "Cordulegastridae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Odonata",
+      "Cordulegastridae"
+    ],
+    "group": "Insectos",
+    "source": "https://www.gbif.org/species/7936251",
+    "checkedAt": "2026-11-05"
+  },
+  "euphydryas-aurinia": {
+    "family": "Nymphalidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Lepidoptera",
+      "Nymphalidae"
+    ],
+    "group": "Insectos",
+    "source": "https://www.gbif.org/species/4535809",
+    "checkedAt": "2026-11-05"
+  },
+  "bombus-terrestris": {
+    "family": "Apidae",
+    "lineage": [
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Hymenoptera",
+      "Apidae"
+    ],
+    "group": "Insectos",
+    "source": "https://www.gbif.org/species/1340503",
+    "checkedAt": "2026-11-05"
+  },
+  "siren-lacertina": {
+    "family": "Sirenidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Amphibia",
+      "Caudata",
+      "Sirenidae"
+    ],
+    "group": "Anfibios",
+    "source": "https://www.gbif.org/species/2432068",
+    "checkedAt": "2026-11-05"
+  },
+  "rana-pyrenaica": {
+    "family": "Ranidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Amphibia",
+      "Anura",
+      "Ranidae"
+    ],
+    "group": "Anfibios",
+    "source": "https://www.gbif.org/species/2426793",
+    "checkedAt": "2026-11-05"
+  },
+  "coronella-austriaca": {
+    "family": "Colubridae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Vertebrata",
+      "Reptilia",
+      "Squamata",
+      "Serpentes",
+      "Colubridae",
+      "Colubrinae"
+    ],
+    "group": "Reptiles",
+    "source": "https://www.inaturalist.org/taxa/26904",
+    "checkedAt": "2026-11-05"
+  },
+  "arachis-hypogaea": {
+    "family": "Fabaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Fabales",
+      "Fabaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/5353770",
+    "checkedAt": "2026-11-05"
+  },
+  "lagenaria-siceraria": {
+    "family": "Cucurbitaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Cucurbitales",
+      "Cucurbitaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/2874672",
+    "checkedAt": "2026-11-05"
+  },
+  "himantoglossum-hircinum": {
+    "family": "Orchidaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Liliopsida",
+      "Asparagales",
+      "Orchidaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/5324951",
+    "checkedAt": "2026-11-05"
+  },
+  "euphorbia-pyrenaica": {
+    "family": "Euphorbiaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Malpighiales",
+      "Euphorbiaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/3065197",
+    "checkedAt": "2026-11-05"
+  },
+  "ceratostreon-flabellatum": {
+    "family": "Gryphaeidae",
+    "lineage": [
+      "Animalia",
+      "Mollusca",
+      "Bivalvia",
+      "Ostreida",
+      "Gryphaeidae"
+    ],
+    "group": "Moluscos",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
+    "checkedAt": "2026-11-05"
+  },
+  "encrinus-liliiformis": {
+    "family": "Encrinidae",
+    "lineage": [
+      "Animalia",
+      "Echinodermata",
+      "Crinoidea",
+      "Encrinida",
+      "Encrinidae"
+    ],
+    "group": "Equinodermos",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=387782",
+    "checkedAt": "2026-11-05"
+  },
+  "archaeopteryx-lithographica": {
+    "family": "Archaeopterygidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Aves",
+      "Archaeopterygidae"
+    ],
+    "group": "Aves",
+    "source": "https://www.gbif.org/species/4847899",
+    "checkedAt": "2026-11-05"
+  },
+  "homo-neanderthalensis": {
+    "family": "Hominidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Mammalia",
+      "Primates",
+      "Hominidae"
+    ],
+    "group": "Mamíferos",
+    "source": "https://www.gbif.org/species/4827584",
+    "checkedAt": "2026-11-05"
+  },
+  "membranipora-membranacea": {
+    "family": "Membraniporidae",
+    "lineage": [
+      "Animalia",
+      "Bryozoa",
+      "Gymnolaemata",
+      "Cheilostomatida",
+      "Membraniporidae"
+    ],
+    "group": "Briozoos",
+    "source": "https://www.gbif.org/species/1007770",
+    "checkedAt": "2026-11-05"
+  },
+  "asterina-gibbosa": {
+    "family": "Asterinidae",
+    "lineage": [
+      "Animalia",
+      "Echinodermata",
+      "Asteroidea",
+      "Valvatida",
+      "Asterinidae"
+    ],
+    "group": "Equinodermos",
+    "source": "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T",
+    "checkedAt": "2026-11-05"
+  },
+  "cyathus-striatus": {
+    "family": "Nidulariaceae",
+    "lineage": [
+      "Fungi",
+      "Basidiomycota",
+      "Agaricomycetes",
+      "Agaricales",
+      "Nidulariaceae"
+    ],
+    "group": "Hongos",
+    "source": "https://www.inaturalist.org/taxa/120242",
+    "checkedAt": "2026-11-05"
+  },
+  "helvella-crispa": {
+    "family": "Helvellaceae",
+    "lineage": [
+      "Fungi",
+      "Ascomycota",
+      "Pezizomycetes",
+      "Pezizales",
+      "Helvellaceae"
+    ],
+    "group": "Hongos",
+    "source": "https://www.inaturalist.org/taxa/49208",
+    "checkedAt": "2026-11-05"
   }
 }

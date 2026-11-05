@@ -14776,5 +14776,189 @@
     "source": "https://www.inaturalist.org/taxa/87457",
     "checkedAt": "2026-10-26",
     "aliases": []
+  },
+  "porcellana-platycheles": {
+    "family": "Porcellanidae",
+    "matchedName": "Porcellana platycheles",
+    "source": "https://www.gbif.org/species/5178358",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "cypris": {
+    "family": "Cyprididae",
+    "matchedName": "Cypris",
+    "source": "https://www.gbif.org/species/1028971",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "cyclops": {
+    "family": "Cyclopidae",
+    "matchedName": "Cyclops",
+    "source": "https://www.gbif.org/species/8067085",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "caprella": {
+    "family": "Caprellidae",
+    "matchedName": "Caprella",
+    "source": "https://www.gbif.org/species/2220023",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "pagurus": {
+    "family": "Paguridae",
+    "matchedName": "Pagurus",
+    "source": "https://www.gbif.org/species/2224189",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "cordulegaster-boltonii": {
+    "family": "Cordulegastridae",
+    "matchedName": "Cordulegaster boltonii",
+    "source": "https://www.gbif.org/species/7936251",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "euphydryas-aurinia": {
+    "family": "Nymphalidae",
+    "matchedName": "Euphydryas aurinia",
+    "source": "https://www.gbif.org/species/4535809",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "bombus-terrestris": {
+    "family": "Apidae",
+    "matchedName": "Bombus terrestris",
+    "source": "https://www.gbif.org/species/1340503",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "siren-lacertina": {
+    "family": "Sirenidae",
+    "matchedName": "Siren lacertina",
+    "source": "https://www.gbif.org/species/2432068",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "rana-pyrenaica": {
+    "family": "Ranidae",
+    "matchedName": "Rana pyrenaica",
+    "source": "https://www.gbif.org/species/2426793",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "coronella-austriaca": {
+    "family": "Colubridae",
+    "matchedName": "Coronella austriaca",
+    "source": "https://www.inaturalist.org/taxa/26904",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "arachis-hypogaea": {
+    "family": "Fabaceae",
+    "matchedName": "Arachis hypogaea",
+    "source": "https://www.gbif.org/species/5353770",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "lagenaria-siceraria": {
+    "family": "Cucurbitaceae",
+    "matchedName": "Lagenaria siceraria",
+    "source": "https://www.gbif.org/species/2874672",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "himantoglossum-hircinum": {
+    "family": "Orchidaceae",
+    "matchedName": "Himantoglossum hircinum",
+    "source": "https://www.gbif.org/species/5324951",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "euphorbia-pyrenaica": {
+    "family": "Euphorbiaceae",
+    "matchedName": "Euphorbia pyrenaica",
+    "source": "https://www.gbif.org/species/3065197",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "ceratostreon-flabellatum": {
+    "family": "Gryphaeidae",
+    "matchedName": "Ceratostreon flabellatum",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "encrinus-liliiformis": {
+    "family": "Encrinidae",
+    "matchedName": "Encrinus liliiformis",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=387782",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "archaeopteryx-lithographica": {
+    "family": "Archaeopterygidae",
+    "matchedName": "Archaeopteryx lithographica",
+    "source": "https://www.gbif.org/species/4847899",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "homo-neanderthalensis": {
+    "family": "Hominidae",
+    "matchedName": "Homo neanderthalensis",
+    "source": "https://www.gbif.org/species/4827584",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "membranipora-membranacea": {
+    "family": "Membraniporidae",
+    "matchedName": "Membranipora membranacea",
+    "source": "https://www.gbif.org/species/1007770",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "asterina-gibbosa": {
+    "family": "Asterinidae",
+    "matchedName": "Asterina gibbosa",
+    "source": "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "cyathus-striatus": {
+    "family": "Nidulariaceae",
+    "matchedName": "Cyathus striatus",
+    "source": "https://www.inaturalist.org/taxa/120242",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "helvella-crispa": {
+    "family": "Helvellaceae",
+    "matchedName": "Helvella crispa",
+    "source": "https://www.inaturalist.org/taxa/49208",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }
