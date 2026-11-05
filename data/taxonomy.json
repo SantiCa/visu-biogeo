@@ -14960,5 +14960,21 @@
     "checkedAt": "2026-11-05",
     "aliases": [],
     "reviewStatus": "documented"
+  },
+  "actinidia-chinensis": {
+    "family": "Actinidiaceae",
+    "matchedName": "Actinidia chinensis",
+    "source": "https://www.gbif.org/species/3189694",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "aria-edulis": {
+    "family": "Rosaceae",
+    "matchedName": "Aria edulis",
+    "source": "https://www.gbif.org/species/8411755",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }

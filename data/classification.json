@@ -26880,5 +26880,31 @@
     "group": "Hongos",
     "source": "https://www.inaturalist.org/taxa/49208",
     "checkedAt": "2026-11-05"
+  },
+  "actinidia-chinensis": {
+    "family": "Actinidiaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Ericales",
+      "Actinidiaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/3189694",
+    "checkedAt": "2026-11-05"
+  },
+  "aria-edulis": {
+    "family": "Rosaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Rosales",
+      "Rosaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/8411755",
+    "checkedAt": "2026-11-05"
   }
 }
