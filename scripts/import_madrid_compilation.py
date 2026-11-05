@@ -43,10 +43,18 @@ def apply_compilation(catalog,exams,evidence):
             if target.get('parentTaxon'):item['parentTaxon']=target['parentTaxon']
             event={'documentId':DOCUMENT_ID,'itemId':item['id'],'name':item['scientificName'],'region':'Madrid','year':None,'evidenceType':'recognition','sourceType':'recopilacion-academia-sin-fecha','context':'recopilacion-nominal-sin-fecha','page':row['page'],'sourcePage':row['page'],'sourceFile':evidence['document']['filename'],'sourceName':row['raw'],'sourceSection':row['section'],'evidenceId':row['id']+'::'+item['id'],'priorityEligible':False,'note':row.get('note','')}
             events.append(event)
-    exams['events']=[e for e in exams['events'] if e['documentId']!=DOCUMENT_ID]+events
+    combined=[];inserted=False
+    for event in exams['events']:
+        if event['documentId']==DOCUMENT_ID:
+            if not inserted:combined.extend(events);inserted=True
+        else:combined.append(event)
+    if not inserted:combined.extend(events)
+    exams['events']=combined
     doc={'id':DOCUMENT_ID,'region':'Madrid','year':None,'variant':'Recopilación académica','official':False,'sourceType':'recopilacion-academia-sin-fecha','sourceFile':evidence['document']['filename'],'sourceMetadata':evidence['document'],'matchedEntries':len({e['itemId'] for e in events}),'coverage':f"Recopilación PRECEGE de varios años, sin fechas ni atribución por convocatoria. {len({e['itemId'] for e in events})} entradas vinculadas con página de procedencia; no permite calcular frecuencias. {len(unresolved)} denominaciones ambiguas se mantienen pendientes.",'uncertainAnswers':unresolved}
-    exams['documents']=[d for d in exams['documents'] if d['id']!=DOCUMENT_ID]+[doc]
-    exams['reviewedAt']=evidence['reviewedAt']
+    if any(d['id']==DOCUMENT_ID for d in exams['documents']):
+        exams['documents']=[doc if d['id']==DOCUMENT_ID else d for d in exams['documents']]
+    else:exams['documents'].append(doc)
+    exams['reviewedAt']=max(exams.get('reviewedAt',''),evidence['reviewedAt'])
     note='La recopilación de Madrid sin fecha no acredita años concretos ni frecuencias; los restos anatómicos se estudian como entradas independientes.'
     if note not in exams['limitations']:exams['limitations'].append(note)
     return {'date':evidence['reviewedAt'],'sourceRows':len(evidence['rows']),'acceptedSourceRows':sum(r['status']=='accepted' for r in evidence['rows']),'unresolvedRows':len(unresolved),'evidenceRows':len(events),'matchedEntries':doc['matchedEntries'],'newEntryIds':sorted({x['id'] for x in catalog}-before),'catalogEntries':len(catalog),'datedOccurrencesAdded':0,'andaluciaPriorityChanged':False}

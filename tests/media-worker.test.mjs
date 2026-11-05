@@ -29,6 +29,9 @@ test('publication activates only a complete bank and serves the original bytes w
  assert.equal(await (await worker.fetch(request('/'),env)).text(),'APP');
  const photo=await worker.fetch(request('/assets/reviewed/test.jpg'),env);assert.equal(photo.headers.get('content-type'),'image/jpeg');assert.equal(await photo.text(),'PHOTO');
  assert.equal((await worker.fetch(request('/supabase/schema.sql'),env)).status,404);
+ for(const path of ['/__proto__','/constructor','/toString']){
+  for(const method of ['GET','HEAD'])assert.equal((await worker.fetch(request(path,{method}),env)).status,404,path+' '+method);
+ }
  assert.equal((await worker.fetch(request('/assets/reviewed/test.jpg',{headers:{'if-none-match':'"'+hash('PHOTO')+'"'}}),env)).status,304);
 });
 test('a newer publication keeps the previous app available until its new resources are uploaded',async()=>{

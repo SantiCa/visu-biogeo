@@ -66,8 +66,9 @@ export function createAssetWorker(current){
   if(request.method!=='GET'&&request.method!=='HEAD')return new Response('Method not allowed',{status:405});
   const active=await activeManifest(env.BUCKET);if(!active)return path==='/'||path==='/index.html'?waiting():new Response('Preparing app',{status:503});
   let decoded;try{decoded=decodeURIComponent(path);}catch{return new Response('Invalid path',{status:400});}
-  const relative=decoded==='/'?'index.html':decoded.slice(1),file=active.files[relative];
-  if(!file)return new Response('Not found',{status:404});
+  const relative=decoded==='/'?'index.html':decoded.slice(1);
+  if(!Object.hasOwn(active.files,relative))return new Response('Not found',{status:404});
+  const file=active.files[relative];
   const headers={'content-type':file.mime,'content-length':String(file.bytes),'x-content-type-options':'nosniff','referrer-policy':'no-referrer','etag':'"'+file.hash+'"','cache-control':relative.startsWith('assets/reviewed/')?'private, max-age=31536000, immutable':'no-cache'};
   if(request.headers.get('if-none-match')===headers.etag)return new Response(null,{status:304,headers});
   if(request.method==='HEAD')return new Response(null,{headers});

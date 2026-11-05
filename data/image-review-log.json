@@ -23459,12 +23459,822 @@
     "batch": "catalogo-museos-001",
     "picksSha256": "f5a8cc7dddbf0c4bf48a88446986741c9d85ffbd88abb73576dba2bf6328c265",
     "date": "2026-10-24",
-    "note": "Revisión taxonómica adicional: las otras muestras de la misma serie se rotulan Terebratula vulgaris (Coenothyris vulgaris en la literatura moderna); no usar esta serie para enseñar el género Terebratula sin aclarar el concepto del listado.",
+    "note": "Inspeccionadas las diez hojas y nombres registrados de los ejemplares fósiles. Se excluyen libros de registro, etiquetas con respuesta, copias de una misma foto, fragmentos poco informativos y encuadres no diagnósticos. Las descargas fallidas siguen pendientes. Algunas fotos corresponden a moldes, partes o secciones del fósil y conservan la referencia del museo.",
     "decisions": [
+      {
+        "index": 0,
+        "itemId": "aceratherium",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:b3686384-4f7a-4972-b771-ff0b1df8ff26/full/!1920,1920/0/default.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 1,
+        "itemId": "aceratherium",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:1d6761e7-1801-4393-a00f-74b28ca87b93/full/!1920,1920/0/default.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 2,
+        "itemId": "aceratherium",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:3b5e92b0-3e64-4b91-8c2b-e8125f833c4f/full/!1920,1920/0/default.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 3,
+        "itemId": "amaltheus-margaritatus",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK188-1.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 4,
+        "itemId": "amaltheus-margaritatus",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK188-2.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 5,
+        "itemId": "amaltheus-margaritatus",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK188-3.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 6,
+        "itemId": "anomalocaris",
+        "url": "http://biimages.biodiversity.ku.edu/static/InvertebratePaleontology/originals/sp63657103895156624457.att.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 7,
+        "itemId": "anomalocaris",
+        "url": "http://biimages.biodiversity.ku.edu/static/InvertebratePaleontology/originals/sp67684764917588134971.att.JPG",
+        "status": "rejected"
+      },
+      {
+        "index": 8,
+        "itemId": "anomalocaris",
+        "url": "http://biimages.biodiversity.ku.edu/static/InvertebratePaleontology/originals/sp68249500326335684390.att.JPG",
+        "status": "rejected"
+      },
+      {
+        "index": 9,
+        "itemId": "archaeocyathus",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:fc4e3a5c-c98d-4c54-a73d-723923aeb9c0/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 10,
+        "itemId": "archaeocyathus",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:7b27bf9a-355f-4997-884f-f1035e2de260/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 11,
+        "itemId": "archaeocyathus",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:a310c429-b69d-49a7-a966-473528d36cf8/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 12,
+        "itemId": "archaeopterix",
+        "url": "https://iiif.mcz.harvard.edu/iiif/3/3788031/full/max/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 13,
+        "itemId": "archaeopterix",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:b2e61249-9529-48cc-bd56-3d0c91f523fb/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 14,
+        "itemId": "archaeopterix",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:fab664e0-0c4e-4956-a46d-e78386cda768/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 18,
+        "itemId": "assilina",
+        "url": "https://data.nhm.ac.uk/media/cad92f00-ac57-4c08-8b68-a5c66c0ce97c",
+        "status": "rejected"
+      },
+      {
+        "index": 19,
+        "itemId": "assilina",
+        "url": "https://data.nhm.ac.uk/media/4872a665-19e8-4afb-a59d-a33c9ddc7ccc",
+        "status": "rejected"
+      },
+      {
+        "index": 20,
+        "itemId": "assilina",
+        "url": "https://data.nhm.ac.uk/media/79db7e26-31f3-479f-917f-84a85f0e17cf",
+        "status": "approved"
+      },
+      {
+        "index": 21,
+        "itemId": "asterophyllites",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:5aba0f95-bff8-43bd-bc53-f18ca766c95c/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 22,
+        "itemId": "asterophyllites",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:ad964b4f-0328-487a-b19a-10e9e216a5bd/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 23,
+        "itemId": "asterophyllites",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:f51e0713-a7c3-4f02-8d85-e5bd9d753edb/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 24,
+        "itemId": "australopithecus",
+        "url": "https://iiif.mcz.harvard.edu/iiif/3/3839371/full/max/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 25,
+        "itemId": "australopithecus",
+        "url": "https://data.nhm.ac.uk/media/1dce1d25-4c13-4470-9116-fb1ae92298ad",
+        "status": "rejected"
+      },
+      {
+        "index": 26,
+        "itemId": "australopithecus",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.1332459_HL/format/large",
+        "status": "approved"
+      },
+      {
+        "index": 27,
+        "itemId": "australopithecus-afarensis",
+        "url": "https://data.nhm.ac.uk/media/1dce1d25-4c13-4470-9116-fb1ae92298ad",
+        "status": "rejected"
+      },
+      {
+        "index": 28,
+        "itemId": "australopithecus-afarensis",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.1332467/format/large",
+        "status": "approved"
+      },
+      {
+        "index": 29,
+        "itemId": "australopithecus-africanus",
+        "url": "https://iiif.mcz.harvard.edu/iiif/3/3839371/full/max/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 30,
+        "itemId": "australopithecus-africanus",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.1332459_HL/format/large",
+        "status": "approved"
+      },
+      {
+        "index": 31,
+        "itemId": "australopithecus-africanus",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.1332459_1/format/large",
+        "status": "rejected"
+      },
+      {
+        "index": 32,
+        "itemId": "belemnitella",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:cd02471e-6773-44f7-b275-67f23e0699d7/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 33,
+        "itemId": "belemnitella",
+        "url": "https://data.nhm.ac.uk/media/19e36313-073b-4a08-bc21-e934e56fed18",
+        "status": "rejected"
+      },
+      {
+        "index": 34,
+        "itemId": "belemnitella",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:631b4574-6958-4ae6-8742-4fb7a7037ac5/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 38,
+        "itemId": "carcharocles-megalodon",
+        "url": "https://collections.nmnh.si.edu/media/?i=3001450&h=1838",
+        "status": "approved"
+      },
+      {
+        "index": 39,
+        "itemId": "carcharocles-megalodon",
+        "url": "https://collections.nmnh.si.edu/media/?i=3000468&h=1716",
+        "status": "approved"
+      },
+      {
+        "index": 40,
+        "itemId": "carcharocles-megalodon",
+        "url": "https://collections.nmnh.si.edu/media/?i=3001502&h=1405",
+        "status": "approved"
+      },
+      {
+        "index": 41,
+        "itemId": "clypeaster",
+        "url": "https://collections.nmnh.si.edu/media/?i=3008292&h=1960",
+        "status": "rejected"
+      },
+      {
+        "index": 42,
+        "itemId": "clypeaster",
+        "url": "https://collections.nmnh.si.edu/media/?i=3008291&h=1960",
+        "status": "approved"
+      },
+      {
+        "index": 43,
+        "itemId": "clypeaster",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:6c50386a-5fcc-4d54-acd3-95fcf0045658/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 44,
+        "itemId": "cruziana",
+        "url": "https://data.nhm.ac.uk/media/3867812a-ba19-4a40-8c5a-2b76228a3432",
+        "status": "approved"
+      },
+      {
+        "index": 45,
+        "itemId": "cruziana",
+        "url": "https://data.nhm.ac.uk/media/3d8a3d2e-5e19-4895-9839-84fb16f43f63",
+        "status": "rejected"
+      },
+      {
+        "index": 46,
+        "itemId": "cruziana",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:e34e0958-ff53-4028-a969-441b811f67c9/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 47,
+        "itemId": "cyclolites",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.841210_1/format/large",
+        "status": "rejected"
+      },
+      {
+        "index": 48,
+        "itemId": "cyclolites",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.841210/format/large",
+        "status": "rejected"
+      },
+      {
+        "index": 49,
+        "itemId": "cyclolites",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:0684542a-bebf-4532-a160-148515fb35d6/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 50,
+        "itemId": "cyrtograptus",
+        "url": "https://files.geocollections.info/medium/43/f8/43f8e10d-0ff0-4fc6-92cb-057cd42a63bd.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 51,
+        "itemId": "cyrtograptus",
+        "url": "https://files.geocollections.info/medium/f0/ce/f0cea6f7-9e0b-4d31-b208-d233df578c1a.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 52,
+        "itemId": "cyrtograptus",
+        "url": "https://files.geocollections.info/medium/c9/23/c923584b-fffd-4e0a-9929-1e45b2ea04ad.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 53,
+        "itemId": "deinotherium",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:f09a9a32-d5f2-47e6-97f3-6a8f8379a05d/full/!1920,1920/0/default.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 54,
+        "itemId": "deinotherium",
+        "url": "https://data.nhm.ac.uk/media/9660c4da-d8e0-4bcc-bb9f-61a0d587035b",
+        "status": "rejected"
+      },
+      {
+        "index": 55,
+        "itemId": "deinotherium",
+        "url": "https://data.nhm.ac.uk/media/4033c9f2-96c8-4a43-9344-0a370b245b0e",
+        "status": "rejected"
+      },
+      {
+        "index": 56,
+        "itemId": "encrinus",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK159-1.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 57,
+        "itemId": "encrinus",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK159-2.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 58,
+        "itemId": "encrinus",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK159-3.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 59,
+        "itemId": "equus",
+        "url": "https://nmnhs.collections.dissco-bg.eu:4888/fileget?coll=nmnhs&type=O&filename=1ce467e4-a3bd-42bc-a2b9-fecb86ae5ef5.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 60,
+        "itemId": "equus",
+        "url": "https://nmnhs.collections.dissco-bg.eu:4888/fileget?coll=nmnhs&type=O&filename=edb1d57b-5c0c-4a4b-855a-b355042b1f24.JPG",
+        "status": "rejected"
+      },
+      {
+        "index": 61,
+        "itemId": "equus",
+        "url": "https://nmnhs.collections.dissco-bg.eu:4888/fileget?coll=nmnhs&type=O&filename=000f0276-735e-4962-845f-45ac9519947a.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 62,
+        "itemId": "euaspidoceras",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK219-1.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 63,
+        "itemId": "euaspidoceras",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK219-2.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 64,
+        "itemId": "euaspidoceras",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK219-3.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 65,
+        "itemId": "exogyra",
+        "url": "http://was.tacc.utexas.edu/fileget?coll=NPL+collections&type=O&filename=f4887e34-cc0d-4b91-9556-fc9c6052dc44.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 66,
+        "itemId": "exogyra",
+        "url": "http://was.tacc.utexas.edu/fileget?coll=NPL+collections&type=O&filename=b7a81ce5-1333-423d-81c6-375b4e641c3a.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 67,
+        "itemId": "exogyra",
+        "url": "http://was.tacc.utexas.edu/fileget?coll=NPL+collections&type=O&filename=debc8741-6ce3-4093-96c4-04a332273ba1.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 68,
+        "itemId": "favosites",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:ae05f57e-0535-4281-8c57-d9d50ced142e/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 69,
+        "itemId": "favosites",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:cc7ef9f6-7d9c-456d-82c5-62eb0063949c/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 70,
+        "itemId": "favosites",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:9e83a93c-65ce-43aa-a178-cfb3d4ee56a3/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 74,
+        "itemId": "gryphaea-arcuata",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/SI334.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 75,
+        "itemId": "gryphaea-arcuata",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/SI314.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 76,
+        "itemId": "gryphaea-arcuata",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/SI317-1.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 77,
+        "itemId": "heliophora",
+        "url": "https://collections.nmnh.si.edu/media/?i=3000100&h=1297",
+        "status": "rejected"
+      },
+      {
+        "index": 78,
+        "itemId": "heliophora",
+        "url": "https://collections.nmnh.si.edu/media/?i=3000095&h=870",
+        "status": "rejected"
+      },
+      {
+        "index": 79,
+        "itemId": "hiparion",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:78817de1-aa92-4b61-b3f2-24d786841b4f/full/!1920,1920/0/default.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 80,
+        "itemId": "hiparion",
+        "url": "https://data.nhm.ac.uk/media/9d2b557f-f0ab-40d5-9940-e780e10b9e5c",
+        "status": "rejected"
+      },
+      {
+        "index": 81,
+        "itemId": "hiparion",
+        "url": "https://data.nhm.ac.uk/media/994a6bbe-0d74-4a74-b149-bd552709556a",
+        "status": "rejected"
+      },
+      {
+        "index": 82,
+        "itemId": "illaenus",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:f04cee5b-9c93-4de7-a527-2b8dd2841d47/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 83,
+        "itemId": "illaenus",
+        "url": "https://media-service.nrm.se/images?dataset=pal&id=Ar0010024_1_medium.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 84,
+        "itemId": "illaenus",
+        "url": "https://media-service.nrm.se/images?dataset=pal&id=Ar0010049_1_medium.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 85,
+        "itemId": "leptaena",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/EIA511.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 86,
+        "itemId": "leptaena",
+        "url": "http://biimages.biodiversity.ku.edu/static/InvertebratePaleontology/originals/sp62331504477607121933.att.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 87,
+        "itemId": "leptaena",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:56f17713-98ac-4ea9-aedc-f8b81c689148/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 88,
+        "itemId": "mammuthus",
+        "url": "https://data.nhm.ac.uk/media/99d4c792-5f87-4442-992d-c66b3f11d255",
+        "status": "approved"
+      },
+      {
+        "index": 91,
+        "itemId": "mesolimulus",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:289f1897-c325-45e4-b0e8-7c0622bd23df/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 92,
+        "itemId": "mesolimulus",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:36c77fa4-ed9b-4b6a-832d-804f3d2688e9/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 93,
+        "itemId": "mesolimulus",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:8a075aff-5f10-461c-a82c-94a6007b6377/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 94,
+        "itemId": "monograptus",
+        "url": "https://collections.nmnh.si.edu/media/?i=10002039&h=2000",
+        "status": "rejected"
+      },
+      {
+        "index": 95,
+        "itemId": "monograptus",
+        "url": "https://resources.bgs.ac.uk/gb3d/thumbnails/BGS/P816143.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 96,
+        "itemId": "monograptus",
+        "url": "https://resources.bgs.ac.uk/gb3d/thumbnails/BGS/P827308.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 97,
+        "itemId": "neseuretus",
+        "url": "https://resources.bgs.ac.uk/gb3d/thumbnails/BGS/P810548.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 98,
+        "itemId": "neseuretus",
+        "url": "https://resources.bgs.ac.uk/gb3d/thumbnails/BGS/P818810.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 99,
+        "itemId": "neseuretus",
+        "url": "https://resources.bgs.ac.uk/gb3d/thumbnails/BGS/P818813.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 100,
+        "itemId": "orthis",
+        "url": "https://data.nhm.ac.uk/media/dc7f9070-aef0-4916-a710-343e3f39fa5c",
+        "status": "rejected"
+      },
+      {
+        "index": 101,
+        "itemId": "orthis",
+        "url": "https://data.nhm.ac.uk/media/011ae469-5e25-4c68-862f-19ad02fde370",
+        "status": "rejected"
+      },
+      {
+        "index": 102,
+        "itemId": "orthis",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:ae0cdf06-925d-461f-a9f0-caff6870acff/full/full/0/default.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 103,
+        "itemId": "paraceratherium",
+        "url": "https://data.nhm.ac.uk/media/2f648391-f713-44ea-9728-d80f896e9e05",
+        "status": "rejected"
+      },
+      {
+        "index": 104,
+        "itemId": "paraceratherium",
+        "url": "https://data.nhm.ac.uk/media/bb1745e7-1702-4568-97f7-8bb0b497c4d3",
+        "status": "rejected"
+      },
+      {
+        "index": 105,
+        "itemId": "paraceratherium",
+        "url": "https://collections.nmnh.si.edu/media/?i=10955964&h=2000",
+        "status": "approved"
+      },
+      {
+        "index": 106,
+        "itemId": "paranthropus-boisei",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.1332464_HL/format/large",
+        "status": "approved"
+      },
+      {
+        "index": 107,
+        "itemId": "paranthropus-boisei",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.1332464_2/format/large",
+        "status": "rejected"
+      },
+      {
+        "index": 108,
+        "itemId": "paranthropus-boisei",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.1332464_1/format/large",
+        "status": "rejected"
+      },
+      {
+        "index": 109,
+        "itemId": "parkinsonia-parkinsoni",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK231-1.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 110,
+        "itemId": "parkinsonia-parkinsoni",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/QK231-2.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 111,
+        "itemId": "parkinsonia-parkinsoni",
+        "url": "https://files.geocollections.info/medium/9d/c3/9dc3187c-ddc1-430e-81f2-400c737099ac.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 112,
+        "itemId": "placosmilia",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:6e54e0c6-e743-4887-b514-d50bbbe93808/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 115,
+        "itemId": "planorbis",
+        "url": "http://was.tacc.utexas.edu/fileget?coll=NPL+collections&type=O&filename=sp62723352634817954287.att.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 116,
+        "itemId": "planorbis",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.935259/format/large",
+        "status": "rejected"
+      },
+      {
+        "index": 117,
+        "itemId": "planorbis",
+        "url": "https://medialib.naturalis.nl/file/id/RGM.935263_2/format/large",
+        "status": "rejected"
+      },
+      {
+        "index": 118,
+        "itemId": "potamides",
+        "url": "http://fossilshells.nl/Pict5/53504.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 119,
+        "itemId": "potamides",
+        "url": "http://fossilshells.nl/Pict5/53505.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 120,
+        "itemId": "potamides",
+        "url": "http://fossilshells.nl/Pict3/30298.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 123,
+        "itemId": "productus",
+        "url": "https://data.nhm.ac.uk/media/7374ff6c-f2f9-4e9d-8033-525170fd1ba9",
+        "status": "rejected"
+      },
+      {
+        "index": 124,
+        "itemId": "pygope",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:97b2cbd2-1b0a-45a8-9ae6-57cbc8f33f00/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 125,
+        "itemId": "pygope",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:bf732b78-7db2-452d-a74c-7c13253fa6e2/full/full/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 126,
+        "itemId": "pygope",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:6ffe84bd-3573-4a56-bbf0-af7bf57eb7ef/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 127,
+        "itemId": "radiolites",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/15739.JPG",
+        "status": "rejected"
+      },
+      {
+        "index": 128,
+        "itemId": "radiolites",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/15740.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 129,
+        "itemId": "radiolites",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/15750.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 130,
+        "itemId": "rana-pueyoi",
+        "url": "https://data.nhm.ac.uk/media/603dc4e4-4931-4e98-a146-a53d5cbf5b29",
+        "status": "rejected"
+      },
+      {
+        "index": 131,
+        "itemId": "rana-pueyoi",
+        "url": "https://data.nhm.ac.uk/media/074f69e9-b746-48bd-8531-ede4a23d8f61",
+        "status": "rejected"
+      },
+      {
+        "index": 132,
+        "itemId": "rana-pueyoi",
+        "url": "https://data.nhm.ac.uk/media/c23fe85a-f12d-4683-8049-8f11d324d715",
+        "status": "rejected"
+      },
+      {
+        "index": 133,
+        "itemId": "rastrites",
+        "url": "https://files.geocollections.info/medium/39/56/39561a23-3596-47a0-9426-484259621106.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 134,
+        "itemId": "rastrites",
+        "url": "https://files.geocollections.info/medium/44/d0/44d00305-50a2-450f-875c-8f684e64c112.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 135,
+        "itemId": "rastrites",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:7372153e-5865-4f8a-a423-3f3943686dcb/full/!1920,1920/0/default.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 136,
+        "itemId": "schizaster",
+        "url": "http://was.tacc.utexas.edu/fileget?coll=NPL+collections&type=O&filename=sp65167829612620285287.att.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 137,
+        "itemId": "schizaster",
+        "url": "http://was.tacc.utexas.edu/fileget?coll=NPL+collections&type=O&filename=sp68471194470217117330.att.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 138,
+        "itemId": "schizaster",
+        "url": "http://was.tacc.utexas.edu/fileget?coll=NPL+collections&type=O&filename=sp61766211781609686040.att.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 139,
+        "itemId": "stigmaria-ficoides",
+        "url": "https://files.geocollections.info/medium/88/b6/88b61647-17d2-4f35-b7ba-a1886da0dc1c.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 140,
+        "itemId": "stigmaria-ficoides",
+        "url": "https://files.geocollections.info/medium/64/80/6480fc97-7633-4f31-8782-20866a234549.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 141,
+        "itemId": "stigmaria-ficoides",
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:6df547d6-2dba-464f-bbc5-6668b67cfcd5/full/!1920,1920/0/default.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 142,
+        "itemId": "streptelasma",
+        "url": "https://collections.nmnh.si.edu/media/?i=14719224&h=1920",
+        "status": "approved"
+      },
+      {
+        "index": 143,
+        "itemId": "streptelasma",
+        "url": "https://collections.nmnh.si.edu/media/?i=14719223&h=1920",
+        "status": "rejected"
+      },
+      {
+        "index": 144,
+        "itemId": "streptelasma",
+        "url": "https://collections.nmnh.si.edu/media/?i=14719225&h=1920",
+        "status": "approved"
+      },
+      {
+        "index": 145,
+        "itemId": "tentaculites",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/BQ238.JPG",
+        "status": "rejected"
+      },
+      {
+        "index": 146,
+        "itemId": "tentaculites",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/EIB320.JPG",
+        "status": "rejected"
+      },
+      {
+        "index": 147,
+        "itemId": "tentaculites",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/EM104.JPG",
+        "status": "rejected"
+      },
       {
         "index": 148,
         "itemId": "terebratula",
         "url": "https://archimg.mnhn.lu/Collections/Collections/MO140.JPG",
+        "status": "approved"
+      },
+      {
+        "index": 149,
+        "itemId": "terebratula",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/MO137.JPG",
+        "status": "rejected"
+      },
+      {
+        "index": 150,
+        "itemId": "terebratula",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/MO138-2.JPG",
         "status": "rejected"
       }
     ]
@@ -23528,6 +24338,20 @@
         "itemId": "stratus",
         "url": "https://www.weather.gov/images/lmk/soo/stratus.jpg",
         "status": "approved"
+      }
+    ]
+  },
+  {
+    "batch": "catalogo-museos-001",
+    "picksSha256": "f5a8cc7dddbf0c4bf48a88446986741c9d85ffbd88abb73576dba2bf6328c265",
+    "date": "2026-10-24",
+    "note": "Revisión taxonómica adicional: las otras muestras de la misma serie se rotulan Terebratula vulgaris (Coenothyris vulgaris en la literatura moderna); no usar esta serie para enseñar el género Terebratula sin aclarar el concepto del listado.",
+    "decisions": [
+      {
+        "index": 148,
+        "itemId": "terebratula",
+        "url": "https://archimg.mnhn.lu/Collections/Collections/MO140.JPG",
+        "status": "rejected"
       }
     ]
   },
@@ -29251,12 +30075,54 @@
     "batch": "fossils-install-001",
     "picksSha256": "788ddead54bd123238169a720d6c07cf84029a285b5e5856ab642a2de95649ea",
     "date": "2026-10-25",
-    "note": "Reconsideración tras recorte y giro: se conserva exclusivamente el Baculites recto central identificado por Kansas Geological Survey; se excluyen los Scaphites de la fotografía mixta. La fuente indica realce de suturas en el ejemplar pequeño, que no se incorpora. Se conserva el color de la muestra y no se generan rasgos.",
+    "note": "Inspección individual y de hoja: Annularia con verticilos, Baculites limitado a figuras 3a/3b/3d sin otros géneros, Gryphaea con dos vistas de la valva gruesa y umbo incurvado. Se excluyen ejemplar demasiado oscuro, placa mixta de baja resolución y dos corales genéricos sin respaldo suficiente para Calceola.",
     "decisions": [
+      {
+        "index": 0,
+        "itemId": "annularia",
+        "url": "https://unbgeology.lib.unb.ca/upload/670e7f6318fad546c82680fa-2020-302.JPG?w=1280&h=915",
+        "status": "rejected"
+      },
+      {
+        "index": 1,
+        "itemId": "annularia",
+        "url": "https://www.lombardiabeniculturali.it/assets/immagini/liv2/BNP310RL/SC/BNP/7s060/00/BNP_7s060-00058_IMG-0000001946.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 2,
+        "itemId": "baculites",
+        "url": "https://ammonoid.treatise.geolex.org/uploads/Baculites/Figure_Caption/Baculites_fig_199_baculitidae_p_256258.jpg",
+        "status": "approved"
+      },
       {
         "index": 3,
         "itemId": "baculites",
         "url": "https://www.kgs.ku.edu/Publications/ancient/gifs/fig6.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 4,
+        "itemId": "calceola",
+        "url": "https://www.geovirtual2.cl/geologiageneral/imagenes/Fotos/Coral002.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 5,
+        "itemId": "calceola",
+        "url": "https://www.geovirtual2.cl/geologiageneral/imagenes/Fotos/Coral003.jpg",
+        "status": "rejected"
+      },
+      {
+        "index": 6,
+        "itemId": "gryphaea",
+        "url": "https://www.geovirtual2.cl/MVgeo/gryphea8630n.jpg",
+        "status": "approved"
+      },
+      {
+        "index": 7,
+        "itemId": "gryphaea",
+        "url": "https://www.geovirtual2.cl/MVgeo/gryphea8631n.jpg",
         "status": "approved"
       }
     ]
@@ -29277,6 +30143,20 @@
         "index": 1,
         "itemId": "calceola",
         "url": "https://www.geovirtual2.cl/geoliteratur/Carl-Vogt-1866/Vogt-154-Calceola.jpg",
+        "status": "approved"
+      }
+    ]
+  },
+  {
+    "batch": "fossils-install-001",
+    "picksSha256": "788ddead54bd123238169a720d6c07cf84029a285b5e5856ab642a2de95649ea",
+    "date": "2026-10-25",
+    "note": "Reconsideración tras recorte y giro: se conserva exclusivamente el Baculites recto central identificado por Kansas Geological Survey; se excluyen los Scaphites de la fotografía mixta. La fuente indica realce de suturas en el ejemplar pequeño, que no se incorpora. Se conserva el color de la muestra y no se generan rasgos.",
+    "decisions": [
+      {
+        "index": 3,
+        "itemId": "baculites",
+        "url": "https://www.kgs.ku.edu/Publications/ancient/gifs/fig6.jpg",
         "status": "approved"
       }
     ]

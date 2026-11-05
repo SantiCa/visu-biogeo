@@ -1,23 +1,23 @@
 # Estado de la revisión de imágenes
 
-Fecha: 2026-11-05. Catálogo: 2611 entradas.
+Fecha: 2026-11-05. Catálogo: 2616 entradas.
 
-- 4765 imágenes aprobadas y 2125 entradas con al menos dos imágenes distintas según su referencia.
+- 4805 imágenes aprobadas y 2143 entradas con al menos dos imágenes distintas según su referencia.
 - 163/163 prioritarias del histórico disponible con pareja. El histórico es parcial: no cubre todos los exámenes de las últimas dos décadas.
-- 486 entradas pendientes de completar la pareja; 340 sin imagen aprobada.
+- 473 entradas pendientes de completar la pareja; 327 sin imagen aprobada.
 - Archivos aprobados no legibles: 0.
 
 | Grupo | Entradas | Con pareja aprobada | Pendientes de pareja |
 |---|---:|---:|---:|
-| Organismos | 1751 | 1683 | 68 |
+| Organismos | 1756 | 1687 | 69 |
 | Minerales | 101 | 87 | 14 |
-| Rocas | 81 | 52 | 29 |
-| Fósiles | 141 | 57 | 84 |
-| Estructuras e histología | 239 | 78 | 161 |
+| Rocas | 81 | 53 | 28 |
+| Fósiles | 141 | 60 | 81 |
+| Estructuras e histología | 239 | 80 | 159 |
 | Lámina delgada | 80 | 57 | 23 |
 | Moléculas | 46 | 38 | 8 |
 | Nubes | 23 | 23 | 0 |
-| Geomorfología | 149 | 50 | 99 |
+| Geomorfología | 149 | 58 | 91 |
 
 ## Alcance y pendientes
 

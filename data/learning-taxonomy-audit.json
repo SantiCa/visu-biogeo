@@ -1,13 +1,19 @@
 {
-  "date": "2026-11-04",
-  "biologicalEntries": 1890,
-  "rankedPhyla": 1886,
-  "commonNames": 1251,
+  "date": "2026-11-05",
+  "biologicalEntries": 1897,
+  "rankedPhyla": 1888,
+  "commonNames": 1253,
   "notApplicableIds": [
     "coprolito",
     "cruziana",
     "fosil-estromatolitos",
     "icnita"
   ],
-  "pendingIds": []
+  "pendingIds": [
+    "trypanosoma-sp",
+    "burhinus-oedicnemus",
+    "phlomis-herba-venti",
+    "berberomeloe-majalis",
+    "herpestes-ichneumon"
+  ]
 }
