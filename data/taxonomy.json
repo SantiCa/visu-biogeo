@@ -14944,5 +14944,21 @@
     "checkedAt": "2026-11-05",
     "aliases": [],
     "reviewStatus": "documented"
+  },
+  "cyathus-striatus": {
+    "family": "Nidulariaceae",
+    "matchedName": "Cyathus striatus",
+    "source": "https://www.inaturalist.org/taxa/120242",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "helvella-crispa": {
+    "family": "Helvellaceae",
+    "matchedName": "Helvella crispa",
+    "source": "https://www.inaturalist.org/taxa/49208",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }

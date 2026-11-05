@@ -142886,5 +142886,120 @@
     "commonNameStatus": "not-documented",
     "status": "documented",
     "reviewNote": "Especie y linaje contrastados con IBERFAUNA (MNCN-CSIC), ficha 62536, e iNaturalist 210121. La consulta preliminar GBIF devolvió múltiples coincidencias y no se acepta como determinación. No se atribuyen a esta especie imágenes de otras asterinas."
+  },
+  "cyathus-striatus": {
+    "provider": "iNaturalist / fuentes micológicas",
+    "source": "https://www.inaturalist.org/taxa/120242",
+    "sources": [
+      "https://www.inaturalist.org/taxa/120242",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=211223",
+      "https://gd.eppo.int/taxon/CYATST",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10082518/"
+    ],
+    "matchedName": "Cyathus striatus",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Fungi",
+      "phylum": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Nidulariaceae",
+      "genus": "Cyathus",
+      "species": "Cyathus striatus"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Fungi"
+      },
+      {
+        "rank": "phylum",
+        "name": "Basidiomycota"
+      },
+      {
+        "rank": "class",
+        "name": "Agaricomycetes"
+      },
+      {
+        "rank": "order",
+        "name": "Agaricales"
+      },
+      {
+        "rank": "family",
+        "name": "Nidulariaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Cyathus"
+      },
+      {
+        "rank": "species",
+        "name": "Cyathus striatus"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Hongos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Se adopta Nidulariaceae según iNaturalist y EPPO, coherente con la revisión molecular de Cyathus de 2023. Species Fungorum confirma el nombre, pero deja la familia incertae sedis; no se atribuye esa asignación familiar a dicha fuente."
+  },
+  "helvella-crispa": {
+    "provider": "iNaturalist / fuentes micológicas",
+    "source": "https://www.inaturalist.org/taxa/49208",
+    "sources": [
+      "https://www.inaturalist.org/taxa/49208",
+      "https://species.data.kew.org/species/186148",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5832953/"
+    ],
+    "matchedName": "Helvella crispa",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Fungi",
+      "phylum": "Ascomycota",
+      "class": "Pezizomycetes",
+      "order": "Pezizales",
+      "family": "Helvellaceae",
+      "genus": "Helvella",
+      "species": "Helvella crispa"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Fungi"
+      },
+      {
+        "rank": "phylum",
+        "name": "Ascomycota"
+      },
+      {
+        "rank": "class",
+        "name": "Pezizomycetes"
+      },
+      {
+        "rank": "order",
+        "name": "Pezizales"
+      },
+      {
+        "rank": "family",
+        "name": "Helvellaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Helvella"
+      },
+      {
+        "rank": "species",
+        "name": "Helvella crispa"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Hongos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Kew/Index Fungorum confirma el nombre aceptado y Helvellaceae; la revisión europea de Helvella respalda su tratamiento específico. Helvella lacunosa permanece independiente y no se heredan sus imágenes."
   }
 }

@@ -26854,5 +26854,31 @@
     "group": "Equinodermos",
     "source": "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T",
     "checkedAt": "2026-11-05"
+  },
+  "cyathus-striatus": {
+    "family": "Nidulariaceae",
+    "lineage": [
+      "Fungi",
+      "Basidiomycota",
+      "Agaricomycetes",
+      "Agaricales",
+      "Nidulariaceae"
+    ],
+    "group": "Hongos",
+    "source": "https://www.inaturalist.org/taxa/120242",
+    "checkedAt": "2026-11-05"
+  },
+  "helvella-crispa": {
+    "family": "Helvellaceae",
+    "lineage": [
+      "Fungi",
+      "Ascomycota",
+      "Pezizomycetes",
+      "Pezizales",
+      "Helvellaceae"
+    ],
+    "group": "Hongos",
+    "source": "https://www.inaturalist.org/taxa/49208",
+    "checkedAt": "2026-11-05"
   }
 }

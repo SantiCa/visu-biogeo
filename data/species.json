@@ -49311,5 +49311,45 @@
     "studyLists": [
       "Picnogónidos, poríferos y otros invertebrados"
     ]
+  },
+  {
+    "id": "cyathus-striatus",
+    "scientificName": "Cyathus striatus",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "LISTADO de visu DE HONGOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "LISTADO de visu DE HONGOS.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Se adopta Nidulariaceae según iNaturalist y EPPO, coherente con la revisión molecular de Cyathus de 2023. Species Fungorum confirma el nombre, pero deja la familia incertae sedis; no se atribuye esa asignación familiar a dicha fuente.",
+    "studyLists": [
+      "Hongos"
+    ]
+  },
+  {
+    "id": "helvella-crispa",
+    "scientificName": "Helvella crispa",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "LISTADO de visu DE HONGOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "LISTADO de visu DE HONGOS.pdf",
+        "page": 4
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Kew/Index Fungorum confirma el nombre aceptado y Helvellaceae; la revisión europea de Helvella respalda su tratamiento específico. Helvella lacunosa permanece independiente y no se heredan sus imágenes.",
+    "studyLists": [
+      "Hongos"
+    ]
   }
 ]
