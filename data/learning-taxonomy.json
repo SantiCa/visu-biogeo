@@ -141666,5 +141666,117 @@
     "group": "Mamíferos",
     "checkedAt": "2026-11-05",
     "commonNameStatus": "documented"
+  },
+  "ceratostreon-flabellatum": {
+    "provider": "Paleobiology Database",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
+    "matchedName": "Ceratostreon flabellatum",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Ostreida",
+      "family": "Gryphaeidae",
+      "genus": "Ceratostreon",
+      "species": "Ceratostreon flabellatum"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Mollusca"
+      },
+      {
+        "rank": "class",
+        "name": "Bivalvia"
+      },
+      {
+        "rank": "order",
+        "name": "Ostreida"
+      },
+      {
+        "rank": "family",
+        "name": "Gryphaeidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Ceratostreon"
+      },
+      {
+        "rank": "species",
+        "name": "Ceratostreon flabellatum"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Moluscos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Exogyra flavellata»; se conserva como procedencia, no como alias aceptado. PBDB recombina Exogyra flabellata como Ceratostreon flabellatum; se conserva el nombre histórico como alias de una única especie. La recombinación está corroborada por WoRMS. La entrada genérica Exogyra permanece independiente.",
+    "sources": [
+      "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
+      "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Exogyra"
+    ]
+  },
+  "encrinus-liliiformis": {
+    "provider": "Paleobiology Database",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=387782",
+    "matchedName": "Encrinus liliiformis",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Encrinida",
+      "family": "Encrinidae",
+      "genus": "Encrinus",
+      "species": "Encrinus liliiformis"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Echinodermata"
+      },
+      {
+        "rank": "class",
+        "name": "Crinoidea"
+      },
+      {
+        "rank": "order",
+        "name": "Encrinida"
+      },
+      {
+        "rank": "family",
+        "name": "Encrinidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Encrinus"
+      },
+      {
+        "rank": "species",
+        "name": "Encrinus liliiformis"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Equinodermos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Encrinus liliformis»; se conserva como procedencia, no como alias aceptado. Se corrige la grafía a Encrinus liliiformis, especie documentada por PBDB y GBIF. La entrada genérica Encrinus permanece independiente.",
+    "sources": [
+      "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=387782",
+      "https://www.gbif.org/species/7972692"
+    ]
   }
 }

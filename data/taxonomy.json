@@ -14776,5 +14776,21 @@
     "source": "https://www.inaturalist.org/taxa/87457",
     "checkedAt": "2026-10-26",
     "aliases": []
+  },
+  "ceratostreon-flabellatum": {
+    "family": "Gryphaeidae",
+    "matchedName": "Ceratostreon flabellatum",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "encrinus-liliiformis": {
+    "family": "Encrinidae",
+    "matchedName": "Encrinus liliiformis",
+    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=387782",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }
