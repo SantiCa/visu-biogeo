@@ -139087,16 +139087,19 @@
     "commonNameStatus": "documented"
   },
   "belemnites": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8100870",
+    "provider": "Paleobiology Database",
+    "source": "https://paleobiodb.org/data1.2/taxa/single.json?id=txn:15843&show=parent,immparent",
     "matchedName": "Belemnites",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
+      "subclass": "Coleoidea",
       "order": "Belemnitida",
+      "suborder": "Belemnitina",
       "family": "Belemnitidae",
+      "subfamily": "Belemnitinae",
       "genus": "Belemnites"
     },
     "hierarchy": [
@@ -139113,12 +139116,24 @@
         "name": "Cephalopoda"
       },
       {
+        "rank": "subclass",
+        "name": "Coleoidea"
+      },
+      {
         "rank": "order",
         "name": "Belemnitida"
       },
       {
+        "rank": "suborder",
+        "name": "Belemnitina"
+      },
+      {
         "rank": "family",
         "name": "Belemnitidae"
+      },
+      {
+        "rank": "subfamily",
+        "name": "Belemnitinae"
       },
       {
         "rank": "genus",
@@ -139128,8 +139143,25 @@
     "commonName": null,
     "commonNames": [],
     "group": "Moluscos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "PBDB documenta Coleoidea, Belemnitida, Belemnitina y Belemnitinae para Belemnites; se mantiene el alcance de género de la recopilación de Madrid.",
+    "taxonomicReview": {
+      "reviewedAt": "2026-11-05",
+      "previousClassification": {
+        "provider": "GBIF",
+        "source": "https://www.gbif.org/species/8100870",
+        "checkedAt": "2026-10-26",
+        "ranks": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Belemnitida",
+          "family": "Belemnitidae",
+          "genus": "Belemnites"
+        }
+      }
+    }
   },
   "colpocoryphe-sp": {
     "provider": "GBIF",
