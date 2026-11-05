@@ -143001,5 +143001,119 @@
     "commonNameStatus": "not-documented",
     "status": "documented",
     "reviewNote": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Kew/Index Fungorum confirma el nombre aceptado y Helvellaceae; la revisión europea de Helvella respalda su tratamiento específico. Helvella lacunosa permanece independiente y no se heredan sus imágenes."
+  },
+  "solanum-lycopersicum": {
+    "provider": "GBIF / POWO (Kew)",
+    "source": "https://www.gbif.org/species/2930137",
+    "sources": [
+      "https://www.gbif.org/species/2930137",
+      "https://powo.science.kew.org/taxon/316947-2",
+      "https://powo.science.kew.org/taxon/146898-2"
+    ],
+    "matchedName": "Solanum lycopersicum",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "genus": "Solanum",
+      "species": "Solanum lycopersicum"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Solanales"
+      },
+      {
+        "rank": "family",
+        "name": "Solanaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Solanum"
+      },
+      {
+        "rank": "species",
+        "name": "Solanum lycopersicum"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF de frutos escribe «Lycopersicum sculentum, Tomate». Esa errata se conserva como procedencia, no como alias. POWO documenta Lycopersicon esculentum como sinónimo de Solanum lycopersicum; se incorpora una sola especie con el linaje del nombre aceptado."
+  },
+  "prunus-amygdalus": {
+    "provider": "GBIF / POWO (Kew)",
+    "source": "https://www.gbif.org/species/3020980",
+    "sources": [
+      "https://www.gbif.org/species/3020980",
+      "https://powo.science.kew.org/taxon/60439867-2",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:729673-1"
+    ],
+    "matchedName": "Prunus amygdalus",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus amygdalus"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Rosales"
+      },
+      {
+        "rank": "family",
+        "name": "Rosaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Prunus"
+      },
+      {
+        "rank": "species",
+        "name": "Prunus amygdalus"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "Ambos PDF emplean Prunus dulcis para el almendro o la almendra. Se sigue el nombre aceptado Prunus amygdalus en POWO/GBIF; Prunus dulcis (Mill.) D.A.Webb se conserva como sinónimo documentado del almendro, sin crear otra especie ni confundir homónimos."
   }
 }

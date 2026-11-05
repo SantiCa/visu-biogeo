@@ -49351,5 +49351,55 @@
     "studyLists": [
       "Hongos"
     ]
+  },
+  {
+    "id": "solanum-lycopersicum",
+    "scientificName": "Solanum lycopersicum",
+    "kind": "organismo",
+    "aliases": [
+      "Lycopersicon esculentum"
+    ],
+    "sources": [
+      "Listado de visu de TIPOS DE FRUTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de TIPOS DE FRUTOS.pdf",
+        "page": 7
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF de frutos escribe «Lycopersicum sculentum, Tomate». Esa errata se conserva como procedencia, no como alias. POWO documenta Lycopersicon esculentum como sinónimo de Solanum lycopersicum; se incorpora una sola especie con el linaje del nombre aceptado.",
+    "studyLists": [
+      "Tipos de frutos"
+    ]
+  },
+  {
+    "id": "prunus-amygdalus",
+    "scientificName": "Prunus amygdalus",
+    "kind": "organismo",
+    "aliases": [
+      "Prunus dulcis"
+    ],
+    "sources": [
+      "Listado de visu de TIPOS DE FRUTOS.pdf",
+      "Listado de ÁRBOLES Y ARBUSTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de TIPOS DE FRUTOS.pdf",
+        "page": 9
+      },
+      {
+        "file": "Listado de ÁRBOLES Y ARBUSTOS.pdf",
+        "page": 3
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Ambos PDF emplean Prunus dulcis para el almendro o la almendra. Se sigue el nombre aceptado Prunus amygdalus en POWO/GBIF; Prunus dulcis (Mill.) D.A.Webb se conserva como sinónimo documentado del almendro, sin crear otra especie ni confundir homónimos.",
+    "studyLists": [
+      "Tipos de frutos",
+      "Árboles y arbustos"
+    ]
   }
 ]
