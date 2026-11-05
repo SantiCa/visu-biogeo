@@ -49049,5 +49049,65 @@
     "studyLists": [
       "Insectos"
     ]
+  },
+  {
+    "id": "siren-lacertina",
+    "scientificName": "Siren lacertina",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de Anfibios y Reptiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de Anfibios y Reptiles.pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Siren lac ertina»; se corrige a Siren lacertina. La grafía original se conserva como procedencia y no como alias aceptado.",
+    "studyLists": [
+      "Anfibios y reptiles"
+    ]
+  },
+  {
+    "id": "rana-pyrenaica",
+    "scientificName": "Rana pyrenaica",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de Anfibios y Reptiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de Anfibios y Reptiles.pdf",
+        "page": 2
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Rana pirenaica»; se corrige a Rana pyrenaica. La grafía original se conserva como procedencia y no como alias aceptado.",
+    "studyLists": [
+      "Anfibios y reptiles"
+    ]
+  },
+  {
+    "id": "coronella-austriaca",
+    "scientificName": "Coronella austriaca",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de Anfibios y Reptiles.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de Anfibios y Reptiles.pdf",
+        "page": 5
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Nombre y familia contrastados con The Reptile Database; jerarquía documentada en iNaturalist 26904. La consulta preliminar GBIF devolvió múltiples coincidencias y no se usa como determinación.",
+    "studyLists": [
+      "Anfibios y reptiles"
+    ]
   }
 ]

@@ -26683,5 +26683,47 @@
     "group": "Insectos",
     "source": "https://www.gbif.org/species/1340503",
     "checkedAt": "2026-11-05"
+  },
+  "siren-lacertina": {
+    "family": "Sirenidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Amphibia",
+      "Caudata",
+      "Sirenidae"
+    ],
+    "group": "Anfibios",
+    "source": "https://www.gbif.org/species/2432068",
+    "checkedAt": "2026-11-05"
+  },
+  "rana-pyrenaica": {
+    "family": "Ranidae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Amphibia",
+      "Anura",
+      "Ranidae"
+    ],
+    "group": "Anfibios",
+    "source": "https://www.gbif.org/species/2426793",
+    "checkedAt": "2026-11-05"
+  },
+  "coronella-austriaca": {
+    "family": "Colubridae",
+    "lineage": [
+      "Animalia",
+      "Chordata",
+      "Vertebrata",
+      "Reptilia",
+      "Squamata",
+      "Serpentes",
+      "Colubridae",
+      "Colubrinae"
+    ],
+    "group": "Reptiles",
+    "source": "https://www.inaturalist.org/taxa/26904",
+    "checkedAt": "2026-11-05"
   }
 }

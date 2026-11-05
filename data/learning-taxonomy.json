@@ -142138,5 +142138,198 @@
     "commonNameStatus": "not-documented",
     "status": "documented",
     "reviewNote": "El PDF escribe «Bombus terrestres»; se corrige la errata a Bombus terrestris. La grafía original se conserva como procedencia, no como alias aceptado."
+  },
+  "siren-lacertina": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/2432068",
+    "sources": [
+      "https://www.gbif.org/species/2432068",
+      "https://www.floridamuseum.ufl.edu/florida-vertebrate-fossils/species/siren-lacertina/"
+    ],
+    "matchedName": "Siren lacertina",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Caudata",
+      "family": "Sirenidae",
+      "genus": "Siren",
+      "species": "Siren lacertina"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Chordata"
+      },
+      {
+        "rank": "class",
+        "name": "Amphibia"
+      },
+      {
+        "rank": "order",
+        "name": "Caudata"
+      },
+      {
+        "rank": "family",
+        "name": "Sirenidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Siren"
+      },
+      {
+        "rank": "species",
+        "name": "Siren lacertina"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Anfibios",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Siren lac ertina»; se corrige a Siren lacertina. La grafía original se conserva como procedencia y no como alias aceptado."
+  },
+  "rana-pyrenaica": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/2426793",
+    "sources": [
+      "https://www.gbif.org/species/2426793",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-pyrenaica"
+    ],
+    "matchedName": "Rana pyrenaica",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Ranidae",
+      "genus": "Rana",
+      "species": "Rana pyrenaica"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Chordata"
+      },
+      {
+        "rank": "class",
+        "name": "Amphibia"
+      },
+      {
+        "rank": "order",
+        "name": "Anura"
+      },
+      {
+        "rank": "family",
+        "name": "Ranidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Rana"
+      },
+      {
+        "rank": "species",
+        "name": "Rana pyrenaica"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Anfibios",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Rana pirenaica»; se corrige a Rana pyrenaica. La grafía original se conserva como procedencia y no como alias aceptado."
+  },
+  "coronella-austriaca": {
+    "provider": "iNaturalist / The Reptile Database",
+    "source": "https://www.inaturalist.org/taxa/26904",
+    "sources": [
+      "https://www.inaturalist.org/taxa/26904",
+      "https://reptile-database.reptarium.cz/Coronella/austriaca"
+    ],
+    "matchedName": "Coronella austriaca",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "subphylum": "Vertebrata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "suborder": "Serpentes",
+      "family": "Colubridae",
+      "subfamily": "Colubrinae",
+      "genus": "Coronella",
+      "species": "Coronella austriaca"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia",
+        "taxonId": 1
+      },
+      {
+        "rank": "phylum",
+        "name": "Chordata",
+        "taxonId": 2
+      },
+      {
+        "rank": "subphylum",
+        "name": "Vertebrata",
+        "taxonId": 355675
+      },
+      {
+        "rank": "class",
+        "name": "Reptilia",
+        "taxonId": 26036
+      },
+      {
+        "rank": "order",
+        "name": "Squamata",
+        "taxonId": 26172
+      },
+      {
+        "rank": "suborder",
+        "name": "Serpentes",
+        "taxonId": 85553
+      },
+      {
+        "rank": "family",
+        "name": "Colubridae",
+        "taxonId": 26504
+      },
+      {
+        "rank": "subfamily",
+        "name": "Colubrinae",
+        "taxonId": 797520
+      },
+      {
+        "rank": "genus",
+        "name": "Coronella",
+        "taxonId": 26884
+      },
+      {
+        "rank": "species",
+        "name": "Coronella austriaca",
+        "taxonId": 26904
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Reptiles",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "Nombre y familia contrastados con The Reptile Database; jerarquía documentada en iNaturalist 26904. La consulta preliminar GBIF devolvió múltiples coincidencias y no se usa como determinación."
   }
 }
