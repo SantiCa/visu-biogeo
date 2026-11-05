@@ -1,4 +1,155 @@
 {
+  "melanargia-russiae": {
+    "commonName": "Medioluto montañesa",
+    "description": "Mariposa diurna con un mosaico blanco y negro en el anverso de las alas. En el reverso destacan las líneas oscuras y los ocelos del ala posterior. La proporción de blanco y negro varía, y el reverso del ala posterior de la hembra puede ser amarillento.",
+    "diagnostics": [
+      "Buscar la línea oscura en zigzag dentro de la celda del ala anterior. Es útil para separarla de M. galathea y M. lachesis, que carecen de ese dibujo en la comparación de Asturnatura.",
+      "En el reverso del ala posterior, valorar el contorno marcado del dibujo y los ocelos junto con la celda del ala anterior. Una vista que oculte la celda reduce la seguridad de la comparación.",
+      "La intensidad del fondo oscuro y el tono amarillento varían. Conviene comparar el patrón de ambas alas en vez de basar la determinación en el color o el tamaño aparente."
+    ],
+    "etymology": "La propuesta de nombres de ZERYNTHIA recoge para Melanargia el griego melan, negro, y argia, inacción o reposo. El motivo preciso de esa combinación queda pendiente de cotejo con la publicación original. Russiae significa «de Rusia» y funciona como epíteto geográfico.",
+    "sources": [
+      {
+        "url": "https://www.asturnatura.com/especie/melanargia-russiae",
+        "title": "Asturnatura · Melanargia russiae: documentación fotográfica, dibujo alar y especies similares"
+      },
+      {
+        "url": "https://www.asociacion-zerynthia.org/pdf/nombres_comunes.pdf",
+        "title": "Monasterio et al., Boletín de la Sociedad Entomológica Aragonesa 60 · Nombres comunes y significados de Melanargia y russiae"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de adultos ibéricos por el patrón alar. La mención de Madrid 2002 es una atribución de una lista de opositor."
+  },
+  "acanthodactylus-erythrurus": {
+    "commonName": "Lagartija colirroja",
+    "description": "Lagartija de cuerpo robusto, patas fuertes, dedos largos y uñas visibles. Los adultos suelen mostrar bandas longitudinales pardas, grises u ocres separadas por líneas claras. En los jóvenes, las franjas contrastan más y la cola suele ser rojiza.",
+    "diagnostics": [
+      "Combinar el patrón dorsal con los dedos largos y la escamación de la cabeza. En detalle se distinguen dos grandes escamas supraoculares por lado, flanqueadas por gránulos, y una quilla marcada en la escama subocular.",
+      "Los jóvenes y las hembras en celo pueden mostrar una cola rojiza. El tono caudal varía con la edad y el estado reproductor, y se valora junto con el resto de caracteres.",
+      "La comparación se centra en ejemplares ibéricos. El estudio de Miralles y colaboradores separó dos especies del Atlas marroquí tras comparar morfología y datos moleculares. La procedencia importa al aplicar la ficha fuera de la península."
+    ],
+    "etymology": "Acanthodactylus reúne el griego akantha, espina, y daktylos, dedo. Erythrurus combina erythros, rojo, y oura, cola. El sentido del epíteto concuerda con la coloración caudal de jóvenes y algunas hembras adultas.",
+    "sources": [
+      {
+        "url": "https://www.vertebradosibericos.org/reptiles/identificacion/acaeryid.html",
+        "title": "Enciclopedia Virtual de los Vertebrados Españoles, MNCN-CSIC · Lagartija colirroja: escamación y variación de la coloración"
+      },
+      {
+        "url": "https://publication.plazi.org/GgServer/summary/FFA497235F570C17623C610DF368FF8B",
+        "title": "Miralles et al. (2020) · Revisión morfológica y multilocus del complejo Acanthodactylus erythrurus"
+      },
+      {
+        "url": "https://lacertilia.de/AF/Bibliografie/BIB_16533.pdf",
+        "title": "The reptiles of Türkiye: An etymology, Journal of Wildlife and Biodiversity · Raíces de Acanthodactylus"
+      },
+      {
+        "url": "https://zamorabiodiversa.wordpress.com/2023/07/13/vivir-al-limite-la-lagartija-colirroja-en-zamora/",
+        "title": "José Alfredo Hernández, Zamora Biodiversa · Observaciones de lagartija colirroja y significado de erythrurus"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de ejemplares ibéricos. La correspondencia de la grafía Acanthodactylus eritrurus de la lista de opositor es provisional."
+  },
+  "peronaea-planata": {
+    "commonName": "Telina plana",
+    "description": "Bivalvo marino de concha fina y muy comprimida lateralmente. Su contorno es ovalado y asimétrico, con el extremo anterior redondeado y el posterior algo anguloso. La superficie puede ser blanquecina o rosada, con líneas de crecimiento finas.",
+    "diagnostics": [
+      "Observar la concha de perfil y desde el borde. El poco grosor y la diferencia entre los extremos ayudan más que el color en una valva desgastada.",
+      "En el interior destaca un seno paleal muy profundo dirigido hacia la charnela. Examinar también los dientes de la charnela y las impresiones de los músculos aductores para contrastar con otras telinas.",
+      "Fabulina fabula presenta en la valva derecha estrías diagonales que cruzan las líneas de crecimiento. Conviene comprobar de qué valva se trata y combinar la escultura con el contorno y la charnela."
+    ],
+    "etymology": "DORIS relaciona Peronaea con el griego peronē, broche o clavija, en alusión al encaje de los dientes de la charnela. Planata procede del latín plano, aplanar, y alude a la compresión de la concha.",
+    "sources": [
+      {
+        "url": "https://doris.ffessm.fr/Especes/Peronaea-planata-Telline-aplatie-4266",
+        "title": "DORIS-FFESSM · Peronaea planata: identificación, charnela, especies similares y etimología"
+      },
+      {
+        "url": "https://litoraldegranada.ugr.es/el-litoral/el-litoral-sumergido/fauna/moluscos/clase-bivalvia/heteroconchia/peronaea-planata/",
+        "title": "Luis Sánchez Tocino, Universidad de Granada · Peronaea planata: concha, charnela y sinonimia con Tellina planata"
+      },
+      {
+        "url": "https://www.fao.org/docrep/pdf/009/x0169f/x0169f56.pdf",
+        "title": "FAO, fichas de identificación del Mediterráneo y mar Negro, p. 496 · Telina plana y vistas de ambas valvas"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento por las caras externa e interna de la concha. Tellina planata es el nombre histórico comunicado en la lista de Madrid."
+  },
+  "panopea-glycimeris": {
+    "commonName": "Arola cacheira",
+    "description": "Bivalvo marino de valvas alargadas y de tamaño parecido, con escultura concéntrica. La concha queda entreabierta en el extremo posterior incluso cuando las valvas están juntas. La especie está documentada tanto en material fósil como en poblaciones vivas.",
+    "diagnostics": [
+      "Examinar el contorno alargado y la abertura posterior en un ejemplar articulado. La abertura natural debe distinguirse de una rotura irregular del borde.",
+      "Combinar la abertura con la forma de las valvas y sus líneas concéntricas. Son caracteres que orientan hacia Panopea y se deben contrastar con la charnela y la procedencia para una asignación específica.",
+      "En material erosionado o relleno de sedimento pueden quedar ocultos rasgos internos. Una valva aislada también limita la comparación, porque impide comprobar cómo encajan ambas valvas y qué abertura queda entre ellas."
+    ],
+    "etymology": "Lewis y Short documentan Panopea como nombre latino de una ninfa marina, correspondiente al griego Panopē. Es un antecedente compatible con el nombre genérico, cuya motivación original queda pendiente de cotejo. Glycimeris ya figura en la combinación original Mya glycimeris de Born. El origen concreto del epíteto queda pendiente.",
+    "sources": [
+      {
+        "url": "https://www.isprambiente.gov.it/it/attivita/museo/collezioni-paleontologiche/paleo-reperti/panopea-panopea-glycimeris-bivalve",
+        "title": "Museo ISPRA, ejemplar 17971 · Concha articulada de Panopea glycimeris y abertura posterior"
+      },
+      {
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=140106",
+        "title": "MolluscaBase a través de WoRMS · Panopea glycimeris: nombre aceptado, combinación original y registro fósil y reciente"
+      },
+      {
+        "url": "https://iris.unipa.it/handle/10447/65704",
+        "title": "Scotti et al. (2011), Universidad de Palermo · Documentación de una población viva de Panopea glycimeris"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=panopea",
+        "title": "Lewis y Short · Panopea: nombre de una ninfa marina"
+      },
+      {
+        "url": "https://achave.gal/wp-content/uploads/achave_osnomesgalegosdos_moluscos_2020.pdf",
+        "title": "A Chave, Os nomes galegos dos moluscos, p. 50 · Arola cacheira"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de la concha y límites de la asignación específica. El nombre común es gallego. La lista de Madrid comunica la grafía histórica Panopaea glycimeris."
+  },
+  "tubipora-musica": {
+    "commonName": "Coral órgano",
+    "description": "Octocoral colonial que forma un esqueleto calcáreo rojizo. Está compuesto por tubos estrechos y paralelos unidos a intervalos por plataformas transversales. En la colonia viva los pólipos ocupan los tubos y pueden ocultar parte del esqueleto.",
+    "diagnostics": [
+      "Examinar una vista lateral para ver los tubos y los pisos que los unen. Desde arriba se aprecian las aberturas tubulares. La combinación de ambas vistas orienta hacia Tubipora.",
+      "La arquitectura del esqueleto aporta más información que el color rojo. En un fragmento con pocas estructuras conservadas puede quedar oculta la unión transversal entre los tubos.",
+      "Macrina y colaboradores encontraron al menos quince linajes de nivel específico en Tubipora. El esqueleto típico permite orientar al género, pero resulta insuficiente por sí solo para confirmar T. musica en sentido estricto."
+    ],
+    "etymology": "Tubipora reúne tubus, tubo, y porus, poro o conducto. Musica es la forma femenina del adjetivo latino musicus, musical. La comparación con los tubos de un órgano concuerda con la arquitectura colonial.",
+    "sources": [
+      {
+        "url": "https://repository.naturalis.nl/pub/802058/",
+        "title": "Macrina et al. (2026), Molecular Phylogenetics and Evolution · Arquitectura del esqueleto y diversidad de linajes en Tubipora"
+      },
+      {
+        "url": "https://doi.org/10.1098/rsif.2025.0421",
+        "title": "Journal of the Royal Society Interface · Estructura del esqueleto del coral órgano"
+      },
+      {
+        "url": "https://www.bryozoa.net/library/1845/1845_agassiz_nomina.pdf",
+        "title": "Agassiz, Nomenclator zoologicus · Elementos tubus y porus en Tubipora"
+      },
+      {
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=musicus",
+        "title": "Lewis y Short · musicus: relativo a la música"
+      },
+      {
+        "url": "https://www.rae.es/dhle/%C3%B3rgano",
+        "title": "RAE, Diccionario histórico de la lengua española · Coral órgano y semejanza con los tubos del instrumento"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento del tipo de colonia y de esqueleto atribuido históricamente a Tubipora musica. La resolución específica requiere material con procedencia y caracteres suficientes."
+  },
   "evernia-prunastri": {
     "commonName": "Musgo de roble",
     "description": "Liquen de aspecto arbustivo que forma matas sobre la corteza de troncos y ramillas. Los lóbulos son blandos, aplanados y ramificados, con la cara superior verde grisácea y el envés predominantemente blanco. En la superficie y los bordes pueden aparecer zonas granulosas con soredios.",
