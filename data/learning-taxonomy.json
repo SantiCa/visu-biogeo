@@ -142774,5 +142774,117 @@
     "commonNameStatus": "not-documented",
     "status": "documented",
     "reviewNote": "El PDF emplea «Homo neanderthalis»; se normaliza a Homo neanderthalensis y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Se adopta el tratamiento a especie de GBIF y Smithsonian. La entrada genérica Homo y las de Homo sapiens y Homo heidelbergensis permanecen independientes."
+  },
+  "membranipora-membranacea": {
+    "provider": "GBIF",
+    "source": "https://www.gbif.org/species/1007770",
+    "sources": [
+      "https://www.gbif.org/species/1007770",
+      "https://www.marlin.ac.uk/species/detail/2079"
+    ],
+    "matchedName": "Membranipora membranacea",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Membraniporidae",
+      "genus": "Membranipora",
+      "species": "Membranipora membranacea"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Bryozoa"
+      },
+      {
+        "rank": "class",
+        "name": "Gymnolaemata"
+      },
+      {
+        "rank": "order",
+        "name": "Cheilostomatida"
+      },
+      {
+        "rank": "family",
+        "name": "Membraniporidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Membranipora"
+      },
+      {
+        "rank": "species",
+        "name": "Membranipora membranacea"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Briozoos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Membranipora membranácea»; se normaliza la grafía a Membranipora membranacea. La grafía original se conserva como procedencia, no como alias aceptado. Nombre contrastado con MarLIN; linaje documentado en GBIF."
+  },
+  "asterina-gibbosa": {
+    "provider": "IBERFAUNA (MNCN-CSIC) / iNaturalist",
+    "source": "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T",
+    "sources": [
+      "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T",
+      "https://www.inaturalist.org/taxa/210121"
+    ],
+    "matchedName": "Asterina gibbosa",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Animalia",
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Asterinidae",
+      "genus": "Asterina",
+      "species": "Asterina gibbosa"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
+      {
+        "rank": "phylum",
+        "name": "Echinodermata"
+      },
+      {
+        "rank": "class",
+        "name": "Asteroidea"
+      },
+      {
+        "rank": "order",
+        "name": "Valvatida"
+      },
+      {
+        "rank": "family",
+        "name": "Asterinidae"
+      },
+      {
+        "rank": "genus",
+        "name": "Asterina"
+      },
+      {
+        "rank": "species",
+        "name": "Asterina gibbosa"
+      }
+    ],
+    "commonNames": [],
+    "commonName": null,
+    "group": "Equinodermos",
+    "checkedAt": "2026-11-05",
+    "commonNameStatus": "not-documented",
+    "status": "documented",
+    "reviewNote": "Especie y linaje contrastados con IBERFAUNA (MNCN-CSIC), ficha 62536, e iNaturalist 210121. La consulta preliminar GBIF devolvió múltiples coincidencias y no se acepta como determinación. No se atribuyen a esta especie imágenes de otras asterinas."
   }
 }
