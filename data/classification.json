@@ -26579,5 +26579,31 @@
     "group": "Mamíferos",
     "source": "https://www.gbif.org/species/5219243",
     "checkedAt": "2026-11-05"
+  },
+  "cyathus-striatus": {
+    "family": "Nidulariaceae",
+    "lineage": [
+      "Fungi",
+      "Basidiomycota",
+      "Agaricomycetes",
+      "Agaricales",
+      "Nidulariaceae"
+    ],
+    "group": "Hongos",
+    "source": "https://www.inaturalist.org/taxa/120242",
+    "checkedAt": "2026-11-05"
+  },
+  "helvella-crispa": {
+    "family": "Helvellaceae",
+    "lineage": [
+      "Fungi",
+      "Ascomycota",
+      "Pezizomycetes",
+      "Pezizales",
+      "Helvellaceae"
+    ],
+    "group": "Hongos",
+    "source": "https://www.inaturalist.org/taxa/49208",
+    "checkedAt": "2026-11-05"
   }
 }
