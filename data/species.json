@@ -48838,5 +48838,45 @@
     "studyLists": [
       "Animales de la región mediterránea"
     ]
+  },
+  {
+    "id": "himantoglossum-hircinum",
+    "scientificName": "Himantoglossum hircinum",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de plantas de la región mediterránea.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de plantas de la región mediterránea.pdf",
+        "page": 5
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Himanthoglossum hircinum»; se corrige la grafía a Himantoglossum hircinum. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF.",
+    "studyLists": [
+      "Plantas de la región mediterránea"
+    ]
+  },
+  {
+    "id": "euphorbia-pyrenaica",
+    "scientificName": "Euphorbia pyrenaica",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de vegetales de la región eurosiberiana.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de vegetales de la región eurosiberiana.pdf",
+        "page": 3
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Euphorbia pirenaica»; se corrige la grafía a Euphorbia pyrenaica. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF.",
+    "studyLists": [
+      "Plantas de la región eurosiberiana"
+    ]
   }
 ]

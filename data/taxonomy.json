@@ -14776,5 +14776,21 @@
     "source": "https://www.inaturalist.org/taxa/87457",
     "checkedAt": "2026-10-26",
     "aliases": []
+  },
+  "himantoglossum-hircinum": {
+    "family": "Orchidaceae",
+    "matchedName": "Himantoglossum hircinum",
+    "source": "https://www.gbif.org/species/5324951",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "euphorbia-pyrenaica": {
+    "family": "Euphorbiaceae",
+    "matchedName": "Euphorbia pyrenaica",
+    "source": "https://www.gbif.org/species/3065197",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }

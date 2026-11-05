@@ -26579,5 +26579,31 @@
     "group": "Mamíferos",
     "source": "https://www.gbif.org/species/5219243",
     "checkedAt": "2026-11-05"
+  },
+  "himantoglossum-hircinum": {
+    "family": "Orchidaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Liliopsida",
+      "Asparagales",
+      "Orchidaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/5324951",
+    "checkedAt": "2026-11-05"
+  },
+  "euphorbia-pyrenaica": {
+    "family": "Euphorbiaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Malpighiales",
+      "Euphorbiaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/3065197",
+    "checkedAt": "2026-11-05"
   }
 }
