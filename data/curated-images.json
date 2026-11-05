@@ -103856,24 +103856,6 @@
         "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452175523/original.jpg"
       },
       {
-        "url": "https://www.nature.com/articles/s43247-026-03631-8.pdf#page=4&figure=3&photo=provence",
-        "page": "https://www.nature.com/articles/s43247-026-03631-8",
-        "author": "Bruno Belloni; Astruch et al. (2026)",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "description": "Posidonia oceanica en flor bajo el agua, Provenza; primera fotografía de la figura 3 de Astruch et al. (2026).",
-        "examUse": "detail",
-        "status": "rejected",
-        "verificationSources": [
-          "https://ofb.gouv.fr/especes/posidonie-posidonia-oceanica"
-        ],
-        "reference": "Foto de Bruno Belloni en figura 3, Astruch et al., DOI 10.1038/s43247-026-03631-8; recortada del PDF.",
-        "reviewedAt": "2026-10-31",
-        "reviewMethod": "Correspondencia con la fuente y revisión visual",
-        "reviewNote": "Versión de menor resolución sustituida por el recorte del manuscrito de la editorial; representa la misma fotografía, no una vista independiente.",
-        "reviewBatch": "posidonia-resolucion-20261031"
-      },
-      {
         "url": "./assets/reviewed/9d995716d2deda1c4121.jpg",
         "page": "https://www.nature.com/articles/s43247-026-03631-8",
         "author": "Bruno Belloni; Astruch et al. (2026)",
@@ -103898,6 +103880,24 @@
           0.257
         ],
         "originalUrl": "https://www.nature.com/articles/s43247-026-03631-8_reference.pdf#page=27&figure=3&photo=provence"
+      },
+      {
+        "url": "https://www.nature.com/articles/s43247-026-03631-8.pdf#page=4&figure=3&photo=provence",
+        "page": "https://www.nature.com/articles/s43247-026-03631-8",
+        "author": "Bruno Belloni; Astruch et al. (2026)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "description": "Posidonia oceanica en flor bajo el agua, Provenza; primera fotografía de la figura 3 de Astruch et al. (2026).",
+        "examUse": "detail",
+        "status": "rejected",
+        "verificationSources": [
+          "https://ofb.gouv.fr/especes/posidonie-posidonia-oceanica"
+        ],
+        "reference": "Foto de Bruno Belloni en figura 3, Astruch et al., DOI 10.1038/s43247-026-03631-8; recortada del PDF.",
+        "reviewedAt": "2026-10-31",
+        "reviewMethod": "Correspondencia con la fuente y revisión visual",
+        "reviewNote": "Versión de menor resolución sustituida por el recorte del manuscrito de la editorial; representa la misma fotografía, no una vista independiente.",
+        "reviewBatch": "posidonia-resolucion-20261031"
       }
     ]
   },

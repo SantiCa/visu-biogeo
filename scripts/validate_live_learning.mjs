@@ -1,5 +1,5 @@
 import {readFile,writeFile} from 'node:fs/promises';import {createHash} from 'node:crypto';
-const root=new URL('../',import.meta.url),manifest=JSON.parse(await readFile(new URL('hosting/visu-biogeo-media/media-manifest.json',root),'utf8')),origin='https://visu-biogeo-santica.nimblequail260.chatgpt.site/';
+const root=new URL('../',import.meta.url),manifest=JSON.parse(await readFile(new URL('hosting/visu-biogeo-media/media-manifest.json',root),'utf8')),origin=process.argv[2]||'https://visu-biogeo-santica.nimblequail260.chatgpt.site/';
 const paths=['index.html','app.js','styles.css','engine.mjs','classification-learning.mjs','taxonomy-guide.mjs','taxon-reference.mjs','exam-photos.mjs','data/learning-taxonomy.json','data/learning-geology.json','data/study-notes.json','data/curated-images.json','sw.js'];
 const checks=await Promise.all(paths.map(async path=>{const response=await fetch(new URL(path,origin),{cache:'no-store'}),bytes=new Uint8Array(await response.arrayBuffer());let checked=bytes,providerScriptAdded=false;
  // The hosting provider appends its security challenge to HTML responses. Verify
