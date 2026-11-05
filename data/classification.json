@@ -26579,5 +26579,31 @@
     "group": "Mamíferos",
     "source": "https://www.gbif.org/species/5219243",
     "checkedAt": "2026-11-05"
+  },
+  "membranipora-membranacea": {
+    "family": "Membraniporidae",
+    "lineage": [
+      "Animalia",
+      "Bryozoa",
+      "Gymnolaemata",
+      "Cheilostomatida",
+      "Membraniporidae"
+    ],
+    "group": "Briozoos",
+    "source": "https://www.gbif.org/species/1007770",
+    "checkedAt": "2026-11-05"
+  },
+  "asterina-gibbosa": {
+    "family": "Asterinidae",
+    "lineage": [
+      "Animalia",
+      "Echinodermata",
+      "Asteroidea",
+      "Valvatida",
+      "Asterinidae"
+    ],
+    "group": "Equinodermos",
+    "source": "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T",
+    "checkedAt": "2026-11-05"
   }
 }

@@ -48838,5 +48838,45 @@
     "studyLists": [
       "Animales de la región mediterránea"
     ]
+  },
+  {
+    "id": "membranipora-membranacea",
+    "scientificName": "Membranipora membranacea",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu PICNOGONIDOS, PORIFEROS....pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu PICNOGONIDOS, PORIFEROS....pdf",
+        "page": 1
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Membranipora membranácea»; se normaliza la grafía a Membranipora membranacea. La grafía original se conserva como procedencia, no como alias aceptado. Nombre contrastado con MarLIN; linaje documentado en GBIF.",
+    "studyLists": [
+      "Picnogónidos, poríferos y otros invertebrados"
+    ]
+  },
+  {
+    "id": "asterina-gibbosa",
+    "scientificName": "Asterina gibbosa",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu PICNOGONIDOS, PORIFEROS....pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu PICNOGONIDOS, PORIFEROS....pdf",
+        "page": 3
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "Especie y linaje contrastados con IBERFAUNA (MNCN-CSIC), ficha 62536, e iNaturalist 210121. La consulta preliminar GBIF devolvió múltiples coincidencias y no se acepta como determinación. No se atribuyen a esta especie imágenes de otras asterinas.",
+    "studyLists": [
+      "Picnogónidos, poríferos y otros invertebrados"
+    ]
   }
 ]

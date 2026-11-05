@@ -14776,5 +14776,21 @@
     "source": "https://www.inaturalist.org/taxa/87457",
     "checkedAt": "2026-10-26",
     "aliases": []
+  },
+  "membranipora-membranacea": {
+    "family": "Membraniporidae",
+    "matchedName": "Membranipora membranacea",
+    "source": "https://www.gbif.org/species/1007770",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "asterina-gibbosa": {
+    "family": "Asterinidae",
+    "matchedName": "Asterina gibbosa",
+    "source": "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }
