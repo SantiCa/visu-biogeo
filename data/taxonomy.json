@@ -14912,5 +14912,21 @@
     "checkedAt": "2026-11-05",
     "aliases": [],
     "reviewStatus": "documented"
+  },
+  "archaeopteryx-lithographica": {
+    "family": "Archaeopterygidae",
+    "matchedName": "Archaeopteryx lithographica",
+    "source": "https://www.gbif.org/species/4847899",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "homo-neanderthalensis": {
+    "family": "Hominidae",
+    "matchedName": "Homo neanderthalensis",
+    "source": "https://www.gbif.org/species/4827584",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }
