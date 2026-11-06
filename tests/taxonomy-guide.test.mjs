@@ -27,11 +27,14 @@ test('rank explanations distinguish rank from taxon and group facts cite primary
  for(const g of Object.values(TAXON_GUIDE))assert(/^https:\/\/(openstax.org|www.nps.gov|www.asturnatura.com|genent.cals.ncsu.edu)\//.test(g.source));
 });
 
-test('map aligns biological ranks across incomplete lineages and preserves the direction of every edge',()=>{
+test('map keeps documented levels adjacent across incomplete lineages without overlapping cards',()=>{
  const tree=buildStudyTree(catalog,taxonomy,geology,profiles,{group:'all'}),map=layoutStudyTree(tree,expandThrough(tree,'all'));
- for(const rank of ['kingdom','phylum','class','order','family','genus']){
-  const columns=new Set(map.nodes.filter(n=>n.rank===rank).map(n=>n.x));assert.equal(columns.size,1,rank);
+ for(const edge of map.edges){
+  const gap=edge.to.x-edge.from.x-236;
+  assert(gap>=12&&gap<=20,`${edge.from.rank}: ${edge.from.name} → ${edge.to.rank}: ${edge.to.name} leaves ${gap}px`);
  }
- for(const edge of map.edges)assert(edge.to.x>edge.from.x,`${edge.from.rank}: ${edge.from.name} → ${edge.to.rank}: ${edge.to.name}`);
+ const incomplete=buildStudyTree([{id:'missing',kind:'organismo',scientificName:'Unknown'}],{}, {}, {},{group:'biology'});
+ const compact=layoutStudyTree(incomplete,expandThrough(incomplete,'all'));
+ assert(compact.width<1500,'missing ranks must not push specimens to distant columns');
  const genera=map.nodes.filter(n=>n.rank==='genus');assert(new Set(genera.map(n=>n.hue)).size>1);
 });
