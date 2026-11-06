@@ -10976,14 +10976,18 @@
       {
         "url": "https://www.museosdetenerife.org/muna-museo-de-naturaleza-y-arqueologia/wp-content/uploads/sites/2/2022/04/Vieraea47_01_007-030.pdf",
         "title": "Vieraea 47 — etimología de Porcellana y platycheles"
+      },
+      {
+        "url": "https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Cangrejo_de_porcelana_peludo",
+        "title": "Gobierno de Canarias, CanariWiki — nombre común de Porcellana platycheles"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Adultos completos; las cerdas y pinzas deben conservarse visibles."
   },
   "cordulegaster-boltonii": {
-    "commonName": null,
+    "commonName": "Guardarroyo común",
     "description": "Libélula grande, negra con anillos amarillos, ligada a cursos de agua. La hembra presenta un ovipositor largo.",
     "diagnostics": [
       "Combinar los anillos amarillos del abdomen con los ojos verdes, que se tocan en una zona pequeña de la parte superior de la cabeza.",
@@ -11015,9 +11019,17 @@
       {
         "url": "https://dragonflyfund.org/wp-content/uploads/2024/06/IDF_Report_80_Hamalainen_2015_small.pdf",
         "title": "Hämäläinen, 2015, IDF Report 80, p. 24 — identifica al homenajeado como Thomas Bolton"
+      },
+      {
+        "url": "https://api.gbif.org/v1/species/7936251/vernacularNames?limit=100",
+        "title": "GBIF — nombres vernáculos registrados en español"
+      },
+      {
+        "url": "https://www.diputacionavila.es/docus/desarrollo-rural/libros/libelulas-de-la-provincia-de-avila.pdf",
+        "title": "Diputación de Ávila, Libélulas de la provincia de Ávila, p. 160 — variante Guardarroyos común"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Adultos; el alias histórico no implica una especie adicional."
   },
@@ -11038,9 +11050,13 @@
       {
         "url": "https://www.asociacion-zerynthia.org/pdf/nombres_comunes.pdf",
         "title": "Monasterio et al., SEA 60 — nombres comunes y significados"
+      },
+      {
+        "url": "https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies.html",
+        "title": "MITECO — Doncella de ondas rojas, Euphydryas aurinia"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Reconocimiento orientativo de adultos; respetar el tratamiento taxonómico de la fuente del ejemplar."
   },
@@ -11065,9 +11081,13 @@
       {
         "url": "https://logeion.org/terrestris",
         "title": "Logeion, Lewis & Short — terrestris, derivado de terra"
+      },
+      {
+        "url": "https://api.gbif.org/v1/species/1340503/vernacularNames?limit=100",
+        "title": "GBIF — nombres vernáculos registrados en español"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Adultos; el patrón de una guía británica no se extrapola como clave universal de todas las formas ibéricas."
   },
@@ -11088,9 +11108,13 @@
       {
         "url": "https://www.cnah.org/cnah/taxon.aspx?taxon=Siren_lacertina",
         "title": "CNAH — raíces de Siren y lacertina"
+      },
+      {
+        "url": "https://api.gbif.org/v1/species/2432068/vernacularNames?limit=100",
+        "title": "GBIF — nombres vernáculos registrados en español"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Organismo completo; no transferir la identificación a vértebras aisladas sin estudio osteológico."
   },
@@ -11115,9 +11139,13 @@
       {
         "url": "https://logeion.org/rana",
         "title": "Logeion, Lewis & Short — significado del sustantivo latino rana"
+      },
+      {
+        "url": "https://api.gbif.org/v1/species/2426793/vernacularNames?limit=100",
+        "title": "GBIF — nombres vernáculos registrados en español"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Adultos; no usar exclusivamente el color o la localidad."
   },
@@ -11144,7 +11172,7 @@
         "title": "The Reptile Database — etimología y relación probable con la localidad tipo"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Adultos; se requieren detalles cefálicos y ventrales para una comparación sólida."
   },
@@ -11173,9 +11201,13 @@
       {
         "url": "https://www.merriam-webster.com/dictionary/arachis",
         "title": "Merriam-Webster — historia de Arachis y del nombre grecolatino arachidna"
+      },
+      {
+        "url": "https://api.gbif.org/v1/species/5353770/vernacularNames?limit=100",
+        "title": "GBIF — nombres vernáculos registrados en español"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Planta, fruto y semilla; cada imagen debe indicar qué estructura se muestra."
   },
@@ -11200,9 +11232,13 @@
       {
         "url": "https://archive.org/details/saggiosullastori01moli/page/133/mode/1up",
         "title": "Molina, Saggio sulla storia naturale del Chili, 1782, p. 133 — Cucurbita siceraria y motivación del nombre por la fermentación de sidra en su interior"
+      },
+      {
+        "url": "https://www.mapa.gob.es/dam/mapa/contenido/agricultura/temas/medios-de-produccion/semillas-y-plantas-de-vivero/recursos-fitogeneticos-para-la-agricultura-y-la-alimentacion/docs/iectba_1_capitulos/capitulo_3_fichas_especies/tardio_etal2018_iectbavol1_106-110_lagenariasicerariamolinastandl.pdf",
+        "title": "MAPA, Inventario de conocimientos tradicionales agrícolas, pp. 106–110 — nombres castellanos de Lagenaria siceraria"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "No asignar variedad o cultivar únicamente por una forma de fruto."
   },
@@ -11223,14 +11259,18 @@
       {
         "url": "https://www.juntadeandalucia.es/medioambiente/web/Bloques_Tematicos/Patrimonio_Natural._Uso_Y_Gestion/Espacios_Protegidos/publicaciones_renpa/orquideas_grazalema/09_descripcion6.pdf",
         "title": "Junta de Andalucía, Orquídeas de Grazalema, p. 180 — etimología de ambos componentes"
+      },
+      {
+        "url": "https://arbabajojarama.es/herbario/himantoglossum-hircinum-l-spreng-satirion-barbado/",
+        "title": "ARBA Bajo Jarama — nombre común Satirión barbado"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Reconocimiento de plantas en flor; no extrapolar a hojas aisladas."
   },
   "euphorbia-pyrenaica": {
-    "commonName": null,
+    "commonName": "Lechetrezna pirenaica",
     "description": "Lechetrezna perenne pequeña, de tallos bajos y hojas reducidas, propia de ambientes montanos pedregosos.",
     "diagnostics": [
       "Valorar el porte bajo, tallos de decumbentes a ascendentes y hojas pequeñas elípticas u ovadas.",
@@ -11246,9 +11286,13 @@
       {
         "url": "https://www.floravasca.com/identificar/?spp=Euphorbia+pyrenaica",
         "title": "Flora Vasca — caracteres vegetativos e inflorescencia"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/338923889_Los_nombres_comunes_de_las_plantas_Propuesta_de_unificacion_de_los_nombres_comunes_de_la_flora_vascular_del_Sistema_Iberico_y_su_entorno",
+        "title": "Gonzalo Mateo Sanz, Los nombres comunes de las plantas, p. 36 — propuesta Lechetrezna pirenaica"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "No resolver la especie únicamente por porte; requiere material vegetativo y reproductor visible."
   },
@@ -11319,7 +11363,7 @@
     "scope": "Ejemplares articulados o material diagnosticado por una fuente paleontológica."
   },
   "archaeopteryx-lithographica": {
-    "commonName": null,
+    "commonName": "Arqueópterix",
     "description": "Dinosaurio avialano fósil que combina alas con plumas con dientes y una cola ósea larga.",
     "diagnostics": [
       "En fósiles articulados, examinar impresiones de plumas junto al esqueleto, no solo la silueta de un ala.",
@@ -11339,9 +11383,21 @@
       {
         "url": "https://www2.geo.utexas.edu/specimens/Archaeopteryx_lithographica/",
         "title": "DigiMorph, Universidad de Texas — raíces del género y referencia a la caliza litográfica"
+      },
+      {
+        "url": "https://inah.gob.mx/images/suplementos/20190423_tlacuache_877.pdf",
+        "title": "INAH, El Tlacuache 877, La historia de una pluma fósil — uso de Arqueópterix para el ejemplar de Londres"
+      },
+      {
+        "url": "https://collections.museumsvictoria.com.au/specimens/1558837",
+        "title": "Museums Victoria — orden Archaeopterygiformes y familia Archaeopterygidae"
+      },
+      {
+        "url": "https://avibase.bsc-eoc.org/species.jsp?avibaseid=76B6FC8B4372AA35&lang=EN",
+        "title": "Avibase — clasificación de Archaeopteryx lithographica"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Fósiles identificados de colección; las reconstrucciones no reemplazan los caracteres conservados."
   },
@@ -11358,9 +11414,13 @@
       {
         "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis",
         "title": "Smithsonian Human Origins — anatomía e historia del nombre"
+      },
+      {
+        "url": "https://api.gbif.org/v1/species/4827584/vernacularNames?limit=100",
+        "title": "GBIF — nombres vernáculos registrados en español"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Reconocimiento de material identificado; sin reclasificar piezas de Homo por parecido general."
   },
@@ -11408,9 +11468,13 @@
       {
         "url": "https://www.treccani.it/vocabolario/gibboso/",
         "title": "Treccani — gibbosus, derivado de gibbus"
+      },
+      {
+        "url": "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T",
+        "title": "IBERFAUNA, MNCN-CSIC — nombre común Estrella capitán"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Organismos completos identificados; evitar atribuir otras asterinas a esta especie por color o contorno."
   },
@@ -11431,9 +11495,13 @@
       {
         "url": "https://www.first-nature.com/fungi/cyathus-striatus.php",
         "title": "First Nature — etimología y comparación de hongos nido"
+      },
+      {
+        "url": "https://www.aranzadi.eus/buscador-micologico/ficha/1-4-013.03.06.00.05.00",
+        "title": "Sociedad de Ciencias Aranzadi — nombres populares castellanos de Cyathus striatus"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Basidiomas; las fuentes morfológicas históricas no sustituyen el linaje taxonómico revisado del catálogo."
   },
@@ -11458,9 +11526,13 @@
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5832953/",
         "title": "Skrede et al. — delimitación europea de Helvella"
+      },
+      {
+        "url": "https://elmarques.gob.mx/biodiversidad/portfolio-items/helvella-crispa/",
+        "title": "Ayuntamiento de El Marqués — nombre común Oreja de gato blanca"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Ascomas europeos identificados; no asumir que todos los ejemplares blancos del género son esta especie."
   },
@@ -11481,9 +11553,13 @@
       {
         "url": "https://powo.science.kew.org/taxon/146898-2",
         "title": "POWO — Lycopersicon esculentum como sinónimo"
+      },
+      {
+        "url": "https://nombrescomunes.jbb.gov.co/site/cientifico?q=Solanum+lycopersicum",
+        "title": "Jardín Botánico de Bogotá — nombre común Tomate"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Planta y fruto; conservar el nombre histórico sin añadir la errata del PDF a los alias."
   },
@@ -11508,9 +11584,13 @@
       {
         "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=Amygdalus",
         "title": "P. M. Eckel, Missouri Botanical Garden — Amygdalus, nombre del almendro"
+      },
+      {
+        "url": "https://api.gbif.org/v1/species/3020980/vernacularNames?limit=100",
+        "title": "GBIF — nombres vernáculos registrados en español"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Flores, hojas y fruto; no añadir variedades ni rasgos de dulzor a partir de una imagen."
   },
@@ -11535,9 +11615,13 @@
       {
         "url": "https://www.mnhn.fr/en/kiwi",
         "title": "MNHN — etimología de Actinidia chinensis y disposición radial de los estilos"
+      },
+      {
+        "url": "https://sib.gob.ar/especies/actinidia-chinensis",
+        "title": "SIB, Administración de Parques Nacionales de Argentina — nombre español Kiwi"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Especie en el sentido de POWO; sin asignación de variedad o cultivar por el rótulo Kiwi."
   },
@@ -11578,9 +11662,13 @@
       {
         "url": "https://www.dbnl.org/tekst/back062verk02_01/back062verk02_01_0005.php",
         "title": "C. A. Backer, voces Aria/aria — antiguo nombre griego de árbol de identidad incierta"
+      },
+      {
+        "url": "https://api.gbif.org/v1/species/8411755/vernacularNames?limit=100",
+        "title": "GBIF — nombres vernáculos registrados en español"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Planta con hojas visibles por ambas caras; no trasladar imágenes de Sorbus aucuparia."
   }

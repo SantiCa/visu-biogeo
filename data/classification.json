@@ -26810,11 +26810,17 @@
       "Animalia",
       "Chordata",
       "Aves",
+      "Archaeopterygiformes",
       "Archaeopterygidae"
     ],
     "group": "Aves",
-    "source": "https://www.gbif.org/species/4847899",
-    "checkedAt": "2026-11-05"
+    "source": "https://collections.museumsvictoria.com.au/specimens/1558837",
+    "checkedAt": "2026-11-06",
+    "sources": [
+      "https://www.gbif.org/species/4847899",
+      "https://collections.museumsvictoria.com.au/specimens/1558837",
+      "https://avibase.bsc-eoc.org/species.jsp?avibaseid=76B6FC8B4372AA35&lang=EN"
+    ]
   },
   "homo-neanderthalensis": {
     "family": "Hominidae",
