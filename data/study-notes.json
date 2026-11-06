@@ -11417,5 +11417,51 @@
     "reviewedAt": "2026-11-05",
     "reviewStatus": "reviewed",
     "scope": "Flores, hojas y fruto; no añadir variedades ni rasgos de dulzor a partir de una imagen."
+  },
+  "actinidia-chinensis": {
+    "commonName": "Kiwi",
+    "description": "Trepadora leñosa caducifolia con hojas anchas y frutos carnosos que contienen numerosas semillas pequeñas.",
+    "diagnostics": [
+      "Examinar hojas simples anchas, ramas trepadoras y flores; la planta no debe confundirse con una imagen aislada de un fruto comercial.",
+      "En el fruto se reconocen muchas semillas pequeñas distribuidas en torno a la región central; la pilosidad y otros rasgos varían entre formas cultivadas.",
+      "El rótulo del PDF se corrige a especie. No determina por sí solo una variedad ni un cultivar, tampoco el nombre preciso de cualquier kiwi fotografiado."
+    ],
+    "etymology": "La etimología de Actinidia y la motivación del epíteto chinensis quedan pendientes de contraste nomenclatural; no se deducen de la forma del fruto.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/actinidia-chinensis/",
+        "title": "NC State Extension — hábito, hojas, flores y fruto"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828396-1",
+        "title": "POWO — especie y variedades reconocidas"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Especie en el sentido de POWO; sin asignación de variedad o cultivar por el rótulo Kiwi."
+  },
+  "aria-edulis": {
+    "commonName": "Mostajo",
+    "description": "Árbol de hojas simples con envés densamente blanquecino y frutos de tipo pomo rojizos al madurar.",
+    "diagnostics": [
+      "Las hojas son simples, de nervios laterales marcados y margen dentado; no son compuestas como en Sorbus aucuparia.",
+      "El envés presenta un tomento blanco persistente que debe verse junto al haz y al margen.",
+      "Flores agrupadas y pomos rojos apoyan la comparación; otras Aria e híbridos requieren una revisión más detallada que el color del envés."
+    ],
+    "etymology": "El origen histórico de Aria y la explicación del epíteto edulis quedan pendientes de contraste etimológico. Sorbus aria es un sinónimo documentado, no una segunda ficha de especie.",
+    "sources": [
+      {
+        "url": "https://www.treesandshrubsonline.org/articles/aria/aria-edulis/",
+        "title": "Trees and Shrubs Online — hojas, flores, frutos y sinonimia"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:721579-1",
+        "title": "POWO — nombre aceptado Aria edulis"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Planta con hojas visibles por ambas caras; no trasladar imágenes de Sorbus aucuparia."
   }
 }
