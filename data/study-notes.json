@@ -10958,5 +10958,418 @@
     "reviewedAt": "2026-10-27",
     "reviewStatus": "reviewed",
     "scope": "Síntesis propia de fuentes meteorológicas. Se distingue género, especie, rasgo suplementario, nube accesoria y origen; no son rangos biológicos ni tienen familia taxonómica. No se deducen duración, rotación o historia causal a partir de una foto fija."
+  },
+  "porcellana-platycheles": {
+    "commonName": "Cangrejo de porcelana peludo",
+    "description": "Crustáceo pequeño de cuerpo aplanado y pinzas anchas, con abundantes cerdas. Vive bajo piedras del litoral.",
+    "diagnostics": [
+      "Las pinzas son muy anchas, aplanadas y peludas; valorar el borde de cerdas y el caparazón redondeado.",
+      "El último par de patas está reducido y puede quedar oculto: a simple vista suelen apreciarse tres pares de patas caminadoras.",
+      "No identificar por el color grisáceo aislado; se necesitan vistas del cuerpo y de las pinzas."
+    ],
+    "etymology": "Porcellana remite a la porcelana y al aspecto del caparazón. Platycheles combina raíces griegas relativas a ancho o plano y pinza, según la revisión de nombres de decápodos publicada en Vieraea.",
+    "sources": [
+      {
+        "url": "https://www.marlin.ac.uk/species/detail/1573",
+        "title": "MarLIN — morfología y reconocimiento de Porcellana platycheles"
+      },
+      {
+        "url": "https://www.museosdetenerife.org/muna-museo-de-naturaleza-y-arqueologia/wp-content/uploads/sites/2/2022/04/Vieraea47_01_007-030.pdf",
+        "title": "Vieraea 47 — etimología de Porcellana y platycheles"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Adultos completos; las cerdas y pinzas deben conservarse visibles."
+  },
+  "cordulegaster-boltonii": {
+    "commonName": null,
+    "description": "Libélula grande, negra con anillos amarillos, ligada a cursos de agua. La hembra presenta un ovipositor largo.",
+    "diagnostics": [
+      "Combinar los anillos amarillos del abdomen con los ojos verdes, que se tocan en una zona pequeña de la parte superior de la cabeza.",
+      "El abdomen del macho se ensancha ligeramente hacia el extremo; el de la hembra es más paralelo y termina en un ovipositor conspicuo.",
+      "El patrón negro y amarillo orienta, pero no sustituye comparar otros Cordulegaster si la fotografía no permite examinar la cabeza y el abdomen."
+    ],
+    "etymology": "El origen del nombre Cordulegaster y la dedicatoria exacta de boltonii quedan pendientes de contraste con documentación nomenclatural; no se deduce el homenaje a partir del apellido.",
+    "sources": [
+      {
+        "url": "https://british-dragonflies.org.uk/species/golden-ringed-dragonfly/",
+        "title": "British Dragonfly Society — reconocimiento de adultos"
+      },
+      {
+        "url": "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000145045",
+        "title": "NHM — nombre histórico Cordulegaster annulatus"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Adultos; el alias histórico no implica una especie adicional."
+  },
+  "euphydryas-aurinia": {
+    "commonName": "Ondas rojas",
+    "description": "Mariposa con un mosaico de manchas anaranjadas, crema y oscuras en ambas alas.",
+    "diagnostics": [
+      "Buscar filas de celdas coloreadas delimitadas por líneas oscuras, no un fondo naranja uniforme.",
+      "La fila de puntos negros próximos al margen del ala posterior es un rasgo útil junto con el mosaico alar.",
+      "Comparar anverso, reverso y procedencia con otras Euphydryas; estos rasgos generales no bastan por sí solos para resolver todos los taxones próximos."
+    ],
+    "etymology": "La propuesta de ZERYNTHIA relaciona Euphydryas con el griego euphyés, vigoroso, y las dríades. Aurinia remite a una profetisa germánica reverenciada como divinidad, no a una descripción del color.",
+    "sources": [
+      {
+        "url": "https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/marsh-fritillary",
+        "title": "The Wildlife Trusts — patrón alar y puntos negros"
+      },
+      {
+        "url": "https://www.asociacion-zerynthia.org/pdf/nombres_comunes.pdf",
+        "title": "Monasterio et al., SEA 60 — nombres comunes y significados"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento orientativo de adultos; respetar el tratamiento taxonómico de la fuente del ejemplar."
+  },
+  "bombus-terrestris": {
+    "commonName": "Abejorro común",
+    "description": "Abejorro robusto con bandas amarillas y extremo abdominal claro. La apariencia varía entre reinas, obreras y machos.",
+    "diagnostics": [
+      "Examinar conjuntamente la banda anterior del tórax, la banda abdominal y el extremo claro del abdomen.",
+      "En las reinas el extremo suele ser crema o leonado; en obreras puede parecer blanco, con una transición muy estrecha de tono crema.",
+      "Obreras de B. terrestris y del grupo B. lucorum pueden no separarse con una fotografía. No convertir una cola blanca en diagnóstico exclusivo."
+    ],
+    "etymology": "La interpretación lingüística del binomio queda pendiente de contraste en una fuente etimológica específica; la ficha no presupone el motivo histórico del nombre.",
+    "sources": [
+      {
+        "url": "https://www.bumblebeeconservation.org/learn-about-bumblebees/species-guide/buff-tailed-bumblebee/",
+        "title": "Bumblebee Conservation Trust — castas y límites de identificación"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Adultos; el patrón de una guía británica no se extrapola como clave universal de todas las formas ibéricas."
+  },
+  "siren-lacertina": {
+    "commonName": "Sirena mayor",
+    "description": "Anfibio acuático de cuerpo alargado que conserva branquias externas y carece de extremidades posteriores.",
+    "diagnostics": [
+      "Comprobar la combinación de branquias externas, pequeñas patas anteriores y ausencia de patas posteriores.",
+      "Las extremidades anteriores presentan cuatro dedos; el cuerpo muestra surcos costales.",
+      "Para separar otras Siren se necesitan talla, proporciones y surcos costales; una silueta alargada no determina la especie."
+    ],
+    "etymology": "Florida Museum deriva lacertina del latín lacerta, lagarto. La motivación nomenclatural de Siren queda pendiente de contraste; no se infiere a partir de relatos mitológicos.",
+    "sources": [
+      {
+        "url": "https://www.floridamuseum.ufl.edu/florida-vertebrate-fossils/species/siren-lacertina/",
+        "title": "Florida Museum — anatomía, comparación y origen de lacertina"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Organismo completo; no transferir la identificación a vértebras aisladas sin estudio osteológico."
+  },
+  "rana-pyrenaica": {
+    "commonName": "Rana pirenaica",
+    "description": "Rana parda de torrentes pirenaicos, con tímpano muy pequeño y membranas interdigitales desarrolladas.",
+    "diagnostics": [
+      "Buscar tímpano pequeño y pliegues dorsolaterales poco marcados, junto con una coloración dorsal relativamente uniforme.",
+      "Las patas posteriores son relativamente largas y la membrana interdigital está bien desarrollada.",
+      "El ambiente de torrente apoya la interpretación, pero no reemplaza los caracteres anatómicos ni la comparación con otras ranas pardas."
+    ],
+    "etymology": "Pyrenaica es la forma geográfica referida a los Pirineos, concordante con la localidad y distribución documentadas. La historia nomenclatural de Rana queda pendiente de contraste etimológico.",
+    "sources": [
+      {
+        "url": "https://www.vertebradosibericos.org/anfibios/ranpyr.html",
+        "title": "MNCN — identificación de Rana pyrenaica"
+      },
+      {
+        "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-pyrenaica",
+        "title": "AMNH — nombre y localidad tipo"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Adultos; no usar exclusivamente el color o la localidad."
+  },
+  "coronella-austriaca": {
+    "commonName": "Culebra lisa europea",
+    "description": "Culebra de escamas lisas, banda oscura lateral en la cabeza y vientre de color relativamente uniforme.",
+    "diagnostics": [
+      "En una vista nítida de la cabeza, valorar la placa rostral prolongada hacia atrás entre las internasales.",
+      "Las escamas dorsales son lisas; el patrón ventral relativamente uniforme ayuda frente al ajedrezado de C. girondica.",
+      "Combinar escamación cefálica y vientre; el antifaz oscuro por sí solo no distingue las dos culebras lisas."
+    ],
+    "etymology": "El origen y la motivación originales del binomio quedan pendientes de contraste nomenclatural; no se interpreta austriaca como límite de distribución actual.",
+    "sources": [
+      {
+        "url": "https://www.vertebradosibericos.org/reptiles/coraus.html",
+        "title": "MNCN — escamación y rasgos de Coronella austriaca"
+      },
+      {
+        "url": "https://www.asociaciontimon.org/especies/coronella-austriaca/",
+        "title": "Asociación Herpetológica Timon — comparación con C. girondica"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Adultos; se requieren detalles cefálicos y ventrales para una comparación sólida."
+  },
+  "arachis-hypogaea": {
+    "commonName": "Cacahuete",
+    "description": "Leguminosa herbácea que florece sobre el suelo y desarrolla sus frutos bajo tierra mediante geocarpia.",
+    "diagnostics": [
+      "Las hojas tienen cuatro folíolos y las flores son amarillas, de aspecto papilionado.",
+      "Tras la fecundación, el ginóforo dirige el desarrollo del fruto hacia el suelo; el fruto maduro es una legumbre con pared reticulada.",
+      "La parte llamada cacahuete en la alimentación es la semilla; distinguirla de la vaina completa y de otros frutos secos."
+    ],
+    "etymology": "NC State explica hypogaea como situado bajo tierra, por el desarrollo subterráneo del fruto. La historia exacta del nombre Arachis queda pendiente de contraste.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/arachis-hypogaea/",
+        "title": "NC State Extension — geocarpia, morfología y significado de hypogaea"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Planta, fruto y semilla; cada imagen debe indicar qué estructura se muestra."
+  },
+  "lagenaria-siceraria": {
+    "commonName": "Calabaza del peregrino",
+    "description": "Cucurbitácea trepadora anual, con flores blancas y frutos de formas diversas cuya cubierta se endurece al madurar.",
+    "diagnostics": [
+      "Observar el hábito trepador, zarcillos y flores blancas; no identificar solo por la silueta del fruto.",
+      "Los frutos maduros presentan una cubierta endurecida; existen formas alargadas, redondeadas o con estrechamiento.",
+      "Comparar con Cucurbita y otras cucurbitáceas usando flores y planta cuando el fruto aislado sea ambiguo."
+    ],
+    "etymology": "NC State relaciona Lagenaria con el griego lagenos, vaso o frasco. La derivación concreta de siceraria queda pendiente de contraste etimológico.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/lagenaria-siceraria/",
+        "title": "NC State Extension — flores, hábito, fruto y origen de Lagenaria"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "No asignar variedad o cultivar únicamente por una forma de fruto."
+  },
+  "himantoglossum-hircinum": {
+    "commonName": "Satirión barbado",
+    "description": "Orquídea robusta con numerosas flores de labelo extraordinariamente largo y retorcido.",
+    "diagnostics": [
+      "El lóbulo central del labelo es muy alargado, con torsión y margen ondulado; los laterales son mucho más cortos.",
+      "Sépalos y pétalos superiores forman una gálea; la base del labelo es clara y puede mostrar manchas púrpuras.",
+      "Comparar la flor completa y la inflorescencia. El olor descrito en la bibliografía no puede evaluarse en una fotografía."
+    ],
+    "etymology": "Asturnatura deriva hircinum del latín hircinus, relativo al macho cabrío, en alusión al olor. La construcción del nombre Himantoglossum queda pendiente de contraste en esta ficha.",
+    "sources": [
+      {
+        "url": "https://www.asturnatura.com/especie/himantoglossum-hircinum",
+        "title": "Asturnatura — flor, labelo y etimología de hircinum"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de plantas en flor; no extrapolar a hojas aisladas."
+  },
+  "euphorbia-pyrenaica": {
+    "commonName": null,
+    "description": "Lechetrezna perenne pequeña, de tallos bajos y hojas reducidas, propia de ambientes montanos pedregosos.",
+    "diagnostics": [
+      "Valorar el porte bajo, tallos de decumbentes a ascendentes y hojas pequeñas elípticas u ovadas.",
+      "Las estructuras reproductoras son ciatios; una agrupación aparente de flores no equivale a una corola de pétalos.",
+      "Para separar otras Euphorbia deben verse hojas y estructuras reproductoras; el tamaño reducido no es exclusivo."
+    ],
+    "etymology": "Euphorbia procede de un nombre grecolatino de lechetreznas; las tradiciones clásicas recogidas por Asturnatura discrepan sobre la referencia a Euforbo. Pyrenaica significa pirenaica, de los Pirineos. Se conserva esa incertidumbre histórica.",
+    "sources": [
+      {
+        "url": "https://www.asturnatura.com/especie/euphorbia-pyrenaica",
+        "title": "Asturnatura — descripción y etimologías"
+      },
+      {
+        "url": "https://www.floravasca.com/identificar/?spp=Euphorbia+pyrenaica",
+        "title": "Flora Vasca — caracteres vegetativos e inflorescencia"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "No resolver la especie únicamente por porte; requiere material vegetativo y reproductor visible."
+  },
+  "ceratostreon-flabellatum": {
+    "commonName": null,
+    "description": "Bivalvo fósil de valvas muy desiguales, con valva izquierda convexa, umbo curvado y pliegues de ornamentación.",
+    "diagnostics": [
+      "En la valva izquierda, buscar una quilla curvada de la que parten pliegues divergentes.",
+      "Valorar la ornamentación de pliegues y su relación con el umbo; una concha incompleta puede ocultar los caracteres necesarios.",
+      "El nombre histórico Exogyra flabellata corresponde a esta entrada. Un fósil identificado solo como Exogyra no se convierte automáticamente en esta especie."
+    ],
+    "etymology": "La etimología del binomio queda pendiente de contraste con su descripción nomenclatural; no se presenta una semejanza visual como explicación histórica del nombre.",
+    "sources": [
+      {
+        "url": "https://sge.usal.es/archivos/REV/26%282%29/art07.pdf",
+        "title": "Revista de la Sociedad Geológica de España 26(2) — descripción y discusión de Ceratostreon flabellatum"
+      },
+      {
+        "url": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
+        "title": "PBDB — recombinación de Exogyra flabellata"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Conchas suficientemente completas; mantener separada la entrada genérica Exogyra."
+  },
+  "encrinus-liliiformis": {
+    "commonName": null,
+    "description": "Crinoideo fósil pedunculado, con columna de artejos y corona de brazos que sostenían pínnulas filtradoras.",
+    "diagnostics": [
+      "En ejemplares articulados, distinguir columna, cáliz y corona; las pínnulas se disponen en los brazos.",
+      "La corona y la arquitectura de los brazos son más informativas que un único artejo del tallo.",
+      "Un disco o fragmento de columna de crinoideo no basta para afirmar E. liliiformis; conservar la determinación genérica cuando no haya caracteres específicos."
+    ],
+    "etymology": "El origen preciso de Encrinus y liliiformis queda pendiente de contraste nomenclatural. No se convierte la comparación corriente con un lirio en una derivación ya demostrada.",
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4887110/",
+        "title": "Dynowski et al. — morfología y alimentación de Encrinus liliiformis"
+      },
+      {
+        "url": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=387782",
+        "title": "PBDB — identidad de la especie"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Ejemplares articulados o material diagnosticado por una fuente paleontológica."
+  },
+  "archaeopteryx-lithographica": {
+    "commonName": null,
+    "description": "Dinosaurio avialano fósil que combina alas con plumas con dientes y una cola ósea larga.",
+    "diagnostics": [
+      "En fósiles articulados, examinar impresiones de plumas junto al esqueleto, no solo la silueta de un ala.",
+      "La cola está sostenida por numerosas vértebras; los dientes y los dedos de la extremidad anterior completan la comparación.",
+      "Los rasgos generales de Archaeopteryx no resuelven por sí solos todas las atribuciones a especie. Exigir identificación de colección para usar una imagen como A. lithographica."
+    ],
+    "etymology": "La relación histórica exacta del binomio con sus raíces y con la caliza litográfica queda pendiente de contraste de la descripción original; no se deduce únicamente del yacimiento.",
+    "sources": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx",
+        "title": "NHM — plumas, dientes, cola y límites de clasificación"
+      },
+      {
+        "url": "https://www.nhm.ac.uk/our-science/services/collections/palaeontology/fossil-birds.html",
+        "title": "NHM — ejemplar de Archaeopteryx lithographica"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Fósiles identificados de colección; las reconstrucciones no reemplazan los caracteres conservados."
+  },
+  "homo-neanderthalensis": {
+    "commonName": "Neandertal",
+    "description": "Hominino fósil de constitución robusta y cráneo con frente baja, arcos supraorbitarios marcados y región media de la cara proyectada.",
+    "diagnostics": [
+      "Combinar frente retraída, relieve supraorbitario y forma de la cara; un fragmento puede no mostrar todos esos rasgos.",
+      "La robustez de los huesos es orientativa, no una señal exclusiva frente a otros Homo.",
+      "Distinguir fósiles, moldes y reconstrucciones. La atribución de una pieza debe apoyarse en la identificación de colección y no en un rasgo aislado."
+    ],
+    "etymology": "Homo es el nombre latino del ser humano. Smithsonian documenta que neanderthalensis se formó por el valle de Neander, en Alemania, donde se halló el ejemplar que dio nombre a la especie.",
+    "sources": [
+      {
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis",
+        "title": "Smithsonian Human Origins — anatomía e historia del nombre"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Reconocimiento de material identificado; sin reclasificar piezas de Homo por parecido general."
+  },
+  "membranipora-membranacea": {
+    "commonName": null,
+    "description": "Briozoo colonial que forma láminas claras e incrustantes, a menudo sobre frondes de algas.",
+    "diagnostics": [
+      "Con aumento, la colonia muestra un mosaico regular de zooides rectangulares.",
+      "Las paredes laterales están calcificadas, mientras la superficie frontal está cubierta por una membrana; buscar los pequeños relieves de las esquinas.",
+      "El aspecto blanquecino sobre un alga no basta: comparar zooides y ornamentación con Electra y otros briozoos incrustantes."
+    ],
+    "etymology": "La construcción de Membranipora y membranacea queda pendiente de contraste etimológico; la descripción de una membrana no se presenta por sí sola como prueba del origen del nombre.",
+    "sources": [
+      {
+        "url": "https://www.marlin.ac.uk/species/detail/2079",
+        "title": "MarLIN — estructura colonial y zooides de Membranipora membranacea"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Colonias con detalle de zooides; una fotografía general del alga huésped puede ser insuficiente."
+  },
+  "asterina-gibbosa": {
+    "commonName": "Estrella capitán",
+    "description": "Estrella de mar pequeña, de contorno aproximadamente pentagonal y brazos cortos unidos por amplias zonas interradiales.",
+    "diagnostics": [
+      "Observar conjuntamente el contorno pentagonal, el disco elevado y los brazos cortos; el color puede variar.",
+      "Examinar las superficies aboral y oral, no solo una vista de conjunto.",
+      "Otras asterinas pueden parecerse. La separación específica requiere detalle de las estructuras externas y una identificación fiable de la fuente; no basta que tenga cinco brazos."
+    ],
+    "etymology": "Treccani interpreta Asterina como diminutivo de Asterias. La derivación específica de gibbosa y la motivación original del nombre quedan pendientes de contraste nomenclatural.",
+    "sources": [
+      {
+        "url": "https://litoraldegranada.ugr.es/el-litoral/el-litoral-sumergido/fauna/equinodermos/asteroideos/asterina-gibbosa/",
+        "title": "Universidad de Granada — Asterina gibbosa y especies próximas"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/asterina/",
+        "title": "Treccani — etimología de Asterina"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Organismos completos identificados; evitar atribuir otras asterinas a esta especie por color o contorno."
+  },
+  "cyathus-striatus": {
+    "commonName": "Nidos de pájaro",
+    "description": "Hongo que produce pequeñas copas con cuerpos lenticulares en su interior, sobre restos vegetales.",
+    "diagnostics": [
+      "La pared interna de la copa presenta surcos verticales marcados; la superficie externa es pilosa.",
+      "Los cuerpos internos son peridiolos que contienen esporas, no huevos ni semillas.",
+      "Comparar la ornamentación interna con otros hongos nido: Cyathus olla no presenta ese estriado. El reconocimiento puede requerir lupa y revisión de especies similares."
+    ],
+    "etymology": "Cyathus remite a una copa o vaso; striatus alude al estriado de la pared interna, según la explicación etimológica de First Nature.",
+    "sources": [
+      {
+        "url": "https://www.mushroomexpert.com/cyathus_striatus.html",
+        "title": "Michael Kuo — copa, pelos y peridiolos"
+      },
+      {
+        "url": "https://www.first-nature.com/fungi/cyathus-striatus.php",
+        "title": "First Nature — etimología y comparación de hongos nido"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Basidiomas; las fuentes morfológicas históricas no sustituyen el linaje taxonómico revisado del catálogo."
+  },
+  "helvella-crispa": {
+    "commonName": "Oreja de gato blanca",
+    "description": "Ascomiceto de sombrero irregularmente lobulado, claro, sostenido por un pie blanquecino profundamente acanalado.",
+    "diagnostics": [
+      "Examinar el pie con costillas y cavidades junto con el sombrero crema, de aspecto plegado.",
+      "La cara inferior del sombrero presenta una fina pubescencia; sus bordes no quedan soldados al pie en los puntos de contacto.",
+      "El color blanco no basta para separar otras Helvella claras o formas despigmentadas; los detalles y la revisión microscópica pueden ser necesarios."
+    ],
+    "etymology": "Helvella procede de un término antiguo para una hierba; crispa significa rizada o plegada, según First Nature y la etimología recogida por Asturnatura. Describe el sombrero, no una regla de memoria.",
+    "sources": [
+      {
+        "url": "https://www.mushroomexpert.com/helvella_crispa.html",
+        "title": "Michael Kuo — morfología y especies similares"
+      },
+      {
+        "url": "https://www.first-nature.com/fungi/helvella-crispa.php",
+        "title": "First Nature — etimología del binomio"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5832953/",
+        "title": "Skrede et al. — delimitación europea de Helvella"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Ascomas europeos identificados; no asumir que todos los ejemplares blancos del género son esta especie."
   }
 }
