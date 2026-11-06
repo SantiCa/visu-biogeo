@@ -49401,5 +49401,47 @@
       "Tipos de frutos",
       "Árboles y arbustos"
     ]
+  },
+  {
+    "id": "actinidia-chinensis",
+    "scientificName": "Actinidia chinensis",
+    "kind": "organismo",
+    "aliases": [],
+    "sources": [
+      "Listado de visu de TIPOS DE FRUTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de visu de TIPOS DE FRUTOS.pdf",
+        "page": 7
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF escribe «Actinida sinensis, Kiwi»; se corrige el rótulo nominal a Actinidia chinensis. Se conserva la grafía original como procedencia, no como alias aceptado. La candidata de investigación «Actinidia sinensis» corresponde a esta misma corrección, no a otra especie. Se adopta el tratamiento de POWO a nivel de especie, sin asignar variedad ni cultivar; la corrección del rótulo no identifica fotografías concretas.",
+    "studyLists": [
+      "Tipos de frutos"
+    ]
+  },
+  {
+    "id": "aria-edulis",
+    "scientificName": "Aria edulis",
+    "kind": "organismo",
+    "aliases": [
+      "Sorbus aria"
+    ],
+    "sources": [
+      "Listado de ÁRBOLES Y ARBUSTOS.pdf"
+    ],
+    "sourcePages": [
+      {
+        "file": "Listado de ÁRBOLES Y ARBUSTOS.pdf",
+        "page": 3
+      }
+    ],
+    "catalogStatus": "revisado",
+    "notes": "El PDF emplea «Sorbus aria. MOSTAJO». POWO acepta Aria edulis y documenta Sorbus aria como sinónimo, que se conserva como alias de una sola especie. Sorbus aucuparia permanece independiente; no se heredan sus imágenes.",
+    "studyLists": [
+      "Árboles y arbustos"
+    ]
   }
 ]
