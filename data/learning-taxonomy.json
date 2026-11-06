@@ -141711,16 +141711,22 @@
         "name": "Porcellana platycheles"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Cangrejo de porcelana peludo"
+    ],
+    "commonName": "Cangrejo de porcelana peludo",
     "group": "Crustáceos",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
     "reviewNote": "Nombre y linaje contrastados también con WoRMS/DecaNet a través de PESI.",
     "sources": [
       "https://www.gbif.org/species/5178358",
-      "https://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:marinespecies.org:taxname:107190"
+      "https://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:marinespecies.org:taxname:107190",
+      "https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Cangrejo_de_porcelana_peludo"
+    ],
+    "commonNameSources": [
+      "https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Cangrejo_de_porcelana_peludo"
     ]
   },
   "cypris": {
@@ -141976,7 +141982,9 @@
     "source": "https://www.gbif.org/species/7936251",
     "sources": [
       "https://www.gbif.org/species/7936251",
-      "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000145045"
+      "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000145045",
+      "https://api.gbif.org/v1/species/7936251/vernacularNames?limit=100",
+      "https://www.diputacionavila.es/docus/desarrollo-rural/libros/libelulas-de-la-provincia-de-avila.pdf"
     ],
     "matchedName": "Cordulegaster boltonii",
     "rank": "species",
@@ -142019,20 +142027,29 @@
         "name": "Cordulegaster boltonii"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Guardarroyo común",
+      "Guardarroyos común"
+    ],
+    "commonName": "Guardarroyo común",
     "group": "Insectos",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "Cordulegaster annulatus es el nombre histórico empleado por el PDF. Se vincula a Cordulegaster boltonii según NHM (uso de Latreille, no el homónimo de Fabricius); no se crea una segunda especie."
+    "reviewNote": "Cordulegaster annulatus es el nombre histórico empleado por el PDF. Se vincula a Cordulegaster boltonii según NHM (uso de Latreille, no el homónimo de Fabricius); no se crea una segunda especie.",
+    "commonNameSources": [
+      "https://api.gbif.org/v1/species/7936251/vernacularNames?limit=100",
+      "https://www.diputacionavila.es/docus/desarrollo-rural/libros/libelulas-de-la-provincia-de-avila.pdf"
+    ]
   },
   "euphydryas-aurinia": {
     "provider": "GBIF",
     "source": "https://www.gbif.org/species/4535809",
     "sources": [
       "https://www.gbif.org/species/4535809",
-      "https://www.miteco.gob.es/es/biodiversidad/publicaciones/pbl_invert_artropodos_habitat.html"
+      "https://www.miteco.gob.es/es/biodiversidad/publicaciones/pbl_invert_artropodos_habitat.html",
+      "https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies.html",
+      "https://www.asociacion-zerynthia.org/pdf/nombres_comunes.pdf"
     ],
     "matchedName": "Euphydryas aurinia",
     "rank": "species",
@@ -142075,20 +142092,29 @@
         "name": "Euphydryas aurinia"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Ondas rojas",
+      "Doncella de ondas rojas",
+      "Ondas rojas europea"
+    ],
+    "commonName": "Ondas rojas",
     "group": "Insectos",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Euphydrias aurinia»; se corrige la errata a Euphydryas aurinia. La grafía original se conserva como procedencia, no como alias aceptado."
+    "reviewNote": "El PDF escribe «Euphydrias aurinia»; se corrige la errata a Euphydryas aurinia. La grafía original se conserva como procedencia, no como alias aceptado.",
+    "commonNameSources": [
+      "https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies.html",
+      "https://www.asociacion-zerynthia.org/pdf/nombres_comunes.pdf"
+    ]
   },
   "bombus-terrestris": {
     "provider": "GBIF",
     "source": "https://www.gbif.org/species/1340503",
     "sources": [
       "https://www.gbif.org/species/1340503",
-      "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000009838"
+      "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000009838",
+      "https://api.gbif.org/v1/species/1340503/vernacularNames?limit=100"
     ],
     "matchedName": "Bombus terrestris",
     "rank": "species",
@@ -142131,20 +142157,27 @@
         "name": "Bombus terrestris"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Abejorro común",
+      "Abejorro europeo"
+    ],
+    "commonName": "Abejorro común",
     "group": "Insectos",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Bombus terrestres»; se corrige la errata a Bombus terrestris. La grafía original se conserva como procedencia, no como alias aceptado."
+    "reviewNote": "El PDF escribe «Bombus terrestres»; se corrige la errata a Bombus terrestris. La grafía original se conserva como procedencia, no como alias aceptado.",
+    "commonNameSources": [
+      "https://api.gbif.org/v1/species/1340503/vernacularNames?limit=100"
+    ]
   },
   "siren-lacertina": {
     "provider": "GBIF",
     "source": "https://www.gbif.org/species/2432068",
     "sources": [
       "https://www.gbif.org/species/2432068",
-      "https://www.floridamuseum.ufl.edu/florida-vertebrate-fossils/species/siren-lacertina/"
+      "https://www.floridamuseum.ufl.edu/florida-vertebrate-fossils/species/siren-lacertina/",
+      "https://api.gbif.org/v1/species/2432068/vernacularNames?limit=100"
     ],
     "matchedName": "Siren lacertina",
     "rank": "species",
@@ -142187,20 +142220,26 @@
         "name": "Siren lacertina"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Sirena mayor"
+    ],
+    "commonName": "Sirena mayor",
     "group": "Anfibios",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Siren lac ertina»; se corrige a Siren lacertina. La grafía original se conserva como procedencia y no como alias aceptado."
+    "reviewNote": "El PDF escribe «Siren lac ertina»; se corrige a Siren lacertina. La grafía original se conserva como procedencia y no como alias aceptado.",
+    "commonNameSources": [
+      "https://api.gbif.org/v1/species/2432068/vernacularNames?limit=100"
+    ]
   },
   "rana-pyrenaica": {
     "provider": "GBIF",
     "source": "https://www.gbif.org/species/2426793",
     "sources": [
       "https://www.gbif.org/species/2426793",
-      "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-pyrenaica"
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-pyrenaica",
+      "https://api.gbif.org/v1/species/2426793/vernacularNames?limit=100"
     ],
     "matchedName": "Rana pyrenaica",
     "rank": "species",
@@ -142243,20 +142282,26 @@
         "name": "Rana pyrenaica"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Rana pirenaica"
+    ],
+    "commonName": "Rana pirenaica",
     "group": "Anfibios",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Rana pirenaica»; se corrige a Rana pyrenaica. La grafía original se conserva como procedencia y no como alias aceptado."
+    "reviewNote": "El PDF escribe «Rana pirenaica»; se corrige a Rana pyrenaica. La grafía original se conserva como procedencia y no como alias aceptado.",
+    "commonNameSources": [
+      "https://api.gbif.org/v1/species/2426793/vernacularNames?limit=100"
+    ]
   },
   "coronella-austriaca": {
     "provider": "iNaturalist / The Reptile Database",
     "source": "https://www.inaturalist.org/taxa/26904",
     "sources": [
       "https://www.inaturalist.org/taxa/26904",
-      "https://reptile-database.reptarium.cz/Coronella/austriaca"
+      "https://reptile-database.reptarium.cz/Coronella/austriaca",
+      "https://www.vertebradosibericos.org/reptiles/coraus.html"
     ],
     "matchedName": "Coronella austriaca",
     "rank": "species",
@@ -142324,20 +142369,26 @@
         "taxonId": 26904
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Culebra lisa europea"
+    ],
+    "commonName": "Culebra lisa europea",
     "group": "Reptiles",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "Nombre y familia contrastados con The Reptile Database; jerarquía documentada en iNaturalist 26904. La consulta preliminar GBIF devolvió múltiples coincidencias y no se usa como determinación."
+    "reviewNote": "Nombre y familia contrastados con The Reptile Database; jerarquía documentada en iNaturalist 26904. La consulta preliminar GBIF devolvió múltiples coincidencias y no se usa como determinación.",
+    "commonNameSources": [
+      "https://www.vertebradosibericos.org/reptiles/coraus.html"
+    ]
   },
   "arachis-hypogaea": {
     "provider": "GBIF",
     "source": "https://www.gbif.org/species/5353770",
     "sources": [
       "https://www.gbif.org/species/5353770",
-      "https://powo.science.kew.org/taxon/318562-2"
+      "https://powo.science.kew.org/taxon/318562-2",
+      "https://api.gbif.org/v1/species/5353770/vernacularNames?limit=100"
     ],
     "matchedName": "Arachis hypogaea",
     "rank": "species",
@@ -142380,13 +142431,20 @@
         "name": "Arachis hypogaea"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Cacahuete",
+      "Maní",
+      "Cacahuate"
+    ],
+    "commonName": "Cacahuete",
     "group": "Plantas con flor",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Arachys hipogea»; se conserva esa grafía como procedencia, no como alias aceptado. El rótulo «Cacahuete» y el contexto de frutos leguminosos se vinculan al nombre aceptado Arachis hypogaea (POWO/GBIF)."
+    "reviewNote": "El PDF escribe «Arachys hipogea»; se conserva esa grafía como procedencia, no como alias aceptado. El rótulo «Cacahuete» y el contexto de frutos leguminosos se vinculan al nombre aceptado Arachis hypogaea (POWO/GBIF).",
+    "commonNameSources": [
+      "https://api.gbif.org/v1/species/5353770/vernacularNames?limit=100"
+    ]
   },
   "lagenaria-siceraria": {
     "provider": "GBIF",
@@ -142436,20 +142494,27 @@
         "name": "Lagenaria siceraria"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Calabaza del peregrino",
+      "Calabaza de cuello"
+    ],
+    "commonName": "Calabaza del peregrino",
     "group": "Plantas con flor",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Lagenaria sicula»; se conserva esa grafía como procedencia, no como alias aceptado. Se interpreta el rótulo «Calabaza del peregrino» como Lagenaria siceraria, nombre aceptado en GBIF y documentado con ese nombre común y familia por el inventario etnobotánico de MAPA. No se afirma que «Lagenaria sicula» sea un sinónimo taxonómico válido."
+    "reviewNote": "El PDF escribe «Lagenaria sicula»; se conserva esa grafía como procedencia, no como alias aceptado. Se interpreta el rótulo «Calabaza del peregrino» como Lagenaria siceraria, nombre aceptado en GBIF y documentado con ese nombre común y familia por el inventario etnobotánico de MAPA. No se afirma que «Lagenaria sicula» sea un sinónimo taxonómico válido.",
+    "commonNameSources": [
+      "https://www.mapa.gob.es/dam/mapa/contenido/agricultura/temas/medios-de-produccion/semillas-y-plantas-de-vivero/recursos-fitogeneticos-para-la-agricultura-y-la-alimentacion/docs/iectba_1_capitulos/capitulo_3_fichas_especies/tardio_etal2018_iectbavol1_106-110_lagenariasicerariamolinastandl.pdf"
+    ]
   },
   "himantoglossum-hircinum": {
     "provider": "GBIF",
     "source": "https://www.gbif.org/species/5324951",
     "sources": [
       "https://www.gbif.org/species/5324951",
-      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:638840-1"
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:638840-1",
+      "https://arbabajojarama.es/herbario/himantoglossum-hircinum-l-spreng-satirion-barbado/"
     ],
     "matchedName": "Himantoglossum hircinum",
     "rank": "species",
@@ -142492,20 +142557,26 @@
         "name": "Himantoglossum hircinum"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Satirión barbado"
+    ],
+    "commonName": "Satirión barbado",
     "group": "Plantas con flor",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Himanthoglossum hircinum»; se corrige la grafía a Himantoglossum hircinum. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF."
+    "reviewNote": "El PDF escribe «Himanthoglossum hircinum»; se corrige la grafía a Himantoglossum hircinum. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF.",
+    "commonNameSources": [
+      "https://arbabajojarama.es/herbario/himantoglossum-hircinum-l-spreng-satirion-barbado/"
+    ]
   },
   "euphorbia-pyrenaica": {
     "provider": "GBIF",
     "source": "https://www.gbif.org/species/3065197",
     "sources": [
       "https://www.gbif.org/species/3065197",
-      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:347975-1"
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:347975-1",
+      "https://www.researchgate.net/publication/338923889_Los_nombres_comunes_de_las_plantas_Propuesta_de_unificacion_de_los_nombres_comunes_de_la_flora_vascular_del_Sistema_Iberico_y_su_entorno"
     ],
     "matchedName": "Euphorbia pyrenaica",
     "rank": "species",
@@ -142548,13 +142619,19 @@
         "name": "Euphorbia pyrenaica"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Lechetrezna pirenaica"
+    ],
+    "commonName": "Lechetrezna pirenaica",
     "group": "Plantas con flor",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Euphorbia pirenaica»; se corrige la grafía a Euphorbia pyrenaica. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF."
+    "reviewNote": "El PDF escribe «Euphorbia pirenaica»; se corrige la grafía a Euphorbia pyrenaica. El texto original se conserva como procedencia, no como alias aceptado. Nombre, familia y orden contrastados con POWO (Kew); los rangos superiores siguen el linaje documentado en GBIF.",
+    "commonNameSources": [
+      "https://www.researchgate.net/publication/338923889_Los_nombres_comunes_de_las_plantas_Propuesta_de_unificacion_de_los_nombres_comunes_de_la_flora_vascular_del_Sistema_Iberico_y_su_entorno"
+    ],
+    "commonNameReviewNote": "Lechetrezna pirenaica es el nombre propuesto por Mateo Sanz; se documenta como propuesta, no como denominación oficial universal."
   },
   "ceratostreon-flabellatum": {
     "provider": "Paleobiology Database",
@@ -142603,14 +142680,15 @@
     "commonNames": [],
     "commonName": null,
     "group": "Moluscos",
-    "checkedAt": "2026-11-05",
+    "checkedAt": "2026-11-06",
     "commonNameStatus": "not-documented",
     "status": "documented",
     "reviewNote": "El PDF escribe «Exogyra flavellata»; se conserva como procedencia, no como alias aceptado. PBDB recombina Exogyra flabellata como Ceratostreon flabellatum; se conserva el nombre histórico como alias de una única especie. La recombinación está corroborada por WoRMS. La entrada genérica Exogyra permanece independiente.",
     "sources": [
       "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
       "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Exogyra"
-    ]
+    ],
+    "commonNameReviewNote": "No se ha verificado un nombre común español en las fuentes consultadas. El nombre científico y los caracteres diagnósticos permiten estudiar esta especie; no se traduce un nombre inglés ni se asigna al taxón un nombre genérico por analogía."
   },
   "encrinus-liliiformis": {
     "provider": "Paleobiology Database",
@@ -142659,21 +142737,25 @@
     "commonNames": [],
     "commonName": null,
     "group": "Equinodermos",
-    "checkedAt": "2026-11-05",
+    "checkedAt": "2026-11-06",
     "commonNameStatus": "not-documented",
     "status": "documented",
     "reviewNote": "El PDF escribe «Encrinus liliformis»; se conserva como procedencia, no como alias aceptado. Se corrige la grafía a Encrinus liliiformis, especie documentada por PBDB y GBIF. La entrada genérica Encrinus permanece independiente.",
     "sources": [
       "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=387782",
       "https://www.gbif.org/species/7972692"
-    ]
+    ],
+    "commonNameReviewNote": "No se ha verificado un nombre común español en las fuentes consultadas. El nombre científico y los caracteres diagnósticos permiten estudiar esta especie; no se traduce un nombre inglés ni se asigna al taxón un nombre genérico por analogía."
   },
   "archaeopteryx-lithographica": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4847899",
+    "provider": "Museums Victoria / Avibase / GBIF",
+    "source": "https://collections.museumsvictoria.com.au/specimens/1558837",
     "sources": [
       "https://www.gbif.org/species/4847899",
-      "https://www.nhm.ac.uk/our-science/services/collections/palaeontology/fossil-birds.html"
+      "https://www.nhm.ac.uk/our-science/services/collections/palaeontology/fossil-birds.html",
+      "https://inah.gob.mx/images/suplementos/20190423_tlacuache_877.pdf",
+      "https://collections.museumsvictoria.com.au/specimens/1558837",
+      "https://avibase.bsc-eoc.org/species.jsp?avibaseid=76B6FC8B4372AA35&lang=EN"
     ],
     "matchedName": "Archaeopteryx lithographica",
     "rank": "species",
@@ -142681,6 +142763,7 @@
       "kingdom": "Animalia",
       "phylum": "Chordata",
       "class": "Aves",
+      "order": "Archaeopterygiformes",
       "family": "Archaeopterygidae",
       "genus": "Archaeopteryx",
       "species": "Archaeopteryx lithographica"
@@ -142699,6 +142782,10 @@
         "name": "Aves"
       },
       {
+        "rank": "order",
+        "name": "Archaeopterygiformes"
+      },
+      {
         "rank": "family",
         "name": "Archaeopterygidae"
       },
@@ -142711,20 +142798,27 @@
         "name": "Archaeopteryx lithographica"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Arqueópterix"
+    ],
+    "commonName": "Arqueópterix",
     "group": "Aves",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF emplea «Archaeopterix lithographica»; se normaliza a Archaeopteryx lithographica y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Nombre contrastado con NHM. La entrada genérica Archaeopteryx (id archaeopterix) permanece independiente. GBIF no documenta orden en esta ficha; no se completa por inferencia."
+    "reviewNote": "El PDF emplea «Archaeopterix lithographica»; se conserva la grafía original como procedencia, sin añadirla como alias aceptado. La entrada genérica Archaeopteryx (id archaeopterix) permanece independiente. El orden Archaeopterygiformes está documentado por Museums Victoria y Avibase; GBIF no lo proporciona en su registro.",
+    "commonNameSources": [
+      "https://inah.gob.mx/images/suplementos/20190423_tlacuache_877.pdf"
+    ],
+    "commonNameReviewNote": "Arqueópterix se usa también para el género y no permite determinar por sí solo la especie de un fósil."
   },
   "homo-neanderthalensis": {
     "provider": "GBIF",
     "source": "https://www.gbif.org/species/4827584",
     "sources": [
       "https://www.gbif.org/species/4827584",
-      "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis"
+      "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis",
+      "https://api.gbif.org/v1/species/4827584/vernacularNames?limit=100"
     ],
     "matchedName": "Homo neanderthalensis",
     "rank": "species",
@@ -142767,13 +142861,19 @@
         "name": "Homo neanderthalensis"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Neandertal",
+      "Hombre de Neandertal"
+    ],
+    "commonName": "Neandertal",
     "group": "Mamíferos",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "El PDF emplea «Homo neanderthalis»; se normaliza a Homo neanderthalensis y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Se adopta el tratamiento a especie de GBIF y Smithsonian. La entrada genérica Homo y las de Homo sapiens y Homo heidelbergensis permanecen independientes."
+    "reviewNote": "El PDF emplea «Homo neanderthalis»; se normaliza a Homo neanderthalensis y se conserva la grafía original como procedencia, sin añadirla como alias aceptado. Se adopta el tratamiento a especie de GBIF y Smithsonian. La entrada genérica Homo y las de Homo sapiens y Homo heidelbergensis permanecen independientes.",
+    "commonNameSources": [
+      "https://api.gbif.org/v1/species/4827584/vernacularNames?limit=100"
+    ]
   },
   "membranipora-membranacea": {
     "provider": "GBIF",
@@ -142826,10 +142926,11 @@
     "commonNames": [],
     "commonName": null,
     "group": "Briozoos",
-    "checkedAt": "2026-11-05",
+    "checkedAt": "2026-11-06",
     "commonNameStatus": "not-documented",
     "status": "documented",
-    "reviewNote": "El PDF escribe «Membranipora membranácea»; se normaliza la grafía a Membranipora membranacea. La grafía original se conserva como procedencia, no como alias aceptado. Nombre contrastado con MarLIN; linaje documentado en GBIF."
+    "reviewNote": "El PDF escribe «Membranipora membranácea»; se normaliza la grafía a Membranipora membranacea. La grafía original se conserva como procedencia, no como alias aceptado. Nombre contrastado con MarLIN; linaje documentado en GBIF.",
+    "commonNameReviewNote": "No se ha verificado un nombre común español en las fuentes consultadas. El nombre científico y los caracteres diagnósticos permiten estudiar esta especie; no se traduce un nombre inglés ni se asigna al taxón un nombre genérico por analogía."
   },
   "asterina-gibbosa": {
     "provider": "IBERFAUNA (MNCN-CSIC) / iNaturalist",
@@ -142879,13 +142980,18 @@
         "name": "Asterina gibbosa"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Estrella capitán"
+    ],
+    "commonName": "Estrella capitán",
     "group": "Equinodermos",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "Especie y linaje contrastados con IBERFAUNA (MNCN-CSIC), ficha 62536, e iNaturalist 210121. La consulta preliminar GBIF devolvió múltiples coincidencias y no se acepta como determinación. No se atribuyen a esta especie imágenes de otras asterinas."
+    "reviewNote": "Especie y linaje contrastados con IBERFAUNA (MNCN-CSIC), ficha 62536, e iNaturalist 210121. La consulta preliminar GBIF devolvió múltiples coincidencias y no se acepta como determinación. No se atribuyen a esta especie imágenes de otras asterinas.",
+    "commonNameSources": [
+      "https://iberfauna.mncn.csic.es/showficha.aspx?idtax=62536&rank=T"
+    ]
   },
   "cyathus-striatus": {
     "provider": "iNaturalist / fuentes micológicas",
@@ -142894,7 +143000,8 @@
       "https://www.inaturalist.org/taxa/120242",
       "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=211223",
       "https://gd.eppo.int/taxon/CYATST",
-      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10082518/"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10082518/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-4-013.03.06.00.05.00"
     ],
     "matchedName": "Cyathus striatus",
     "rank": "species",
@@ -142937,13 +143044,22 @@
         "name": "Cyathus striatus"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Nidos de pájaro",
+      "Ciato estriado",
+      "Nido de pájaro",
+      "Nidito estriado"
+    ],
+    "commonName": "Nidos de pájaro",
     "group": "Hongos",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Se adopta Nidulariaceae según iNaturalist y EPPO, coherente con la revisión molecular de Cyathus de 2023. Species Fungorum confirma el nombre, pero deja la familia incertae sedis; no se atribuye esa asignación familiar a dicha fuente."
+    "reviewNote": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Se adopta Nidulariaceae según iNaturalist y EPPO, coherente con la revisión molecular de Cyathus de 2023. Species Fungorum confirma el nombre, pero deja la familia incertae sedis; no se atribuye esa asignación familiar a dicha fuente.",
+    "commonNameSources": [
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-4-013.03.06.00.05.00"
+    ],
+    "commonNameReviewNote": "Nidos de pájaro es un nombre compartido por otros hongos nidulariáceos; la especie requiere comprobar los caracteres de la ficha."
   },
   "helvella-crispa": {
     "provider": "iNaturalist / fuentes micológicas",
@@ -142951,7 +143067,8 @@
     "sources": [
       "https://www.inaturalist.org/taxa/49208",
       "https://species.data.kew.org/species/186148",
-      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5832953/"
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5832953/",
+      "https://elmarques.gob.mx/biodiversidad/portfolio-items/helvella-crispa/"
     ],
     "matchedName": "Helvella crispa",
     "rank": "species",
@@ -142994,12 +143111,267 @@
         "name": "Helvella crispa"
       }
     ],
-    "commonNames": [],
-    "commonName": null,
+    "commonNames": [
+      "Oreja de gato blanca"
+    ],
+    "commonName": "Oreja de gato blanca",
     "group": "Hongos",
-    "checkedAt": "2026-11-05",
-    "commonNameStatus": "not-documented",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
     "status": "documented",
-    "reviewNote": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Kew/Index Fungorum confirma el nombre aceptado y Helvellaceae; la revisión europea de Helvella respalda su tratamiento específico. Helvella lacunosa permanece independiente y no se heredan sus imágenes."
+    "reviewNote": "Nombre literal del listado; determinación específica y linaje documentados en iNaturalist, contrastados con fuentes micológicas. Las consultas preliminares GBIF no resolvían la especie y no se usan como determinación. Kew/Index Fungorum confirma el nombre aceptado y Helvellaceae; la revisión europea de Helvella respalda su tratamiento específico. Helvella lacunosa permanece independiente y no se heredan sus imágenes.",
+    "commonNameSources": [
+      "https://elmarques.gob.mx/biodiversidad/portfolio-items/helvella-crispa/"
+    ]
+  },
+  "solanum-lycopersicum": {
+    "provider": "GBIF / POWO (Kew)",
+    "source": "https://www.gbif.org/species/2930137",
+    "sources": [
+      "https://www.gbif.org/species/2930137",
+      "https://powo.science.kew.org/taxon/316947-2",
+      "https://powo.science.kew.org/taxon/146898-2",
+      "https://nombrescomunes.jbb.gov.co/site/cientifico?q=Solanum+lycopersicum"
+    ],
+    "matchedName": "Solanum lycopersicum",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "genus": "Solanum",
+      "species": "Solanum lycopersicum"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Solanales"
+      },
+      {
+        "rank": "family",
+        "name": "Solanaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Solanum"
+      },
+      {
+        "rank": "species",
+        "name": "Solanum lycopersicum"
+      }
+    ],
+    "commonNames": [
+      "Tomate"
+    ],
+    "commonName": "Tomate",
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
+    "status": "documented",
+    "reviewNote": "El PDF de frutos escribe «Lycopersicum sculentum, Tomate». Esa errata se conserva como procedencia, no como alias. POWO documenta Lycopersicon esculentum como sinónimo de Solanum lycopersicum; se incorpora una sola especie con el linaje del nombre aceptado.",
+    "commonNameSources": [
+      "https://nombrescomunes.jbb.gov.co/site/cientifico?q=Solanum+lycopersicum"
+    ]
+  },
+  "prunus-amygdalus": {
+    "provider": "GBIF / POWO (Kew)",
+    "source": "https://www.gbif.org/species/3020980",
+    "sources": [
+      "https://www.gbif.org/species/3020980",
+      "https://powo.science.kew.org/taxon/60439867-2",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:729673-1",
+      "https://api.gbif.org/v1/species/3020980/vernacularNames?limit=100"
+    ],
+    "matchedName": "Prunus amygdalus",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus amygdalus"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Rosales"
+      },
+      {
+        "rank": "family",
+        "name": "Rosaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Prunus"
+      },
+      {
+        "rank": "species",
+        "name": "Prunus amygdalus"
+      }
+    ],
+    "commonNames": [
+      "Almendro"
+    ],
+    "commonName": "Almendro",
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
+    "status": "documented",
+    "reviewNote": "Ambos PDF emplean Prunus dulcis para el almendro o la almendra. Se sigue el nombre aceptado Prunus amygdalus en POWO/GBIF; Prunus dulcis (Mill.) D.A.Webb se conserva como sinónimo documentado del almendro, sin crear otra especie ni confundir homónimos.",
+    "commonNameSources": [
+      "https://api.gbif.org/v1/species/3020980/vernacularNames?limit=100"
+    ]
+  },
+  "actinidia-chinensis": {
+    "provider": "GBIF / POWO (Kew)",
+    "source": "https://www.gbif.org/species/3189694",
+    "sources": [
+      "https://www.gbif.org/species/3189694",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828396-1",
+      "https://sib.gob.ar/especies/actinidia-chinensis"
+    ],
+    "matchedName": "Actinidia chinensis",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Ericales",
+      "family": "Actinidiaceae",
+      "genus": "Actinidia",
+      "species": "Actinidia chinensis"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Ericales"
+      },
+      {
+        "rank": "family",
+        "name": "Actinidiaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Actinidia"
+      },
+      {
+        "rank": "species",
+        "name": "Actinidia chinensis"
+      }
+    ],
+    "commonNames": [
+      "Kiwi"
+    ],
+    "commonName": "Kiwi",
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
+    "status": "documented",
+    "reviewNote": "El PDF escribe «Actinida sinensis, Kiwi»; se corrige el rótulo nominal a Actinidia chinensis. Se conserva la grafía original como procedencia, no como alias aceptado. La candidata de investigación «Actinidia sinensis» corresponde a esta misma corrección, no a otra especie. Se adopta el tratamiento de POWO a nivel de especie, sin asignar variedad ni cultivar; la corrección del rótulo no identifica fotografías concretas.",
+    "commonNameSources": [
+      "https://sib.gob.ar/especies/actinidia-chinensis"
+    ]
+  },
+  "aria-edulis": {
+    "provider": "GBIF / POWO (Kew)",
+    "source": "https://www.gbif.org/species/8411755",
+    "sources": [
+      "https://www.gbif.org/species/8411755",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:721579-1",
+      "https://api.gbif.org/v1/species/8411755/vernacularNames?limit=100"
+    ],
+    "matchedName": "Aria edulis",
+    "rank": "species",
+    "ranks": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Aria",
+      "species": "Aria edulis"
+    },
+    "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Plantae"
+      },
+      {
+        "rank": "phylum",
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Magnoliopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Rosales"
+      },
+      {
+        "rank": "family",
+        "name": "Rosaceae"
+      },
+      {
+        "rank": "genus",
+        "name": "Aria"
+      },
+      {
+        "rank": "species",
+        "name": "Aria edulis"
+      }
+    ],
+    "commonNames": [
+      "Mostajo"
+    ],
+    "commonName": "Mostajo",
+    "group": "Plantas con flor",
+    "checkedAt": "2026-11-06",
+    "commonNameStatus": "documented",
+    "status": "documented",
+    "reviewNote": "El PDF emplea «Sorbus aria. MOSTAJO». POWO acepta Aria edulis y documenta Sorbus aria como sinónimo, que se conserva como alias de una sola especie. Sorbus aucuparia permanece independiente; no se heredan sus imágenes.",
+    "commonNameSources": [
+      "https://api.gbif.org/v1/species/8411755/vernacularNames?limit=100"
+    ]
   }
 }

@@ -26810,11 +26810,17 @@
       "Animalia",
       "Chordata",
       "Aves",
+      "Archaeopterygiformes",
       "Archaeopterygidae"
     ],
     "group": "Aves",
-    "source": "https://www.gbif.org/species/4847899",
-    "checkedAt": "2026-11-05"
+    "source": "https://collections.museumsvictoria.com.au/specimens/1558837",
+    "checkedAt": "2026-11-06",
+    "sources": [
+      "https://www.gbif.org/species/4847899",
+      "https://collections.museumsvictoria.com.au/specimens/1558837",
+      "https://avibase.bsc-eoc.org/species.jsp?avibaseid=76B6FC8B4372AA35&lang=EN"
+    ]
   },
   "homo-neanderthalensis": {
     "family": "Hominidae",
@@ -26879,6 +26885,58 @@
     ],
     "group": "Hongos",
     "source": "https://www.inaturalist.org/taxa/49208",
+    "checkedAt": "2026-11-05"
+  },
+  "solanum-lycopersicum": {
+    "family": "Solanaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Solanales",
+      "Solanaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/2930137",
+    "checkedAt": "2026-11-05"
+  },
+  "prunus-amygdalus": {
+    "family": "Rosaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Rosales",
+      "Rosaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/3020980",
+    "checkedAt": "2026-11-05"
+  },
+  "actinidia-chinensis": {
+    "family": "Actinidiaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Ericales",
+      "Actinidiaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/3189694",
+    "checkedAt": "2026-11-05"
+  },
+  "aria-edulis": {
+    "family": "Rosaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Rosales",
+      "Rosaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/8411755",
     "checkedAt": "2026-11-05"
   }
 }
