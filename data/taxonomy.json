@@ -14960,5 +14960,21 @@
     "checkedAt": "2026-11-05",
     "aliases": [],
     "reviewStatus": "documented"
+  },
+  "solanum-lycopersicum": {
+    "family": "Solanaceae",
+    "matchedName": "Solanum lycopersicum",
+    "source": "https://www.gbif.org/species/2930137",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
+  },
+  "prunus-amygdalus": {
+    "family": "Rosaceae",
+    "matchedName": "Prunus amygdalus",
+    "source": "https://www.gbif.org/species/3020980",
+    "checkedAt": "2026-11-05",
+    "aliases": [],
+    "reviewStatus": "documented"
   }
 }

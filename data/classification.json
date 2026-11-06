@@ -26880,5 +26880,31 @@
     "group": "Hongos",
     "source": "https://www.inaturalist.org/taxa/49208",
     "checkedAt": "2026-11-05"
+  },
+  "solanum-lycopersicum": {
+    "family": "Solanaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Solanales",
+      "Solanaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/2930137",
+    "checkedAt": "2026-11-05"
+  },
+  "prunus-amygdalus": {
+    "family": "Rosaceae",
+    "lineage": [
+      "Plantae",
+      "Tracheophyta",
+      "Magnoliopsida",
+      "Rosales",
+      "Rosaceae"
+    ],
+    "group": "Plantas con flor",
+    "source": "https://www.gbif.org/species/3020980",
+    "checkedAt": "2026-11-05"
   }
 }
