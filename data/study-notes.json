@@ -11371,5 +11371,51 @@
     "reviewedAt": "2026-11-05",
     "reviewStatus": "reviewed",
     "scope": "Ascomas europeos identificados; no asumir que todos los ejemplares blancos del género son esta especie."
+  },
+  "solanum-lycopersicum": {
+    "commonName": "Tomate",
+    "description": "Solanácea herbácea de hojas divididas, flores amarillas y fruto carnoso de tipo baya.",
+    "diagnostics": [
+      "Las flores tienen corola amarilla y anteras aproximadas alrededor del estilo; observarlas junto con hojas y tallo.",
+      "El fruto muestra varias cavidades con semillas en tejido gelatinoso y cáliz persistente; color y forma varían mucho entre cultivares.",
+      "Comparar con otros Solanum mediante flores y hojas. Un fruto aislado no permite asignar cultivar ni usar cualquier fruto rojo como diagnóstico."
+    ],
+    "etymology": "NC State relaciona Solanum con el latín solamen y explica lycopersicum como melocotón de lobo. Se recoge esa explicación lingüística sin convertir las leyendas asociadas en hechos biológicos.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/solanum-lycopersicum/",
+        "title": "NC State Extension — morfología y etimología"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/146898-2",
+        "title": "POWO — Lycopersicon esculentum como sinónimo"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Planta y fruto; conservar el nombre histórico sin añadir la errata del PDF a los alias."
+  },
+  "prunus-amygdalus": {
+    "commonName": "Almendro",
+    "description": "Árbol caducifolio de hojas estrechas y flores blancas o rosadas; su fruto contiene el hueso que encierra la almendra.",
+    "diagnostics": [
+      "Examinar hojas lanceoladas de margen aserrado y flores de cinco pétalos junto a las ramas.",
+      "El fruto presenta una cubierta externa coriácea que se abre al madurar y un endocarpo duro; la almendra es la semilla.",
+      "Comparar con otros Prunus usando flor, hojas y fruto. No identificar la especie por una flor rosada o una semilla sin contexto."
+    ],
+    "etymology": "Prunus conserva el nombre grecolatino de ciruelos y plantas afines. El origen preciso de amygdalus queda pendiente de contraste en esta ficha; Prunus dulcis es el sinónimo del catálogo, no otra especie.",
+    "sources": [
+      {
+        "url": "https://www.asturnatura.com/especie/prunus-dulcis",
+        "title": "Asturnatura — morfología y etimología de Prunus"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:729673-1",
+        "title": "POWO — tratamiento de Prunus dulcis"
+      }
+    ],
+    "reviewedAt": "2026-11-05",
+    "reviewStatus": "reviewed",
+    "scope": "Flores, hojas y fruto; no añadir variedades ni rasgos de dulzor a partir de una imagen."
   }
 }
