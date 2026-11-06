@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "catalogEntries": 2641,
+  "date": "2026-11-06",
+  "catalogEntries": 2645,
   "entriesWithApprovedImage": 2289,
   "entriesWithPair": 2143,
   "approvedImages": 4805,
@@ -3569,6 +3569,34 @@
     {
       "id": "helvella-crispa",
       "name": "Helvella crispa",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "solanum-lycopersicum",
+      "name": "Solanum lycopersicum",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "prunus-amygdalus",
+      "name": "Prunus amygdalus",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "actinidia-chinensis",
+      "name": "Actinidia chinensis",
+      "kind": "organismo",
+      "approvedImages": 0,
+      "priority": false
+    },
+    {
+      "id": "aria-edulis",
+      "name": "Aria edulis",
       "kind": "organismo",
       "approvedImages": 0,
       "priority": false
