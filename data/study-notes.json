@@ -11782,7 +11782,7 @@
       "En una proglótide grávida preparada, contar las ramas uterinas laterales primarias. Los CDC indican de 7 a 13 para T. solium y de 12 a 30 para T. saginata, por lo que hay solapamiento.",
       "Los huevos tienen una cubierta con estrías radiales. Su morfología es compartida por otros ténidos y por sí sola no permite determinar el género ni la especie."
     ],
-    "etymology": "Taenia remite al griego tainía, cinta, a través del latín taenia, y describe el aspecto acintado del adulto. Una revisión histórica propone una relación de solium con el francés solitaire. El origen exacto de ese epíteto sigue pendiente de verificación.",
+    "etymology": "Taenia remite al griego tainía, cinta, a través del latín taenia. Andry ya emparejaba Solium con el francés le solitaire en 1700, antes de que Linneo publicara Taenia solium en 1758. Ese uso documenta la equivalencia histórica, pero no la derivación de la palabra. Leuckart propuso en 1886 una vía desde una voz siríaca que significa cadena. El origen lingüístico último de solium sigue pendiente.",
     "sources": [
       {
         "url": "https://www.cdc.gov/dpdx/taeniasis/",
@@ -11799,10 +11799,73 @@
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9562425/",
         "title": "Revisión histórica de la nomenclatura — raíz de Taenia e hipótesis para solium"
+      },
+      {
+        "url": "https://fr.wikisource.org/wiki/Page:Andry_de_Boisregard_-_De_la_G%C3%A9n%C3%A9ration_des_vers,_1700.djvu/37",
+        "title": "Nicolas Andry, De la génération des vers, 1700 — uso de Solium y le solitaire"
+      },
+      {
+        "url": "https://wellcomecollection.org/works/amurrqfv/items?canvas=444&page=74&shouldScrollToCanvas=true",
+        "title": "Rudolf Leuckart, The Parasites of Man, 1886, p. 416 — hipótesis siríaca y alcance histórico de Solium"
       }
     ],
     "reviewedAt": "2026-11-07",
     "reviewStatus": "reviewed",
     "scope": "Material de estudio con estructuras diagnósticas visibles. Solitaria es un nombre compartido por otras tenias."
+  },
+  "amaltheus-margaritatus": {
+    "commonName": null,
+    "description": "Ammonite del Jurásico inferior, característico del Pliensbachiense superior. La concha enrollada presenta costillas en los flancos y una quilla ventral con relieve.",
+    "diagnostics": [
+      "Combinar una vista lateral de las vueltas y las costillas con una vista del borde ventral.",
+      "En ejemplares pequeños, buscar la quilla con aspecto de cordón. En las últimas vueltas de ejemplares grandes, ese relieve puede atenuarse.",
+      "Una quilla aislada permite orientar la identificación. Para determinar la especie, comparar la concha con el neotipo y la revisión del género."
+    ],
+    "etymology": "Margaritatus significa adornado con perlas, del latín margarita, perla. Montfort publicó el binomio en 1808. Queda pendiente verificar el origen de Amaltheus y el motivo exacto por el que el autor eligió el epíteto.",
+    "sources": [
+      {"url": "https://field.biodiversitylibrary.org/bibliography/10571", "title": "Montfort, Conchyliologie systématique, I, pp. 90–91 — publicación original"},
+      {"url": "https://opac.geologie.ac.at/ais312/dokumente/JB1342_171_A.pdf", "title": "Revisión paleontológica de Amaltheus — morfología y referencia a Montfort"},
+      {"url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/r04083", "title": "Muséum national d’Histoire naturelle — neotipo R04083"},
+      {"url": "https://bspg.snsb.de/juli-2011-grosser-ammonit-aus-dem-lias-frankens/", "title": "Colección Estatal Bávara de Paleontología y Geología — quilla, costillas y variación con el tamaño"},
+      {"url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf", "title": "Jobling, voz margaritatus — significado del adjetivo latino"}
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Conchas o moldes con vueltas y borde ventral conservados. Mantener la determinación al género cuando falten rasgos de especie."
+  },
+  "anomalocaris": {
+    "commonName": null,
+    "description": "Género de radiodontos marinos del Cámbrico. Los ejemplares articulados muestran apéndices frontales segmentados, ojos pedunculados y lóbulos laterales a lo largo del cuerpo.",
+    "diagnostics": [
+      "En un ejemplar articulado, localizar los dos apéndices frontales y observar su relación con la cabeza y los lóbulos del tronco.",
+      "En un apéndice aislado, comparar sus segmentos y espinas con material de colección identificado.",
+      "Una reconstrucción o un fragmento sin procedencia no basta para asignar una especie."
+    ],
+    "etymology": "Anomalocaris significa camarón distinto de los demás según el Royal Ontario Museum. Whiteaves dio el nombre en 1892 al interpretar un apéndice frontal aislado como parte del cuerpo de un camarón.",
+    "sources": [
+      {"url": "https://burgess-shale.rom.on.ca/history/discoveries/", "title": "Royal Ontario Museum — nombre del género y reproducción de la figura original de Whiteaves"},
+      {"url": "https://burgess-shale.rom.on.ca/fossils/anomalocaris-canadensis/", "title": "Royal Ontario Museum — anatomía y reinterpretación de los ejemplares"}
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género. Usar fósiles, reconstrucciones o réplicas con identificación documentada."
+  },
+  "australopithecus-africanus": {
+    "commonName": null,
+    "description": "Homínido fósil del sur de África. El cráneo juvenil de Taung sirvió a Raymond Dart para describir la especie en 1925.",
+    "diagnostics": [
+      "En el ejemplar de Taung, observar la cara juvenil y el molde natural de la cavidad craneal.",
+      "Cuando se vea la base del cráneo, localizar el foramen magno. Su posición adelantada es coherente con el bipedismo.",
+      "Usar la determinación de la colección y el contexto del hallazgo para distinguir la especie de otros australopitecos."
+    ],
+    "etymology": "Australopithecus combina el latín australis, meridional, y el griego píthēkos, simio. Africanus significa africano. Dart presentó la especie de Taung como un homínido del sur de África.",
+    "sources": [
+      {"url": "https://www.nature.com/articles/115195a0", "title": "Raymond Dart, 1925 — descripción original de Australopithecus africanus"},
+      {"url": "https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-africanus", "title": "Smithsonian Human Origins Program — anatomía y significado del binomio"},
+      {"url": "https://www.si.edu/object/australopithecus-africanus%3Adpo_3d_200043", "title": "Smithsonian — réplica de Taung y posición del foramen magno"}
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Restos y réplicas con identificación documentada. El niño de Taung es el ejemplar de referencia."
   }
 }

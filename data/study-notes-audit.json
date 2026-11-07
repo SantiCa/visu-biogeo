@@ -1,14 +1,14 @@
 {
   "date": "2026-11-07",
   "catalogEntries": 2645,
-  "descriptiveProfiles": 529,
-  "withoutDescriptiveProfile": 2116,
+  "descriptiveProfiles": 532,
+  "withoutDescriptiveProfile": 2113,
   "biologicalPriorityProfiles": 103,
   "biologicalPriorityEntries": 103,
   "profilesWithCommonName": 222,
   "profilesWithMnemonic": 0,
   "familyNameConstructionNotes": 95,
-  "profilesWithWhollyOrPartlyPendingEtymology": 287,
+  "profilesWithWhollyOrPartlyPendingEtymology": 288,
   "etymologyPendingIds": [
     "melanargia-russiae",
     "panopea-glycimeris",
@@ -296,7 +296,8 @@
     "estructura-cristales-de-oxalato",
     "estructura-embrion-semilla",
     "ceratostreon-flabellatum",
-    "taenia-solium"
+    "taenia-solium",
+    "amaltheus-margaritatus"
   ],
   "errors": [],
   "scope": "Una ficha descriptiva no implica etimología completa. El texto indica las partes pendientes y no convierte asociaciones de memoria en explicaciones lingüísticas. Las notas de familia explican su construcción nomenclatural; las raíces remotas solo se completan con referencia."
