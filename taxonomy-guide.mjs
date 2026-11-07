@@ -93,15 +93,8 @@ export function expandThrough(tree,target='phylum'){
  for(const n of tree.index.values())if(n.children.length&&(target==='all'||n.rank==='domain'||n.rank==='kingdom'||(limit>=0&&ranks.indexOf(n.rank)>=0&&ranks.indexOf(n.rank)<limit)))open.add(n.id);
  return open;
 }
-// Biological ranks occupy fixed columns even when a lineage omits intermediate ranks.
-const rankColumns=Object.fromEntries(ranks.map((rank,index)=>[rank,index+2]));
-function mapColumn(node){
- if(node.rank==='root')return 0;
- if(node.rank==='domain')return 1;
- if(node.rank==='entry')return ranks.length+3;
- if(node.rank==='pending')return node.name.startsWith('Reino ')?2:ranks.length+2;
- return rankColumns[node.rank]??node.depth;
-}
+// Place each documented level next to its parent, without reserving absent ranks.
+const mapColumnStep=252;
 function branchHue(node,parentHue){
  if(node.rank==='root')return 155;
  let hash=0;for(const c of node.name)hash=(hash*31+c.codePointAt(0))>>>0;
@@ -110,7 +103,7 @@ function branchHue(node,parentHue){
 }
 export function layoutStudyTree(tree,expanded){
  const nodes=[],edges=[];let nextY=40;
- function visit(n,parentHue=155){const children=expanded.has(n.id)?n.children:[],hue=branchHue(n,parentHue);const p={...n,x:mapColumn(n)*272+24,y:0,hue,visibleChildren:children.length};nodes.push(p);
+ function visit(n,parentHue=155){const children=expanded.has(n.id)?n.children:[],hue=branchHue(n,parentHue);const p={...n,x:n.depth*mapColumnStep+24,y:0,hue,visibleChildren:children.length};nodes.push(p);
   if(children.length){const ps=children.map(c=>{const q=visit(c,hue);edges.push({from:p,to:q});return q;});p.y=(ps[0].y+ps.at(-1).y)/2;}else {p.y=nextY;nextY+=72;}
   return p;
  }visit(tree.root);return {nodes,edges,width:Math.max(300,...nodes.map(n=>n.x+250)),height:Math.max(160,nextY)};
