@@ -11821,9 +11821,10 @@
       "En ejemplares pequeños, buscar la quilla con aspecto de cordón. En las últimas vueltas de ejemplares grandes, ese relieve puede atenuarse.",
       "Una quilla aislada permite orientar la identificación. Para determinar la especie, comparar la concha con el neotipo y la revisión del género."
     ],
-    "etymology": "Margaritatus significa adornado con perlas, del latín margarita, perla. Montfort publicó el binomio en 1808. Queda pendiente verificar el origen de Amaltheus y el motivo exacto por el que el autor eligió el epíteto.",
+    "etymology": "Montfort presenta Amaltheus como forma latina de amalté (1808, p. 90). El nomenclátor de Agassiz lo relaciona con Amaltea, figura de la mitología griega. En la p. 91 Montfort llama amalté perlé a la especie y señala que el ejemplar figurado conservaba el nácar. Margaritatus significa adornado con perlas. El nácar aporta una pista para interpretar el epíteto. La motivación expresa de Montfort para ambos nombres sigue pendiente.",
     "sources": [
-      {"url": "https://field.biodiversitylibrary.org/bibliography/10571", "title": "Montfort, Conchyliologie systématique, I, pp. 90–91 — publicación original"},
+      {"url": "https://archive.org/details/conchyliologiesy11deny/page/90/mode/2up", "title": "Montfort, Conchyliologie systématique, I, pp. 90–91 — formas amalté y Amaltheus, amalté perlé y nácar del ejemplar"},
+      {"url": "https://www.summagallicana.it/Agassiz_nomenclator_zoologicus/Mollusca.htm", "title": "Agassiz, Nomenclator Zoologicus, Mollusca — atribución del género al nombre mitológico Amaltea"},
       {"url": "https://opac.geologie.ac.at/ais312/dokumente/JB1342_171_A.pdf", "title": "Revisión paleontológica de Amaltheus — morfología y referencia a Montfort"},
       {"url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/r04083", "title": "Muséum national d’Histoire naturelle — neotipo R04083"},
       {"url": "https://bspg.snsb.de/juli-2011-grosser-ammonit-aus-dem-lias-frankens/", "title": "Colección Estatal Bávara de Paleontología y Geología — quilla, costillas y variación con el tamaño"},
@@ -11867,5 +11868,41 @@
     "reviewedAt": "2026-11-07",
     "reviewStatus": "reviewed",
     "scope": "Restos y réplicas con identificación documentada. El niño de Taung es el ejemplar de referencia."
+  },
+  "alveolina": {
+    "commonName": null,
+    "description": "Género de foraminíferos fósiles con test calcáreo y numerosas cámaras. El contorno puede ser ovoide o fusiforme.",
+    "diagnostics": [
+      "En una sección axial, buscar el enrollamiento alrededor del eje largo del test.",
+      "Observar cómo se subdividen las cámaras en compartimentos más pequeños.",
+      "Comparar secciones de orientación conocida. La forma externa por sí sola no permite distinguir todos los géneros afines."
+    ],
+    "etymology": "Alveolina admite una lectura a partir del latín alveolus, cavidad pequeña. La raíz concuerda con los compartimentos del test. Sigue pendiente verificar si d’Orbigny explicó el motivo de la elección del nombre.",
+    "sources": [
+      {"url": "https://www.gbif.org/taxon/7Y397", "title": "Catalogue of Life en GBIF — género y referencia a d’Orbigny, 1826"},
+      {"url": "https://link.springer.com/article/10.1186/s42501-020-0054-2", "title": "Estudio de foraminíferos de Safranbolu — secciones y caracteres de Alveolina"},
+      {"url": "https://mobot.org/mobot/latindict/keyDetail.aspx?keyWord=alveolus", "title": "Missouri Botanical Garden, voz alveolus — cavidad pequeña"}
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género. Para determinar una especie se necesitan secciones diagnósticas."
+  },
+  "asterophyllites": {
+    "commonName": null,
+    "description": "Género fósil de brotes con hojas de plantas emparentadas con los equisetos. Las hojas estrechas se agrupan en verticilos a lo largo de ejes articulados.",
+    "diagnostics": [
+      "Localizar varios nudos consecutivos y comprobar que las hojas salen en verticilos.",
+      "Observar la estrechez y orientación de las hojas. La compresión puede ocultar parte del verticilo.",
+      "Mantener la determinación como follaje fósil. La asociación con tallos u órganos reproductores requiere evidencia de conexión."
+    ],
+    "etymology": "Mantell explica Asterophyllites por la disposición estrellada de las hojas. El nombre combina los elementos griegos de estrella y hoja, con la terminación usada en nombres de fósiles.",
+    "sources": [
+      {"url": "https://journals.sagepub.com/doi/abs/10.1177/05529360251400413", "title": "Revisión de equisetales carboníferos — género fósil conservado y morfología de los verticilos"},
+      {"url": "https://archive.bgbm.org/iapt/nomenclature/code/saintLouis/0108AppendixIIIANGEfp004.htm", "title": "Código de nomenclatura — referencia a Brongniart, Prodrome, 1828"},
+      {"url": "https://www.gutenberg.org/cache/epub/62891/pg62891-images.html", "title": "Mantell, The Medals of Creation, cap. VI — interpretación del nombre y terminación fósil"}
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de follaje del género fósil. Usar fragmentos con varios nudos visibles."
   }
 }
