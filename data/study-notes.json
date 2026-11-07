@@ -11304,7 +11304,7 @@
       "Valorar la ornamentación de pliegues y su relación con el umbo; una concha incompleta puede ocultar los caracteres necesarios.",
       "El nombre histórico Exogyra flabellata corresponde a esta entrada. Un fósil identificado solo como Exogyra no se convierte automáticamente en esta especie."
     ],
-    "etymology": "Ceratostreon admite una lectura a partir del griego kéras (genitivo kératos), cuerno, y óstreon, ostra. Dhondt localiza la especie en la lámina 133 de Bayle (1878). Según Douvillé, el atlas se publicó con explicaciones de las láminas y sin un texto expositivo. Flabellatum es el neutro del latín flabellatus, en forma de abanico, derivado de flabellum, abanico. Los pliegues ramificados y divergentes que describe Goldfuss en Exogyra flabellata (Petrefacta Germaniae II, p. 38, lám. 87, fig. 6) son compatibles con esa lectura del epíteto. Sigue pendiente verificar qué rasgo motivó a cada autor.",
+    "etymology": "Ceratostreon admite una lectura a partir del griego kéras (genitivo kératos), cuerno, y óstreon, ostra. En la explicación de la lámina CXXXIII (1878), Bayle usa Ceratostreon flabellatum y destaca las costillas radiantes de la valva derecha (fig. 1). Las leyendas de las láminas CXXXIII y CXXXIV describen las conchas, pero no explican la elección del género. Flabellatum es el neutro del latín flabellatus, en forma de abanico, derivado de flabellum, abanico. Los pliegues ramificados y divergentes que describe Goldfuss en Exogyra flabellata (Petrefacta Germaniae II, p. 38, lám. 87, fig. 6) son compatibles con esa lectura. Sigue pendiente verificar la motivación de cada autor.",
     "sources": [
       {
         "url": "https://sge.usal.es/archivos/REV/26%282%29/art07.pdf",
@@ -11345,6 +11345,18 @@
       {
         "url": "https://www.annales.org/archives/x/bayle.html",
         "title": "Henri Douvillé, Notice nécrologique sur Émile Bayle, Annales des Mines (1896) — publicación del atlas con explicaciones de las láminas"
+      },
+      {
+        "url": "https://www.e-rara.ch/i3f/v20/8312210/full/1850,/0/default.jpg",
+        "title": "Bayle, 1878, explicación de la lámina CXXXIII — ETH-Bibliothek Zürich, Rar 10361"
+      },
+      {
+        "url": "https://www.e-rara.ch/i3f/v20/8312211/full/1850,/0/default.jpg",
+        "title": "Bayle, 1878, lámina CXXXIII, figs. 1–4 — ETH-Bibliothek Zürich, Rar 10361"
+      },
+      {
+        "url": "https://www.e-rara.ch/i3f/v20/8312214/full/1700,/0/default.jpg",
+        "title": "Bayle, 1878, explicación de la lámina CXXXIV — ETH-Bibliothek Zürich, Rar 10361"
       }
     ],
     "reviewedAt": "2026-11-07",
