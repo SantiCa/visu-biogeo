@@ -11304,7 +11304,7 @@
       "Valorar la ornamentación de pliegues y su relación con el umbo; una concha incompleta puede ocultar los caracteres necesarios.",
       "El nombre histórico Exogyra flabellata corresponde a esta entrada. Un fósil identificado solo como Exogyra no se convierte automáticamente en esta especie."
     ],
-    "etymology": "Flabellatum es el neutro del latín botánico flabellatus, en forma de abanico, derivado de flabellum, abanico, según el diccionario de Missouri Botanical Garden. Goldfuss, en Petrefacta Germaniae II, p. 38, describe Exogyra flabellata con pliegues ramificados y divergentes, pero no explica expresamente la elección del nombre. Quedan pendientes la construcción documentada de Ceratostreon y la motivación precisa del epíteto: la compatibilidad de la descripción con un abanico no demuestra por sí sola la intención del autor.",
+    "etymology": "Ceratostreon admite una lectura a partir del griego kéras (genitivo kératos), cuerno, y óstreon, ostra. En la explicación de la lámina CXXXIII (1878), Bayle usa Ceratostreon flabellatum y destaca las costillas radiantes de la valva derecha (fig. 1). Las leyendas de las láminas CXXXIII y CXXXIV describen las conchas, pero no explican la elección del género. Flabellatum es el neutro del latín flabellatus, en forma de abanico, derivado de flabellum, abanico. Los pliegues ramificados y divergentes que describe Goldfuss en Exogyra flabellata (Petrefacta Germaniae II, p. 38, lám. 87, fig. 6) son compatibles con esa lectura. Sigue pendiente verificar la motivación de cada autor.",
     "sources": [
       {
         "url": "https://sge.usal.es/archivos/REV/26%282%29/art07.pdf",
@@ -11325,9 +11325,41 @@
       {
         "url": "https://digi.bib.uni-mannheim.de/werksansicht/54716/42/einzelseiten/nogridview",
         "title": "Goldfuss, Petrefacta Germaniae II, p. 38, n.º 15 — descripción original de Exogyra flabellata; sin explicación expresa de la elección del epíteto"
+      },
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n56730/",
+        "title": "Liddell–Scott–Jones, Scaife ATLAS — κέρας, genitivo κέρατος, cuerno"
+      },
+      {
+        "url": "https://vocab.perseus.org/lemma/59839/?filter=urn%3Acts%3AgreekLit%3Atlg0057.tlg076.1st1K-grc1",
+        "title": "Perseus, Greek Vocabulary Tool — ὄστρεον, ostra"
+      },
+      {
+        "url": "https://pubs.usgs.gov/bul/0151/report.pdf",
+        "title": "Hill y Vaughan, USGS Bulletin 151, p. 25 — uso de Ceratostreon en las figuras del atlas de Bayle"
+      },
+      {
+        "url": "https://revistas.ucm.es/index.php/CGIB/article/download/CGIB8282110847A/2786",
+        "title": "Dhondt, Some Spanish Cretaceous bivalves, p. 856 — referencia a la lámina 133 de Bayle"
+      },
+      {
+        "url": "https://www.annales.org/archives/x/bayle.html",
+        "title": "Henri Douvillé, Notice nécrologique sur Émile Bayle, Annales des Mines (1896) — publicación del atlas con explicaciones de las láminas"
+      },
+      {
+        "url": "https://www.e-rara.ch/i3f/v20/8312210/full/1850,/0/default.jpg",
+        "title": "Bayle, 1878, explicación de la lámina CXXXIII — ETH-Bibliothek Zürich, Rar 10361"
+      },
+      {
+        "url": "https://www.e-rara.ch/i3f/v20/8312211/full/1850,/0/default.jpg",
+        "title": "Bayle, 1878, lámina CXXXIII, figs. 1–4 — ETH-Bibliothek Zürich, Rar 10361"
+      },
+      {
+        "url": "https://www.e-rara.ch/i3f/v20/8312214/full/1700,/0/default.jpg",
+        "title": "Bayle, 1878, explicación de la lámina CXXXIV — ETH-Bibliothek Zürich, Rar 10361"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-07",
     "reviewStatus": "reviewed",
     "scope": "Conchas suficientemente completas; mantener separada la entrada genérica Exogyra."
   },
@@ -11337,7 +11369,7 @@
     "diagnostics": [
       "En ejemplares articulados, distinguir columna, cáliz y corona; las pínnulas se disponen en los brazos.",
       "La corona y la arquitectura de los brazos son más informativas que un único artejo del tallo.",
-      "Un disco o fragmento de columna de crinoideo no basta para afirmar E. liliiformis; conservar la determinación genérica cuando no haya caracteres específicos."
+      "Si solo se conserva un artejo aislado, identificarlo como fragmento de crinoideo. La figura 12 de Hagdorn y colaboradores muestra la corona y parte del tallo del lectotipo FG 180/1, útiles para comparar ejemplares articulados."
     ],
     "etymology": "Encrinus se construye con el griego en, en, y krinon, lirio, según la etimología de encrine recogida por Larousse. Liliiformis significa con forma de lirio, del latín lilium, lirio, y forma; Jourdan documenta el compuesto con Encrinus liliiformis como ejemplo. La comparación expresa el aspecto del animal, no su pertenencia al reino vegetal.",
     "sources": [
@@ -11356,9 +11388,13 @@
       {
         "url": "https://darwin-online.org.uk/converted/pdf/1834_Jourdan_etymologique_CUL-DAR.LIB.704%5B.2%5D.pdf",
         "title": "Jourdan, 1834, Dictionnaire des termes des sciences naturelles, voz Liliforme — lilium + forma, con ejemplo de E. liliiformis"
+      },
+      {
+        "url": "https://doi.org/10.1127/zdgg/2023/0385",
+        "title": "Hagdorn et al., 2023, fig. 12 — lectotipo de Encrinus liliiformis, TU Bergakademie Freiberg, FG 180/1"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-07",
     "reviewStatus": "reviewed",
     "scope": "Ejemplares articulados o material diagnosticado por una fuente paleontológica."
   },
@@ -11671,5 +11707,102 @@
     "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Planta con hojas visibles por ambas caras; no trasladar imágenes de Sorbus aucuparia."
+  },
+  "calceola-sandalina": {
+    "commonName": null,
+    "description": "Coral rugoso solitario del Devónico. Su esqueleto calcáreo tiene forma de zapatilla y el cáliz podía cerrarse con un opérculo.",
+    "diagnostics": [
+      "Buscar un esqueleto que se estrecha hacia la base y presenta una cara aplanada y otra convexa.",
+      "Si se conserva el opérculo, comparar su contorno con el de la abertura del cáliz.",
+      "Examinar el perfil y la abertura juntos. La silueta aislada puede confundirse con la de una concha."
+    ],
+    "etymology": "Stebbing interpreta Calceola y sandalina como alusiones a un zapato pequeño o una zapatilla. El sentido coincide con el perfil del esqueleto, que el museo del ISPRA compara con la punta de una sandalia.",
+    "sources": [
+      {
+        "url": "https://www.isprambiente.gov.it/it/attivita/museo/collezioni-paleontologiche/paleo-reperti/calceola-sandalina-corallo",
+        "title": "Museo ISPRA — ejemplar, forma y clasificación como coral rugoso"
+      },
+      {
+        "url": "https://doi.org/10.1017/S0016756800470184",
+        "title": "Stebbing, 1873, Notes on Calceola sandalina — significado de ambos nombres"
+      },
+      {
+        "url": "https://mczbase.mcz.harvard.edu/guid/MCZ%3AIP%3A105699",
+        "title": "Harvard Museum of Comparative Zoology — ejemplar MCZ:IP:105699"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/A_guide_to_the_fossil_invertebrates_and_plants_in_the_Department_of_Geology_and_Pal%C3%A6ontology_in_the_British_Museum_%28Natural_history%29_%28IA_guidetofossilinv00brituoft%29.pdf",
+        "title": "British Museum (Natural History), guía de invertebrados fósiles, fig. 163 — cáliz y opérculo"
+      }
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Coral fósil con perfil y cáliz reconocibles. El opérculo solo se valora cuando se conserva."
+  },
+  "australopithecus-afarensis": {
+    "commonName": null,
+    "description": "Homínido fósil del Plioceno de África oriental. Combinaba una marcha bípeda con brazos largos y dedos curvos relacionados con la trepa.",
+    "diagnostics": [
+      "En cráneos documentados, observar la mandíbula proyectada y la caja craneal pequeña.",
+      "En esqueletos documentados, comparar la pelvis y la pierna para estudiar el bipedismo junto con la longitud de los brazos.",
+      "Lucy identifica al individuo AL 288-1 de Hadar. Para atribuir un fragmento a la especie, usar la determinación de la colección y el contexto del hallazgo."
+    ],
+    "etymology": "Australopithecus combina el latín australis, meridional, y el griego píthēkos, simio. Afarensis remite a Afar, en Etiopía. Johanson explicó que el nombre también homenajeaba al pueblo afar.",
+    "sources": [
+      {
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis",
+        "title": "Smithsonian Human Origins Program — anatomía y yacimientos"
+      },
+      {
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1",
+        "title": "Smithsonian — ejemplar AL 288-1, Lucy"
+      },
+      {
+        "url": "https://field.biodiversitylibrary.org/part/202160",
+        "title": "Johanson, White y Coppens, 1978 — publicación original en Kirtlandia"
+      },
+      {
+        "url": "https://www.nhm.ac.uk/discover/australopithecus-afarensis-lucy-species.html",
+        "title": "Natural History Museum — significado del binomio"
+      },
+      {
+        "url": "https://www.scientificamerican.com/blog/observations/40-years-after-lucy-the-fossil-that-revolutionized-the-search-for-human-origins/",
+        "title": "Entrevista a Donald Johanson — homenaje al pueblo afar"
+      }
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Restos y réplicas con identificación documentada. Lucy es un individuo de la especie."
+  },
+  "taenia-solium": {
+    "commonName": "Solitaria",
+    "description": "Cestodo de cuerpo plano y acintado. En el adulto, el escólex se fija al intestino y la cadena de proglótides forma el resto del cuerpo. También se conoce como tenia del cerdo.",
+    "diagnostics": [
+      "En un escólex bien conservado, buscar cuatro ventosas y un rostelo con dos coronas de ganchos.",
+      "En una proglótide grávida preparada, contar las ramas uterinas laterales primarias. Los CDC indican de 7 a 13 para T. solium y de 12 a 30 para T. saginata, por lo que hay solapamiento.",
+      "Los huevos tienen una cubierta con estrías radiales. Su morfología es compartida por otros ténidos y por sí sola no permite determinar el género ni la especie."
+    ],
+    "etymology": "Taenia remite al griego tainía, cinta, a través del latín taenia, y describe el aspecto acintado del adulto. Una revisión histórica propone una relación de solium con el francés solitaire. El origen exacto de ese epíteto sigue pendiente de verificación.",
+    "sources": [
+      {
+        "url": "https://www.cdc.gov/dpdx/taeniasis/",
+        "title": "CDC DPDx — escólex, proglótides y límites de la identificación por huevos"
+      },
+      {
+        "url": "https://www.insst.es/agentes-biologicos-basebio/parasitos/taenia-solium-adulto-cysticercus-cellulosae-larva",
+        "title": "INSST — nombres españoles y morfología"
+      },
+      {
+        "url": "https://www.tapewormdb.uconn.edu/index.php/citations/details/5705",
+        "title": "Global Cestode Database — referencia a Linneo, Systema Naturae, 1758"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9562425/",
+        "title": "Revisión histórica de la nomenclatura — raíz de Taenia e hipótesis para solium"
+      }
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Material de estudio con estructuras diagnósticas visibles. Solitaria es un nombre compartido por otras tenias."
   }
 }

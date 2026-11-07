@@ -142686,7 +142686,8 @@
     "reviewNote": "El PDF escribe «Exogyra flavellata»; se conserva como procedencia, no como alias aceptado. PBDB recombina Exogyra flabellata como Ceratostreon flabellatum; se conserva el nombre histórico como alias de una única especie. La recombinación está corroborada por WoRMS. La entrada genérica Exogyra permanece independiente.",
     "sources": [
       "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=354068",
-      "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Exogyra"
+      "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Exogyra",
+      "https://sge.usal.es/archivos/REV/26%282%29/art07.pdf"
     ],
     "commonNameReviewNote": "No se ha verificado un nombre común español en las fuentes consultadas. El nombre científico y los caracteres diagnósticos permiten estudiar esta especie; no se traduce un nombre inglés ni se asigna al taxón un nombre genérico por analogía."
   },
