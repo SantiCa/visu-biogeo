@@ -11304,7 +11304,7 @@
       "Valorar la ornamentación de pliegues y su relación con el umbo; una concha incompleta puede ocultar los caracteres necesarios.",
       "El nombre histórico Exogyra flabellata corresponde a esta entrada. Un fósil identificado solo como Exogyra no se convierte automáticamente en esta especie."
     ],
-    "etymology": "Ceratostreon admite una lectura a partir del griego kéras (genitivo kératos), cuerno, y óstreon, ostra. Esta lectura se basa en las formas documentadas en los léxicos. Hill y Vaughan registran que Bayle usó el nombre para ejemplares figurados en su atlas. Flabellatum es el neutro del latín flabellatus, en forma de abanico, derivado de flabellum, abanico. Goldfuss describe pliegues ramificados y divergentes en Exogyra flabellata (Petrefacta Germaniae II, p. 38). Sigue pendiente verificar qué rasgo motivó la elección del género y del epíteto en sus publicaciones originales.",
+    "etymology": "Ceratostreon admite una lectura a partir del griego kéras (genitivo kératos), cuerno, y óstreon, ostra. Esta lectura se basa en las formas documentadas en los léxicos. Hill y Vaughan registran que Bayle usó el género para ejemplares figurados en su atlas. Dhondt localiza esta especie en la lámina 133 de Bayle (1878). Flabellatum es el neutro del latín flabellatus, en forma de abanico, derivado de flabellum, abanico. Goldfuss describe pliegues ramificados y divergentes en Exogyra flabellata (Petrefacta Germaniae II, p. 38, lám. 87, fig. 6). Sigue pendiente verificar qué rasgo motivó la elección de cada nombre.",
     "sources": [
       {
         "url": "https://sge.usal.es/archivos/REV/26%282%29/art07.pdf",
@@ -11337,6 +11337,10 @@
       {
         "url": "https://pubs.usgs.gov/bul/0151/report.pdf",
         "title": "Hill y Vaughan, USGS Bulletin 151, p. 25 — uso de Ceratostreon en las figuras del atlas de Bayle"
+      },
+      {
+        "url": "https://revistas.ucm.es/index.php/CGIB/article/download/CGIB8282110847A/2786",
+        "title": "Dhondt, Some Spanish Cretaceous bivalves, p. 856 — referencia a la lámina 133 de Bayle"
       }
     ],
     "reviewedAt": "2026-11-07",
@@ -11349,7 +11353,7 @@
     "diagnostics": [
       "En ejemplares articulados, distinguir columna, cáliz y corona; las pínnulas se disponen en los brazos.",
       "La corona y la arquitectura de los brazos son más informativas que un único artejo del tallo.",
-      "Un disco o fragmento de columna de crinoideo no basta para afirmar E. liliiformis; conservar la determinación genérica cuando no haya caracteres específicos."
+      "Si solo se conserva un artejo aislado, identificarlo como fragmento de crinoideo. La figura 12 de Hagdorn y colaboradores muestra la corona y parte del tallo del lectotipo FG 180/1, útiles para comparar ejemplares articulados."
     ],
     "etymology": "Encrinus se construye con el griego en, en, y krinon, lirio, según la etimología de encrine recogida por Larousse. Liliiformis significa con forma de lirio, del latín lilium, lirio, y forma; Jourdan documenta el compuesto con Encrinus liliiformis como ejemplo. La comparación expresa el aspecto del animal, no su pertenencia al reino vegetal.",
     "sources": [
@@ -11368,9 +11372,13 @@
       {
         "url": "https://darwin-online.org.uk/converted/pdf/1834_Jourdan_etymologique_CUL-DAR.LIB.704%5B.2%5D.pdf",
         "title": "Jourdan, 1834, Dictionnaire des termes des sciences naturelles, voz Liliforme — lilium + forma, con ejemplo de E. liliiformis"
+      },
+      {
+        "url": "https://doi.org/10.1127/zdgg/2023/0385",
+        "title": "Hagdorn et al., 2023, fig. 12 — lectotipo de Encrinus liliiformis, TU Bergakademie Freiberg, FG 180/1"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-07",
     "reviewStatus": "reviewed",
     "scope": "Ejemplares articulados o material diagnosticado por una fuente paleontológica."
   },
