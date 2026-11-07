@@ -11304,7 +11304,7 @@
       "Valorar la ornamentación de pliegues y su relación con el umbo; una concha incompleta puede ocultar los caracteres necesarios.",
       "El nombre histórico Exogyra flabellata corresponde a esta entrada. Un fósil identificado solo como Exogyra no se convierte automáticamente en esta especie."
     ],
-    "etymology": "Ceratostreon admite una lectura a partir del griego kéras (genitivo kératos), cuerno, y óstreon, ostra. Esta lectura se basa en las formas documentadas en los léxicos. Hill y Vaughan registran que Bayle usó el género para ejemplares figurados en su atlas. Dhondt localiza esta especie en la lámina 133 de Bayle (1878). Flabellatum es el neutro del latín flabellatus, en forma de abanico, derivado de flabellum, abanico. Goldfuss describe pliegues ramificados y divergentes en Exogyra flabellata (Petrefacta Germaniae II, p. 38, lám. 87, fig. 6). Sigue pendiente verificar qué rasgo motivó la elección de cada nombre.",
+    "etymology": "Ceratostreon admite una lectura a partir del griego kéras (genitivo kératos), cuerno, y óstreon, ostra. Dhondt localiza la especie en la lámina 133 de Bayle (1878). Según Douvillé, el atlas se publicó con explicaciones de las láminas y sin un texto expositivo. Flabellatum es el neutro del latín flabellatus, en forma de abanico, derivado de flabellum, abanico. Los pliegues ramificados y divergentes que describe Goldfuss en Exogyra flabellata (Petrefacta Germaniae II, p. 38, lám. 87, fig. 6) son compatibles con esa lectura del epíteto. Sigue pendiente verificar qué rasgo motivó a cada autor.",
     "sources": [
       {
         "url": "https://sge.usal.es/archivos/REV/26%282%29/art07.pdf",
@@ -11341,6 +11341,10 @@
       {
         "url": "https://revistas.ucm.es/index.php/CGIB/article/download/CGIB8282110847A/2786",
         "title": "Dhondt, Some Spanish Cretaceous bivalves, p. 856 — referencia a la lámina 133 de Bayle"
+      },
+      {
+        "url": "https://www.annales.org/archives/x/bayle.html",
+        "title": "Henri Douvillé, Notice nécrologique sur Émile Bayle, Annales des Mines (1896) — publicación del atlas con explicaciones de las láminas"
       }
     ],
     "reviewedAt": "2026-11-07",
