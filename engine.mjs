@@ -46,11 +46,14 @@ export function review(previous, {correct, familyCorrect=null, fieldResults={}, 
   const r={...blankRecord(),...previous};
   const oldS=previous?.stability || (previous?.total ? Math.max(1,(previous.interval||1)/-Math.log(.90)) : 1);
   const retention=priority>0 ? .96 : .90;
-  r.total++; r.correct+=Number(correct); r.lastReviewed=now;
+  r.total++;
+  if(correct===null)r.nameOmissions=(r.nameOmissions||0)+1;
+  else r.correct+=Number(correct);
+  r.lastReviewed=now;
   if(typeof familyCorrect==='boolean'){r.familyTotal=(r.familyTotal||0)+1;r.familyCorrect=(r.familyCorrect||0)+Number(familyCorrect);}
   r.fields=Object.fromEntries(Object.entries(r.fields||{}).map(([k,v])=>[k,{...v}]));
   for(const [key,value] of Object.entries(fieldResults))if(typeof value==='boolean'){const f=r.fields[key]||{total:0,correct:0};r.fields[key]={total:f.total+1,correct:f.correct+Number(value)};}
-  if (!correct || familyCorrect===false || Object.values(fieldResults).some(v=>v===false)) {
+  if (correct===false || familyCorrect===false || Object.values(fieldResults).some(v=>v===false)) {
     r.lapses++; r.repetitions=0; r.stability=Math.max(.3,oldS*.45);
     r.interval=10/1440; // Relearn after 10 minutes, not tomorrow.
   } else {

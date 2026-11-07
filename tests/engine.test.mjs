@@ -4,6 +4,20 @@ import {DAY,review,chooseNext,priorityInfo,answerMatches,familyMatches,selectIma
 const a={id:'a',scientificName:'Empusa pennata',aliases:[]},b={id:'b',scientificName:'Ocre amarillo',aliases:['Ocre natural amarillo']};
 test('thin sections accept the mineral name while rejecting another mineral or an explicit wrong mode',()=>{const item={kind:'lamina',scientificName:'Cuarzo. Luz plana-polarizada'};assert.ok(answerMatches('cuarzo',item));assert.ok(!answerMatches('calcita',item));assert.ok(!answerMatches('cuarzo. Nícoles cruzados',item));});
 test('wrong answer remains a lapse even if easy is sent',()=>{const r=review(null,{correct:false,difficulty:'easy',now:1000});assert.equal(r.correct,0);assert.equal(r.dueAt,601000);});
+test('a classification-only review preserves legacy name accuracy and schedules only actual errors as lapses',()=>{
+ const previous={total:5,correct:4,lapses:1};
+ const partial=review(previous,{correct:null,fieldResults:{name:null,phylum:true},now:1000});
+ assert.equal(partial.total,6);
+ assert.equal(partial.correct,4);
+ assert.equal(partial.total-partial.nameOmissions,5);
+ assert.equal(partial.fields.name,undefined);
+ assert.deepEqual(partial.fields.phylum,{total:1,correct:1});
+ assert.equal(partial.lapses,1);
+ assert.ok(partial.dueAt>601000);
+ const wrong=review(partial,{correct:null,fieldResults:{phylum:false},now:2000});
+ assert.equal(wrong.dueAt,602000);
+ assert.equal(wrong.nameOmissions,2);
+});
 test('priority has shorter interval at equal performance',()=>{const x=review(null,{correct:true,now:1,priority:0}),y=review(null,{correct:true,now:1,priority:3});assert.ok(y.interval<x.interval);assert.ok(y.interval>0);});
 test('future reviews do not appear prematurely',()=>assert.equal(chooseNext([a],{a:{total:1,dueAt:2000}},()=>({weight:1}),{now:1000}),null));
 test('new subject slot survives overdue queue',()=>assert.equal(chooseNext([a,b],{a:{total:1,dueAt:1,lastReviewed:1,stability:1}},()=>({weight:1}),{now:DAY,reviewCount:5}).id,'b'));
