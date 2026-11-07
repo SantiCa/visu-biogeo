@@ -11707,5 +11707,102 @@
     "reviewedAt": "2026-11-06",
     "reviewStatus": "reviewed",
     "scope": "Planta con hojas visibles por ambas caras; no trasladar imágenes de Sorbus aucuparia."
+  },
+  "calceola-sandalina": {
+    "commonName": null,
+    "description": "Coral rugoso solitario del Devónico. Su esqueleto calcáreo tiene forma de zapatilla y el cáliz podía cerrarse con un opérculo.",
+    "diagnostics": [
+      "Buscar un esqueleto que se estrecha hacia la base y presenta una cara aplanada y otra convexa.",
+      "Si se conserva el opérculo, comparar su contorno con el de la abertura del cáliz.",
+      "Examinar el perfil y la abertura juntos. La silueta aislada puede confundirse con la de una concha."
+    ],
+    "etymology": "Stebbing interpreta Calceola y sandalina como alusiones a un zapato pequeño o una zapatilla. El sentido coincide con el perfil del esqueleto, que el museo del ISPRA compara con la punta de una sandalia.",
+    "sources": [
+      {
+        "url": "https://www.isprambiente.gov.it/it/attivita/museo/collezioni-paleontologiche/paleo-reperti/calceola-sandalina-corallo",
+        "title": "Museo ISPRA — ejemplar, forma y clasificación como coral rugoso"
+      },
+      {
+        "url": "https://doi.org/10.1017/S0016756800470184",
+        "title": "Stebbing, 1873, Notes on Calceola sandalina — significado de ambos nombres"
+      },
+      {
+        "url": "https://mczbase.mcz.harvard.edu/guid/MCZ%3AIP%3A105699",
+        "title": "Harvard Museum of Comparative Zoology — ejemplar MCZ:IP:105699"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/A_guide_to_the_fossil_invertebrates_and_plants_in_the_Department_of_Geology_and_Pal%C3%A6ontology_in_the_British_Museum_%28Natural_history%29_%28IA_guidetofossilinv00brituoft%29.pdf",
+        "title": "British Museum (Natural History), guía de invertebrados fósiles, fig. 163 — cáliz y opérculo"
+      }
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Coral fósil con perfil y cáliz reconocibles. El opérculo solo se valora cuando se conserva."
+  },
+  "australopithecus-afarensis": {
+    "commonName": null,
+    "description": "Homínido fósil del Plioceno de África oriental. Combinaba una marcha bípeda con brazos largos y dedos curvos relacionados con la trepa.",
+    "diagnostics": [
+      "En cráneos documentados, observar la mandíbula proyectada y la caja craneal pequeña.",
+      "En esqueletos documentados, comparar la pelvis y la pierna para estudiar el bipedismo junto con la longitud de los brazos.",
+      "Lucy identifica al individuo AL 288-1 de Hadar. Para atribuir un fragmento a la especie, usar la determinación de la colección y el contexto del hallazgo."
+    ],
+    "etymology": "Australopithecus combina el latín australis, meridional, y el griego píthēkos, simio. Afarensis remite a Afar, en Etiopía. Johanson explicó que el nombre también homenajeaba al pueblo afar.",
+    "sources": [
+      {
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis",
+        "title": "Smithsonian Human Origins Program — anatomía y yacimientos"
+      },
+      {
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1",
+        "title": "Smithsonian — ejemplar AL 288-1, Lucy"
+      },
+      {
+        "url": "https://field.biodiversitylibrary.org/part/202160",
+        "title": "Johanson, White y Coppens, 1978 — publicación original en Kirtlandia"
+      },
+      {
+        "url": "https://www.nhm.ac.uk/discover/australopithecus-afarensis-lucy-species.html",
+        "title": "Natural History Museum — significado del binomio"
+      },
+      {
+        "url": "https://www.scientificamerican.com/blog/observations/40-years-after-lucy-the-fossil-that-revolutionized-the-search-for-human-origins/",
+        "title": "Entrevista a Donald Johanson — homenaje al pueblo afar"
+      }
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Restos y réplicas con identificación documentada. Lucy es un individuo de la especie."
+  },
+  "taenia-solium": {
+    "commonName": "Solitaria",
+    "description": "Cestodo de cuerpo plano y acintado. En el adulto, el escólex se fija al intestino y la cadena de proglótides forma el resto del cuerpo. También se conoce como tenia del cerdo.",
+    "diagnostics": [
+      "En un escólex bien conservado, buscar cuatro ventosas y un rostelo con dos coronas de ganchos.",
+      "En una proglótide grávida preparada, contar las ramas uterinas laterales primarias. Los CDC indican de 7 a 13 para T. solium y de 12 a 30 para T. saginata, por lo que hay solapamiento.",
+      "Los huevos tienen una cubierta con estrías radiales. Su morfología es compartida por otros ténidos y por sí sola no permite determinar el género ni la especie."
+    ],
+    "etymology": "Taenia remite al griego tainía, cinta, a través del latín taenia, y describe el aspecto acintado del adulto. Una revisión histórica propone una relación de solium con el francés solitaire. El origen exacto de ese epíteto sigue pendiente de verificación.",
+    "sources": [
+      {
+        "url": "https://www.cdc.gov/dpdx/taeniasis/",
+        "title": "CDC DPDx — escólex, proglótides y límites de la identificación por huevos"
+      },
+      {
+        "url": "https://www.insst.es/agentes-biologicos-basebio/parasitos/taenia-solium-adulto-cysticercus-cellulosae-larva",
+        "title": "INSST — nombres españoles y morfología"
+      },
+      {
+        "url": "https://www.tapewormdb.uconn.edu/index.php/citations/details/5705",
+        "title": "Global Cestode Database — referencia a Linneo, Systema Naturae, 1758"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9562425/",
+        "title": "Revisión histórica de la nomenclatura — raíz de Taenia e hipótesis para solium"
+      }
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Material de estudio con estructuras diagnósticas visibles. Solitaria es un nombre compartido por otras tenias."
   }
 }
