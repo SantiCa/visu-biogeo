@@ -11304,7 +11304,7 @@
       "Valorar la ornamentación de pliegues y su relación con el umbo; una concha incompleta puede ocultar los caracteres necesarios.",
       "El nombre histórico Exogyra flabellata corresponde a esta entrada. Un fósil identificado solo como Exogyra no se convierte automáticamente en esta especie."
     ],
-    "etymology": "Flabellatum es el neutro del latín botánico flabellatus, en forma de abanico, derivado de flabellum, abanico, según el diccionario de Missouri Botanical Garden. Goldfuss, en Petrefacta Germaniae II, p. 38, describe Exogyra flabellata con pliegues ramificados y divergentes, pero no explica expresamente la elección del nombre. Quedan pendientes la construcción documentada de Ceratostreon y la motivación precisa del epíteto: la compatibilidad de la descripción con un abanico no demuestra por sí sola la intención del autor.",
+    "etymology": "Ceratostreon admite una lectura a partir del griego kéras (genitivo kératos), cuerno, y óstreon, ostra. Esta lectura se basa en las formas documentadas en los léxicos. Hill y Vaughan registran que Bayle usó el nombre para ejemplares figurados en su atlas. Flabellatum es el neutro del latín flabellatus, en forma de abanico, derivado de flabellum, abanico. Goldfuss describe pliegues ramificados y divergentes en Exogyra flabellata (Petrefacta Germaniae II, p. 38). Sigue pendiente verificar qué rasgo motivó la elección del género y del epíteto en sus publicaciones originales.",
     "sources": [
       {
         "url": "https://sge.usal.es/archivos/REV/26%282%29/art07.pdf",
@@ -11325,9 +11325,21 @@
       {
         "url": "https://digi.bib.uni-mannheim.de/werksansicht/54716/42/einzelseiten/nogridview",
         "title": "Goldfuss, Petrefacta Germaniae II, p. 38, n.º 15 — descripción original de Exogyra flabellata; sin explicación expresa de la elección del epíteto"
+      },
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n56730/",
+        "title": "Liddell–Scott–Jones, Scaife ATLAS — κέρας, genitivo κέρατος, cuerno"
+      },
+      {
+        "url": "https://vocab.perseus.org/lemma/59839/?filter=urn%3Acts%3AgreekLit%3Atlg0057.tlg076.1st1K-grc1",
+        "title": "Perseus, Greek Vocabulary Tool — ὄστρεον, ostra"
+      },
+      {
+        "url": "https://pubs.usgs.gov/bul/0151/report.pdf",
+        "title": "Hill y Vaughan, USGS Bulletin 151, p. 25 — uso de Ceratostreon en las figuras del atlas de Bayle"
       }
     ],
-    "reviewedAt": "2026-11-05",
+    "reviewedAt": "2026-11-07",
     "reviewStatus": "reviewed",
     "scope": "Conchas suficientemente completas; mantener separada la entrada genérica Exogyra."
   },
