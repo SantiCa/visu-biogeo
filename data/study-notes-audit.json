@@ -1,14 +1,14 @@
 {
   "date": "2026-11-08",
   "catalogEntries": 2645,
-  "descriptiveProfiles": 538,
-  "withoutDescriptiveProfile": 2107,
+  "descriptiveProfiles": 541,
+  "withoutDescriptiveProfile": 2104,
   "biologicalPriorityProfiles": 103,
   "biologicalPriorityEntries": 103,
-  "profilesWithCommonName": 223,
+  "profilesWithCommonName": 224,
   "profilesWithMnemonic": 0,
   "familyNameConstructionNotes": 95,
-  "profilesWithWhollyOrPartlyPendingEtymology": 293,
+  "profilesWithWhollyOrPartlyPendingEtymology": 295,
   "etymologyPendingIds": [
     "melanargia-russiae",
     "panopea-glycimeris",
@@ -302,7 +302,9 @@
     "belemnitella",
     "calamites",
     "gryphaea-arcuata",
-    "mammuthus-primigenius"
+    "mammuthus-primigenius",
+    "stigmaria-ficoides",
+    "palaeoloxodon-antiquus"
   ],
   "errors": [],
   "scope": "Una ficha descriptiva no implica etimología completa. El texto indica las partes pendientes y no convierte asociaciones de memoria en explicaciones lingüísticas. Las notas de familia explican su construcción nomenclatural; las raíces remotas solo se completan con referencia."

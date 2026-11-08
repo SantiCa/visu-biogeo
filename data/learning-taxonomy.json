@@ -119076,15 +119076,14 @@
     "commonNameStatus": "not-documented"
   },
   "stigmaria-ficoides": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4922334",
+    "provider": "Revisión paleobotánica",
+    "source": "https://www.journals.uchicago.edu/doi/full/10.1086/728642",
     "matchedName": "Stigmaria ficoides",
     "rank": "species",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
       "class": "Lycopodiopsida",
-      "family": "Lepidodendraceae",
       "genus": "Stigmaria",
       "species": "Stigmaria ficoides"
     },
@@ -119102,10 +119101,6 @@
         "name": "Lycopodiopsida"
       },
       {
-        "rank": "family",
-        "name": "Lepidodendraceae"
-      },
-      {
         "rank": "genus",
         "name": "Stigmaria"
       },
@@ -119117,7 +119112,8 @@
     "commonName": null,
     "commonNames": [],
     "group": "Licófitos",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-08",
+    "reviewNote": "Forma fósil de enraizamiento asociada a Lepidodendraceae y Diaphorodendraceae. Se conserva la clasificación como licófito sin asignar una familia única.",
     "commonNameStatus": "not-documented"
   },
   "streptelasma": {

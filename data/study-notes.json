@@ -11984,5 +11984,60 @@
     "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha de especie. La fotografía aprobada corresponde a un molar."
+  },
+  "stigmaria-ficoides": {
+    "commonName": null,
+    "description": "Forma fósil del sistema de enraizamiento de licófitos arborescentes. Sus ejes, que pueden bifurcarse, llevaban numerosas raicillas.",
+    "diagnostics": [
+      "Buscar marcas redondeadas de inserción de raicillas sobre el eje.",
+      "Seguir la disposición de las marcas alrededor del eje y observar si se conservan raicillas unidas.",
+      "En piezas ramificadas, comparar ambas ramas. El grado de simetría puede variar."
+    ],
+    "etymology": "Sternberg publicó el epíteto en la combinación Variolaria ficoides. Brongniart lo trasladó a Stigmaria en 1822. Queda pendiente documentar la motivación original de ambos nombres.",
+    "sources": [
+      {"url": "https://www.journals.uchicago.edu/doi/full/10.1086/728642", "title": "Estudio de Stigmaria ficoides — ramificación y asociación con varias familias de licófitos"},
+      {"url": "https://www.journals.uchicago.edu/doi/abs/10.1086/720641", "title": "Revisión anatómica de Stigmaria — ejes y disposición de las raicillas"},
+      {"url": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf", "title": "Cleal y Thomas — Variolaria ficoides y combinación de Brongniart"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de una forma fósil de enraizamiento documentada en licófitos de distintas familias. Para identificar la planta completa hacen falta órganos asociados."
+  },
+  "paranthropus-boisei": {
+    "commonName": null,
+    "description": "Homínido fósil de África oriental con cara ancha y molares y premolares muy grandes. El cráneo OH 5, hallado por Mary Leakey en Olduvai, es el ejemplar tipo.",
+    "diagnostics": [
+      "En vista frontal, observar la expansión lateral de los arcos cigomáticos.",
+      "Comparar el tamaño de los molares y premolares con el de los dientes anteriores cuando se conserven.",
+      "En vista lateral o superior, buscar la cresta sagital. Su desarrollo varía entre ejemplares."
+    ],
+    "etymology": "Paranthropus combina los elementos griegos para, junto a, y anthropos, ser humano. Leakey publicó la especie como Zinjanthropus boisei en 1959. El epíteto honra a Charles Boise, que apoyó las investigaciones de los Leakey.",
+    "sources": [
+      {"url": "https://www.nature.com/articles/184491a0", "title": "Leakey, A New Fossil Skull From Olduvai (1959) — descripción original"},
+      {"url": "https://humanorigins.si.edu/evidence/human-fossils/species/paranthropus-boisei", "title": "Smithsonian — anatomía comparada, variación y ejemplar tipo"},
+      {"url": "https://australian.museum/learn/science/human-evolution/paranthropus-species/", "title": "Australian Museum — género y significado de Paranthropus"},
+      {"url": "https://leakeyfoundation.org/the-discovery-of-zinj/", "title": "The Leakey Foundation — dedicatoria a Charles Boise"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie centrada en el cráneo y la dentición."
+  },
+  "palaeoloxodon-antiquus": {
+    "commonName": "elefante de defensas rectas",
+    "description": "Elefante fósil documentado en Europa durante el Pleistoceno. El cráneo presenta una cresta parietooccipital que sobresale sobre la frente, cuyo desarrollo varía con el crecimiento.",
+    "diagnostics": [
+      "En cráneos conservados, observar en perfil la proyección de la cresta parietooccipital.",
+      "Si se conserva un molar, examinar la superficie de desgaste y compararla con ejemplares documentados de la misma posición dental.",
+      "En una defensa aislada, contrastar la curvatura y la procedencia con el resto del material asociado antes de determinar la especie."
+    ],
+    "etymology": "El latín antiquus significa antiguo. Queda pendiente documentar la motivación de Falconer y Cautley para el epíteto y el origen exacto de Palaeoloxodon.",
+    "sources": [
+      {"url": "https://www.sciencedirect.com/science/article/pii/S0277379119302690", "title": "Estudio de cráneos de Palaeoloxodon — variación y cresta parietooccipital"},
+      {"url": "https://ceres.mcu.es/pages/ResultSearch?MuseumsRolSearch=27&MuseumsSearch=&hipertextSearch=1&listaMuseos=null&search=simpleSelection&simpleSearch=0&txtSimpleSearch=Palaeoloxodon+antiquus", "title": "CER.ES — denominación española y ejemplares de museo"},
+      {"url": "https://logeion.org/antiquus", "title": "Logeion, voz antiquus — antiguo"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La cresta se interpreta teniendo en cuenta la edad del ejemplar."
   }
 }
