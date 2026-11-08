@@ -12217,5 +12217,86 @@
     "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha de Pelophylax pueyoi. El listado PRECEGE usa la combinación original Rana pueyoi."
+  },
+  "homo-heidelbergensis": {
+    "commonName": null,
+    "description": "Homínido fósil del Pleistoceno medio descrito a partir de la mandíbula de Mauer, cerca de Heidelberg, Alemania.",
+    "diagnostics": [
+      "En la mandíbula de Mauer, observar el cuerpo grueso y la rama ascendente ancha.",
+      "En vista lateral, comparar la región anterior retraída con la de mandíbulas que presentan un mentón prominente.",
+      "Comparar la dentición con la robustez de la mandíbula. La atribución de otros fósiles a esta especie sigue en debate."
+    ],
+    "etymology": "Homo es el sustantivo latino para ser humano. Heidelbergensis significa de Heidelberg y alude a la ciudad cercana a Mauer, donde se halló la mandíbula tipo.",
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2993404/",
+        "title": "Estudio del yacimiento tipo de Mauer — procedencia y datación"
+      },
+      {
+        "url": "https://doi.org/10.1002/evan.21311",
+        "title": "Stringer — anatomía de la mandíbula tipo y límites discutidos de la especie"
+      },
+      {
+        "url": "https://australian.museum/learn/science/human-evolution/homo-heidelbergensis/",
+        "title": "Australian Museum — significado del nombre"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie centrada en la mandíbula tipo de Mauer."
+  },
+  "homo-sapiens": {
+    "commonName": null,
+    "description": "Especie humana actual, documentada también por fósiles del Pleistoceno. El cráneo suele presentar una bóveda redondeada y una frente alta.",
+    "diagnostics": [
+      "En vista lateral, observar la altura de la frente y la forma general de la bóveda craneal.",
+      "Si se conserva la mandíbula, examinar el perfil de la sínfisis y el desarrollo del mentón.",
+      "Comparar el conjunto de rasgos. Los ejemplares fósiles tempranos pueden combinar rasgos propios de la especie con otros arcaicos."
+    ],
+    "etymology": "Homo significa ser humano en latín. Sapiens significa sabio o sensato. Linneo publicó Homo sapiens en la décima edición de Systema naturae, en 1758.",
+    "sources": [
+      {
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens",
+        "title": "Smithsonian — anatomía y variación en los fósiles de Homo sapiens"
+      },
+      {
+        "url": "https://www.biodiversitylibrary.org/item/10277",
+        "title": "Linneo, Systema naturae, 10.ª edición (1758)"
+      },
+      {
+        "url": "https://logeion.org/sapiens",
+        "title": "Logeion, voz sapiens — sabio o sensato"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie centrada en restos craneales, conforme al listado de fósiles PRECEGE."
+  },
+  "tiktaalik": {
+    "commonName": null,
+    "description": "Género de vertebrados del Devónico tardío conocido por fósiles del Ártico canadiense. Presenta aletas con radios y un cráneo aplanado, con rasgos del linaje próximo al origen de los tetrápodos.",
+    "diagnostics": [
+      "Observar en vista dorsal el cráneo aplanado y la posición superior de los ojos.",
+      "En ejemplares articulados, examinar la separación entre el cráneo y la cintura pectoral, compatible con un cuello móvil.",
+      "En la aleta pectoral, distinguir los radios de los huesos internos articulados. Ambos forman parte de la aleta."
+    ],
+    "etymology": "En la descripción original, los autores indican que Tiktaalik procede del inuktitut y designa un pez grande de agua dulce que se ve en aguas someras. El nombre se propuso tras consultar a representantes de Nunavut.",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1038/nature04639",
+        "title": "Daeschler, Shubin y Jenkins — descripción original de Tiktaalik y origen del nombre"
+      },
+      {
+        "url": "https://doi.org/10.1038/nature04637",
+        "title": "Shubin, Daeschler y Jenkins — anatomía de la aleta pectoral"
+      },
+      {
+        "url": "https://science.nasa.gov/earth/earth-observatory/fishapod-fossil-found-in-the-arctic-6443/",
+        "title": "NASA Earth Observatory — hallazgo y consulta a los mayores de Nunavut"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género basada en los ejemplares de Tiktaalik roseae descritos en 2006."
   }
 }
