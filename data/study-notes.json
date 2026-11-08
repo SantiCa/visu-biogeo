@@ -12039,5 +12039,86 @@
     "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha de especie. La cresta se interpreta teniendo en cuenta la edad del ejemplar."
+  },
+  "dalmanites-socialis": {
+    "commonName": null,
+    "description": "Trilobite del Ordovícico superior. El grupo de Dalmanitina socialis presenta ojos grandes y espinas largas en el cefalón y el pigidio.",
+    "diagnostics": [
+      "Observar los ojos y el ensanchamiento del lóbulo anterior de la glabela.",
+      "Localizar las espinas genales en el cefalón y la espina terminal del pigidio.",
+      "En el pigidio, comparar los anillos del eje y los surcos laterales con ejemplares determinados. Estos rasgos se comparten con especies próximas."
+    ],
+    "etymology": "Barrande publicó la especie como Phacops socialis. El epíteto latino socialis significa social o asociado. Quedan pendientes la motivación de Barrande y la explicación original del nombre Dalmanitina.",
+    "sources": [
+      {
+        "url": "https://trilobite.treatise.geolex.org/displayInfo.php?genera=Dalmanitina",
+        "title": "Treatise on Invertebrate Paleontology — clasificación y especie tipo"
+      },
+      {
+        "url": "https://riviste.unimi.it/index.php/RIPS/article/download/20845/20128/67020",
+        "title": "Estudio de Dalmanitina del Ordovícico superior — caracteres y procedencia"
+      },
+      {
+        "url": "https://logeion.org/socialis",
+        "title": "Logeion, voz socialis"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de Dalmanitina socialis. El listado PRECEGE emplea la combinación Dalmanites socialis."
+  },
+  "parkinsonia-parkinsoni": {
+    "commonName": null,
+    "description": "Ammonite del Jurásico medio documentado en el Bajociense superior. La concha enrollada presenta costillas que se dividen en el flanco y se interrumpen en el vientre.",
+    "diagnostics": [
+      "En vista lateral, observar el ombligo y seguir las costillas desde el borde umbilical.",
+      "Localizar el punto donde se bifurcan las costillas y comparar su orientación.",
+      "En vista ventral, comprobar la interrupción de las costillas y contrastar el perfil de la vuelta con ejemplares determinados."
+    ],
+    "etymology": "La especie se publicó como Ammonites parkinsoni. El epíteto es una dedicatoria a James Parkinson. Queda pendiente cotejar la explicación original del nombre genérico.",
+    "sources": [
+      {
+        "url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/j07849?listIndex=197",
+        "title": "Muséum national d’Histoire naturelle — ejemplar figurado y clasificación"
+      },
+      {
+        "url": "https://actapalrom.geo-paleontologica.org/APR_v_11_2/Majidifard.pdf",
+        "title": "Majidifard — descripción de ejemplares y referencia a la combinación original"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/386295185_200_years_since_the_death_of_James_Parkinson",
+        "title": "200 years since the death of James Parkinson — dedicatoria del ammonite"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La conservación del vientre ayuda a contrastar la identificación."
+  },
+  "trigonia-navis": {
+    "commonName": null,
+    "description": "Bivalvo marino fósil del Jurásico. Se conocen ejemplares con valvas unidas, incluido un sintipo de la colección de Lamarck.",
+    "diagnostics": [
+      "Orientar la valva por el umbo y observar cómo se prolonga hacia el extremo posterior.",
+      "Comparar las costillas del flanco y la zona posterior con las de ejemplares publicados.",
+      "Si se conservan ambas valvas, observar el perfil de la concha y la forma del borde dorsal."
+    ],
+    "etymology": "El epíteto navis es el sustantivo latino para nave. Lamarck lo publicó en Trigonia navis. La motivación expresa de Lamarck y el origen exacto de Scaphotrigonia siguen pendientes.",
+    "sources": [
+      {
+        "url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/a50239?listIndex=949",
+        "title": "Muséum national d’Histoire naturelle — sintipo de Lamarck y revisión como Scaphotrigonia navis"
+      },
+      {
+        "url": "https://www.zobodat.at/pdf/Palaeodiversity_14_0015-0113.pdf",
+        "title": "Estudio de la Formación Opalinuston — ejemplares figurados de Scaphotrigonia navis"
+      },
+      {
+        "url": "https://logeion.org/navis",
+        "title": "Logeion, voz navis"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de Scaphotrigonia navis. El listado PRECEGE emplea la combinación original Trigonia navis."
   }
 }
