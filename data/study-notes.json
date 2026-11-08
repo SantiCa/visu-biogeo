@@ -11821,7 +11821,7 @@
       "En ejemplares pequeños, buscar la quilla con aspecto de cordón. En las últimas vueltas de ejemplares grandes, ese relieve puede atenuarse.",
       "Una quilla aislada permite orientar la identificación. Para determinar la especie, comparar la concha con el neotipo y la revisión del género."
     ],
-    "etymology": "Montfort presenta Amaltheus como forma latina de amalté (1808, p. 90). El nomenclátor de Agassiz lo relaciona con Amaltea, figura de la mitología griega. En la p. 91 Montfort llama amalté perlé a la especie y señala que el ejemplar figurado conservaba el nácar. Margaritatus significa adornado con perlas. El nácar aporta una pista para interpretar el epíteto. La motivación expresa de Montfort para ambos nombres sigue pendiente.",
+    "etymology": "En la página ilustrada del original (1808, p. 90), Montfort presenta Amaltheus como forma latina de amalté. El nomenclátor de Agassiz lo relaciona con Amaltea, figura de la mitología griega. En la p. 91 Montfort llama amalté perlé a la especie y señala que el ejemplar figurado, de los alrededores de Amberes, conservaba el nácar. Margaritatus significa adornado con perlas. El nombre francés y el nácar del ejemplar respaldan una lectura nacarada del epíteto. La motivación expresa de Montfort para ambos nombres sigue pendiente.",
     "sources": [
       {"url": "https://archive.org/details/conchyliologiesy11deny/page/90/mode/2up", "title": "Montfort, Conchyliologie systématique, I, pp. 90–91 — formas amalté y Amaltheus, amalté perlé y nácar del ejemplar"},
       {"url": "https://www.summagallicana.it/Agassiz_nomenclator_zoologicus/Mollusca.htm", "title": "Agassiz, Nomenclator Zoologicus, Mollusca — atribución del género al nombre mitológico Amaltea"},
@@ -11830,7 +11830,7 @@
       {"url": "https://bspg.snsb.de/juli-2011-grosser-ammonit-aus-dem-lias-frankens/", "title": "Colección Estatal Bávara de Paleontología y Geología — quilla, costillas y variación con el tamaño"},
       {"url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf", "title": "Jobling, voz margaritatus — significado del adjetivo latino"}
     ],
-    "reviewedAt": "2026-11-07",
+    "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Conchas o moldes con vueltas y borde ventral conservados. Mantener la determinación al género cuando falten rasgos de especie."
   },
@@ -11877,13 +11877,14 @@
       "Observar cómo se subdividen las cámaras en compartimentos más pequeños.",
       "Comparar secciones de orientación conocida. La forma externa por sí sola no permite distinguir todos los géneros afines."
     ],
-    "etymology": "Alveolina admite una lectura a partir del latín alveolus, cavidad pequeña. La raíz concuerda con los compartimentos del test. Sigue pendiente verificar si d’Orbigny explicó el motivo de la elección del nombre.",
+    "etymology": "D’Orbigny publicó el nombre Alveolina en 1826 (p. 306), con la forma francesa Alvéoline, y mencionó el nombre Alvéolite de Bosc. Describió cámaras divididas en numerosas cavidades por tabiques transversales. La descripción concuerda con una lectura a partir del latín alveolus, cavidad pequeña. La motivación expresa de d’Orbigny sigue pendiente.",
     "sources": [
+      {"url": "https://archive.org/details/annalesdesscienc07natr/page/306/mode/1up", "title": "D’Orbigny, Tableau méthodique de la classe des Céphalopodes (1826), p. 306 — nombre y descripción originales"},
       {"url": "https://www.gbif.org/taxon/7Y397", "title": "Catalogue of Life en GBIF — género y referencia a d’Orbigny, 1826"},
       {"url": "https://link.springer.com/article/10.1186/s42501-020-0054-2", "title": "Estudio de foraminíferos de Safranbolu — secciones y caracteres de Alveolina"},
       {"url": "https://mobot.org/mobot/latindict/keyDetail.aspx?keyWord=alveolus", "title": "Missouri Botanical Garden, voz alveolus — cavidad pequeña"}
     ],
-    "reviewedAt": "2026-11-07",
+    "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha del género. Para determinar una especie se necesitan secciones diagnósticas."
   },
@@ -11904,5 +11905,41 @@
     "reviewedAt": "2026-11-07",
     "reviewStatus": "reviewed",
     "scope": "Ficha de follaje del género fósil. Usar fragmentos con varios nudos visibles."
+  },
+  "belemnitella": {
+    "commonName": null,
+    "description": "Género de cefalópodos marinos del Cretácico superior. El resto que se conserva con mayor frecuencia es el rostro calcáreo, parte de su esqueleto interno.",
+    "diagnostics": [
+      "Orientar el rostro y distinguir la punta del extremo anterior, donde se abre el alvéolo.",
+      "Buscar la fisura ventral junto al alvéolo. La fisura se comparte con otros belemnitélidos.",
+      "Comparar el perfil y la geometría del alvéolo y de la fisura con ejemplares documentados. Una punta aislada suele ser insuficiente para determinar el género."
+    ],
+    "etymology": "La raíz de los nombres de los belemnites remite al griego bélemnon, dardo o jabalina. D’Orbigny publicó Belemnitella en 1840. Queda pendiente comprobar si explicó por qué eligió esta forma del nombre.",
+    "sources": [
+      {"url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/belemnites/", "title": "British Geological Survey — rostro, cronología y raíz del nombre de los belemnites"},
+      {"url": "https://www.vliz.be/imisdocs/publications/276914.pdf", "title": "Institut royal des Sciences naturelles de Belgique — caracteres del rostro de Belemnitella"},
+      {"url": "https://research.nhm.org/pdfs/19766/19766-001.pdf", "title": "ICZN, Official Lists and Indexes — referencia a d’Orbigny, 1840, p. 59"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género. Priorizar rostros con extremo anterior conservado y determinación documentada."
+  },
+  "calamites": {
+    "commonName": null,
+    "description": "Género fósil de tallos articulados de plantas emparentadas con los equisetos. Muchos ejemplares son moldes del interior del tallo formados por sedimento.",
+    "diagnostics": [
+      "Buscar nudos transversales repetidos y costillas longitudinales en los entrenudos.",
+      "Seguir las costillas al cruzar un nudo y observar si alternan de posición.",
+      "Distinguir un molde de la cavidad medular de un resto de la superficie externa. La preservación cambia los rasgos visibles."
+    ],
+    "etymology": "Calamites se relaciona con el latín calamus, caña. La semejanza con una caña permite interpretar el nombre. La motivación exacta de Sternberg sigue pendiente de cotejo.",
+    "sources": [
+      {"url": "https://samnoblemuseum.ou.edu/common-fossils-of-oklahoma/plant-fossils/fossils-by-plant-group/fossil-sphenophytes/", "title": "Sam Noble Museum — nudos, costillas y moldes de la cavidad medular"},
+      {"url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12045", "title": "Estudio de tallos de Calamites conservados in situ — anatomía y preservación"},
+      {"url": "https://wehd.com/13/Calamite.html", "title": "Diccionario histórico, voz Calamite — raíz latina calamus"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de tallos del género fósil. Los órganos asociados requieren evidencia de conexión."
   }
 }
