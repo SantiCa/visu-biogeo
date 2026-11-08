@@ -1,14 +1,14 @@
 {
   "date": "2026-11-08",
   "catalogEntries": 2645,
-  "descriptiveProfiles": 544,
-  "withoutDescriptiveProfile": 2101,
+  "descriptiveProfiles": 547,
+  "withoutDescriptiveProfile": 2098,
   "biologicalPriorityProfiles": 103,
   "biologicalPriorityEntries": 103,
-  "profilesWithCommonName": 224,
+  "profilesWithCommonName": 225,
   "profilesWithMnemonic": 0,
   "familyNameConstructionNotes": 95,
-  "profilesWithWhollyOrPartlyPendingEtymology": 298,
+  "profilesWithWhollyOrPartlyPendingEtymology": 301,
   "etymologyPendingIds": [
     "melanargia-russiae",
     "panopea-glycimeris",
@@ -307,7 +307,10 @@
     "palaeoloxodon-antiquus",
     "dalmanites-socialis",
     "parkinsonia-parkinsoni",
-    "trigonia-navis"
+    "trigonia-navis",
+    "phacops-latifrons",
+    "carcharocles-megalodon",
+    "rana-pueyoi"
   ],
   "errors": [],
   "scope": "Una ficha descriptiva no implica etimología completa. El texto indica las partes pendientes y no convierte asociaciones de memoria en explicaciones lingüísticas. Las notas de familia explican su construcción nomenclatural; las raíces remotas solo se completan con referencia."

@@ -25299,18 +25299,18 @@
     "commonNameStatus": "not-documented"
   },
   "carcharocles-megalodon": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8566942",
-    "matchedName": "Carcharocles megalodon",
+    "provider": "Smithsonian y Palaeontologia Electronica",
+    "source": "https://www.si.edu/object/nmnhpaleobiology_3406122",
+    "matchedName": "Otodus megalodon",
     "rank": "species",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Chordata",
-      "class": "Elasmobranchii",
+      "class": "Chondrichthyes",
       "order": "Lamniformes",
-      "family": "Lamnidae",
+      "family": "Otodontidae",
       "genus": "Otodus",
-      "species": "Carcharocles megalodon"
+      "species": "Otodus megalodon"
     },
     "hierarchy": [
       {
@@ -25323,7 +25323,7 @@
       },
       {
         "rank": "class",
-        "name": "Elasmobranchii"
+        "name": "Chondrichthyes"
       },
       {
         "rank": "order",
@@ -25331,7 +25331,7 @@
       },
       {
         "rank": "family",
-        "name": "Lamnidae"
+        "name": "Otodontidae"
       },
       {
         "rank": "genus",
@@ -25339,14 +25339,15 @@
       },
       {
         "rank": "species",
-        "name": "Carcharocles megalodon"
+        "name": "Otodus megalodon"
       }
     ],
     "commonName": null,
     "commonNames": [],
     "group": "Peces cartilaginosos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se sigue la clasificación del Smithsonian para clase, orden y familia y el uso de Otodus megalodon en estudios de denticiones. PRECEGE usa Carcharocles megalodon."
   },
   "carcharodon-carcharias": {
     "provider": "iNaturalist",
@@ -107320,9 +107321,9 @@
     "commonNameStatus": "documented"
   },
   "rana-pueyoi": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4816992",
-    "matchedName": "Rana pueyoi",
+    "provider": "Journal of Vertebrate Paleontology",
+    "source": "https://doi.org/10.1080/02724634.2022.2162410",
+    "matchedName": "Pelophylax pueyoi",
     "rank": "species",
     "ranks": {
       "kingdom": "Animalia",
@@ -107330,8 +107331,8 @@
       "class": "Amphibia",
       "order": "Anura",
       "family": "Ranidae",
-      "genus": "Rana",
-      "species": "Rana pueyoi"
+      "genus": "Pelophylax",
+      "species": "Pelophylax pueyoi"
     },
     "hierarchy": [
       {
@@ -107356,18 +107357,19 @@
       },
       {
         "rank": "genus",
-        "name": "Rana"
+        "name": "Pelophylax"
       },
       {
         "rank": "species",
-        "name": "Rana pueyoi"
+        "name": "Pelophylax pueyoi"
       }
     ],
     "commonName": null,
     "commonNames": [],
     "group": "Anfibios",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El estudio de ejemplares de Libros respalda Pelophylax pueyoi en Ranidae. PRECEGE conserva Rana pueyoi, la combinación original."
   },
   "rana-temporaria": {
     "provider": "iNaturalist",

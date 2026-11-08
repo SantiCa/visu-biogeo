@@ -12120,5 +12120,102 @@
     "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha de Scaphotrigonia navis. El listado PRECEGE emplea la combinación original Trigonia navis."
+  },
+  "phacops-latifrons": {
+    "commonName": null,
+    "description": "Trilobite del Devónico medio documentado en el Eifel y el Sauerland, en Alemania. Es la especie tipo del género Phacops.",
+    "diagnostics": [
+      "En el cefalón, localizar la glabela y observar el contorno y la ornamentación de su superficie.",
+      "En los ojos compuestos, buscar las lentes individuales cuando se conserven.",
+      "Comparar el eje y los surcos del pigidio con ejemplares documentados. La procedencia estratigráfica ayuda a distinguir identificaciones históricas dudosas."
+    ],
+    "etymology": "El nombre original es Calymene latifrons. El epíteto combina el latín latus, ancho, y frons, frente. La motivación expresa de Bronn y la explicación original de Phacops siguen pendientes.",
+    "sources": [
+      {
+        "url": "https://mczbase.mcz.harvard.edu/guid/MCZ%3AIP%3A111041",
+        "title": "Museum of Comparative Zoology — ejemplar de referencia del Eifel y clasificación"
+      },
+      {
+        "url": "https://www.lwl.org/wmfn-download/Geologie_und_Palaeontologie_in_Westfalen/GuP_Heft_90_Seite_25-65.pdf",
+        "title": "Helling y Schöllmann — especie tipo y combinación original"
+      },
+      {
+        "url": "https://www.vliz.be/imisdocs/publications/ocrd/252598.pdf",
+        "title": "Estudio de trilobites de Hanonet — revisión de citas atribuidas a Phacops latifrons"
+      },
+      {
+        "url": "https://logeion.org/latus",
+        "title": "Logeion, voz latus — ancho"
+      },
+      {
+        "url": "https://logeion.org/frons",
+        "title": "Logeion, voz frons — frente"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. Los rasgos generales del cefalón se comparten con otros facópidos."
+  },
+  "carcharocles-megalodon": {
+    "commonName": "megalodón",
+    "description": "Tiburón extinto del orden Lamniformes. Sus restos más frecuentes son dientes, con coronas triangulares anchas y bordes aserrados.",
+    "diagnostics": [
+      "Observar la forma y las serraciones de ambos bordes de la corona.",
+      "En la cara interna, examinar la banda entre corona y raíz y comprobar si se conserva la raíz bilobulada.",
+      "Comparar dientes de posiciones equivalentes. La forma y el tamaño cambian según la posición en la mandíbula."
+    ],
+    "etymology": "El epíteto megalodon significa diente grande. El American Museum of Natural History interpreta Otodus como diente en forma de oreja. Queda pendiente cotejar la explicación original del nombre genérico histórico Carcharocles.",
+    "sources": [
+      {
+        "url": "https://www.amnh.org/explore/ology/ology-cards/379-megalodon",
+        "title": "American Museum of Natural History — restos y significado de Otodus megalodon"
+      },
+      {
+        "url": "https://naturalhistory.si.edu/exhibits/mega-toothed-shark",
+        "title": "Smithsonian — dientes y denominación histórica Carcharocles megalodon"
+      },
+      {
+        "url": "https://www.si.edu/object/nmnhpaleobiology_3406122",
+        "title": "Smithsonian — diente de colección y clasificación en Otodontidae"
+      },
+      {
+        "url": "https://palaeo-electronica.org/content/current-in-press-articles/3284-estimating-lamniform-body-size",
+        "title": "Estudio de denticiones fósiles — variación según la posición y uso de Otodus"
+      },
+      {
+        "url": "https://alquivir.ujaen.es/museo/otodus-megalodon/",
+        "title": "Museo Paleontológico Virtual de la Universidad de Jaén — diente y nombre común megalodón"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de Otodus megalodon. El listado PRECEGE usa Carcharocles megalodon."
+  },
+  "rana-pueyoi": {
+    "commonName": null,
+    "description": "Rana fósil del Mioceno superior de Libros, Teruel. En el antiguo lago se preservaron esqueletos articulados y, en algunos ejemplares, improntas de tejidos blandos.",
+    "diagnostics": [
+      "En una laja con un ejemplar articulado, localizar el cráneo, la pelvis y las extremidades posteriores.",
+      "Si se conserva la región sacra, observar las expansiones laterales cilíndricas de la vértebra sacra, un carácter de los ránidos.",
+      "Contrastar la anatomía y la procedencia con ejemplares de Libros documentados. Las improntas de tejidos aportan información sobre la conservación."
+    ],
+    "etymology": "Navás describió la especie como Rana pueyoi y dedicó el epíteto al descubridor de los fósiles, Pueyo. Queda pendiente cotejar la explicación original del género Pelophylax.",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1080/02724634.2022.2162410",
+        "title": "Estudio del ejemplar in situ de Libros — identificación, edad y anatomía"
+      },
+      {
+        "url": "https://museonat.es/historia-rana-fosil-mina/",
+        "title": "Museo de Ciencias Naturales de la Universidad de Zaragoza — holotipo y dedicatoria"
+      },
+      {
+        "url": "https://web.igme.es/museo/pieza_mes/2015/junio.htm",
+        "title": "Museo Geominero — ejemplar de Pelophylax pueyoi y yacimiento"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de Pelophylax pueyoi. El listado PRECEGE usa la combinación original Rana pueyoi."
   }
 }
