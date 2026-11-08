@@ -25299,18 +25299,18 @@
     "commonNameStatus": "not-documented"
   },
   "carcharocles-megalodon": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8566942",
-    "matchedName": "Carcharocles megalodon",
+    "provider": "Smithsonian y Palaeontologia Electronica",
+    "source": "https://www.si.edu/object/nmnhpaleobiology_3406122",
+    "matchedName": "Otodus megalodon",
     "rank": "species",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Chordata",
-      "class": "Elasmobranchii",
+      "class": "Chondrichthyes",
       "order": "Lamniformes",
-      "family": "Lamnidae",
+      "family": "Otodontidae",
       "genus": "Otodus",
-      "species": "Carcharocles megalodon"
+      "species": "Otodus megalodon"
     },
     "hierarchy": [
       {
@@ -25323,7 +25323,7 @@
       },
       {
         "rank": "class",
-        "name": "Elasmobranchii"
+        "name": "Chondrichthyes"
       },
       {
         "rank": "order",
@@ -25331,7 +25331,7 @@
       },
       {
         "rank": "family",
-        "name": "Lamnidae"
+        "name": "Otodontidae"
       },
       {
         "rank": "genus",
@@ -25339,14 +25339,15 @@
       },
       {
         "rank": "species",
-        "name": "Carcharocles megalodon"
+        "name": "Otodus megalodon"
       }
     ],
     "commonName": null,
     "commonNames": [],
     "group": "Peces cartilaginosos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se sigue la clasificación del Smithsonian para clase, orden y familia y el uso de Otodus megalodon en estudios de denticiones. PRECEGE usa Carcharocles megalodon."
   },
   "carcharodon-carcharias": {
     "provider": "iNaturalist",
@@ -40757,9 +40758,9 @@
     "commonNameStatus": "not-documented"
   },
   "dalmanites-socialis": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/9682463",
-    "matchedName": "Dalmanites socialis",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://trilobite.treatise.geolex.org/displayInfo.php?genera=Dalmanitina",
+    "matchedName": "Dalmanitina socialis",
     "rank": "species",
     "ranks": {
       "kingdom": "Animalia",
@@ -40767,8 +40768,8 @@
       "class": "Trilobita",
       "order": "Phacopida",
       "family": "Dalmanitidae",
-      "genus": "Dalmanites",
-      "species": "Dalmanites socialis"
+      "genus": "Dalmanitina",
+      "species": "Dalmanitina socialis"
     },
     "hierarchy": [
       {
@@ -40793,18 +40794,19 @@
       },
       {
         "rank": "genus",
-        "name": "Dalmanites"
+        "name": "Dalmanitina"
       },
       {
         "rank": "species",
-        "name": "Dalmanites socialis"
+        "name": "Dalmanitina socialis"
       }
     ],
     "commonName": null,
     "commonNames": [],
     "group": "Otros artrópodos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El listado PRECEGE usa Dalmanites socialis. El Treatise sitúa la especie tipo de Dalmanitina en Dalmanitidae."
   },
   "danaus-chrysippus": {
     "provider": "iNaturalist",
@@ -50853,14 +50855,15 @@
     "commonNameStatus": "documented"
   },
   "favosites": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8387440",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://cnidaria.treatise.geolex.org/displayInfo.php?genera=Favosites",
     "matchedName": "Favosites",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Cnidaria",
       "class": "Anthozoa",
+      "order": "Favositida",
       "family": "Favositidae",
       "genus": "Favosites"
     },
@@ -50878,6 +50881,10 @@
         "name": "Anthozoa"
       },
       {
+        "rank": "order",
+        "name": "Favositida"
+      },
+      {
         "rank": "family",
         "name": "Favositidae"
       },
@@ -50889,8 +50896,9 @@
     "commonName": null,
     "commonNames": [],
     "group": "Cnidarios",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El Treatise y la colección de la Universidad de Padua sitúan Favosites en Favositida y Favositidae."
   },
   "felimare-cantabrica": {
     "provider": "iNaturalist",
@@ -91313,14 +91321,15 @@
     "rank": "genus"
   },
   "parkinsonia-parkinsoni": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/5798231",
+    "provider": "MNHN",
+    "source": "https://science.mnhn.fr/institution/mnhn/collection/f/item/j07849?listIndex=197",
     "matchedName": "Parkinsonia parkinsoni",
     "rank": "species",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
+      "order": "Ammonitida",
       "family": "Parkinsoniidae",
       "genus": "Parkinsonia",
       "species": "Parkinsonia parkinsoni"
@@ -91339,6 +91348,10 @@
         "name": "Cephalopoda"
       },
       {
+        "rank": "order",
+        "name": "Ammonitida"
+      },
+      {
         "rank": "family",
         "name": "Parkinsoniidae"
       },
@@ -91354,8 +91367,9 @@
     "commonName": null,
     "commonNames": [],
     "group": "Moluscos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El ejemplar figurado del MNHN documenta el orden Ammonitida y la familia Parkinsoniidae."
   },
   "parmelia-saxatilis": {
     "provider": "iNaturalist",
@@ -107313,9 +107327,9 @@
     "commonNameStatus": "documented"
   },
   "rana-pueyoi": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4816992",
-    "matchedName": "Rana pueyoi",
+    "provider": "Journal of Vertebrate Paleontology",
+    "source": "https://doi.org/10.1080/02724634.2022.2162410",
+    "matchedName": "Pelophylax pueyoi",
     "rank": "species",
     "ranks": {
       "kingdom": "Animalia",
@@ -107323,8 +107337,8 @@
       "class": "Amphibia",
       "order": "Anura",
       "family": "Ranidae",
-      "genus": "Rana",
-      "species": "Rana pueyoi"
+      "genus": "Pelophylax",
+      "species": "Pelophylax pueyoi"
     },
     "hierarchy": [
       {
@@ -107349,18 +107363,19 @@
       },
       {
         "rank": "genus",
-        "name": "Rana"
+        "name": "Pelophylax"
       },
       {
         "rank": "species",
-        "name": "Rana pueyoi"
+        "name": "Pelophylax pueyoi"
       }
     ],
     "commonName": null,
     "commonNames": [],
     "group": "Anfibios",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El estudio de ejemplares de Libros respalda Pelophylax pueyoi en Ranidae. PRECEGE conserva Rana pueyoi, la combinación original."
   },
   "rana-temporaria": {
     "provider": "iNaturalist",
@@ -119076,15 +119091,14 @@
     "commonNameStatus": "not-documented"
   },
   "stigmaria-ficoides": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4922334",
+    "provider": "Revisión paleobotánica",
+    "source": "https://www.journals.uchicago.edu/doi/full/10.1086/728642",
     "matchedName": "Stigmaria ficoides",
     "rank": "species",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
       "class": "Lycopodiopsida",
-      "family": "Lepidodendraceae",
       "genus": "Stigmaria",
       "species": "Stigmaria ficoides"
     },
@@ -119102,10 +119116,6 @@
         "name": "Lycopodiopsida"
       },
       {
-        "rank": "family",
-        "name": "Lepidodendraceae"
-      },
-      {
         "rank": "genus",
         "name": "Stigmaria"
       },
@@ -119117,7 +119127,8 @@
     "commonName": null,
     "commonNames": [],
     "group": "Licófitos",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-08",
+    "reviewNote": "Forma fósil de enraizamiento asociada a Lepidodendraceae y Diaphorodendraceae. Se conserva la clasificación como licófito sin asignar una familia única.",
     "commonNameStatus": "not-documented"
   },
   "streptelasma": {
@@ -125665,9 +125676,9 @@
     "rank": "genus"
   },
   "trigonia-navis": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/5794698",
-    "matchedName": "Trigonia navis",
+    "provider": "MNHN y Persée",
+    "source": "https://science.mnhn.fr/institution/mnhn/collection/f/item/a50239?listIndex=949",
+    "matchedName": "Scaphotrigonia navis",
     "rank": "species",
     "ranks": {
       "kingdom": "Animalia",
@@ -125676,7 +125687,7 @@
       "order": "Trigoniida",
       "family": "Myophorellidae",
       "genus": "Scaphotrigonia",
-      "species": "Trigonia navis"
+      "species": "Scaphotrigonia navis"
     },
     "hierarchy": [
       {
@@ -125705,14 +125716,15 @@
       },
       {
         "rank": "species",
-        "name": "Trigonia navis"
+        "name": "Scaphotrigonia navis"
       }
     ],
     "commonName": null,
     "commonNames": [],
     "group": "Moluscos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El sintipo conserva la identificación original Trigonia navis y registra la revisión como Scaphotrigonia navis. Se sigue el linaje Myophorellidae de Persée (https://www.persee.fr/authority/592491)."
   },
   "tringa-totanus": {
     "provider": "iNaturalist",

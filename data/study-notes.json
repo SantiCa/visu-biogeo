@@ -11782,7 +11782,7 @@
       "En una proglótide grávida preparada, contar las ramas uterinas laterales primarias. Los CDC indican de 7 a 13 para T. solium y de 12 a 30 para T. saginata, por lo que hay solapamiento.",
       "Los huevos tienen una cubierta con estrías radiales. Su morfología es compartida por otros ténidos y por sí sola no permite determinar el género ni la especie."
     ],
-    "etymology": "Taenia remite al griego tainía, cinta, a través del latín taenia, y describe el aspecto acintado del adulto. Una revisión histórica propone una relación de solium con el francés solitaire. El origen exacto de ese epíteto sigue pendiente de verificación.",
+    "etymology": "Taenia remite al griego tainía, cinta, a través del latín taenia. Andry ya emparejaba Solium con el francés le solitaire en 1700, antes de que Linneo publicara Taenia solium en 1758. Ese uso documenta la equivalencia histórica, pero no la derivación de la palabra. Leuckart propuso en 1886 una vía desde una voz siríaca que significa cadena. El origen lingüístico último de solium sigue pendiente.",
     "sources": [
       {
         "url": "https://www.cdc.gov/dpdx/taeniasis/",
@@ -11799,10 +11799,608 @@
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9562425/",
         "title": "Revisión histórica de la nomenclatura — raíz de Taenia e hipótesis para solium"
+      },
+      {
+        "url": "https://fr.wikisource.org/wiki/Page:Andry_de_Boisregard_-_De_la_G%C3%A9n%C3%A9ration_des_vers,_1700.djvu/37",
+        "title": "Nicolas Andry, De la génération des vers, 1700 — uso de Solium y le solitaire"
+      },
+      {
+        "url": "https://wellcomecollection.org/works/amurrqfv/items?canvas=444&page=74&shouldScrollToCanvas=true",
+        "title": "Rudolf Leuckart, The Parasites of Man, 1886, p. 416 — hipótesis siríaca y alcance histórico de Solium"
       }
     ],
     "reviewedAt": "2026-11-07",
     "reviewStatus": "reviewed",
     "scope": "Material de estudio con estructuras diagnósticas visibles. Solitaria es un nombre compartido por otras tenias."
+  },
+  "amaltheus-margaritatus": {
+    "commonName": null,
+    "description": "Ammonite del Jurásico inferior, característico del Pliensbachiense superior. La concha enrollada presenta costillas en los flancos y una quilla ventral con relieve.",
+    "diagnostics": [
+      "Combinar una vista lateral de las vueltas y las costillas con una vista del borde ventral.",
+      "En ejemplares pequeños, buscar la quilla con aspecto de cordón. En las últimas vueltas de ejemplares grandes, ese relieve puede atenuarse.",
+      "Una quilla aislada permite orientar la identificación. Para determinar la especie, comparar la concha con el neotipo y la revisión del género."
+    ],
+    "etymology": "En la página ilustrada del original (1808, p. 90), Montfort presenta Amaltheus como forma latina de amalté. El nomenclátor de Agassiz lo relaciona con Amaltea, figura de la mitología griega. En la p. 91 Montfort llama amalté perlé a la especie y señala que el ejemplar figurado, de los alrededores de Amberes, conservaba el nácar. Margaritatus significa adornado con perlas. El nombre francés y el nácar del ejemplar respaldan una lectura nacarada del epíteto. La motivación expresa de Montfort para ambos nombres sigue pendiente.",
+    "sources": [
+      {"url": "https://archive.org/details/conchyliologiesy11deny/page/90/mode/2up", "title": "Montfort, Conchyliologie systématique, I, pp. 90–91 — formas amalté y Amaltheus, amalté perlé y nácar del ejemplar"},
+      {"url": "https://www.summagallicana.it/Agassiz_nomenclator_zoologicus/Mollusca.htm", "title": "Agassiz, Nomenclator Zoologicus, Mollusca — atribución del género al nombre mitológico Amaltea"},
+      {"url": "https://opac.geologie.ac.at/ais312/dokumente/JB1342_171_A.pdf", "title": "Revisión paleontológica de Amaltheus — morfología y referencia a Montfort"},
+      {"url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/r04083", "title": "Muséum national d’Histoire naturelle — neotipo R04083"},
+      {"url": "https://bspg.snsb.de/juli-2011-grosser-ammonit-aus-dem-lias-frankens/", "title": "Colección Estatal Bávara de Paleontología y Geología — quilla, costillas y variación con el tamaño"},
+      {"url": "https://chipes.org/wp-content/uploads/2023/08/Helm-Dictionary-of-Scientific-Bird-Names-James-A.-Jobling.pdf", "title": "Jobling, voz margaritatus — significado del adjetivo latino"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Conchas o moldes con vueltas y borde ventral conservados. Mantener la determinación al género cuando falten rasgos de especie."
+  },
+  "anomalocaris": {
+    "commonName": null,
+    "description": "Género de radiodontos marinos del Cámbrico. Los ejemplares articulados muestran apéndices frontales segmentados, ojos pedunculados y lóbulos laterales a lo largo del cuerpo.",
+    "diagnostics": [
+      "En un ejemplar articulado, localizar los dos apéndices frontales y observar su relación con la cabeza y los lóbulos del tronco.",
+      "En un apéndice aislado, comparar sus segmentos y espinas con material de colección identificado.",
+      "Una reconstrucción o un fragmento sin procedencia no basta para asignar una especie."
+    ],
+    "etymology": "Anomalocaris significa camarón distinto de los demás según el Royal Ontario Museum. Whiteaves dio el nombre en 1892 al interpretar un apéndice frontal aislado como parte del cuerpo de un camarón.",
+    "sources": [
+      {"url": "https://burgess-shale.rom.on.ca/history/discoveries/", "title": "Royal Ontario Museum — nombre del género y reproducción de la figura original de Whiteaves"},
+      {"url": "https://burgess-shale.rom.on.ca/fossils/anomalocaris-canadensis/", "title": "Royal Ontario Museum — anatomía y reinterpretación de los ejemplares"}
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género. Usar fósiles, reconstrucciones o réplicas con identificación documentada."
+  },
+  "australopithecus-africanus": {
+    "commonName": null,
+    "description": "Homínido fósil del sur de África. El cráneo juvenil de Taung sirvió a Raymond Dart para describir la especie en 1925.",
+    "diagnostics": [
+      "En el ejemplar de Taung, observar la cara juvenil y el molde natural de la cavidad craneal.",
+      "Cuando se vea la base del cráneo, localizar el foramen magno. Su posición adelantada es coherente con el bipedismo.",
+      "Usar la determinación de la colección y el contexto del hallazgo para distinguir la especie de otros australopitecos."
+    ],
+    "etymology": "Australopithecus combina el latín australis, meridional, y el griego píthēkos, simio. Africanus significa africano. Dart presentó la especie de Taung como un homínido del sur de África.",
+    "sources": [
+      {"url": "https://www.nature.com/articles/115195a0", "title": "Raymond Dart, 1925 — descripción original de Australopithecus africanus"},
+      {"url": "https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-africanus", "title": "Smithsonian Human Origins Program — anatomía y significado del binomio"},
+      {"url": "https://www.si.edu/object/australopithecus-africanus%3Adpo_3d_200043", "title": "Smithsonian — réplica de Taung y posición del foramen magno"}
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Restos y réplicas con identificación documentada. El niño de Taung es el ejemplar de referencia."
+  },
+  "alveolina": {
+    "commonName": null,
+    "description": "Género de foraminíferos fósiles con test calcáreo y numerosas cámaras. El contorno puede ser ovoide o fusiforme.",
+    "diagnostics": [
+      "En una sección axial, buscar el enrollamiento alrededor del eje largo del test.",
+      "Observar cómo se subdividen las cámaras en compartimentos más pequeños.",
+      "Comparar secciones de orientación conocida. La forma externa por sí sola no permite distinguir todos los géneros afines."
+    ],
+    "etymology": "D’Orbigny publicó el nombre Alveolina en 1826 (p. 306), con la forma francesa Alvéoline, y mencionó el nombre Alvéolite de Bosc. Describió cámaras divididas en numerosas cavidades por tabiques transversales. La descripción concuerda con una lectura a partir del latín alveolus, cavidad pequeña. La motivación expresa de d’Orbigny sigue pendiente.",
+    "sources": [
+      {"url": "https://archive.org/details/annalesdesscienc07natr/page/306/mode/1up", "title": "D’Orbigny, Tableau méthodique de la classe des Céphalopodes (1826), p. 306 — nombre y descripción originales"},
+      {"url": "https://www.gbif.org/taxon/7Y397", "title": "Catalogue of Life en GBIF — género y referencia a d’Orbigny, 1826"},
+      {"url": "https://link.springer.com/article/10.1186/s42501-020-0054-2", "title": "Estudio de foraminíferos de Safranbolu — secciones y caracteres de Alveolina"},
+      {"url": "https://mobot.org/mobot/latindict/keyDetail.aspx?keyWord=alveolus", "title": "Missouri Botanical Garden, voz alveolus — cavidad pequeña"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género. Para determinar una especie se necesitan secciones diagnósticas."
+  },
+  "asterophyllites": {
+    "commonName": null,
+    "description": "Género fósil de brotes con hojas de plantas emparentadas con los equisetos. Las hojas estrechas se agrupan en verticilos a lo largo de ejes articulados.",
+    "diagnostics": [
+      "Localizar varios nudos consecutivos y comprobar que las hojas salen en verticilos.",
+      "Observar la estrechez y orientación de las hojas. La compresión puede ocultar parte del verticilo.",
+      "Mantener la determinación como follaje fósil. La asociación con tallos u órganos reproductores requiere evidencia de conexión."
+    ],
+    "etymology": "Mantell explica Asterophyllites por la disposición estrellada de las hojas. El nombre combina los elementos griegos de estrella y hoja, con la terminación usada en nombres de fósiles.",
+    "sources": [
+      {"url": "https://journals.sagepub.com/doi/abs/10.1177/05529360251400413", "title": "Revisión de equisetales carboníferos — género fósil conservado y morfología de los verticilos"},
+      {"url": "https://archive.bgbm.org/iapt/nomenclature/code/saintLouis/0108AppendixIIIANGEfp004.htm", "title": "Código de nomenclatura — referencia a Brongniart, Prodrome, 1828"},
+      {"url": "https://www.gutenberg.org/cache/epub/62891/pg62891-images.html", "title": "Mantell, The Medals of Creation, cap. VI — interpretación del nombre y terminación fósil"}
+    ],
+    "reviewedAt": "2026-11-07",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de follaje del género fósil. Usar fragmentos con varios nudos visibles."
+  },
+  "belemnitella": {
+    "commonName": null,
+    "description": "Género de cefalópodos marinos del Cretácico superior. El resto que se conserva con mayor frecuencia es el rostro calcáreo, parte de su esqueleto interno.",
+    "diagnostics": [
+      "Orientar el rostro y distinguir la punta del extremo anterior, donde se abre el alvéolo.",
+      "Buscar la fisura ventral junto al alvéolo. La fisura se comparte con otros belemnitélidos.",
+      "Comparar el perfil y la geometría del alvéolo y de la fisura con ejemplares documentados. Una punta aislada suele ser insuficiente para determinar el género."
+    ],
+    "etymology": "La raíz de los nombres de los belemnites remite al griego bélemnon, dardo o jabalina. D’Orbigny publicó Belemnitella en 1840 como subgénero y lo distinguió de los belemnites por una fisura anterior ventral y dos impresiones dorsolaterales en el rostro. Su descripción original no explica por qué eligió la forma Belemnitella. La motivación del nombre sigue pendiente.",
+    "sources": [
+      {"url": "https://archive.org/details/palontologiefr01orbiuoft/page/59/mode/1up", "title": "D’Orbigny, Paléontologie française, Terrains crétacés, t. I (1840), p. 59 — descripción original del subgénero"},
+      {"url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/belemnites/", "title": "British Geological Survey — rostro, cronología y raíz del nombre de los belemnites"},
+      {"url": "https://www.vliz.be/imisdocs/publications/276914.pdf", "title": "Institut royal des Sciences naturelles de Belgique — caracteres del rostro de Belemnitella"},
+      {"url": "https://research.nhm.org/pdfs/19766/19766-001.pdf", "title": "ICZN, Official Lists and Indexes — referencia a d’Orbigny, 1840, p. 59"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género. Priorizar rostros con extremo anterior conservado y determinación documentada."
+  },
+  "calamites": {
+    "commonName": null,
+    "description": "Género fósil de tallos articulados de plantas emparentadas con los equisetos. Muchos ejemplares son moldes del interior del tallo formados por sedimento.",
+    "diagnostics": [
+      "Buscar nudos transversales repetidos y costillas longitudinales en los entrenudos.",
+      "Seguir las costillas al cruzar un nudo y observar si alternan de posición.",
+      "Distinguir un molde de la cavidad medular de un resto de la superficie externa. La preservación cambia los rasgos visibles."
+    ],
+    "etymology": "Calamites se relaciona con el latín calamus, caña. En 1820 Sternberg usó la grafía Calamitis al nombrar Calamitis pseudobambusia. Remitió a los calamites de autores anteriores y comparó sus tallos con el bambú, del que los distinguió por las articulaciones sin nudos engrosados y las estrías más marcadas. El pasaje documenta el uso previo del nombre y la comparación. La motivación exacta de la grafía genérica sigue pendiente.",
+    "sources": [
+      {"url": "https://archive.org/details/versucheinergeo1syte/page/n71/mode/1up", "title": "Sternberg, Flora der Vorwelt, t. I, fasc. 1 (1820), p. 22 — calamites de autores anteriores y comparación con el bambú"},
+      {"url": "https://archive.org/details/versucheinergeo1syte/page/n73/mode/1up", "title": "Sternberg, Flora der Vorwelt, t. I, fasc. 1 (1820), p. 24 — grafía original Calamitis y referencias a Walch y Volkmann"},
+      {"url": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf", "title": "Cleal y Thomas — grafía conservada Calamites y referencia a Sternberg"},
+      {"url": "https://samnoblemuseum.ou.edu/common-fossils-of-oklahoma/plant-fossils/fossils-by-plant-group/fossil-sphenophytes/", "title": "Sam Noble Museum — nudos, costillas y moldes de la cavidad medular"},
+      {"url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12045", "title": "Estudio de tallos de Calamites conservados in situ — anatomía y preservación"},
+      {"url": "https://wehd.com/13/Calamite.html", "title": "Diccionario histórico, voz Calamite — raíz latina calamus"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de tallos del género fósil. Los órganos asociados requieren evidencia de conexión."
+  },
+  "gryphaea-arcuata": {
+    "commonName": null,
+    "description": "Ostra fósil del Jurásico inferior. Sus dos valvas son muy desiguales. La izquierda es gruesa, abombada y tiene un umbo curvado. La derecha es mucho más plana.",
+    "diagnostics": [
+      "Localizar el umbo y seguir la curvatura de la valva izquierda en vista lateral.",
+      "Buscar líneas de crecimiento en la superficie de la valva abombada.",
+      "Si se conserva la valva derecha, comparar su perfil aplanado con el de la izquierda. Para la identificación de especie, contrastar con ejemplares de procedencia conocida."
+    ],
+    "etymology": "El latín arcuata significa arqueada. Lamarck publicó la especie con el nombre francés gryphée arquée, coherente con la curvatura de la valva. El origen preciso del nombre genérico sigue pendiente.",
+    "sources": [
+      {"url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/a50204?listIndex=919", "title": "Muséum national d’Histoire naturelle — sintipos y referencia a Lamarck"},
+      {"url": "https://fr.wikisource.org/wiki/Syst%C3%A8me_des_Animaux_sans_vert%C3%A8bres", "title": "Lamarck, Système des animaux sans vertèbres (1801), p. 398 — descripción y nombre original"},
+      {"url": "https://www.nms.ac.uk/collections/search/object?entry=690980&page=1&scientific-name=Gryphaea+arcuata&view=cards", "title": "National Museums Scotland — ejemplares del Jurásico inferior"},
+      {"url": "https://logeion.org/arcuatus", "title": "Logeion, voz arcuatus — arqueado"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie centrada en la concha fósil."
+  },
+  "mammuthus-primigenius": {
+    "commonName": "mamut lanudo",
+    "description": "Proboscídeo extinto del Pleistoceno, de pelaje denso y defensas curvadas. Sus molares tienen numerosas láminas de esmalte que forman bandas en la superficie de desgaste.",
+    "diagnostics": [
+      "En un molar, localizar la superficie de masticación y observar la serie de bandas transversales de esmalte.",
+      "Comparar el grosor y la densidad de las láminas en dientes equivalentes. La posición del molar y el desgaste afectan al aspecto.",
+      "Una defensa aislada permite reconocer un proboscídeo. Para determinar la especie, recurrir a rasgos dentales diagnósticos y a la procedencia."
+    ],
+    "etymology": "Mammuthus es una latinización del nombre del mamut, documentado en ruso como mamont. El latín primigenius significa primero de su clase u originario. Quedan pendientes el origen remoto de la voz y la motivación expresa de Blumenbach para el epíteto.",
+    "sources": [
+      {"url": "https://cvc.cervantes.es/el_rinconete/anteriores/agosto_03/05082003_01.htm", "title": "Centro Virtual Cervantes — nombre español y uso histórico de mamut"},
+      {"url": "https://elib.sfu-kras.ru/bitstream/handle/2311/142856/luzan.pdf?sequence=1", "title": "Sitnikova — testimonios históricos de la voz mamut y latinización científica"},
+      {"url": "https://www.zin.ru/journals/trudyzin/doc/vol_318_1/tz_318_1_shpansky.pdf", "title": "Instituto Zoológico de la Academia de Ciencias de Rusia — variación dental de Mammuthus primigenius"},
+      {"url": "https://www.si.edu/object/woolly-mammoth%3Anmnheducation_13951472", "title": "Smithsonian — molar de mamut lanudo"},
+      {"url": "https://logeion.org/primigenius", "title": "Logeion, voz primigenius — originario o primero de su clase"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La fotografía aprobada corresponde a un molar."
+  },
+  "stigmaria-ficoides": {
+    "commonName": null,
+    "description": "Forma fósil del sistema de enraizamiento de licófitos arborescentes. Sus ejes, que pueden bifurcarse, llevaban numerosas raicillas.",
+    "diagnostics": [
+      "Buscar marcas redondeadas de inserción de raicillas sobre el eje.",
+      "Seguir la disposición de las marcas alrededor del eje y observar si se conservan raicillas unidas.",
+      "En piezas ramificadas, comparar ambas ramas. El grado de simetría puede variar."
+    ],
+    "etymology": "Sternberg publicó el epíteto en la combinación Variolaria ficoides. Brongniart lo trasladó a Stigmaria en 1822. Queda pendiente documentar la motivación original de ambos nombres.",
+    "sources": [
+      {"url": "https://www.journals.uchicago.edu/doi/full/10.1086/728642", "title": "Estudio de Stigmaria ficoides — ramificación y asociación con varias familias de licófitos"},
+      {"url": "https://www.journals.uchicago.edu/doi/abs/10.1086/720641", "title": "Revisión anatómica de Stigmaria — ejes y disposición de las raicillas"},
+      {"url": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf", "title": "Cleal y Thomas — Variolaria ficoides y combinación de Brongniart"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de una forma fósil de enraizamiento documentada en licófitos de distintas familias. Para identificar la planta completa hacen falta órganos asociados."
+  },
+  "paranthropus-boisei": {
+    "commonName": null,
+    "description": "Homínido fósil de África oriental con cara ancha y molares y premolares muy grandes. El cráneo OH 5, hallado por Mary Leakey en Olduvai, es el ejemplar tipo.",
+    "diagnostics": [
+      "En vista frontal, observar la expansión lateral de los arcos cigomáticos.",
+      "Comparar el tamaño de los molares y premolares con el de los dientes anteriores cuando se conserven.",
+      "En vista lateral o superior, buscar la cresta sagital. Su desarrollo varía entre ejemplares."
+    ],
+    "etymology": "Paranthropus combina los elementos griegos para, junto a, y anthropos, ser humano. Leakey publicó la especie como Zinjanthropus boisei en 1959. El epíteto honra a Charles Boise, que apoyó las investigaciones de los Leakey.",
+    "sources": [
+      {"url": "https://www.nature.com/articles/184491a0", "title": "Leakey, A New Fossil Skull From Olduvai (1959) — descripción original"},
+      {"url": "https://humanorigins.si.edu/evidence/human-fossils/species/paranthropus-boisei", "title": "Smithsonian — anatomía comparada, variación y ejemplar tipo"},
+      {"url": "https://australian.museum/learn/science/human-evolution/paranthropus-species/", "title": "Australian Museum — género y significado de Paranthropus"},
+      {"url": "https://leakeyfoundation.org/the-discovery-of-zinj/", "title": "The Leakey Foundation — dedicatoria a Charles Boise"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie centrada en el cráneo y la dentición."
+  },
+  "palaeoloxodon-antiquus": {
+    "commonName": "elefante de defensas rectas",
+    "description": "Elefante fósil documentado en Europa durante el Pleistoceno. El cráneo presenta una cresta parietooccipital que sobresale sobre la frente, cuyo desarrollo varía con el crecimiento.",
+    "diagnostics": [
+      "En cráneos conservados, observar en perfil la proyección de la cresta parietooccipital.",
+      "Si se conserva un molar, examinar la superficie de desgaste y compararla con ejemplares documentados de la misma posición dental.",
+      "En una defensa aislada, contrastar la curvatura y la procedencia con el resto del material asociado antes de determinar la especie."
+    ],
+    "etymology": "El latín antiquus significa antiguo. Queda pendiente documentar la motivación de Falconer y Cautley para el epíteto y el origen exacto de Palaeoloxodon.",
+    "sources": [
+      {"url": "https://www.sciencedirect.com/science/article/pii/S0277379119302690", "title": "Estudio de cráneos de Palaeoloxodon — variación y cresta parietooccipital"},
+      {"url": "https://ceres.mcu.es/pages/ResultSearch?MuseumsRolSearch=27&MuseumsSearch=&hipertextSearch=1&listaMuseos=null&search=simpleSelection&simpleSearch=0&txtSimpleSearch=Palaeoloxodon+antiquus", "title": "CER.ES — denominación española y ejemplares de museo"},
+      {"url": "https://logeion.org/antiquus", "title": "Logeion, voz antiquus — antiguo"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La cresta se interpreta teniendo en cuenta la edad del ejemplar."
+  },
+  "dalmanites-socialis": {
+    "commonName": null,
+    "description": "Trilobite del Ordovícico superior. El grupo de Dalmanitina socialis presenta ojos grandes y espinas largas en el cefalón y el pigidio.",
+    "diagnostics": [
+      "Observar los ojos y el ensanchamiento del lóbulo anterior de la glabela.",
+      "Localizar las espinas genales en el cefalón y la espina terminal del pigidio.",
+      "En el pigidio, comparar los anillos del eje y los surcos laterales con ejemplares determinados. Estos rasgos se comparten con especies próximas."
+    ],
+    "etymology": "Barrande publicó la especie como Phacops socialis. El epíteto latino socialis significa social o asociado. Quedan pendientes la motivación de Barrande y la explicación original del nombre Dalmanitina.",
+    "sources": [
+      {
+        "url": "https://trilobite.treatise.geolex.org/displayInfo.php?genera=Dalmanitina",
+        "title": "Treatise on Invertebrate Paleontology — clasificación y especie tipo"
+      },
+      {
+        "url": "https://riviste.unimi.it/index.php/RIPS/article/download/20845/20128/67020",
+        "title": "Estudio de Dalmanitina del Ordovícico superior — caracteres y procedencia"
+      },
+      {
+        "url": "https://logeion.org/socialis",
+        "title": "Logeion, voz socialis"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de Dalmanitina socialis. El listado PRECEGE emplea la combinación Dalmanites socialis."
+  },
+  "parkinsonia-parkinsoni": {
+    "commonName": null,
+    "description": "Ammonite del Jurásico medio documentado en el Bajociense superior. La concha enrollada presenta costillas que se dividen en el flanco y se interrumpen en el vientre.",
+    "diagnostics": [
+      "En vista lateral, observar el ombligo y seguir las costillas desde el borde umbilical.",
+      "Localizar el punto donde se bifurcan las costillas y comparar su orientación.",
+      "En vista ventral, comprobar la interrupción de las costillas y contrastar el perfil de la vuelta con ejemplares determinados."
+    ],
+    "etymology": "La especie se publicó como Ammonites parkinsoni. El epíteto es una dedicatoria a James Parkinson. Queda pendiente cotejar la explicación original del nombre genérico.",
+    "sources": [
+      {
+        "url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/j07849?listIndex=197",
+        "title": "Muséum national d’Histoire naturelle — ejemplar figurado y clasificación"
+      },
+      {
+        "url": "https://actapalrom.geo-paleontologica.org/APR_v_11_2/Majidifard.pdf",
+        "title": "Majidifard — descripción de ejemplares y referencia a la combinación original"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/386295185_200_years_since_the_death_of_James_Parkinson",
+        "title": "200 years since the death of James Parkinson — dedicatoria del ammonite"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La conservación del vientre ayuda a contrastar la identificación."
+  },
+  "trigonia-navis": {
+    "commonName": null,
+    "description": "Bivalvo marino fósil del Jurásico. Se conocen ejemplares con valvas unidas, incluido un sintipo de la colección de Lamarck.",
+    "diagnostics": [
+      "Orientar la valva por el umbo y observar cómo se prolonga hacia el extremo posterior.",
+      "Comparar las costillas del flanco y la zona posterior con las de ejemplares publicados.",
+      "Si se conservan ambas valvas, observar el perfil de la concha y la forma del borde dorsal."
+    ],
+    "etymology": "El epíteto navis es el sustantivo latino para nave. Lamarck lo publicó en Trigonia navis. La motivación expresa de Lamarck y el origen exacto de Scaphotrigonia siguen pendientes.",
+    "sources": [
+      {
+        "url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/a50239?listIndex=949",
+        "title": "Muséum national d’Histoire naturelle — sintipo de Lamarck y revisión como Scaphotrigonia navis"
+      },
+      {
+        "url": "https://www.zobodat.at/pdf/Palaeodiversity_14_0015-0113.pdf",
+        "title": "Estudio de la Formación Opalinuston — ejemplares figurados de Scaphotrigonia navis"
+      },
+      {
+        "url": "https://logeion.org/navis",
+        "title": "Logeion, voz navis"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de Scaphotrigonia navis. El listado PRECEGE emplea la combinación original Trigonia navis."
+  },
+  "phacops-latifrons": {
+    "commonName": null,
+    "description": "Trilobite del Devónico medio documentado en el Eifel y el Sauerland, en Alemania. Es la especie tipo del género Phacops.",
+    "diagnostics": [
+      "En el cefalón, localizar la glabela y observar el contorno y la ornamentación de su superficie.",
+      "En los ojos compuestos, buscar las lentes individuales cuando se conserven.",
+      "Comparar el eje y los surcos del pigidio con ejemplares documentados. La procedencia estratigráfica ayuda a distinguir identificaciones históricas dudosas."
+    ],
+    "etymology": "El nombre original es Calymene latifrons. El epíteto combina el latín latus, ancho, y frons, frente. La motivación expresa de Bronn y la explicación original de Phacops siguen pendientes.",
+    "sources": [
+      {
+        "url": "https://mczbase.mcz.harvard.edu/guid/MCZ%3AIP%3A111041",
+        "title": "Museum of Comparative Zoology — ejemplar de referencia del Eifel y clasificación"
+      },
+      {
+        "url": "https://www.lwl.org/wmfn-download/Geologie_und_Palaeontologie_in_Westfalen/GuP_Heft_90_Seite_25-65.pdf",
+        "title": "Helling y Schöllmann — especie tipo y combinación original"
+      },
+      {
+        "url": "https://www.vliz.be/imisdocs/publications/ocrd/252598.pdf",
+        "title": "Estudio de trilobites de Hanonet — revisión de citas atribuidas a Phacops latifrons"
+      },
+      {
+        "url": "https://logeion.org/latus",
+        "title": "Logeion, voz latus — ancho"
+      },
+      {
+        "url": "https://logeion.org/frons",
+        "title": "Logeion, voz frons — frente"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. Los rasgos generales del cefalón se comparten con otros facópidos."
+  },
+  "carcharocles-megalodon": {
+    "commonName": "megalodón",
+    "description": "Tiburón extinto del orden Lamniformes. Sus restos más frecuentes son dientes, con coronas triangulares anchas y bordes aserrados.",
+    "diagnostics": [
+      "Observar la forma y las serraciones de ambos bordes de la corona.",
+      "En la cara interna, examinar la banda entre corona y raíz y comprobar si se conserva la raíz bilobulada.",
+      "Comparar dientes de posiciones equivalentes. La forma y el tamaño cambian según la posición en la mandíbula."
+    ],
+    "etymology": "El epíteto megalodon significa diente grande. El American Museum of Natural History interpreta Otodus como diente en forma de oreja. Queda pendiente cotejar la explicación original del nombre genérico histórico Carcharocles.",
+    "sources": [
+      {
+        "url": "https://www.amnh.org/explore/ology/ology-cards/379-megalodon",
+        "title": "American Museum of Natural History — restos y significado de Otodus megalodon"
+      },
+      {
+        "url": "https://naturalhistory.si.edu/exhibits/mega-toothed-shark",
+        "title": "Smithsonian — dientes y denominación histórica Carcharocles megalodon"
+      },
+      {
+        "url": "https://www.si.edu/object/nmnhpaleobiology_3406122",
+        "title": "Smithsonian — diente de colección y clasificación en Otodontidae"
+      },
+      {
+        "url": "https://palaeo-electronica.org/content/current-in-press-articles/3284-estimating-lamniform-body-size",
+        "title": "Estudio de denticiones fósiles — variación según la posición y uso de Otodus"
+      },
+      {
+        "url": "https://alquivir.ujaen.es/museo/otodus-megalodon/",
+        "title": "Museo Paleontológico Virtual de la Universidad de Jaén — diente y nombre común megalodón"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de Otodus megalodon. El listado PRECEGE usa Carcharocles megalodon."
+  },
+  "rana-pueyoi": {
+    "commonName": null,
+    "description": "Rana fósil del Mioceno superior de Libros, Teruel. En el antiguo lago se preservaron esqueletos articulados y, en algunos ejemplares, improntas de tejidos blandos.",
+    "diagnostics": [
+      "En una laja con un ejemplar articulado, localizar el cráneo, la pelvis y las extremidades posteriores.",
+      "Si se conserva la región sacra, observar las expansiones laterales cilíndricas de la vértebra sacra, un carácter de los ránidos.",
+      "Contrastar la anatomía y la procedencia con ejemplares de Libros documentados. Las improntas de tejidos aportan información sobre la conservación."
+    ],
+    "etymology": "Navás describió la especie como Rana pueyoi y dedicó el epíteto al descubridor de los fósiles, Pueyo. Queda pendiente cotejar la explicación original del género Pelophylax.",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1080/02724634.2022.2162410",
+        "title": "Estudio del ejemplar in situ de Libros — identificación, edad y anatomía"
+      },
+      {
+        "url": "https://museonat.es/historia-rana-fosil-mina/",
+        "title": "Museo de Ciencias Naturales de la Universidad de Zaragoza — holotipo y dedicatoria"
+      },
+      {
+        "url": "https://web.igme.es/museo/pieza_mes/2015/junio.htm",
+        "title": "Museo Geominero — ejemplar de Pelophylax pueyoi y yacimiento"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de Pelophylax pueyoi. El listado PRECEGE usa la combinación original Rana pueyoi."
+  },
+  "homo-heidelbergensis": {
+    "commonName": null,
+    "description": "Homínido fósil del Pleistoceno medio descrito a partir de la mandíbula de Mauer, cerca de Heidelberg, Alemania.",
+    "diagnostics": [
+      "En la mandíbula de Mauer, observar el cuerpo grueso y la rama ascendente ancha.",
+      "En vista lateral, comparar la región anterior retraída con la de mandíbulas que presentan un mentón prominente.",
+      "Comparar la dentición con la robustez de la mandíbula. La atribución de otros fósiles a esta especie sigue en debate."
+    ],
+    "etymology": "Homo es el sustantivo latino para ser humano. Heidelbergensis significa de Heidelberg y alude a la ciudad cercana a Mauer, donde se halló la mandíbula tipo.",
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2993404/",
+        "title": "Estudio del yacimiento tipo de Mauer — procedencia y datación"
+      },
+      {
+        "url": "https://doi.org/10.1002/evan.21311",
+        "title": "Stringer — anatomía de la mandíbula tipo y límites discutidos de la especie"
+      },
+      {
+        "url": "https://australian.museum/learn/science/human-evolution/homo-heidelbergensis/",
+        "title": "Australian Museum — significado del nombre"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie centrada en la mandíbula tipo de Mauer."
+  },
+  "homo-sapiens": {
+    "commonName": null,
+    "description": "Especie humana actual, documentada también por fósiles del Pleistoceno. El cráneo suele presentar una bóveda redondeada y una frente alta.",
+    "diagnostics": [
+      "En vista lateral, observar la altura de la frente y la forma general de la bóveda craneal.",
+      "Si se conserva la mandíbula, examinar el perfil de la sínfisis y el desarrollo del mentón.",
+      "Comparar el conjunto de rasgos. Los ejemplares fósiles tempranos pueden combinar rasgos propios de la especie con otros arcaicos."
+    ],
+    "etymology": "Homo significa ser humano en latín. Sapiens significa sabio o sensato. Linneo publicó Homo sapiens en la décima edición de Systema naturae, en 1758.",
+    "sources": [
+      {
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens",
+        "title": "Smithsonian — anatomía y variación en los fósiles de Homo sapiens"
+      },
+      {
+        "url": "https://www.biodiversitylibrary.org/item/10277",
+        "title": "Linneo, Systema naturae, 10.ª edición (1758)"
+      },
+      {
+        "url": "https://logeion.org/sapiens",
+        "title": "Logeion, voz sapiens — sabio o sensato"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie centrada en restos craneales, conforme al listado de fósiles PRECEGE."
+  },
+  "tiktaalik": {
+    "commonName": null,
+    "description": "Género de vertebrados del Devónico tardío conocido por fósiles del Ártico canadiense. Presenta aletas con radios y un cráneo aplanado, con rasgos del linaje próximo al origen de los tetrápodos.",
+    "diagnostics": [
+      "Observar en vista dorsal el cráneo aplanado y la posición superior de los ojos.",
+      "En ejemplares articulados, examinar la separación entre el cráneo y la cintura pectoral, compatible con un cuello móvil.",
+      "En la aleta pectoral, distinguir los radios de los huesos internos articulados. Ambos forman parte de la aleta."
+    ],
+    "etymology": "En la descripción original, los autores indican que Tiktaalik procede del inuktitut y designa un pez grande de agua dulce que se ve en aguas someras. El nombre se propuso tras consultar a representantes de Nunavut.",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1038/nature04639",
+        "title": "Daeschler, Shubin y Jenkins — descripción original de Tiktaalik y origen del nombre"
+      },
+      {
+        "url": "https://doi.org/10.1038/nature04637",
+        "title": "Shubin, Daeschler y Jenkins — anatomía de la aleta pectoral"
+      },
+      {
+        "url": "https://science.nasa.gov/earth/earth-observatory/fishapod-fossil-found-in-the-arctic-6443/",
+        "title": "NASA Earth Observatory — hallazgo y consulta a los mayores de Nunavut"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género basada en los ejemplares de Tiktaalik roseae descritos en 2006."
+  },
+  "favosites": {
+    "commonName": null,
+    "description": "Coral colonial tabulado. Sus coralitos prismáticos comparten paredes y, vistos desde arriba, forman un mosaico de aspecto parecido a un panal.",
+    "diagnostics": [
+      "En una superficie transversal, observar los contornos poligonales de los coralitos.",
+      "En un corte longitudinal, buscar las tabulas que atraviesan el interior de los coralitos.",
+      "Si las paredes se conservan, examinar los poros murales. El aspecto de panal por sí solo se comparte con otros tabulados."
+    ],
+    "etymology": "El nombre se relaciona con el latín favus, panal, por el aspecto de la colonia. Queda pendiente cotejar si Lamarck explicó la elección en la publicación original.",
+    "sources": [
+      {
+        "url": "https://cnidaria.treatise.geolex.org/displayInfo.php?genera=Favosites",
+        "title": "Treatise on Invertebrate Paleontology — caracteres y clasificación"
+      },
+      {
+        "url": "https://collections.geoscienze.unipd.it/favosites",
+        "title": "Università di Padova — ejemplar, orden y familia"
+      },
+      {
+        "url": "https://ohiodnr.gov/discover-and-learn/rock-minerals-fossils/fossils/tabulate-coral",
+        "title": "Ohio Department of Natural Resources — origen de Favosites en favus"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Los cortes de la colonia muestran caracteres complementarios."
+  },
+  "nummulites": {
+    "commonName": null,
+    "description": "Género de foraminíferos bentónicos marinos con test calcáreo discoidal o lenticular. En la sección ecuatorial se observan las cámaras dispuestas en espiral.",
+    "diagnostics": [
+      "Comparar el contorno circular en vista de cara con el grosor del disco visto de canto.",
+      "En una sección ecuatorial, seguir las vueltas y los tabiques entre cámaras.",
+      "En ejemplares seccionados, contrastar la disposición de las cámaras con la ornamentación de la superficie y la procedencia."
+    ],
+    "etymology": "El nombre deriva del latín nummus, moneda, por el aspecto discoidal del test. Queda pendiente cotejar si Lamarck explicó la elección en la descripción original.",
+    "sources": [
+      {
+        "url": "https://www.aucklandmuseum.com/discover/collections/topics/ancient-currency-or-petrified-food",
+        "title": "Auckland Museum — ejemplares, forma y etimología"
+      },
+      {
+        "url": "https://www.marinespecies.org/aphia.php?id=111937&p=taxdetails",
+        "title": "World Foraminifera Database — Nummulites en Nummulitidae"
+      },
+      {
+        "url": "https://iris.unife.it/retrieve/16cefeb1-4476-4549-b4d0-c99929931602/PhD_MonicaBolivarFeriche.pdf",
+        "title": "Università di Ferrara — caracteres externos e internos en sección ecuatorial"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Las secciones diagnósticas ayudan a distinguir especies."
+  },
+  "flexicalimene": {
+    "commonName": null,
+    "description": "Trilobite caliménido documentado en el Ordovícico. Se conocen ejemplares extendidos y enrollados, con el cefalón y el pigidio enfrentados al cerrarse.",
+    "diagnostics": [
+      "Localizar la glabela y observar sus lóbulos y surcos en vista dorsal.",
+      "Si se conserva el cefalón completo, comparar su borde anterior y los ángulos genales con ejemplares figurados.",
+      "Examinar la segmentación del tórax y del pigidio. El enrollamiento se comparte con otros trilobites."
+    ],
+    "etymology": "Shirley publicó el género Flexicalymene en 1936. Queda pendiente cotejar la explicación original de la elección del nombre.",
+    "sources": [
+      {
+        "url": "https://bioone.org/journals/american-museum-novitates/volume-2024/issue-4029/4029.1/Unravelling-Parallel-Conceptions-of-the-Ordovician-Trilobite-Flexicalymene-senaria-Conrad/10.1206/4029.1.pdf",
+        "title": "Hopkins y Martin — revisión, ejemplares figurados y clasificación"
+      },
+      {
+        "url": "https://www.ordovicianatlas.org/atlas/arthropoda/trilobita/phacopida/calymenidae/flexicalymene/",
+        "title": "Atlas of Ordovician Life — caracteres del género y ejemplares"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Para determinar especies se necesitan caracteres cefálicos y pigidiales bien conservados."
+  },
+  "dactylioceras": {
+    "commonName": null,
+    "description": "Ammonite del Jurásico inferior, frecuente en depósitos toarcienses. La concha muestra un ombligo amplio y costillas que pueden bifurcarse en los flancos.",
+    "diagnostics": [
+      "En vista lateral, observar cuánto se solapan las vueltas y la anchura del ombligo.",
+      "Seguir las costillas por el flanco para distinguir las simples de las bifurcadas.",
+      "Si el vientre se conserva, observar cómo lo cruzan las costillas y comparar la sección de la vuelta con ejemplares figurados."
+    ],
+    "etymology": "Una interpretación publicada relaciona el nombre con el griego daktylion, anillo, y keras, cuerno. Hyatt describió el género en 1867. La motivación expresa del autor sigue pendiente.",
+    "sources": [
+      {
+        "url": "https://opac.geologie.ac.at/ais312/dokumente/Hyatt_1863-69_Cephalopods.pdf",
+        "title": "Hyatt — publicación original del género"
+      },
+      {
+        "url": "https://geojournals.pgi.gov.pl/agp/article/download/10314/8826/14665",
+        "title": "Estudio de dactiliocerátidos toarcienses — clasificación y ejemplares figurados"
+      },
+      {
+        "url": "https://www.spektrum.de/lexikon/biologie/dactylioceras/16656",
+        "title": "Lexikon der Biologie — ornamentación y lectura etimológica"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La costulación y la sección de la vuelta ayudan a precisar la identificación."
   }
 }
