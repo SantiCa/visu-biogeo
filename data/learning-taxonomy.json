@@ -50855,14 +50855,15 @@
     "commonNameStatus": "documented"
   },
   "favosites": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8387440",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://cnidaria.treatise.geolex.org/displayInfo.php?genera=Favosites",
     "matchedName": "Favosites",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Cnidaria",
       "class": "Anthozoa",
+      "order": "Favositida",
       "family": "Favositidae",
       "genus": "Favosites"
     },
@@ -50880,6 +50881,10 @@
         "name": "Anthozoa"
       },
       {
+        "rank": "order",
+        "name": "Favositida"
+      },
+      {
         "rank": "family",
         "name": "Favositidae"
       },
@@ -50891,8 +50896,9 @@
     "commonName": null,
     "commonNames": [],
     "group": "Cnidarios",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-08",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El Treatise y la colección de la Universidad de Padua sitúan Favosites en Favositida y Favositidae."
   },
   "felimare-cantabrica": {
     "provider": "iNaturalist",

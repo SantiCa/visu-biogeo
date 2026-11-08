@@ -12298,5 +12298,109 @@
     "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género basada en los ejemplares de Tiktaalik roseae descritos en 2006."
+  },
+  "favosites": {
+    "commonName": null,
+    "description": "Coral colonial tabulado. Sus coralitos prismáticos comparten paredes y, vistos desde arriba, forman un mosaico de aspecto parecido a un panal.",
+    "diagnostics": [
+      "En una superficie transversal, observar los contornos poligonales de los coralitos.",
+      "En un corte longitudinal, buscar las tabulas que atraviesan el interior de los coralitos.",
+      "Si las paredes se conservan, examinar los poros murales. El aspecto de panal por sí solo se comparte con otros tabulados."
+    ],
+    "etymology": "El nombre se relaciona con el latín favus, panal, por el aspecto de la colonia. Queda pendiente cotejar si Lamarck explicó la elección en la publicación original.",
+    "sources": [
+      {
+        "url": "https://cnidaria.treatise.geolex.org/displayInfo.php?genera=Favosites",
+        "title": "Treatise on Invertebrate Paleontology — caracteres y clasificación"
+      },
+      {
+        "url": "https://collections.geoscienze.unipd.it/favosites",
+        "title": "Università di Padova — ejemplar, orden y familia"
+      },
+      {
+        "url": "https://ohiodnr.gov/discover-and-learn/rock-minerals-fossils/fossils/tabulate-coral",
+        "title": "Ohio Department of Natural Resources — origen de Favosites en favus"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Los cortes de la colonia muestran caracteres complementarios."
+  },
+  "nummulites": {
+    "commonName": null,
+    "description": "Género de foraminíferos bentónicos marinos con test calcáreo discoidal o lenticular. En la sección ecuatorial se observan las cámaras dispuestas en espiral.",
+    "diagnostics": [
+      "Comparar el contorno circular en vista de cara con el grosor del disco visto de canto.",
+      "En una sección ecuatorial, seguir las vueltas y los tabiques entre cámaras.",
+      "En ejemplares seccionados, contrastar la disposición de las cámaras con la ornamentación de la superficie y la procedencia."
+    ],
+    "etymology": "El nombre deriva del latín nummus, moneda, por el aspecto discoidal del test. Queda pendiente cotejar si Lamarck explicó la elección en la descripción original.",
+    "sources": [
+      {
+        "url": "https://www.aucklandmuseum.com/discover/collections/topics/ancient-currency-or-petrified-food",
+        "title": "Auckland Museum — ejemplares, forma y etimología"
+      },
+      {
+        "url": "https://www.marinespecies.org/aphia.php?id=111937&p=taxdetails",
+        "title": "World Foraminifera Database — Nummulites en Nummulitidae"
+      },
+      {
+        "url": "https://iris.unife.it/retrieve/16cefeb1-4476-4549-b4d0-c99929931602/PhD_MonicaBolivarFeriche.pdf",
+        "title": "Università di Ferrara — caracteres externos e internos en sección ecuatorial"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Las secciones diagnósticas ayudan a distinguir especies."
+  },
+  "flexicalimene": {
+    "commonName": null,
+    "description": "Trilobite caliménido documentado en el Ordovícico. Se conocen ejemplares extendidos y enrollados, con el cefalón y el pigidio enfrentados al cerrarse.",
+    "diagnostics": [
+      "Localizar la glabela y observar sus lóbulos y surcos en vista dorsal.",
+      "Si se conserva el cefalón completo, comparar su borde anterior y los ángulos genales con ejemplares figurados.",
+      "Examinar la segmentación del tórax y del pigidio. El enrollamiento se comparte con otros trilobites."
+    ],
+    "etymology": "Shirley publicó el género Flexicalymene en 1936. Queda pendiente cotejar la explicación original de la elección del nombre.",
+    "sources": [
+      {
+        "url": "https://bioone.org/journals/american-museum-novitates/volume-2024/issue-4029/4029.1/Unravelling-Parallel-Conceptions-of-the-Ordovician-Trilobite-Flexicalymene-senaria-Conrad/10.1206/4029.1.pdf",
+        "title": "Hopkins y Martin — revisión, ejemplares figurados y clasificación"
+      },
+      {
+        "url": "https://www.ordovicianatlas.org/atlas/arthropoda/trilobita/phacopida/calymenidae/flexicalymene/",
+        "title": "Atlas of Ordovician Life — caracteres del género y ejemplares"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Para determinar especies se necesitan caracteres cefálicos y pigidiales bien conservados."
+  },
+  "dactylioceras": {
+    "commonName": null,
+    "description": "Ammonite del Jurásico inferior, frecuente en depósitos toarcienses. La concha muestra un ombligo amplio y costillas que pueden bifurcarse en los flancos.",
+    "diagnostics": [
+      "En vista lateral, observar cuánto se solapan las vueltas y la anchura del ombligo.",
+      "Seguir las costillas por el flanco para distinguir las simples de las bifurcadas.",
+      "Si el vientre se conserva, observar cómo lo cruzan las costillas y comparar la sección de la vuelta con ejemplares figurados."
+    ],
+    "etymology": "Una interpretación publicada relaciona el nombre con el griego daktylion, anillo, y keras, cuerno. Hyatt describió el género en 1867. La motivación expresa del autor sigue pendiente.",
+    "sources": [
+      {
+        "url": "https://opac.geologie.ac.at/ais312/dokumente/Hyatt_1863-69_Cephalopods.pdf",
+        "title": "Hyatt — publicación original del género"
+      },
+      {
+        "url": "https://geojournals.pgi.gov.pl/agp/article/download/10314/8826/14665",
+        "title": "Estudio de dactiliocerátidos toarcienses — clasificación y ejemplares figurados"
+      },
+      {
+        "url": "https://www.spektrum.de/lexikon/biologie/dactylioceras/16656",
+        "title": "Lexikon der Biologie — ornamentación y lectura etimológica"
+      }
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La costulación y la sección de la vuelta ayudan a precisar la identificación."
   }
 }
