@@ -11914,8 +11914,9 @@
       "Buscar la fisura ventral junto al alvéolo. La fisura se comparte con otros belemnitélidos.",
       "Comparar el perfil y la geometría del alvéolo y de la fisura con ejemplares documentados. Una punta aislada suele ser insuficiente para determinar el género."
     ],
-    "etymology": "La raíz de los nombres de los belemnites remite al griego bélemnon, dardo o jabalina. D’Orbigny publicó Belemnitella en 1840. Queda pendiente comprobar si explicó por qué eligió esta forma del nombre.",
+    "etymology": "La raíz de los nombres de los belemnites remite al griego bélemnon, dardo o jabalina. D’Orbigny publicó Belemnitella en 1840 como subgénero y lo distinguió de los belemnites por una fisura anterior ventral y dos impresiones dorsolaterales en el rostro. Su descripción original no explica por qué eligió la forma Belemnitella. La motivación del nombre sigue pendiente.",
     "sources": [
+      {"url": "https://archive.org/details/palontologiefr01orbiuoft/page/59/mode/1up", "title": "D’Orbigny, Paléontologie française, Terrains crétacés, t. I (1840), p. 59 — descripción original del subgénero"},
       {"url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/belemnites/", "title": "British Geological Survey — rostro, cronología y raíz del nombre de los belemnites"},
       {"url": "https://www.vliz.be/imisdocs/publications/276914.pdf", "title": "Institut royal des Sciences naturelles de Belgique — caracteres del rostro de Belemnitella"},
       {"url": "https://research.nhm.org/pdfs/19766/19766-001.pdf", "title": "ICZN, Official Lists and Indexes — referencia a d’Orbigny, 1840, p. 59"}
@@ -11932,8 +11933,11 @@
       "Seguir las costillas al cruzar un nudo y observar si alternan de posición.",
       "Distinguir un molde de la cavidad medular de un resto de la superficie externa. La preservación cambia los rasgos visibles."
     ],
-    "etymology": "Calamites se relaciona con el latín calamus, caña. La semejanza con una caña permite interpretar el nombre. La motivación exacta de Sternberg sigue pendiente de cotejo.",
+    "etymology": "Calamites se relaciona con el latín calamus, caña. En 1820 Sternberg usó la grafía Calamitis al nombrar Calamitis pseudobambusia. Remitió a los calamites de autores anteriores y comparó sus tallos con el bambú, del que los distinguió por las articulaciones sin nudos engrosados y las estrías más marcadas. El pasaje documenta el uso previo del nombre y la comparación. La motivación exacta de la grafía genérica sigue pendiente.",
     "sources": [
+      {"url": "https://archive.org/details/versucheinergeo1syte/page/n71/mode/1up", "title": "Sternberg, Flora der Vorwelt, t. I, fasc. 1 (1820), p. 22 — calamites de autores anteriores y comparación con el bambú"},
+      {"url": "https://archive.org/details/versucheinergeo1syte/page/n73/mode/1up", "title": "Sternberg, Flora der Vorwelt, t. I, fasc. 1 (1820), p. 24 — grafía original Calamitis y referencias a Walch y Volkmann"},
+      {"url": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf", "title": "Cleal y Thomas — grafía conservada Calamites y referencia a Sternberg"},
       {"url": "https://samnoblemuseum.ou.edu/common-fossils-of-oklahoma/plant-fossils/fossils-by-plant-group/fossil-sphenophytes/", "title": "Sam Noble Museum — nudos, costillas y moldes de la cavidad medular"},
       {"url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12045", "title": "Estudio de tallos de Calamites conservados in situ — anatomía y preservación"},
       {"url": "https://wehd.com/13/Calamite.html", "title": "Diccionario histórico, voz Calamite — raíz latina calamus"}
@@ -11941,5 +11945,44 @@
     "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha de tallos del género fósil. Los órganos asociados requieren evidencia de conexión."
+  },
+  "gryphaea-arcuata": {
+    "commonName": null,
+    "description": "Ostra fósil del Jurásico inferior. Sus dos valvas son muy desiguales. La izquierda es gruesa, abombada y tiene un umbo curvado. La derecha es mucho más plana.",
+    "diagnostics": [
+      "Localizar el umbo y seguir la curvatura de la valva izquierda en vista lateral.",
+      "Buscar líneas de crecimiento en la superficie de la valva abombada.",
+      "Si se conserva la valva derecha, comparar su perfil aplanado con el de la izquierda. Para la identificación de especie, contrastar con ejemplares de procedencia conocida."
+    ],
+    "etymology": "El latín arcuata significa arqueada. Lamarck publicó la especie con el nombre francés gryphée arquée, coherente con la curvatura de la valva. El origen preciso del nombre genérico sigue pendiente.",
+    "sources": [
+      {"url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/a50204?listIndex=919", "title": "Muséum national d’Histoire naturelle — sintipos y referencia a Lamarck"},
+      {"url": "https://fr.wikisource.org/wiki/Syst%C3%A8me_des_Animaux_sans_vert%C3%A8bres", "title": "Lamarck, Système des animaux sans vertèbres (1801), p. 398 — descripción y nombre original"},
+      {"url": "https://www.nms.ac.uk/collections/search/object?entry=690980&page=1&scientific-name=Gryphaea+arcuata&view=cards", "title": "National Museums Scotland — ejemplares del Jurásico inferior"},
+      {"url": "https://logeion.org/arcuatus", "title": "Logeion, voz arcuatus — arqueado"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie centrada en la concha fósil."
+  },
+  "mammuthus-primigenius": {
+    "commonName": "mamut lanudo",
+    "description": "Proboscídeo extinto del Pleistoceno, de pelaje denso y defensas curvadas. Sus molares tienen numerosas láminas de esmalte que forman bandas en la superficie de desgaste.",
+    "diagnostics": [
+      "En un molar, localizar la superficie de masticación y observar la serie de bandas transversales de esmalte.",
+      "Comparar el grosor y la densidad de las láminas en dientes equivalentes. La posición del molar y el desgaste afectan al aspecto.",
+      "Una defensa aislada permite reconocer un proboscídeo. Para determinar la especie, recurrir a rasgos dentales diagnósticos y a la procedencia."
+    ],
+    "etymology": "Mammuthus es una latinización del nombre del mamut, documentado en ruso como mamont. El latín primigenius significa primero de su clase u originario. Quedan pendientes el origen remoto de la voz y la motivación expresa de Blumenbach para el epíteto.",
+    "sources": [
+      {"url": "https://cvc.cervantes.es/el_rinconete/anteriores/agosto_03/05082003_01.htm", "title": "Centro Virtual Cervantes — nombre español y uso histórico de mamut"},
+      {"url": "https://elib.sfu-kras.ru/bitstream/handle/2311/142856/luzan.pdf?sequence=1", "title": "Sitnikova — testimonios históricos de la voz mamut y latinización científica"},
+      {"url": "https://www.zin.ru/journals/trudyzin/doc/vol_318_1/tz_318_1_shpansky.pdf", "title": "Instituto Zoológico de la Academia de Ciencias de Rusia — variación dental de Mammuthus primigenius"},
+      {"url": "https://www.si.edu/object/woolly-mammoth%3Anmnheducation_13951472", "title": "Smithsonian — molar de mamut lanudo"},
+      {"url": "https://logeion.org/primigenius", "title": "Logeion, voz primigenius — originario o primero de su clase"}
+    ],
+    "reviewedAt": "2026-11-08",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La fotografía aprobada corresponde a un molar."
   }
 }
