@@ -34,30 +34,44 @@ export function formulaMatches(answer,geo={}){
  const a=formulaAtoms(answer);return [geo.formula,...(geo.formulaAliases||[])].some(f=>{const b=formulaAtoms(f);return a&&b?a===b:normalizeFormula(answer)===normalizeFormula(f);});
 }
 function scientificNames(item,tax){return [item.scientificName,...(item.aliases||[]),...(tax.matchedName?[tax.matchedName]:[])];}
-export function quizFields(item,tax={},geo={},complete=true,profile={}){
- const fields=[];const ranks=tax.ranks||{},bio=['organismo','fosil'].includes(item.kind),genusOnly=tax.rank==='genus'||/\ssp\.?$/i.test(item.scientificName)||(!ranks.species&&item.scientificName.trim().split(/\s+/).length===1);
- fields.push({key:'name',label:bio?(genusOnly?'Género / nombre del taxón':complete?'Especie · epíteto o nombre completo':'Nombre científico'):'Nombre o denominación',expected:item.scientificName,required:true});
- if(bio){const names=commonNamesFor(item,tax,profile);fields.push({key:'common',label:'Nombre común',expected:names[0]||null,aliases:names,required:names.length>0});}
- if(complete&&bio&&!tax.nonTaxonomic){
-  fields.push({key:'phylum',label:phylumLabel(tax),expected:ranks.phylum||null,required:!!ranks.phylum});
-  fields.push({key:'family',label:'Familia',expected:ranks.family||item.family||null,required:!!(ranks.family||item.family)});
-  if(!genusOnly)fields.push({key:'genus',label:'Género',expected:ranks.genus||null,required:!!ranks.genus});
+export function quizFields(item,tax={},geo={},complete=true,profile={},region='ambas'){
+ const ranks=tax.ranks||{},bio=['organismo','fosil'].includes(item.kind),taxonomic=bio&&!tax.nonTaxonomic;
+ const genusOnly=tax.rank==='genus'||/\ssp\.?$/i.test(item.scientificName)||(!ranks.species&&item.scientificName.trim().split(/\s+/).length===1);
+ const general=region==='ambas';
+ const label=taxonomic?(genusOnly?'Género / nombre del taxón':general&&complete?'Especie · epíteto o nombre completo':'Nombre científico completo'):'Nombre o denominación';
+ const fields=[{key:'name',label,expected:item.scientificName}];
+ if(general&&bio){
+  const names=commonNamesFor(item,tax,profile);
+  fields.push({key:'common',label:'Nombre común',expected:names[0]||null,aliases:names});
  }
- if(complete&&geo.domain){
-  fields.push({key:'classification',label:geo.domain==='mineral'?'Clase mineralógica · Nickel–Strunz':'Grupo por origen',expected:geo.classification||null,required:!!geo.classification});
-  if(geo.formulaQuiz)fields.push({key:'formula',label:'Fórmula química',expected:geo.formula,required:true});
+ if(complete&&taxonomic&&(general||region==='andalucia')){
+  fields.push({key:'phylum',label:phylumLabel(tax),expected:ranks.phylum||null});
+  if(general){
+   fields.push({key:'family',label:'Familia',expected:ranks.family||item.family||null});
+   if(!genusOnly)fields.push({key:'genus',label:'Género',expected:ranks.genus||null});
+  }
+ }
+ if(complete&&geo.domain&&(general||region==='andalucia')){
+  fields.push({key:'classification',label:geo.domain==='mineral'?'Clase mineralógica · Nickel–Strunz':'Grupo por origen',expected:geo.classification||null});
+  if(region==='andalucia'&&geo.classification==='Silicatos'&&geo.path?.[1]){
+   fields.push({key:'silicateType',label:'Tipo de silicato',expected:geo.path[1]});
+  }
+  if(general&&geo.formulaQuiz)fields.push({key:'formula',label:'Fórmula química',expected:geo.formula});
  }
  return fields;
 }
-export function evaluateIdentification(item,tax={},geo={},values={},complete=true,{reveal=false,profile={}}={}){
+export function evaluateIdentification(item,tax={},geo={},values={},complete=true,{reveal=false,profile={},region='ambas'}={}){
  const results={};const names=scientificNames(item,tax),extended={...item,aliases:names.slice(1)};
- for(const field of quizFields(item,tax,geo,complete,profile)){
-  if(!field.expected){results[field.key]=null;continue;}
-  const answer=String(values[field.key]||'');let ok=false;
+ const fields=quizFields(item,tax,geo,complete,profile,region);
+ for(const field of fields){
+  const answer=String(values[field.key]||'').trim();
+  if(!field.expected||(!reveal&&!answer)){results[field.key]=null;continue;}
+  let ok=false;
   if(!reveal){
    if(field.key==='name'){
     ok=answerMatches(answer,extended);
-    if(complete&&['organismo','fosil'].includes(item.kind)&&norm(values.genus))ok ||= names.some(n=>{const parts=norm(n).split(' ');return parts.length>=2&&parts[1]!=='sp'&&norm(answer)===parts.slice(1).join(' ')&&norm(values.genus)===parts[0];});
+    if(fields.some(f=>f.key==='genus')&&norm(values.genus))ok ||= names.some(n=>{const parts=norm(n).split(' ');return parts.length>=2&&parts[1]!=='sp'&&norm(answer)===parts.slice(1).join(' ')&&norm(values.genus)===parts[0];});
+    if(region==='madrid'&&!tax.nonTaxonomic&&['organismo','fosil'].includes(item.kind)&&answer===answer.toUpperCase())ok=false;
    }else if(field.key==='common')ok=commonNameMatches(answer,field.aliases);
    else if(field.key==='family')ok=familyMatches(answer,{...item,family:field.expected});
    else if(field.key==='genus')ok=names.some(n=>norm(n).split(' ')[0]===norm(answer))||norm(answer)===norm(field.expected);
@@ -67,7 +81,7 @@ export function evaluateIdentification(item,tax={},geo={},values={},complete=tru
   }
   results[field.key]=ok;
  }
- return {results,correct:results.name===true,familyCorrect:results.family??null,repeat:Object.values(results).some(v=>v===false)};
+ return {results,correct:results.name,familyCorrect:results.family??null,repeat:Object.values(results).some(v=>v===false)};
 }
 
 export function classificationPath(item,tax={},geo={}){
