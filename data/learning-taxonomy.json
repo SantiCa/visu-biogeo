@@ -56524,8 +56524,8 @@
     "commonNameStatus": "documented"
   },
   "goniatites": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4623978",
+    "provider": "Korn (2025)",
+    "source": "https://europeanjournaloftaxonomy.eu/index.php/ejt/article/download/2873/13051",
     "matchedName": "Goniatites",
     "rank": "genus",
     "ranks": {
@@ -56565,8 +56565,9 @@
     "commonName": null,
     "commonNames": [],
     "group": "Moluscos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "La revisión documenta Goniatites en Goniatitida y Goniatitidae."
   },
   "goniopygus": {
     "provider": "GBIF",
@@ -87466,9 +87467,10 @@
     "commonNameStatus": "not-documented"
   },
   "orthoceras": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=12557",
+    "provider": "Revisión de ortoceratoideos y Treatise",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10991048/",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
       "subclass": "Orthoceratoidea",
@@ -87477,6 +87479,10 @@
       "genus": "Orthoceras"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Mollusca"
@@ -87504,9 +87510,9 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "Orthoceras en sentido restringido corresponde al Ordovícico medio de Baltoscandia. El Treatise documenta Orthocerida y Orthoceratidae; las identificaciones históricas requieren cotejo.",
     "commonNameStatus": "not-documented",
     "matchedName": "Orthoceras",
     "rank": "genus",
@@ -109373,8 +109379,8 @@
     "commonNameStatus": "documented"
   },
   "rhynchonella": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/7974628",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Rhynchonella",
     "matchedName": "Rhynchonella",
     "rank": "genus",
     "ranks": {
@@ -109414,8 +109420,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se contrasta el linaje de Rhynchonella en Rhynchonellata, Rhynchonellida y Rhynchonellidae."
   },
   "rhyssa-persuasoria": {
     "provider": "iNaturalist",
@@ -121487,8 +121494,8 @@
     "commonNameStatus": "not-documented"
   },
   "terebratula": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4868945",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Terebratula",
     "matchedName": "Terebratula",
     "rank": "genus",
     "ranks": {
@@ -121528,8 +121535,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se contrasta el linaje de Terebratula en Rhynchonellata, Terebratulida y Terebratulidae."
   },
   "teredo-navalis": {
     "provider": "iNaturalist",

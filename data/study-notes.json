@@ -12687,5 +12687,89 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. Las prolongaciones laterales pueden faltar por rotura."
+  },
+  "goniatites": {
+    "commonName": null,
+    "description": "Género de ammonoideos documentado en el Carbonífero inferior. Sus conchas enrolladas pueden ser globosas, con ombligo estrecho. La forma y la ornamentación varían durante el crecimiento.",
+    "diagnostics": [
+      "Comparar la anchura de la concha y la apertura del ombligo en vistas lateral y ventral.",
+      "Buscar líneas de crecimiento y, cuando existan, líneas espirales en la superficie.",
+      "En ejemplares con suturas visibles, contrastar los lóbulos y las sillas con ejemplares figurados. El aspecto globoso se comparte con otros géneros."
+    ],
+    "etymology": "La literatura taxonómica atribuye Goniatites a de Haan, en 1825. La interpretación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://europeanjournaloftaxonomy.eu/index.php/ejt/article/download/2873/13051",
+        "title": "Korn (2025), European Journal of Taxonomy — clasificación y comparación de especies de Goniatites"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género Goniatites. Para determinarlo hacen falta suturas y ornamentación comparables con material de referencia."
+  },
+  "orthoceras": {
+    "commonName": null,
+    "description": "Género de cefalópodos de concha casi recta, dividido internamente en cámaras y con sifúnculo aproximadamente central. Su delimitación moderna se refiere a formas del Ordovícico medio de Baltoscandia.",
+    "diagnostics": [
+      "En una sección longitudinal, localizar los tabiques que separan las cámaras y la posición del sifúnculo.",
+      "Buscar la ornamentación fina de la superficie cuando se conserve.",
+      "En la cámara habitacional, examinar las constricciones y depresiones longitudinales. Contrastar la procedencia con la delimitación del género."
+    ],
+    "etymology": "Woodward interpreta Orthoceras mediante los elementos griegos orthos, recto, y keras, cuerno. La motivación expresa del autor original sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://ammonoid.treatise.geolex.org/displayInfo.php?genera=Orthoceras",
+        "title": "Treatise on Invertebrate Paleontology — caracteres de la concha y clasificación"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10991048/",
+        "title": "Revisión de ortoceratoideos — delimitación de Orthoceras y uso histórico amplio del nombre"
+      },
+      {
+        "url": "https://darwin-online.org.uk/converted/pdf/1851-6_Woodward_Mollusca_CUL-DAR.LIB.687.pdf",
+        "title": "Woodward, Manual of the Mollusca, p. 88 — interpretación etimológica"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género en sentido restringido. La forma recta de la concha por sí sola permite una identificación más amplia."
+  },
+  "rhynchonella": {
+    "commonName": null,
+    "description": "Género de braquiópodos de concha abombada y contorno subtriangular. Presenta pliegue dorsal alto y costillas anteriores marcadas.",
+    "diagnostics": [
+      "Observar el contorno y el perfil de las dos valvas en vistas dorsal y lateral.",
+      "En vista anterior, comparar el pliegue, el surco y la forma de la comisura.",
+      "Buscar el pico pequeño y curvado. Para confirmar el género, contrastar también los caracteres internos cuando estén disponibles."
+    ],
+    "etymology": "El Treatise atribuye Rhynchonella a Fischer de Waldheim, en 1809. La interpretación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Rhynchonella",
+        "title": "Treatise on Invertebrate Paleontology — diagnóstico, clasificación y autoría"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género según el Treatise. Los caracteres externos se comparten con otros rinconélidos."
+  },
+  "terebratula": {
+    "commonName": null,
+    "description": "Género de braquiópodos de superficie lisa y contorno ovalado o subpentagonal. Presenta un foramen peduncular grande y un bucle interno corto.",
+    "diagnostics": [
+      "Localizar el pico y examinar el foramen peduncular cuando se conserve.",
+      "Comparar el contorno, el perfil de las valvas y la comisura anterior.",
+      "En ejemplares abiertos, observar el bucle interno. La concha lisa por sí sola se comparte con otros terebratúlidos."
+    ],
+    "etymology": "El Treatise atribuye Terebratula a Müller, en 1776. La interpretación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Terebratula",
+        "title": "Treatise on Invertebrate Paleontology — concha, bucle interno y clasificación"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género en su delimitación del Treatise, documentada en el Neógeno y el Cuaternario."
   }
 }
