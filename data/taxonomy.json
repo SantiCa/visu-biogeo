@@ -13785,13 +13785,12 @@
     "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
   },
   "neuropteris": {
-    "family": "Saccolomataceae",
     "aliases": [],
     "matchedName": "Neuropteris",
-    "source": "https://www.gbif.org/species/6760056",
-    "checkedAt": "2026-10-25",
+    "source": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
+    "checkedAt": "2026-11-17",
     "reviewStatus": "pending",
-    "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
+    "reviewReason": "Neuropteris es follaje fósil de medulosales. La familia queda pendiente de revisión paleobotánica."
   },
   "nummulites": {
     "family": "Nummulitidae",

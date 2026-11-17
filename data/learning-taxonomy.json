@@ -84143,17 +84143,16 @@
     "commonNameStatus": "documented"
   },
   "neuropteris": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/6760056",
+    "provider": "Cleal y Thomas (2018)",
+    "source": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
     "matchedName": "Neuropteris",
     "rank": "genus",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
-      "class": "Polypodiopsida",
-      "order": "Polypodiales",
-      "family": "Saccolomataceae",
-      "genus": "Saccoloma"
+      "class": "Cycadopsida",
+      "order": "Medullosales",
+      "genus": "Neuropteris"
     },
     "hierarchy": [
       {
@@ -84166,26 +84165,23 @@
       },
       {
         "rank": "class",
-        "name": "Polypodiopsida"
+        "name": "Cycadopsida"
       },
       {
         "rank": "order",
-        "name": "Polypodiales"
-      },
-      {
-        "rank": "family",
-        "name": "Saccolomataceae"
+        "name": "Medullosales"
       },
       {
         "rank": "genus",
-        "name": "Saccoloma"
+        "name": "Neuropteris"
       }
     ],
     "commonName": null,
     "commonNames": [],
-    "group": "Helechos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "group": "Plantas fósiles",
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Follaje fósil de medulosales. La familia queda pendiente por la amplitud histórica del género y las segregaciones documentadas en la revisión."
   },
   "nicotiana-glauca": {
     "provider": "iNaturalist",
@@ -115416,11 +115412,13 @@
     "commonNameStatus": "not-documented"
   },
   "sigillaria": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=157272",
+    "provider": "Smithsonian",
+    "source": "https://qrius.si.edu/browse/object/10023511",
     "ranks": {
       "kingdom": "Plantae",
-      "phylum": "Lycophyta",
+      "phylum": "Tracheophyta",
+      "class": "Lycopodiopsida",
+      "order": "Lepidodendrales",
       "family": "Sigillariaceae",
       "genus": "Sigillaria"
     },
@@ -115431,7 +115429,15 @@
       },
       {
         "rank": "phylum",
-        "name": "Lycophyta"
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Lycopodiopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Lepidodendrales"
       },
       {
         "rank": "family",
@@ -115444,9 +115450,9 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "El registro del Smithsonian documenta Lycopodiopsida, Lepidodendrales y Sigillariaceae.",
     "commonNameStatus": "not-documented",
     "matchedName": "Sigillaria",
     "rank": "genus"

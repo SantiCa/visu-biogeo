@@ -12402,5 +12402,86 @@
     "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. La costulación y la sección de la vuelta ayudan a precisar la identificación."
+  },
+  "lepidodendron": {
+    "commonName": null,
+    "description": "Género fósil de licófitos arborescentes. Sus tallos conservan cojinetes foliares alargados y romboidales dispuestos en hélice.",
+    "diagnostics": [
+      "Localizar los cojinetes romboidales y seguir su disposición alrededor del tallo.",
+      "Buscar dentro de cada cojinete la cicatriz donde se insertaba la hoja.",
+      "Comparar superficies con un grado de conservación semejante. La pérdida de capas externas puede cambiar el aspecto del tallo."
+    ],
+    "etymology": "Lepidodendron combina los elementos griegos para escama y árbol. Sternberg explicó esa construcción en Flora der Vorwelt, al presentar el nombre.",
+    "sources": [
+      {
+        "url": "https://library.isgs.illinois.edu/Pubs/pdfs/ges/ges13.pdf",
+        "title": "Illinois State Geological Survey — cojinetes foliares y comparación de licófitos"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/68470/68470-h/68470-h.htm",
+        "title": "Seward, Fossil Plants, vol. II — tallos y cicatrices foliares"
+      },
+      {
+        "url": "https://archive.org/details/versucheinergeo1syte/page/n72/mode/1up",
+        "title": "Sternberg, Flora der Vorwelt, fasc. 1, p. 23 — raíces griegas del nombre"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género centrada en la superficie de tallos fósiles."
+  },
+  "sigillaria": {
+    "commonName": null,
+    "description": "Género fósil de licófitos arborescentes. Sus tallos presentan cicatrices foliares que suelen formar filas longitudinales, a menudo sobre costillas.",
+    "diagnostics": [
+      "Seguir las filas de cicatrices foliares a lo largo del tallo.",
+      "Observar el contorno de las cicatrices y, cuando se conserven, las marcas internas de los tejidos de la hoja.",
+      "Comparar el relieve y las costillas entre superficies equivalentes. La descortezación modifica los rasgos visibles."
+    ],
+    "etymology": "La interpretación publicada relaciona Sigillaria con el aspecto de sello de las cicatrices foliares. Queda pendiente cotejar la explicación del autor en la publicación original.",
+    "sources": [
+      {
+        "url": "https://library.isgs.illinois.edu/Pubs/pdfs/ges/ges13.pdf",
+        "title": "Illinois State Geological Survey — cicatrices de Sigillaria y lectura del nombre"
+      },
+      {
+        "url": "https://qrius.si.edu/browse/object/10023511",
+        "title": "Smithsonian — ejemplar de Sigillaria y clasificación"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/68470/68470-h/68470-h.htm",
+        "title": "Seward, Fossil Plants, vol. II — variación de las superficies conservadas"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género centrada en los tallos. La identificación requiere cicatrices foliares conservadas."
+  },
+  "neuropteris": {
+    "commonName": null,
+    "description": "Género fósil de follaje usado para plantas con semillas del grupo de las medulosales. Las pínnulas tienen la base estrechada y nervios que se bifurcan sin formar una red.",
+    "diagnostics": [
+      "Observar cómo se estrecha la base de la pínnula en su inserción en el raquis.",
+      "Seguir la nerviación hasta el margen y comprobar sus bifurcaciones.",
+      "Examinar un fragmento amplio de fronde cuando esté disponible. La arquitectura de la fronde ayuda a distinguir géneros próximos."
+    ],
+    "etymology": "Mantell interpreta Neuropteris como hoja nervada. La revisión nomenclatural documenta la grafía inicial Nevropteris y la conservación posterior de Neuropteris. La motivación expresa de Brongniart sigue pendiente.",
+    "sources": [
+      {
+        "url": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
+        "title": "Cleal y Thomas (2018), p. 18 — diagnóstico, afinidad y nomenclatura de Neuropteris"
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/62891/pg62891-images.html",
+        "title": "Mantell, The Medals of Creation, capítulo VI — interpretación histórica del nombre"
+      },
+      {
+        "url": "https://qrius.si.edu/browse/object/10021180",
+        "title": "Smithsonian — ejemplar de follaje fósil Neuropteris"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de follaje fósil. La asociación de órganos necesita evidencia adicional."
   }
 }
