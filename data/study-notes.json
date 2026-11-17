@@ -12894,5 +12894,55 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. Los rasgos externos se comparten con otros pectínidos."
+  },
+  "balanus": {
+    "commonName": null,
+    "description": "Género de crustáceos cirrípedos sésiles. Su cubierta calcárea forma una pared de placas y una abertura superior protegida por placas operculares.",
+    "diagnostics": [
+      "Localizar la base de fijación y la abertura superior.",
+      "Observar las suturas entre las placas de la pared y las piezas operculares conservadas.",
+      "Comparar las placas y la base con ejemplares documentados. Los fragmentos aislados requieren especial cautela."
+    ],
+    "etymology": "Una interpretación histórica relaciona Balanus con la palabra griega para bellota, por la semejanza de algunas conchas. La motivación original del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://qrius.si.edu/browse/object/17167320",
+        "title": "Smithsonian — ejemplar fósil y clasificación de Balanus"
+      },
+      {
+        "url": "https://www.digitalatlasofancientlife.org/vc/arthropoda/crustacea/hexanauplia/",
+        "title": "Digital Atlas of Ancient Life — ejemplares fósiles de Balanus"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_Linn%C3%A6an_system_of_conchology_%2C_describing_the_orders%2C_genera%2C_and_species_of_shells_arranged_into_divisions_and_families_%28IA_linnansystemof00mawe%29.pdf",
+        "title": "Mawe, The Linnæan System of Conchology — interpretación histórica del nombre"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Para determinar especies se necesitan caracteres de las placas y la base."
+  },
+  "turritella": {
+    "commonName": null,
+    "description": "Género de gasterópodos marinos de concha alargada, con numerosas vueltas dispuestas en espiral y ornamentación espiral variable.",
+    "diagnostics": [
+      "Observar el perfil cónico de la espira y contar las vueltas conservadas.",
+      "Seguir las suturas entre vueltas y las costillas espirales de su superficie.",
+      "Examinar la abertura si se conserva. Comparar con ejemplares de procedencia conocida, ya que otros gasterópodos presentan espiras altas."
+    ],
+    "etymology": "La interpretación lingüística y la motivación original del nombre Turritella siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://boletinsgm.igeolcu.unam.mx/bsgm/index.php/volumenes-volumes/cuarta-epoca/7103/2124-7103-%288%29PerezLara",
+        "title": "Estudio paleontológico — Turritella, Turritellidae y caracteres de conchas fósiles"
+      },
+      {
+        "url": "https://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/1122/1467?inline=1",
+        "title": "Estudios Geológicos — descripción de moldes fósiles de Turritella"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Los moldes internos pueden conservar solo parte de la ornamentación."
   }
 }

@@ -17333,9 +17333,10 @@
     "commonNameStatus": "not-documented"
   },
   "balanus": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=22127",
+    "provider": "Smithsonian",
+    "source": "https://qrius.si.edu/browse/object/17167320",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Arthropoda",
       "class": "Thecostraca",
       "order": "Balanomorpha",
@@ -17343,6 +17344,10 @@
       "genus": "Balanus"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Arthropoda"
@@ -17366,9 +17371,9 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "El registro fósil documenta Balanus en Balanomorpha y Balanidae.",
     "commonNameStatus": "not-documented",
     "matchedName": "Balanus",
     "rank": "genus"
