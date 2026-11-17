@@ -92483,16 +92483,13 @@
     "commonNameStatus": "not-documented"
   },
   "pecopteris": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4895272",
+    "provider": "Cleal y Thomas (2018)",
+    "source": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
     "matchedName": "Pecopteris",
     "rank": "genus",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
-      "class": "Polypodiopsida",
-      "order": "Marattiales",
-      "family": "Asterothecaceae",
       "genus": "Pecopteris"
     },
     "hierarchy": [
@@ -92505,18 +92502,6 @@
         "name": "Tracheophyta"
       },
       {
-        "rank": "class",
-        "name": "Polypodiopsida"
-      },
-      {
-        "rank": "order",
-        "name": "Marattiales"
-      },
-      {
-        "rank": "family",
-        "name": "Asterothecaceae"
-      },
-      {
         "rank": "genus",
         "name": "Pecopteris"
       }
@@ -92524,8 +92509,9 @@
     "commonName": null,
     "commonNames": [],
     "group": "Helechos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El género de follaje tiene afinidades diversas. Orden y familia quedan pendientes para la entrada genérica."
   },
   "pecten": {
     "provider": "Paleobiology Database",

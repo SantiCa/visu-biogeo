@@ -1,14 +1,14 @@
 {
   "date": "2026-11-17",
   "catalogEntries": 2645,
-  "descriptiveProfiles": 569,
-  "withoutDescriptiveProfile": 2076,
+  "descriptiveProfiles": 572,
+  "withoutDescriptiveProfile": 2073,
   "biologicalPriorityProfiles": 103,
   "biologicalPriorityEntries": 103,
   "profilesWithCommonName": 225,
   "profilesWithMnemonic": 0,
   "familyNameConstructionNotes": 95,
-  "profilesWithWhollyOrPartlyPendingEtymology": 319,
+  "profilesWithWhollyOrPartlyPendingEtymology": 322,
   "etymologyPendingIds": [
     "melanargia-russiae",
     "panopea-glycimeris",
@@ -328,7 +328,10 @@
     "goniatites",
     "orthoceras",
     "rhynchonella",
-    "terebratula"
+    "terebratula",
+    "pecopteris",
+    "orbitolina",
+    "fusulina"
   ],
   "errors": [],
   "scope": "Una ficha descriptiva no implica etimología completa. El texto indica las partes pendientes y no convierte asociaciones de memoria en explicaciones lingüísticas. Las notas de familia explican su construcción nomenclatural; las raíces remotas solo se completan con referencia."
