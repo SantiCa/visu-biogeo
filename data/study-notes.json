@@ -13107,7 +13107,7 @@
       "Comparar las dos glumas amplias con las flores que envuelven.",
       "Examinar las aristas de las flores. Pueden ser rectas o faltar, por lo que conviene combinar varios caracteres."
     ],
-    "etymology": "Sativa significa cultivada o sembrada en latín botánico. El origen remoto de Avena y la motivación expresa del nombre siguen pendientes de cotejo.",
+    "etymology": "Avena es el nombre latino de la avena. Sativa significa cultivada o sembrada en latín botánico. El origen remoto de Avena y la motivación expresa del nombre siguen pendientes de cotejo.",
     "sources": [
       {
         "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A391732-1/general-information",
@@ -13116,6 +13116,10 @@
       {
         "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=wild",
         "title": "Missouri Botanical Garden — sativus en latín botánico"
+      },
+      {
+        "url": "https://logeion.org/avena",
+        "title": "Logeion — voz latina avena"
       }
     ],
     "reviewedAt": "2026-11-17",
@@ -13130,7 +13134,7 @@
       "Comparar las espiguillas laterales con la central. Según la variedad, pueden ser fértiles las tres o solo la central.",
       "Examinar glumas y aristas. Comparar el conjunto con otras especies de Hordeum."
     ],
-    "etymology": "Vulgare significa común en latín. El origen remoto de Hordeum y la motivación expresa del epíteto siguen pendientes de cotejo.",
+    "etymology": "Hordeum es el nombre latino de la cebada. Vulgare significa común en latín. El origen remoto de Hordeum y la motivación expresa del epíteto siguen pendientes de cotejo.",
     "sources": [
       {
         "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A405391-1/general-information",
@@ -13139,6 +13143,10 @@
       {
         "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=vulgaris",
         "title": "Missouri Botanical Garden — vulgaris en latín botánico"
+      },
+      {
+        "url": "https://logeion.org/hordeum",
+        "title": "Logeion — voz latina hordeum"
       }
     ],
     "reviewedAt": "2026-11-17",
@@ -13173,7 +13181,7 @@
     "scope": "Ficha de especie. La identificación se apoya en las placas y la base cuando están conservadas."
   },
   "briza-minor": {
-    "commonName": null,
+    "commonName": "tembladera",
     "description": "Gramínea anual con panícula ramificada y espiguillas pequeñas, comprimidas lateralmente y de contorno triangular a ovado.",
     "diagnostics": [
       "Observar la panícula abierta y los pedicelos finos de las espiguillas.",
@@ -13193,6 +13201,10 @@
       {
         "url": "https://logeion.org/minor",
         "title": "Logeion, voz minor — menor"
+      },
+      {
+        "url": "https://bibdigital.rjb.csic.es/medias/d8/3b/7a/38/d83b7a38-97e5-4278-9d6c-117a765ddb5c/files/GAR_Cat.pdf",
+        "title": "Catálogo de plantas de Sanlúcar, p. 10 — nombre común tembladera"
       }
     ],
     "reviewedAt": "2026-11-17",
@@ -13200,14 +13212,14 @@
     "scope": "Ficha de especie. Comparar espiguillas maduras y varios caracteres."
   },
   "calendula-arvensis": {
-    "commonName": null,
+    "commonName": "maravilla silvestre",
     "description": "Hierba anual de la familia Asteraceae, con capítulos amarillos o anaranjados y frutos de formas variadas dentro de un mismo capítulo.",
     "diagnostics": [
       "Observar el capítulo y distinguir las flores liguladas periféricas de las flores centrales.",
       "Examinar las hojas y las brácteas del involucro.",
       "En fructificación, comparar los frutos curvados de distintas posiciones del capítulo con material determinado."
     ],
-    "etymology": "Arvensis significa propio de los campos. El origen del nombre genérico y la motivación expresa del epíteto siguen pendientes de cotejo.",
+    "etymology": "Calendula se relaciona con el latín calendae y un sufijo diminutivo. Kew recoge como hipótesis posterior su posible relación con la floración mensual. Arvensis significa propio de los campos. La motivación expresa de los nombres sigue pendiente.",
     "sources": [
       {
         "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A187819-1/general-information",
@@ -13220,6 +13232,14 @@
       {
         "url": "https://logeion.org/arvensis",
         "title": "Logeion, voz arvensis — de los campos"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30120329-2/general-information",
+        "title": "Plants of the World Online — origen de Calendula y explicación histórica propuesta"
+      },
+      {
+        "url": "https://herbarivirtual.uib.es/es/general/297/especie/calendula-arvensis-l-",
+        "title": "Universitat de les Illes Balears — nombre común maravilla silvestre"
       }
     ],
     "reviewedAt": "2026-11-17",
