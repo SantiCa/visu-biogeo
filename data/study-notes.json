@@ -12840,5 +12840,59 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. Distinguir el género Fusulina del conjunto más amplio de fusulínidos."
+  },
+  "belemnopsis": {
+    "commonName": null,
+    "description": "Género fósil de cefalópodos belemnítidos. El rostro calcáreo presenta un surco ventral que parte de la región del alvéolo y cuya longitud varía entre especies.",
+    "diagnostics": [
+      "Orientar el rostro y localizar el extremo anterior con el alvéolo.",
+      "Seguir el surco ventral y observar hasta dónde se prolonga hacia la punta.",
+      "Comparar el perfil lateral y la sección transversal con ejemplares de procedencia conocida."
+    ],
+    "etymology": "Bayle publicó Belemnopsis en 1878. La explicación original de la elección del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://palaeo-electronica.org/2007_1/assemblage/system.htm",
+        "title": "Challinor y Hikuroa — Belemnopseidae, surco ventral y discusión nomenclatural"
+      },
+      {
+        "url": "https://www.mdpi.com/2075-163X/10/8/713",
+        "title": "Estudio comparado de rostros de belemnites — morfología de Belemnopsis"
+      },
+      {
+        "url": "https://web.natur.cuni.cz/IGP/main/OBD/s12549-022-00538-y.pdf",
+        "title": "Estudio de belemnites jurásicos — ejemplares figurados en varias vistas"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género. La determinación requiere un rostro suficientemente completo y vistas comparables."
+  },
+  "pecten": {
+    "commonName": null,
+    "description": "Género de bivalvos marinos de la familia Pectinidae. Sus conchas presentan costillas radiales y prolongaciones a ambos lados del umbo denominadas aurículas.",
+    "diagnostics": [
+      "Localizar el umbo y comparar las aurículas de cada lado.",
+      "Seguir las costillas radiales desde el umbo hasta el borde de la valva.",
+      "Comparar ambas valvas y, cuando se conserven, los caracteres de la charnela con ejemplares documentados."
+    ],
+    "etymology": "La interpretación lingüística y la motivación original del nombre Pecten siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/1228b/report.pdf",
+        "title": "US Geological Survey — ejemplares fósiles y caracteres de Pecten"
+      },
+      {
+        "url": "https://naturalsciences.museumwales.ac.uk/BritishBivalves/Browserecord.php?-recid=294",
+        "title": "National Museum Wales — valvas y costillas de Pecten maximus"
+      },
+      {
+        "url": "https://ns-mollusca.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=120886",
+        "title": "Naturalis — Pectinidae y género Pecten"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Los rasgos externos se comparten con otros pectínidos."
   }
 }
