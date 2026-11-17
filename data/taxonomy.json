@@ -13217,13 +13217,13 @@
     "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
   },
   "alethopteris": {
-    "family": "Pachytestaceae",
+    "family": "Alethopteridaceae",
     "aliases": [],
     "matchedName": "Alethopteris",
-    "source": "https://www.gbif.org/species/8254275",
-    "checkedAt": "2026-10-25",
-    "reviewStatus": "pending",
-    "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
+    "source": "https://fi.nm.cz/wp-content/uploads/2021/12/13_Cleal.pdf",
+    "checkedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "reviewReason": "Familia del follaje fósil según Cleal y Thomas (2021), tabla 2."
   },
   "amaltheus": {
     "family": "Amaltheidae",

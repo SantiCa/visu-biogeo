@@ -4808,14 +4808,16 @@
     "commonNameStatus": "documented"
   },
   "alethopteris": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8254275",
+    "provider": "Cleal y Thomas (2021)",
+    "source": "https://fi.nm.cz/wp-content/uploads/2021/12/13_Cleal.pdf",
     "matchedName": "Alethopteris",
     "rank": "genus",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
-      "family": "Pachytestaceae",
+      "class": "Cycadopsida",
+      "order": "Medullosales",
+      "family": "Alethopteridaceae",
       "genus": "Alethopteris"
     },
     "hierarchy": [
@@ -4828,8 +4830,16 @@
         "name": "Tracheophyta"
       },
       {
+        "rank": "class",
+        "name": "Cycadopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Medullosales"
+      },
+      {
         "rank": "family",
-        "name": "Pachytestaceae"
+        "name": "Alethopteridaceae"
       },
       {
         "rank": "genus",
@@ -4839,8 +4849,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se sigue la clasificación de follaje fósil de la tabla 2, con Alethopteridaceae, Medullosales y Cycadopsida."
   },
   "aleuria-aurantia": {
     "provider": "iNaturalist",
@@ -27513,9 +27524,10 @@
     "commonNameStatus": "documented"
   },
   "ceratites": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=14068",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://ammonoid.treatise.geolex.org/displayInfo.php?genera=Ceratites",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
       "subclass": "Ammonoidea",
@@ -27524,6 +27536,10 @@
       "genus": "Ceratites"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Mollusca"
@@ -27551,9 +27567,9 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "El Treatise documenta Ceratites en Cephalopoda, Ceratitida y Ceratitidae.",
     "commonNameStatus": "not-documented",
     "matchedName": "Ceratites",
     "rank": "genus",

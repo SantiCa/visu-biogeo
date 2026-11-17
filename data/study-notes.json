@@ -12483,5 +12483,105 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de follaje fósil. La asociación de órganos necesita evidencia adicional."
+  },
+  "alethopteris": {
+    "commonName": null,
+    "description": "Género de follaje fósil de plantas con semillas del grupo de las medulosales. Sus pínnulas se unen ampliamente al raquis y muestran un nervio medio marcado.",
+    "diagnostics": [
+      "Observar la base de las pínnulas y cómo sus bordes se prolongan hacia las pínnulas vecinas.",
+      "Seguir el nervio medio y los numerosos nervios secundarios hacia el margen.",
+      "Comparar la inserción y la nerviación con frondes documentadas. Un fragmento amplio ayuda a distinguir géneros de follaje próximos."
+    ],
+    "etymology": "El nombre Alethopteris está documentado para este género de follaje fósil. La explicación de sus componentes y la motivación del autor siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://samnoblemuseum.ou.edu/common-fossils-of-oklahoma/plant-fossils/fossils-by-plant-group/fossil-medullosans/",
+        "title": "Sam Noble Museum — inserción y nerviación de Alethopteris"
+      },
+      {
+        "url": "https://fi.nm.cz/wp-content/uploads/2021/12/13_Cleal.pdf",
+        "title": "Cleal y Thomas (2021), tabla 2 — Alethopteridaceae, Medullosales y Cycadopsida"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género de follaje. La asociación con semillas o tallos requiere evidencia adicional."
+  },
+  "hildoceras": {
+    "commonName": null,
+    "description": "Género de ammonites del Jurásico inferior. Sus conchas presentan costillas en los flancos y un vientre aquillado con surcos. En muchas especies aparece además un surco espiral lateral.",
+    "diagnostics": [
+      "Observar las costillas en el flanco y seguir su curvatura hacia el vientre.",
+      "Buscar el surco espiral lateral y comparar su desarrollo con ejemplares documentados de la misma especie candidata.",
+      "En vista ventral, examinar la quilla y los surcos que la flanquean. La sección de la vuelta aporta caracteres complementarios."
+    ],
+    "etymology": "La referencia a santa Hilda está documentada por el Natural History Museum al explicar el nombre Hildoceras bifrons. La motivación expresa de Hyatt para el nombre genérico sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://real.mtak.hu/156151/1/04_Sassaroli.pdf",
+        "title": "Sassaroli y Venturi — Hildoceratinae, ornamentación y variación del surco lateral"
+      },
+      {
+        "url": "https://www.nhm.ac.uk/discover/snakestones-ammonites-myth-magic-science.html",
+        "title": "Natural History Museum — Hildoceras y santa Hilda"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. El desarrollo del surco lateral varía entre especies."
+  },
+  "ceratites": {
+    "commonName": null,
+    "description": "Género de ammonoideos del Triásico. Las conchas enrolladas presentan ornamentación variable. Sus líneas de sutura muestran sillas redondeadas y lóbulos denticulados.",
+    "diagnostics": [
+      "En un molde interno, localizar las líneas de sutura y comparar los lóbulos con las sillas.",
+      "Examinar las costillas y los tubérculos en ambos flancos cuando se conserven.",
+      "Comparar el perfil de la vuelta y la ornamentación con ejemplares de procedencia estratigráfica conocida."
+    ],
+    "etymology": "De Haan publicó Ceratites en 1825. La interpretación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://ammonoid.treatise.geolex.org/displayInfo.php?genera=Ceratites",
+        "title": "Treatise on Invertebrate Paleontology — diagnóstico, clasificación y autoría"
+      },
+      {
+        "url": "https://p1acollections.esc.cam.ac.uk/p1acollections/exhibits/show/ammonoids/tf0311.html",
+        "title": "University of Cambridge — ejemplar y suturas ceratíticas"
+      },
+      {
+        "url": "https://www.muschelkalkmuseum.org/en/exhibition/fossil_gallery/cephalopods/",
+        "title": "Muschelkalk Museum — variación y contexto estratigráfico"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. El tipo de sutura se comparte con otros ammonoideos."
+  },
+  "paradoxides": {
+    "commonName": null,
+    "description": "Género de trilobites cámbricos con cefalón ancho, tórax de numerosos segmentos y pigidio pequeño. Las espinas laterales del tórax se orientan hacia atrás.",
+    "diagnostics": [
+      "Comparar la anchura del cefalón con la del eje torácico.",
+      "Seguir los segmentos del tórax y observar la longitud y dirección de las espinas pleurales.",
+      "Examinar el pigidio y los surcos de la glabela en ejemplares completos. La procedencia ayuda a contrastar la identificación."
+    ],
+    "etymology": "Brongniart publicó Paradoxides en 1822. La explicación original de la elección del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://unbgeology.lib.unb.ca/specimens/unb-2020-0305",
+        "title": "University of New Brunswick — ejemplares y clasificación de Paradoxides"
+      },
+      {
+        "url": "https://mczbase.mcz.harvard.edu/name/Paradoxides",
+        "title": "Museum of Comparative Zoology — Redlichiida y Paradoxididae"
+      },
+      {
+        "url": "https://www.trilobites.info/paradoxidoideaguide.htm",
+        "title": "Guía de Paradoxidoidea — cefalón, tórax y pigidio"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La delimitación de géneros próximos requiere ejemplares bien conservados."
   }
 }
