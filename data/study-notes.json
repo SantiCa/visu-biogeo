@@ -13171,5 +13171,59 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de especie. La identificación se apoya en las placas y la base cuando están conservadas."
+  },
+  "briza-minor": {
+    "commonName": null,
+    "description": "Gramínea anual con panícula ramificada y espiguillas pequeñas, comprimidas lateralmente y de contorno triangular a ovado.",
+    "diagnostics": [
+      "Observar la panícula abierta y los pedicelos finos de las espiguillas.",
+      "Comparar el contorno de las espiguillas y sus flores imbricadas.",
+      "Examinar glumas, lemas y tamaño de las espiguillas para distinguirla de otras especies de Briza."
+    ],
+    "etymology": "El latín minor significa menor. La motivación expresa del epíteto y el origen preciso del nombre genérico siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://tb.plazi.org/GgServer/html/38734973E5F206AA77762121FC96F91A/6",
+        "title": "Flora iberica — descripción de Briza minor"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A393299-1/general-information",
+        "title": "Plants of the World Online — nombre aceptado y clasificación"
+      },
+      {
+        "url": "https://logeion.org/minor",
+        "title": "Logeion, voz minor — menor"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. Comparar espiguillas maduras y varios caracteres."
+  },
+  "calendula-arvensis": {
+    "commonName": null,
+    "description": "Hierba anual de la familia Asteraceae, con capítulos amarillos o anaranjados y frutos de formas variadas dentro de un mismo capítulo.",
+    "diagnostics": [
+      "Observar el capítulo y distinguir las flores liguladas periféricas de las flores centrales.",
+      "Examinar las hojas y las brácteas del involucro.",
+      "En fructificación, comparar los frutos curvados de distintas posiciones del capítulo con material determinado."
+    ],
+    "etymology": "Arvensis significa propio de los campos. El origen del nombre genérico y la motivación expresa del epíteto siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A187819-1/general-information",
+        "title": "Plants of the World Online — nombre aceptado y descripción de Calendula arvensis"
+      },
+      {
+        "url": "https://www.florandalucia.es/index.php/angiospermas-dicotiledoneas/compuestas/calendula-arvensis",
+        "title": "Flora de Andalucía — frutos y caracteres de la especie"
+      },
+      {
+        "url": "https://logeion.org/arvensis",
+        "title": "Logeion, voz arvensis — de los campos"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. Los frutos de un mismo capítulo pueden diferir en forma."
   }
 }
