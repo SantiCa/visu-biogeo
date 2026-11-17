@@ -42345,15 +42345,16 @@
     "commonNameStatus": "documented"
   },
   "didymograptus": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8387960",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Didymograptus",
     "matchedName": "Didymograptus",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Hemichordata",
       "class": "Pterobranchia",
-      "family": "Dichograptidae",
+      "order": "Graptoloidea",
+      "family": "Didymograptidae",
       "genus": "Didymograptus"
     },
     "hierarchy": [
@@ -42370,8 +42371,12 @@
         "name": "Pterobranchia"
       },
       {
+        "rank": "order",
+        "name": "Graptoloidea"
+      },
+      {
         "rank": "family",
-        "name": "Dichograptidae"
+        "name": "Didymograptidae"
       },
       {
         "rank": "genus",
@@ -42381,8 +42386,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El Treatise sitúa Didymograptus en Didymograptidae y Graptoloidea."
   },
   "digitalis-grandiflora": {
     "provider": "iNaturalist",
@@ -68631,14 +68637,16 @@
     "commonNameStatus": "documented"
   },
   "leptaena": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8338992",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Leptaena",
     "matchedName": "Leptaena",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Brachiopoda",
-      "family": "Strophomenidae",
+      "class": "Strophomenata",
+      "order": "Strophomenida",
+      "family": "Rafinesquinidae",
       "genus": "Leptaena"
     },
     "hierarchy": [
@@ -68651,8 +68659,16 @@
         "name": "Brachiopoda"
       },
       {
+        "rank": "class",
+        "name": "Strophomenata"
+      },
+      {
+        "rank": "order",
+        "name": "Strophomenida"
+      },
+      {
         "rank": "family",
-        "name": "Strophomenidae"
+        "name": "Rafinesquinidae"
       },
       {
         "rank": "genus",
@@ -68662,8 +68678,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El Treatise y el ejemplar de referencia del MCZ documentan Rafinesquinidae."
   },
   "leptinotarsa-decemlineata": {
     "provider": "iNaturalist",
@@ -80140,11 +80157,12 @@
     "commonNameStatus": "documented"
   },
   "monograptus": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=33698",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Monograptus",
     "matchedName": "Monograptus",
     "rank": "genus",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Hemichordata",
       "class": "Pterobranchia",
       "order": "Graptoloidea",
@@ -80152,6 +80170,10 @@
       "genus": "Monograptus"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Hemichordata"
@@ -80176,9 +80198,10 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "commonNameStatus": "not-documented",
-    "status": "documented"
+    "status": "documented",
+    "reviewNote": "Se contrasta el linaje de Monograptus en Pterobranchia, Graptoloidea y Monograptidae."
   },
   "monticola-saxatilis": {
     "provider": "iNaturalist",
@@ -80840,14 +80863,15 @@
     "commonNameStatus": "not-documented"
   },
   "mucrospirifer": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4867825",
+    "provider": "Smithsonian",
+    "source": "https://www.si.edu/object/nmnhpaleobiology_3039936",
     "matchedName": "Mucrospirifer",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Brachiopoda",
       "class": "Rhynchonellata",
+      "order": "Spiriferida",
       "family": "Mucrospiriferidae",
       "genus": "Mucrospirifer"
     },
@@ -80865,6 +80889,10 @@
         "name": "Rhynchonellata"
       },
       {
+        "rank": "order",
+        "name": "Spiriferida"
+      },
+      {
         "rank": "family",
         "name": "Mucrospiriferidae"
       },
@@ -80876,8 +80904,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El registro de colección documenta Rhynchonellata, Spiriferida y Mucrospiriferidae."
   },
   "mullus-surmuletus": {
     "provider": "iNaturalist",

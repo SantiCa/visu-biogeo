@@ -12583,5 +12583,109 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. La delimitación de géneros próximos requiere ejemplares bien conservados."
+  },
+  "didymograptus": {
+    "commonName": null,
+    "description": "Género de graptolitos ordovícicos. Sus colonias presentan dos ramas o estipes que parten de una región proximal común y llevan las tecas donde vivían los individuos.",
+    "diagnostics": [
+      "Seguir los dos estipes hasta su unión proximal cuando se conserve.",
+      "Buscar las tecas repetidas a lo largo de las ramas.",
+      "Distinguir un ejemplar completo de varios superpuestos. La orientación y la conservación pueden ocultar parte de la colonia."
+    ],
+    "etymology": "El Treatise atribuye Didymograptus a M’Coy, en 1851. La explicación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Didymograptus",
+        "title": "Treatise on Invertebrate Paleontology — clasificación, diagnóstico y autoría"
+      },
+      {
+        "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+        "title": "British Geological Survey — colonias, estipes y tecas"
+      },
+      {
+        "url": "https://p1acollections.esc.cam.ac.uk/p1acollections/exhibits/show/graptolites/tf1003.html",
+        "title": "University of Cambridge — ejemplares superpuestos de Didymograptus"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. El desarrollo proximal y las tecas ayudan a distinguir géneros próximos."
+  },
+  "monograptus": {
+    "commonName": null,
+    "description": "Género de graptolitos silúricos con una sola rama, recta o curvada en su parte proximal. Las tecas se solapan y sus aperturas tienen forma de gancho.",
+    "diagnostics": [
+      "Seguir el estipe y comprobar su curvatura y continuidad.",
+      "Examinar el perfil de las tecas y la dirección de sus aperturas.",
+      "Comparar la región proximal y el solapamiento de las tecas con ejemplares documentados. Una rama aislada se comparte con otros monográptidos."
+    ],
+    "etymology": "El Treatise atribuye Monograptus a Geinitz, en 1852. La explicación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Monograptus",
+        "title": "Treatise on Invertebrate Paleontology — diagnóstico, clasificación y autoría"
+      },
+      {
+        "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+        "title": "British Geological Survey — colonias silúricas de graptolitos"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género según su delimitación en el Treatise. Los nombres históricos de colecciones pueden tener un alcance más amplio."
+  },
+  "leptaena": {
+    "commonName": null,
+    "description": "Género de braquiópodos de concha transversal y perfil cóncavo-convexo. La superficie suele presentar arrugas concéntricas marcadas y ornamentación radial fina.",
+    "diagnostics": [
+      "Observar el perfil lateral y el cambio brusco de inclinación de la parte anterior de la concha.",
+      "Buscar las arrugas concéntricas y las costillas radiales finas.",
+      "Si el interior se conserva, contrastar el campo muscular y las estructuras cardinales con ejemplares figurados."
+    ],
+    "etymology": "El Treatise atribuye Leptaena a Dalman, en 1828. La explicación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Leptaena",
+        "title": "Treatise on Invertebrate Paleontology — caracteres externos e internos y clasificación"
+      },
+      {
+        "url": "https://mczbase.mcz.harvard.edu/guid/MCZ%3AIP%3A108808",
+        "title": "Museum of Comparative Zoology — ejemplar de referencia y familia Rafinesquinidae"
+      },
+      {
+        "url": "https://www.ordovicianatlas.org/atlas/brachiopoda/strophomenata/strophomenida/rafinesquinidae/leptaena/",
+        "title": "Atlas of Ordovician Life — ejemplares y clasificación de Leptaena"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La intensidad de las arrugas varía entre ejemplares."
+  },
+  "mucrospirifer": {
+    "commonName": null,
+    "description": "Género de braquiópodos espiriféridos, documentado en el Devónico. La concha es muy ancha y puede prolongarse en extremos puntiagudos a ambos lados de la charnela.",
+    "diagnostics": [
+      "Localizar la charnela y examinar sus prolongaciones laterales cuando se conserven.",
+      "Observar el pliegue y el surco medianos en las valvas correspondientes.",
+      "Comparar las costillas de los flancos y la proporción entre anchura y longitud con ejemplares documentados."
+    ],
+    "etymology": "La explicación lingüística y la motivación original del nombre Mucrospirifer siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.si.edu/object/nmnhpaleobiology_3039936",
+        "title": "Smithsonian — Mucrospirifer y clasificación en Spiriferida y Mucrospiriferidae"
+      },
+      {
+        "url": "https://www.palaeontologia.pan.pl/Archive/1966-17.pdf",
+        "title": "Estudio de braquiópodos devónicos — concha transversal y prolongaciones de la charnela"
+      },
+      {
+        "url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/a24866",
+        "title": "Muséum national d’Histoire naturelle — ejemplar figurado y clasificación"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Las prolongaciones laterales pueden faltar por rotura."
   }
 }

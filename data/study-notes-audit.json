@@ -1,14 +1,14 @@
 {
   "date": "2026-11-17",
   "catalogEntries": 2645,
-  "descriptiveProfiles": 561,
-  "withoutDescriptiveProfile": 2084,
+  "descriptiveProfiles": 565,
+  "withoutDescriptiveProfile": 2080,
   "biologicalPriorityProfiles": 103,
   "biologicalPriorityEntries": 103,
   "profilesWithCommonName": 225,
   "profilesWithMnemonic": 0,
   "familyNameConstructionNotes": 95,
-  "profilesWithWhollyOrPartlyPendingEtymology": 311,
+  "profilesWithWhollyOrPartlyPendingEtymology": 315,
   "etymologyPendingIds": [
     "melanargia-russiae",
     "panopea-glycimeris",
@@ -320,7 +320,11 @@
     "alethopteris",
     "hildoceras",
     "ceratites",
-    "paradoxides"
+    "paradoxides",
+    "didymograptus",
+    "monograptus",
+    "leptaena",
+    "mucrospirifer"
   ],
   "errors": [],
   "scope": "Una ficha descriptiva no implica etimología completa. El texto indica las partes pendientes y no convierte asociaciones de memoria en explicaciones lingüísticas. Las notas de familia explican su construcción nomenclatural; las raíces remotas solo se completan con referencia."
