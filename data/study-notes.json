@@ -13098,5 +13098,78 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. Para determinar especies se comparan ambas caras y el perfil del test."
+  },
+  "avena-sativa": {
+    "commonName": "avena",
+    "description": "Gramínea anual cultivada, con inflorescencia en panícula y espiguillas generalmente de dos o tres flores.",
+    "diagnostics": [
+      "Observar la panícula ramificada y las espiguillas situadas en sus extremos.",
+      "Comparar las dos glumas amplias con las flores que envuelven.",
+      "Examinar las aristas de las flores. Pueden ser rectas o faltar, por lo que conviene combinar varios caracteres."
+    ],
+    "etymology": "Sativa significa cultivada o sembrada en latín botánico. El origen remoto de Avena y la motivación expresa del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A391732-1/general-information",
+        "title": "Plants of the World Online — identificación, origen cultivado y caracteres de Avena sativa"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=wild",
+        "title": "Missouri Botanical Garden — sativus en latín botánico"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La presencia de aristas varía entre ejemplares cultivados."
+  },
+  "hordeum-vulgare": {
+    "commonName": "cebada",
+    "description": "Gramínea anual con espiga densa. Sus espiguillas se agrupan de tres en cada posición del eje y las flores fértiles pueden tener aristas largas.",
+    "diagnostics": [
+      "Observar la espiga y localizar los grupos de tres espiguillas en el eje.",
+      "Comparar las espiguillas laterales con la central. Según la variedad, pueden ser fértiles las tres o solo la central.",
+      "Examinar glumas y aristas. Comparar el conjunto con otras especies de Hordeum."
+    ],
+    "etymology": "Vulgare significa común en latín. El origen remoto de Hordeum y la motivación expresa del epíteto siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A405391-1/general-information",
+        "title": "Plants of the World Online — espiga y variación de las espiguillas"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=vulgaris",
+        "title": "Missouri Botanical Garden — vulgaris en latín botánico"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. Las formas cultivadas presentan variación en la fertilidad de las espiguillas."
+  },
+  "balanus-balanus": {
+    "commonName": null,
+    "description": "Cirrípedo marino sésil de la familia Balanidae, con una cubierta de seis placas y una abertura protegida por placas operculares.",
+    "diagnostics": [
+      "Observar las seis placas de la pared y sus costillas verticales.",
+      "Examinar la forma de la abertura y las placas operculares si están presentes.",
+      "Comparar la base y el relieve de las placas con ejemplares documentados. Otros balánidos también tienen seis placas."
+    ],
+    "etymology": "Una interpretación histórica relaciona Balanus con la palabra griega para bellota por la semejanza de algunas conchas. La motivación original del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.marinespecies.org/aphia.php?id=106213&p=taxdetails",
+        "title": "World Register of Marine Species — nombre y clasificación de Balanus balanus"
+      },
+      {
+        "url": "https://www2.habitas.org.uk/marbiop-ni/species.php?item=R1090",
+        "title": "Marine Biodiversity and Climate Change — placas, abertura y hábitat"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_Linn%C3%A6an_system_of_conchology_%2C_describing_the_orders%2C_genera%2C_and_species_of_shells_arranged_into_divisions_and_families_%28IA_linnansystemof00mawe%29.pdf",
+        "title": "Mawe — interpretación histórica del nombre Balanus"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La identificación se apoya en las placas y la base cuando están conservadas."
   }
 }
