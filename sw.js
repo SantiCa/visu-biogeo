@@ -1,4 +1,4 @@
-const CACHE='visu-biogeo-v8.18',PHOTOS='visu-photo-library-v1';
+const CACHE='visu-biogeo-v8.19',PHOTOS='visu-photo-library-v1';
 const CORE=['./','./index.html','./styles.css','./theme.js','./app.js','./engine.mjs','./offline.mjs','./storage.mjs','./config.js','./manifest.webmanifest','./icons/icon.svg','./data/species.json','./data/images.json','./data/curated-images.json','./data/andalucia-priority.json','./data/inaturalist-images.json','./data/geological-images.json','./data/geodil-images.json','./data/commons-extra-images.json','./data/priority-additions.json','./data/cloud-images.json','./data/asturnatura-images.json','./data/taxonomy.json','./data/teaching-images.json','./data/petrography-images.json','./data/study-notes.json','./data/family-notes.json'];
 CORE.push('./catalogue.mjs','./data/classification.json');
 CORE.push('./notes.mjs','./tooltips.mjs','./community.mjs','./data/exams.json');
@@ -6,6 +6,7 @@ CORE.push('./cloud.mjs','./install.mjs','./icons/icon-180.png','./icons/icon-192
 CORE.push('./classification-learning.mjs','./data/learning-taxonomy.json','./data/learning-geology.json');
 CORE.push('./taxonomy-guide.mjs');
 CORE.push('./taxon-reference.mjs','./exam-photos.mjs');
+CORE.push('./fossil-guide.mjs','./fossil-guide-data.mjs','./fossil-guide.css');
 const BASE=self.location.href||self.location.origin+'/',CORE_PATHS=new Set(CORE.map(path=>new URL(path,BASE).pathname));
 function usable(req,response){const path=new URL(req.url,BASE).pathname,type=response.headers.get('content-type')||'';return response.ok&&!response.redirected&&(!/text\/html/i.test(type)||path.endsWith('/')||path.endsWith('/index.html'));}
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>Promise.all(CORE.map(async path=>{const req=new Request(path,{cache:'reload'}),response=await fetch(req);if(!usable(req,response))throw Error('App resources require a valid signed-in response');await cache.put(req,response);}))).then(()=>self.skipWaiting())));

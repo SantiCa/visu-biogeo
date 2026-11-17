@@ -4808,14 +4808,16 @@
     "commonNameStatus": "documented"
   },
   "alethopteris": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8254275",
+    "provider": "Cleal y Thomas (2021)",
+    "source": "https://fi.nm.cz/wp-content/uploads/2021/12/13_Cleal.pdf",
     "matchedName": "Alethopteris",
     "rank": "genus",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
-      "family": "Pachytestaceae",
+      "class": "Cycadopsida",
+      "order": "Medullosales",
+      "family": "Alethopteridaceae",
       "genus": "Alethopteris"
     },
     "hierarchy": [
@@ -4828,8 +4830,16 @@
         "name": "Tracheophyta"
       },
       {
+        "rank": "class",
+        "name": "Cycadopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Medullosales"
+      },
+      {
         "rank": "family",
-        "name": "Pachytestaceae"
+        "name": "Alethopteridaceae"
       },
       {
         "rank": "genus",
@@ -4839,8 +4849,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se sigue la clasificación de follaje fósil de la tabla 2, con Alethopteridaceae, Medullosales y Cycadopsida."
   },
   "aleuria-aurantia": {
     "provider": "iNaturalist",
@@ -17322,9 +17333,10 @@
     "commonNameStatus": "not-documented"
   },
   "balanus": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=22127",
+    "provider": "Smithsonian",
+    "source": "https://qrius.si.edu/browse/object/17167320",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Arthropoda",
       "class": "Thecostraca",
       "order": "Balanomorpha",
@@ -17332,6 +17344,10 @@
       "genus": "Balanus"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Arthropoda"
@@ -17355,9 +17371,9 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "El registro fósil documenta Balanus en Balanomorpha y Balanidae.",
     "commonNameStatus": "not-documented",
     "matchedName": "Balanus",
     "rank": "genus"
@@ -27513,9 +27529,10 @@
     "commonNameStatus": "documented"
   },
   "ceratites": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=14068",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://ammonoid.treatise.geolex.org/displayInfo.php?genera=Ceratites",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
       "subclass": "Ammonoidea",
@@ -27524,6 +27541,10 @@
       "genus": "Ceratites"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Mollusca"
@@ -27551,9 +27572,9 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "El Treatise documenta Ceratites en Cephalopoda, Ceratitida y Ceratitidae.",
     "commonNameStatus": "not-documented",
     "matchedName": "Ceratites",
     "rank": "genus",
@@ -35112,6 +35133,7 @@
     "provider": "Paleobiology Database",
     "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=10963",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Neogastropoda",
@@ -35119,6 +35141,10 @@
       "genus": "Conus"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Mollusca"
@@ -35142,7 +35168,7 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
     "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
     "commonNameStatus": "not-documented",
@@ -42329,15 +42355,16 @@
     "commonNameStatus": "documented"
   },
   "didymograptus": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8387960",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Didymograptus",
     "matchedName": "Didymograptus",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Hemichordata",
       "class": "Pterobranchia",
-      "family": "Dichograptidae",
+      "order": "Graptoloidea",
+      "family": "Didymograptidae",
       "genus": "Didymograptus"
     },
     "hierarchy": [
@@ -42354,8 +42381,12 @@
         "name": "Pterobranchia"
       },
       {
+        "rank": "order",
+        "name": "Graptoloidea"
+      },
+      {
         "rank": "family",
-        "name": "Dichograptidae"
+        "name": "Didymograptidae"
       },
       {
         "rank": "genus",
@@ -42365,8 +42396,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El Treatise sitúa Didymograptus en Didymograptidae y Graptoloidea."
   },
   "digitalis-grandiflora": {
     "provider": "iNaturalist",
@@ -56502,8 +56534,8 @@
     "commonNameStatus": "documented"
   },
   "goniatites": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4623978",
+    "provider": "Korn (2025)",
+    "source": "https://europeanjournaloftaxonomy.eu/index.php/ejt/article/download/2873/13051",
     "matchedName": "Goniatites",
     "rank": "genus",
     "ranks": {
@@ -56543,8 +56575,9 @@
     "commonName": null,
     "commonNames": [],
     "group": "Moluscos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "La revisión documenta Goniatites en Goniatitida y Goniatitidae."
   },
   "goniopygus": {
     "provider": "GBIF",
@@ -63332,6 +63365,7 @@
     "provider": "Paleobiology Database",
     "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=34613",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Chordata",
       "class": "Chondrichthyes",
       "order": "Lamniformes",
@@ -63339,6 +63373,10 @@
       "genus": "Isurus"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Chordata"
@@ -63362,7 +63400,7 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
     "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
     "commonNameStatus": "not-documented",
@@ -68615,14 +68653,16 @@
     "commonNameStatus": "documented"
   },
   "leptaena": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/8338992",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Leptaena",
     "matchedName": "Leptaena",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Brachiopoda",
-      "family": "Strophomenidae",
+      "class": "Strophomenata",
+      "order": "Strophomenida",
+      "family": "Rafinesquinidae",
       "genus": "Leptaena"
     },
     "hierarchy": [
@@ -68635,8 +68675,16 @@
         "name": "Brachiopoda"
       },
       {
+        "rank": "class",
+        "name": "Strophomenata"
+      },
+      {
+        "rank": "order",
+        "name": "Strophomenida"
+      },
+      {
         "rank": "family",
-        "name": "Strophomenidae"
+        "name": "Rafinesquinidae"
       },
       {
         "rank": "genus",
@@ -68646,8 +68694,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El Treatise y el ejemplar de referencia del MCZ documentan Rafinesquinidae."
   },
   "leptinotarsa-decemlineata": {
     "provider": "iNaturalist",
@@ -80124,11 +80173,12 @@
     "commonNameStatus": "documented"
   },
   "monograptus": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=33698",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Monograptus",
     "matchedName": "Monograptus",
     "rank": "genus",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Hemichordata",
       "class": "Pterobranchia",
       "order": "Graptoloidea",
@@ -80136,6 +80186,10 @@
       "genus": "Monograptus"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Hemichordata"
@@ -80160,9 +80214,10 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "commonNameStatus": "not-documented",
-    "status": "documented"
+    "status": "documented",
+    "reviewNote": "Se contrasta el linaje de Monograptus en Pterobranchia, Graptoloidea y Monograptidae."
   },
   "monticola-saxatilis": {
     "provider": "iNaturalist",
@@ -80824,14 +80879,15 @@
     "commonNameStatus": "not-documented"
   },
   "mucrospirifer": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4867825",
+    "provider": "Smithsonian",
+    "source": "https://www.si.edu/object/nmnhpaleobiology_3039936",
     "matchedName": "Mucrospirifer",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Brachiopoda",
       "class": "Rhynchonellata",
+      "order": "Spiriferida",
       "family": "Mucrospiriferidae",
       "genus": "Mucrospirifer"
     },
@@ -80849,6 +80905,10 @@
         "name": "Rhynchonellata"
       },
       {
+        "rank": "order",
+        "name": "Spiriferida"
+      },
+      {
         "rank": "family",
         "name": "Mucrospiriferidae"
       },
@@ -80860,8 +80920,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El registro de colección documenta Rhynchonellata, Spiriferida y Mucrospiriferidae."
   },
   "mullus-surmuletus": {
     "provider": "iNaturalist",
@@ -84143,17 +84204,16 @@
     "commonNameStatus": "documented"
   },
   "neuropteris": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/6760056",
+    "provider": "Cleal y Thomas (2018)",
+    "source": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
     "matchedName": "Neuropteris",
     "rank": "genus",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
-      "class": "Polypodiopsida",
-      "order": "Polypodiales",
-      "family": "Saccolomataceae",
-      "genus": "Saccoloma"
+      "class": "Cycadopsida",
+      "order": "Medullosales",
+      "genus": "Neuropteris"
     },
     "hierarchy": [
       {
@@ -84166,26 +84226,23 @@
       },
       {
         "rank": "class",
-        "name": "Polypodiopsida"
+        "name": "Cycadopsida"
       },
       {
         "rank": "order",
-        "name": "Polypodiales"
-      },
-      {
-        "rank": "family",
-        "name": "Saccolomataceae"
+        "name": "Medullosales"
       },
       {
         "rank": "genus",
-        "name": "Saccoloma"
+        "name": "Neuropteris"
       }
     ],
     "commonName": null,
     "commonNames": [],
-    "group": "Helechos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "group": "Plantas fósiles",
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Follaje fósil de medulosales. La familia queda pendiente por la amplitud histórica del género y las segregaciones documentadas en la revisión."
   },
   "nicotiana-glauca": {
     "provider": "iNaturalist",
@@ -87385,15 +87442,16 @@
     "commonNameStatus": "documented"
   },
   "orthis": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4870496",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Orthis",
     "matchedName": "Orthis",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Brachiopoda",
       "class": "Rhynchonellata",
-      "family": "Dalmanellidae",
+      "order": "Orthida",
+      "family": "Orthidae",
       "genus": "Orthis"
     },
     "hierarchy": [
@@ -87410,8 +87468,12 @@
         "name": "Rhynchonellata"
       },
       {
+        "rank": "order",
+        "name": "Orthida"
+      },
+      {
         "rank": "family",
-        "name": "Dalmanellidae"
+        "name": "Orthidae"
       },
       {
         "rank": "genus",
@@ -87421,13 +87483,15 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Orthis en sentido restringido se clasifica en Orthida y Orthidae según el Treatise."
   },
   "orthoceras": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=12557",
+    "provider": "Revisión de ortoceratoideos y Treatise",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10991048/",
     "ranks": {
+      "kingdom": "Animalia",
       "phylum": "Mollusca",
       "class": "Cephalopoda",
       "subclass": "Orthoceratoidea",
@@ -87436,6 +87500,10 @@
       "genus": "Orthoceras"
     },
     "hierarchy": [
+      {
+        "rank": "kingdom",
+        "name": "Animalia"
+      },
       {
         "rank": "phylum",
         "name": "Mollusca"
@@ -87463,9 +87531,9 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "Orthoceras en sentido restringido corresponde al Ordovícico medio de Baltoscandia. El Treatise documenta Orthocerida y Orthoceratidae; las identificaciones históricas requieren cotejo.",
     "commonNameStatus": "not-documented",
     "matchedName": "Orthoceras",
     "rank": "genus",
@@ -92436,16 +92504,13 @@
     "commonNameStatus": "not-documented"
   },
   "pecopteris": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4895272",
+    "provider": "Cleal y Thomas (2018)",
+    "source": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
     "matchedName": "Pecopteris",
     "rank": "genus",
     "ranks": {
       "kingdom": "Plantae",
       "phylum": "Tracheophyta",
-      "class": "Polypodiopsida",
-      "order": "Marattiales",
-      "family": "Asterothecaceae",
       "genus": "Pecopteris"
     },
     "hierarchy": [
@@ -92458,18 +92523,6 @@
         "name": "Tracheophyta"
       },
       {
-        "rank": "class",
-        "name": "Polypodiopsida"
-      },
-      {
-        "rank": "order",
-        "name": "Marattiales"
-      },
-      {
-        "rank": "family",
-        "name": "Asterothecaceae"
-      },
-      {
         "rank": "genus",
         "name": "Pecopteris"
       }
@@ -92477,8 +92530,9 @@
     "commonName": null,
     "commonNames": [],
     "group": "Helechos",
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "El género de follaje tiene afinidades diversas. Orden y familia quedan pendientes para la entrada genérica."
   },
   "pecten": {
     "provider": "Paleobiology Database",
@@ -109332,8 +109386,8 @@
     "commonNameStatus": "documented"
   },
   "rhynchonella": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/7974628",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Rhynchonella",
     "matchedName": "Rhynchonella",
     "rank": "genus",
     "ranks": {
@@ -109373,8 +109427,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se contrasta el linaje de Rhynchonella en Rhynchonellata, Rhynchonellida y Rhynchonellidae."
   },
   "rhyssa-persuasoria": {
     "provider": "iNaturalist",
@@ -115416,11 +115471,13 @@
     "commonNameStatus": "not-documented"
   },
   "sigillaria": {
-    "provider": "Paleobiology Database",
-    "source": "https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=157272",
+    "provider": "Smithsonian",
+    "source": "https://qrius.si.edu/browse/object/10023511",
     "ranks": {
       "kingdom": "Plantae",
-      "phylum": "Lycophyta",
+      "phylum": "Tracheophyta",
+      "class": "Lycopodiopsida",
+      "order": "Lepidodendrales",
       "family": "Sigillariaceae",
       "genus": "Sigillaria"
     },
@@ -115431,7 +115488,15 @@
       },
       {
         "rank": "phylum",
-        "name": "Lycophyta"
+        "name": "Tracheophyta"
+      },
+      {
+        "rank": "class",
+        "name": "Lycopodiopsida"
+      },
+      {
+        "rank": "order",
+        "name": "Lepidodendrales"
       },
       {
         "rank": "family",
@@ -115444,9 +115509,9 @@
     ],
     "commonName": null,
     "commonNames": [],
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-17",
     "status": "documented",
-    "reviewNote": "No hay una correspondencia taxonómica inequívoca en las fuentes consultadas.",
+    "reviewNote": "El registro del Smithsonian documenta Lycopodiopsida, Lepidodendrales y Sigillariaceae.",
     "commonNameStatus": "not-documented",
     "matchedName": "Sigillaria",
     "rank": "genus"
@@ -121436,8 +121501,8 @@
     "commonNameStatus": "not-documented"
   },
   "terebratula": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4868945",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Terebratula",
     "matchedName": "Terebratula",
     "rank": "genus",
     "ranks": {
@@ -121477,8 +121542,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Se contrasta el linaje de Terebratula en Rhynchonellata, Terebratulida y Terebratulidae."
   },
   "teredo-navalis": {
     "provider": "iNaturalist",

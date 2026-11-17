@@ -12402,5 +12402,828 @@
     "reviewedAt": "2026-11-08",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. La costulación y la sección de la vuelta ayudan a precisar la identificación."
+  },
+  "lepidodendron": {
+    "commonName": null,
+    "description": "Género fósil de licófitos arborescentes. Sus tallos conservan cojinetes foliares alargados y romboidales dispuestos en hélice.",
+    "diagnostics": [
+      "Localizar los cojinetes romboidales y seguir su disposición alrededor del tallo.",
+      "Buscar dentro de cada cojinete la cicatriz donde se insertaba la hoja.",
+      "Comparar superficies con un grado de conservación semejante. La pérdida de capas externas puede cambiar el aspecto del tallo."
+    ],
+    "etymology": "Lepidodendron combina los elementos griegos para escama y árbol. Sternberg explicó esa construcción en Flora der Vorwelt, al presentar el nombre.",
+    "sources": [
+      {
+        "url": "https://library.isgs.illinois.edu/Pubs/pdfs/ges/ges13.pdf",
+        "title": "Illinois State Geological Survey — cojinetes foliares y comparación de licófitos"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/68470/68470-h/68470-h.htm",
+        "title": "Seward, Fossil Plants, vol. II — tallos y cicatrices foliares"
+      },
+      {
+        "url": "https://archive.org/details/versucheinergeo1syte/page/n72/mode/1up",
+        "title": "Sternberg, Flora der Vorwelt, fasc. 1, p. 23 — raíces griegas del nombre"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género centrada en la superficie de tallos fósiles."
+  },
+  "sigillaria": {
+    "commonName": null,
+    "description": "Género fósil de licófitos arborescentes. Sus tallos presentan cicatrices foliares que suelen formar filas longitudinales, a menudo sobre costillas.",
+    "diagnostics": [
+      "Seguir las filas de cicatrices foliares a lo largo del tallo.",
+      "Observar el contorno de las cicatrices y, cuando se conserven, las marcas internas de los tejidos de la hoja.",
+      "Comparar el relieve y las costillas entre superficies equivalentes. La descortezación modifica los rasgos visibles."
+    ],
+    "etymology": "La interpretación publicada relaciona Sigillaria con el aspecto de sello de las cicatrices foliares. Queda pendiente cotejar la explicación del autor en la publicación original.",
+    "sources": [
+      {
+        "url": "https://library.isgs.illinois.edu/Pubs/pdfs/ges/ges13.pdf",
+        "title": "Illinois State Geological Survey — cicatrices de Sigillaria y lectura del nombre"
+      },
+      {
+        "url": "https://qrius.si.edu/browse/object/10023511",
+        "title": "Smithsonian — ejemplar de Sigillaria y clasificación"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/68470/68470-h/68470-h.htm",
+        "title": "Seward, Fossil Plants, vol. II — variación de las superficies conservadas"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género centrada en los tallos. La identificación requiere cicatrices foliares conservadas."
+  },
+  "neuropteris": {
+    "commonName": null,
+    "description": "Género fósil de follaje usado para plantas con semillas del grupo de las medulosales. Las pínnulas tienen la base estrechada y nervios que se bifurcan sin formar una red.",
+    "diagnostics": [
+      "Observar cómo se estrecha la base de la pínnula en su inserción en el raquis.",
+      "Seguir la nerviación hasta el margen y comprobar sus bifurcaciones.",
+      "Examinar un fragmento amplio de fronde cuando esté disponible. La arquitectura de la fronde ayuda a distinguir géneros próximos."
+    ],
+    "etymology": "Mantell interpreta Neuropteris como hoja nervada. La revisión nomenclatural documenta la grafía inicial Nevropteris y la conservación posterior de Neuropteris. La motivación expresa de Brongniart sigue pendiente.",
+    "sources": [
+      {
+        "url": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
+        "title": "Cleal y Thomas (2018), p. 18 — diagnóstico, afinidad y nomenclatura de Neuropteris"
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/62891/pg62891-images.html",
+        "title": "Mantell, The Medals of Creation, capítulo VI — interpretación histórica del nombre"
+      },
+      {
+        "url": "https://qrius.si.edu/browse/object/10021180",
+        "title": "Smithsonian — ejemplar de follaje fósil Neuropteris"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de follaje fósil. La asociación de órganos necesita evidencia adicional."
+  },
+  "alethopteris": {
+    "commonName": null,
+    "description": "Género de follaje fósil de plantas con semillas del grupo de las medulosales. Sus pínnulas se unen ampliamente al raquis y muestran un nervio medio marcado.",
+    "diagnostics": [
+      "Observar la base de las pínnulas y cómo sus bordes se prolongan hacia las pínnulas vecinas.",
+      "Seguir el nervio medio y los numerosos nervios secundarios hacia el margen.",
+      "Comparar la inserción y la nerviación con frondes documentadas. Un fragmento amplio ayuda a distinguir géneros de follaje próximos."
+    ],
+    "etymology": "El nombre Alethopteris está documentado para este género de follaje fósil. La explicación de sus componentes y la motivación del autor siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://samnoblemuseum.ou.edu/common-fossils-of-oklahoma/plant-fossils/fossils-by-plant-group/fossil-medullosans/",
+        "title": "Sam Noble Museum — inserción y nerviación de Alethopteris"
+      },
+      {
+        "url": "https://fi.nm.cz/wp-content/uploads/2021/12/13_Cleal.pdf",
+        "title": "Cleal y Thomas (2021), tabla 2 — Alethopteridaceae, Medullosales y Cycadopsida"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género de follaje. La asociación con semillas o tallos requiere evidencia adicional."
+  },
+  "hildoceras": {
+    "commonName": null,
+    "description": "Género de ammonites del Jurásico inferior. Sus conchas presentan costillas en los flancos y un vientre aquillado con surcos. En muchas especies aparece además un surco espiral lateral.",
+    "diagnostics": [
+      "Observar las costillas en el flanco y seguir su curvatura hacia el vientre.",
+      "Buscar el surco espiral lateral y comparar su desarrollo con ejemplares documentados de la misma especie candidata.",
+      "En vista ventral, examinar la quilla y los surcos que la flanquean. La sección de la vuelta aporta caracteres complementarios."
+    ],
+    "etymology": "La referencia a santa Hilda está documentada por el Natural History Museum al explicar el nombre Hildoceras bifrons. La motivación expresa de Hyatt para el nombre genérico sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://real.mtak.hu/156151/1/04_Sassaroli.pdf",
+        "title": "Sassaroli y Venturi — Hildoceratinae, ornamentación y variación del surco lateral"
+      },
+      {
+        "url": "https://www.nhm.ac.uk/discover/snakestones-ammonites-myth-magic-science.html",
+        "title": "Natural History Museum — Hildoceras y santa Hilda"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. El desarrollo del surco lateral varía entre especies."
+  },
+  "ceratites": {
+    "commonName": null,
+    "description": "Género de ammonoideos del Triásico. Las conchas enrolladas presentan ornamentación variable. Sus líneas de sutura muestran sillas redondeadas y lóbulos denticulados.",
+    "diagnostics": [
+      "En un molde interno, localizar las líneas de sutura y comparar los lóbulos con las sillas.",
+      "Examinar las costillas y los tubérculos en ambos flancos cuando se conserven.",
+      "Comparar el perfil de la vuelta y la ornamentación con ejemplares de procedencia estratigráfica conocida."
+    ],
+    "etymology": "De Haan publicó Ceratites en 1825. La interpretación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://ammonoid.treatise.geolex.org/displayInfo.php?genera=Ceratites",
+        "title": "Treatise on Invertebrate Paleontology — diagnóstico, clasificación y autoría"
+      },
+      {
+        "url": "https://p1acollections.esc.cam.ac.uk/p1acollections/exhibits/show/ammonoids/tf0311.html",
+        "title": "University of Cambridge — ejemplar y suturas ceratíticas"
+      },
+      {
+        "url": "https://www.muschelkalkmuseum.org/en/exhibition/fossil_gallery/cephalopods/",
+        "title": "Muschelkalk Museum — variación y contexto estratigráfico"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. El tipo de sutura se comparte con otros ammonoideos."
+  },
+  "paradoxides": {
+    "commonName": null,
+    "description": "Género de trilobites cámbricos con cefalón ancho, tórax de numerosos segmentos y pigidio pequeño. Las espinas laterales del tórax se orientan hacia atrás.",
+    "diagnostics": [
+      "Comparar la anchura del cefalón con la del eje torácico.",
+      "Seguir los segmentos del tórax y observar la longitud y dirección de las espinas pleurales.",
+      "Examinar el pigidio y los surcos de la glabela en ejemplares completos. La procedencia ayuda a contrastar la identificación."
+    ],
+    "etymology": "Brongniart publicó Paradoxides en 1822. La explicación original de la elección del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://unbgeology.lib.unb.ca/specimens/unb-2020-0305",
+        "title": "University of New Brunswick — ejemplares y clasificación de Paradoxides"
+      },
+      {
+        "url": "https://mczbase.mcz.harvard.edu/name/Paradoxides",
+        "title": "Museum of Comparative Zoology — Redlichiida y Paradoxididae"
+      },
+      {
+        "url": "https://www.trilobites.info/paradoxidoideaguide.htm",
+        "title": "Guía de Paradoxidoidea — cefalón, tórax y pigidio"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La delimitación de géneros próximos requiere ejemplares bien conservados."
+  },
+  "didymograptus": {
+    "commonName": null,
+    "description": "Género de graptolitos ordovícicos. Sus colonias presentan dos ramas o estipes que parten de una región proximal común y llevan las tecas donde vivían los individuos.",
+    "diagnostics": [
+      "Seguir los dos estipes hasta su unión proximal cuando se conserve.",
+      "Buscar las tecas repetidas a lo largo de las ramas.",
+      "Distinguir un ejemplar completo de varios superpuestos. La orientación y la conservación pueden ocultar parte de la colonia."
+    ],
+    "etymology": "El Treatise atribuye Didymograptus a M’Coy, en 1851. La explicación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Didymograptus",
+        "title": "Treatise on Invertebrate Paleontology — clasificación, diagnóstico y autoría"
+      },
+      {
+        "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+        "title": "British Geological Survey — colonias, estipes y tecas"
+      },
+      {
+        "url": "https://p1acollections.esc.cam.ac.uk/p1acollections/exhibits/show/graptolites/tf1003.html",
+        "title": "University of Cambridge — ejemplares superpuestos de Didymograptus"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. El desarrollo proximal y las tecas ayudan a distinguir géneros próximos."
+  },
+  "monograptus": {
+    "commonName": null,
+    "description": "Género de graptolitos silúricos con una sola rama, recta o curvada en su parte proximal. Las tecas se solapan y sus aperturas tienen forma de gancho.",
+    "diagnostics": [
+      "Seguir el estipe y comprobar su curvatura y continuidad.",
+      "Examinar el perfil de las tecas y la dirección de sus aperturas.",
+      "Comparar la región proximal y el solapamiento de las tecas con ejemplares documentados. Una rama aislada se comparte con otros monográptidos."
+    ],
+    "etymology": "El Treatise atribuye Monograptus a Geinitz, en 1852. La explicación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Monograptus",
+        "title": "Treatise on Invertebrate Paleontology — diagnóstico, clasificación y autoría"
+      },
+      {
+        "url": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/graptolites/",
+        "title": "British Geological Survey — colonias silúricas de graptolitos"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género según su delimitación en el Treatise. Los nombres históricos de colecciones pueden tener un alcance más amplio."
+  },
+  "leptaena": {
+    "commonName": null,
+    "description": "Género de braquiópodos de concha transversal y perfil cóncavo-convexo. La superficie suele presentar arrugas concéntricas marcadas y ornamentación radial fina.",
+    "diagnostics": [
+      "Observar el perfil lateral y el cambio brusco de inclinación de la parte anterior de la concha.",
+      "Buscar las arrugas concéntricas y las costillas radiales finas.",
+      "Si el interior se conserva, contrastar el campo muscular y las estructuras cardinales con ejemplares figurados."
+    ],
+    "etymology": "El Treatise atribuye Leptaena a Dalman, en 1828. La explicación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Leptaena",
+        "title": "Treatise on Invertebrate Paleontology — caracteres externos e internos y clasificación"
+      },
+      {
+        "url": "https://mczbase.mcz.harvard.edu/guid/MCZ%3AIP%3A108808",
+        "title": "Museum of Comparative Zoology — ejemplar de referencia y familia Rafinesquinidae"
+      },
+      {
+        "url": "https://www.ordovicianatlas.org/atlas/brachiopoda/strophomenata/strophomenida/rafinesquinidae/leptaena/",
+        "title": "Atlas of Ordovician Life — ejemplares y clasificación de Leptaena"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La intensidad de las arrugas varía entre ejemplares."
+  },
+  "mucrospirifer": {
+    "commonName": null,
+    "description": "Género de braquiópodos espiriféridos, documentado en el Devónico. La concha es muy ancha y puede prolongarse en extremos puntiagudos a ambos lados de la charnela.",
+    "diagnostics": [
+      "Localizar la charnela y examinar sus prolongaciones laterales cuando se conserven.",
+      "Observar el pliegue y el surco medianos en las valvas correspondientes.",
+      "Comparar las costillas de los flancos y la proporción entre anchura y longitud con ejemplares documentados."
+    ],
+    "etymology": "La explicación lingüística y la motivación original del nombre Mucrospirifer siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.si.edu/object/nmnhpaleobiology_3039936",
+        "title": "Smithsonian — Mucrospirifer y clasificación en Spiriferida y Mucrospiriferidae"
+      },
+      {
+        "url": "https://www.palaeontologia.pan.pl/Archive/1966-17.pdf",
+        "title": "Estudio de braquiópodos devónicos — concha transversal y prolongaciones de la charnela"
+      },
+      {
+        "url": "https://science.mnhn.fr/institution/mnhn/collection/f/item/a24866",
+        "title": "Muséum national d’Histoire naturelle — ejemplar figurado y clasificación"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Las prolongaciones laterales pueden faltar por rotura."
+  },
+  "goniatites": {
+    "commonName": null,
+    "description": "Género de ammonoideos documentado en el Carbonífero inferior. Sus conchas enrolladas pueden ser globosas, con ombligo estrecho. La forma y la ornamentación varían durante el crecimiento.",
+    "diagnostics": [
+      "Comparar la anchura de la concha y la apertura del ombligo en vistas lateral y ventral.",
+      "Buscar líneas de crecimiento y, cuando existan, líneas espirales en la superficie.",
+      "En ejemplares con suturas visibles, contrastar los lóbulos y las sillas con ejemplares figurados. El aspecto globoso se comparte con otros géneros."
+    ],
+    "etymology": "La literatura taxonómica atribuye Goniatites a de Haan, en 1825. La interpretación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://europeanjournaloftaxonomy.eu/index.php/ejt/article/download/2873/13051",
+        "title": "Korn (2025), European Journal of Taxonomy — clasificación y comparación de especies de Goniatites"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género Goniatites. Para determinarlo hacen falta suturas y ornamentación comparables con material de referencia."
+  },
+  "orthoceras": {
+    "commonName": null,
+    "description": "Género de cefalópodos de concha casi recta, dividido internamente en cámaras y con sifúnculo aproximadamente central. Su delimitación moderna se refiere a formas del Ordovícico medio de Baltoscandia.",
+    "diagnostics": [
+      "En una sección longitudinal, localizar los tabiques que separan las cámaras y la posición del sifúnculo.",
+      "Buscar la ornamentación fina de la superficie cuando se conserve.",
+      "En la cámara habitacional, examinar las constricciones y depresiones longitudinales. Contrastar la procedencia con la delimitación del género."
+    ],
+    "etymology": "Woodward interpreta Orthoceras mediante los elementos griegos orthos, recto, y keras, cuerno. La motivación expresa del autor original sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://ammonoid.treatise.geolex.org/displayInfo.php?genera=Orthoceras",
+        "title": "Treatise on Invertebrate Paleontology — caracteres de la concha y clasificación"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10991048/",
+        "title": "Revisión de ortoceratoideos — delimitación de Orthoceras y uso histórico amplio del nombre"
+      },
+      {
+        "url": "https://darwin-online.org.uk/converted/pdf/1851-6_Woodward_Mollusca_CUL-DAR.LIB.687.pdf",
+        "title": "Woodward, Manual of the Mollusca, p. 88 — interpretación etimológica"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género en sentido restringido. La forma recta de la concha por sí sola permite una identificación más amplia."
+  },
+  "rhynchonella": {
+    "commonName": null,
+    "description": "Género de braquiópodos de concha abombada y contorno subtriangular. Presenta pliegue dorsal alto y costillas anteriores marcadas.",
+    "diagnostics": [
+      "Observar el contorno y el perfil de las dos valvas en vistas dorsal y lateral.",
+      "En vista anterior, comparar el pliegue, el surco y la forma de la comisura.",
+      "Buscar el pico pequeño y curvado. Para confirmar el género, contrastar también los caracteres internos cuando estén disponibles."
+    ],
+    "etymology": "El Treatise atribuye Rhynchonella a Fischer de Waldheim, en 1809. La interpretación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Rhynchonella",
+        "title": "Treatise on Invertebrate Paleontology — diagnóstico, clasificación y autoría"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género según el Treatise. Los caracteres externos se comparten con otros rinconélidos."
+  },
+  "terebratula": {
+    "commonName": null,
+    "description": "Género de braquiópodos de superficie lisa y contorno ovalado o subpentagonal. Presenta un foramen peduncular grande y un bucle interno corto.",
+    "diagnostics": [
+      "Localizar el pico y examinar el foramen peduncular cuando se conserve.",
+      "Comparar el contorno, el perfil de las valvas y la comisura anterior.",
+      "En ejemplares abiertos, observar el bucle interno. La concha lisa por sí sola se comparte con otros terebratúlidos."
+    ],
+    "etymology": "El Treatise atribuye Terebratula a Müller, en 1776. La interpretación lingüística y la motivación original del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Terebratula",
+        "title": "Treatise on Invertebrate Paleontology — concha, bucle interno y clasificación"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género en su delimitación del Treatise, documentada en el Neógeno y el Cuaternario."
+  },
+  "pecopteris": {
+    "commonName": null,
+    "description": "Género de follaje fósil con frondes divididas en pínnulas adheridas por su base al raquis. El nombre se ha aplicado a fósiles de afinidades vegetales diversas.",
+    "diagnostics": [
+      "Observar la inserción de las pínnulas a lo largo del raquis.",
+      "Seguir el nervio medio y sus nervios secundarios hacia el margen.",
+      "Comparar un fragmento amplio y, cuando existan, órganos reproductores con ejemplares documentados."
+    ],
+    "etymology": "Brongniart empleó Pecopteris como nombre de una sección de Filicites. La explicación original del nombre queda pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
+        "title": "Cleal y Thomas — nomenclatura y diagnóstico histórico de Pecopteris"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0016699522000407",
+        "title": "Estudio de Pecopteris lativenosa y diversidad de afinidades"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de follaje fósil. La afinidad de cada ejemplar requiere caracteres adicionales."
+  },
+  "orbitolina": {
+    "commonName": null,
+    "description": "Género de foraminíferos fósiles con test aglutinado, generalmente cónico, dividido en cámaras y compartimentos internos.",
+    "diagnostics": [
+      "Observar el perfil del test y localizar el ápice y la base.",
+      "En sección axial, seguir las cámaras sucesivas y la región embrionaria próxima al ápice.",
+      "Comparar los tabiques de las regiones marginal y central en secciones orientadas."
+    ],
+    "etymology": "La explicación original del nombre Orbitolina queda pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10171425/",
+        "title": "Estudio de orbitolínidos — estructura del test y clasificación"
+      },
+      {
+        "url": "https://actapalrom.geo-paleontologica.org/Online_first/Bidgood_etal_Orbitolina.pdf",
+        "title": "Estudio de Orbitolina — secciones axiales y taxonomía"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La identificación de especie requiere secciones diagnósticas."
+  },
+  "fusulina": {
+    "commonName": null,
+    "description": "Género de foraminíferos fósiles paleozoicos con test calcáreo fusiforme y cámaras enrolladas alrededor de un eje.",
+    "diagnostics": [
+      "Observar la forma alargada del test y sus extremos.",
+      "En sección axial, seguir las vueltas y los tabiques de las cámaras.",
+      "Comparar secciones orientadas. El aspecto interno cambia con el plano de corte."
+    ],
+    "etymology": "La explicación original del nombre Fusulina queda pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/c733085f-c1d3-4543-9aa5-f3675015a5cd/content",
+        "title": "Indiana Geological Survey — diagnóstico de Fusulina y secciones axiales"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S1871174X18300933",
+        "title": "Estudio tridimensional de fusulínidos — cámaras y orientación de secciones"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Distinguir el género Fusulina del conjunto más amplio de fusulínidos."
+  },
+  "belemnopsis": {
+    "commonName": null,
+    "description": "Género fósil de cefalópodos belemnítidos. El rostro calcáreo presenta un surco ventral que parte de la región del alvéolo y cuya longitud varía entre especies.",
+    "diagnostics": [
+      "Orientar el rostro y localizar el extremo anterior con el alvéolo.",
+      "Seguir el surco ventral y observar hasta dónde se prolonga hacia la punta.",
+      "Comparar el perfil lateral y la sección transversal con ejemplares de procedencia conocida."
+    ],
+    "etymology": "Bayle publicó Belemnopsis en 1878. La explicación original de la elección del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://palaeo-electronica.org/2007_1/assemblage/system.htm",
+        "title": "Challinor y Hikuroa — Belemnopseidae, surco ventral y discusión nomenclatural"
+      },
+      {
+        "url": "https://www.mdpi.com/2075-163X/10/8/713",
+        "title": "Estudio comparado de rostros de belemnites — morfología de Belemnopsis"
+      },
+      {
+        "url": "https://web.natur.cuni.cz/IGP/main/OBD/s12549-022-00538-y.pdf",
+        "title": "Estudio de belemnites jurásicos — ejemplares figurados en varias vistas"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género. La determinación requiere un rostro suficientemente completo y vistas comparables."
+  },
+  "pecten": {
+    "commonName": null,
+    "description": "Género de bivalvos marinos de la familia Pectinidae. Sus conchas presentan costillas radiales y prolongaciones a ambos lados del umbo denominadas aurículas.",
+    "diagnostics": [
+      "Localizar el umbo y comparar las aurículas de cada lado.",
+      "Seguir las costillas radiales desde el umbo hasta el borde de la valva.",
+      "Comparar ambas valvas y, cuando se conserven, los caracteres de la charnela con ejemplares documentados."
+    ],
+    "etymology": "La interpretación lingüística y la motivación original del nombre Pecten siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/1228b/report.pdf",
+        "title": "US Geological Survey — ejemplares fósiles y caracteres de Pecten"
+      },
+      {
+        "url": "https://naturalsciences.museumwales.ac.uk/BritishBivalves/Browserecord.php?-recid=294",
+        "title": "National Museum Wales — valvas y costillas de Pecten maximus"
+      },
+      {
+        "url": "https://ns-mollusca.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=120886",
+        "title": "Naturalis — Pectinidae y género Pecten"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Los rasgos externos se comparten con otros pectínidos."
+  },
+  "balanus": {
+    "commonName": null,
+    "description": "Género de crustáceos cirrípedos sésiles. Su cubierta calcárea forma una pared de placas y una abertura superior protegida por placas operculares.",
+    "diagnostics": [
+      "Localizar la base de fijación y la abertura superior.",
+      "Observar las suturas entre las placas de la pared y las piezas operculares conservadas.",
+      "Comparar las placas y la base con ejemplares documentados. Los fragmentos aislados requieren especial cautela."
+    ],
+    "etymology": "Una interpretación histórica relaciona Balanus con la palabra griega para bellota, por la semejanza de algunas conchas. La motivación original del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://qrius.si.edu/browse/object/17167320",
+        "title": "Smithsonian — ejemplar fósil y clasificación de Balanus"
+      },
+      {
+        "url": "https://www.digitalatlasofancientlife.org/vc/arthropoda/crustacea/hexanauplia/",
+        "title": "Digital Atlas of Ancient Life — ejemplares fósiles de Balanus"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_Linn%C3%A6an_system_of_conchology_%2C_describing_the_orders%2C_genera%2C_and_species_of_shells_arranged_into_divisions_and_families_%28IA_linnansystemof00mawe%29.pdf",
+        "title": "Mawe, The Linnæan System of Conchology — interpretación histórica del nombre"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Para determinar especies se necesitan caracteres de las placas y la base."
+  },
+  "turritella": {
+    "commonName": null,
+    "description": "Género de gasterópodos marinos de concha alargada, con numerosas vueltas dispuestas en espiral y ornamentación espiral variable.",
+    "diagnostics": [
+      "Observar el perfil cónico de la espira y contar las vueltas conservadas.",
+      "Seguir las suturas entre vueltas y las costillas espirales de su superficie.",
+      "Examinar la abertura si se conserva. Comparar con ejemplares de procedencia conocida, ya que otros gasterópodos presentan espiras altas."
+    ],
+    "etymology": "La interpretación lingüística y la motivación original del nombre Turritella siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://boletinsgm.igeolcu.unam.mx/bsgm/index.php/volumenes-volumes/cuarta-epoca/7103/2124-7103-%288%29PerezLara",
+        "title": "Estudio paleontológico — Turritella, Turritellidae y caracteres de conchas fósiles"
+      },
+      {
+        "url": "https://estudiosgeol.revistas.csic.es/index.php/estudiosgeol/article/download/1122/1467?inline=1",
+        "title": "Estudios Geológicos — descripción de moldes fósiles de Turritella"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Los moldes internos pueden conservar solo parte de la ornamentación."
+  },
+  "conus": {
+    "commonName": null,
+    "description": "Género de gasterópodos marinos con concha de última vuelta amplia y abertura estrecha y alargada. Se conocen representantes fósiles y actuales.",
+    "diagnostics": [
+      "Observar el perfil de la última vuelta y la altura de la espira.",
+      "Examinar la abertura estrecha y su extensión a lo largo de la concha.",
+      "Comparar la forma del hombro y la ornamentación con ejemplares determinados. La conservación puede ocultar patrones superficiales."
+    ],
+    "etymology": "La explicación original de la elección del nombre Conus sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/0640c/report.pdf",
+        "title": "US Geological Survey — Conus fósil y descripción de su concha"
+      },
+      {
+        "url": "https://shells.shellmuseum.org/family/family-conidae/",
+        "title": "Bailey-Matthews National Shell Museum — conchas de Conidae"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La forma cónica y la abertura estrecha se comparten con otros cónidos."
+  },
+  "isurus": {
+    "commonName": null,
+    "description": "Género de tiburones de la familia Lamnidae. En el registro fósil se identifica principalmente mediante dientes, cuya forma varía según la posición en la mandíbula.",
+    "diagnostics": [
+      "Examinar la corona y comprobar si los bordes cortantes son lisos.",
+      "Observar la raíz y buscar dentículos laterales cuando se conserve la base de la corona.",
+      "Comparar dientes de posiciones equivalentes y con procedencia documentada. Otros tiburones pueden compartir bordes lisos."
+    ],
+    "etymology": "La explicación original de la elección del nombre Isurus sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.floridamuseum.ufl.edu/discover-fish/sharks/fossil/shark-tooth-id-guide/",
+        "title": "Florida Museum — clave de dientes fósiles de tiburones"
+      },
+      {
+        "url": "https://holdtl.org/wp-content/uploads/2013/12/albertymyrickpaper1.pdf",
+        "title": "Smithsonian Contributions — comparación de denticiones de lámnidos"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jsames.2026.106080",
+        "title": "Estudio de vertebrados neógenos — atribución histórica de dientes a Isurus"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género centrada en dientes fósiles. La posición dental afecta a la comparación."
+  },
+  "orthis": {
+    "commonName": null,
+    "description": "Género de braquiópodos ordovícicos con valvas de perfil plano-convexo o ligeramente cóncavo-convexo y ornamentación radial fina.",
+    "diagnostics": [
+      "Comparar el perfil de ambas valvas en vista lateral.",
+      "Observar las costillas y las líneas finas que irradian desde el umbo.",
+      "En valvas abiertas, contrastar las estructuras cardinales y las impresiones musculares con ejemplares figurados."
+    ],
+    "etymology": "El Treatise atribuye Orthis a Dalman, en 1828. La explicación original de la elección del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Orthis",
+        "title": "Treatise on Invertebrate Paleontology — diagnóstico, clasificación y ejemplares de Orthis"
+      },
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Cacemia",
+        "title": "Treatise — ejemplo de una especie antes atribuida a Orthis y revisada posteriormente"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género en la delimitación del Treatise. Las atribuciones históricas a Orthis necesitan cotejo."
+  },
+  "ostrea": {
+    "commonName": null,
+    "description": "Género de bivalvos marinos, presente en el registro fósil y en la actualidad. La valva izquierda suele fijarse al sustrato y ser más ahuecada que la derecha.",
+    "diagnostics": [
+      "Comparar el perfil de las dos valvas si se conservan juntas.",
+      "Buscar la zona de fijación y las láminas de crecimiento en la superficie.",
+      "Examinar la charnela y comparar el contorno con ejemplares documentados. El sustrato y la conservación pueden modificar la forma externa."
+    ],
+    "etymology": "La explicación original de la elección del nombre Ostrea sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.marinespecies.org/aphia.php?id=510735&p=taxdetails",
+        "title": "World Register of Marine Species — Ostrea en Ostreidae"
+      },
+      {
+        "url": "https://pal.gns.cri.nz/mollusca/taxa/BM493.htm",
+        "title": "GNS Science — valvas y fijación de Ostrea chilensis"
+      },
+      {
+        "url": "https://darwin-online.org.uk/converted/pdf/1851-6_Woodward_Mollusca_CUL-DAR.LIB.687%5B.2%5D.pdf",
+        "title": "Woodward, Manual of the Mollusca — caracteres de las ostras"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La forma de las valvas varía con el crecimiento y la fijación."
+  },
+  "encrinus": {
+    "commonName": null,
+    "description": "Género de crinoideos triásicos con cáliz, brazos articulados y un tallo formado por segmentos calcáreos.",
+    "diagnostics": [
+      "Localizar las placas que forman el cáliz y la inserción de los brazos.",
+      "Si el tallo se conserva, observar los segmentos y su articulación.",
+      "Comparar los brazos y las placas del cáliz con ejemplares documentados. Los segmentos aislados se comparten con otros crinoideos."
+    ],
+    "etymology": "El nombre Encrinus se utilizó históricamente para fósiles comparados con lirios. La motivación expresa de la elección del nombre genérico sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.zobodat.at/pdf/ANNA_105A_0231-0255.pdf",
+        "title": "Revisión de Encrinidae triásicos — género Encrinus y ejemplares figurados"
+      },
+      {
+        "url": "https://www.app.pan.pl/archive/published/app63/app005202018.html",
+        "title": "Estudio de crinoideos triásicos del nordeste de España"
+      },
+      {
+        "url": "https://repository.si.edu/server/api/core/bitstreams/3d565e43-9282-478e-863f-3e87a10f9cca/content",
+        "title": "Smithsonian — historia de los nombres de crinoideos y comparación con lirios"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. El cáliz y los brazos aportan más caracteres que un segmento de tallo aislado."
+  },
+  "clypeaster": {
+    "commonName": null,
+    "description": "Género de equinoideos irregulares con test generalmente aplanado y cinco áreas ambulacrales petaloides en la cara superior.",
+    "diagnostics": [
+      "En la cara superior, localizar las cinco áreas petaloides y sus pares de poros.",
+      "En la cara inferior, buscar la boca y los surcos ambulacrales que parten de ella.",
+      "Comparar el contorno y el perfil lateral con ejemplares documentados. Las áreas petaloides se comparten con otros equinoideos."
+    ],
+    "etymology": "La explicación original de la elección del nombre Clypeaster sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://servicios.educarm.es/paleontologia/clypeaster.htm",
+        "title": "Región de Murcia — Clypeaster y áreas ambulacrales petaloides"
+      },
+      {
+        "url": "https://repository.si.edu/bitstream/handle/10088/5327/SCtZ-0488-Hi_res.pdf?isAllowed=y&sequence=1",
+        "title": "Smithsonian — géneros fósiles y actuales de Clypeasteridae"
+      },
+      {
+        "url": "https://par.nsf.gov/servlets/purl/10402633",
+        "title": "Estudio taxonómico de Clypeaster — caracteres del test y pétalos"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Para determinar especies se comparan ambas caras y el perfil del test."
+  },
+  "avena-sativa": {
+    "commonName": "avena",
+    "description": "Gramínea anual cultivada, con inflorescencia en panícula y espiguillas generalmente de dos o tres flores.",
+    "diagnostics": [
+      "Observar la panícula ramificada y las espiguillas situadas en sus extremos.",
+      "Comparar las dos glumas amplias con las flores que envuelven.",
+      "Examinar las aristas de las flores. Pueden ser rectas o faltar, por lo que conviene combinar varios caracteres."
+    ],
+    "etymology": "Sativa significa cultivada o sembrada en latín botánico. El origen remoto de Avena y la motivación expresa del nombre siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A391732-1/general-information",
+        "title": "Plants of the World Online — identificación, origen cultivado y caracteres de Avena sativa"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=wild",
+        "title": "Missouri Botanical Garden — sativus en latín botánico"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La presencia de aristas varía entre ejemplares cultivados."
+  },
+  "hordeum-vulgare": {
+    "commonName": "cebada",
+    "description": "Gramínea anual con espiga densa. Sus espiguillas se agrupan de tres en cada posición del eje y las flores fértiles pueden tener aristas largas.",
+    "diagnostics": [
+      "Observar la espiga y localizar los grupos de tres espiguillas en el eje.",
+      "Comparar las espiguillas laterales con la central. Según la variedad, pueden ser fértiles las tres o solo la central.",
+      "Examinar glumas y aristas. Comparar el conjunto con otras especies de Hordeum."
+    ],
+    "etymology": "Vulgare significa común en latín. El origen remoto de Hordeum y la motivación expresa del epíteto siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A405391-1/general-information",
+        "title": "Plants of the World Online — espiga y variación de las espiguillas"
+      },
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=vulgaris",
+        "title": "Missouri Botanical Garden — vulgaris en latín botánico"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. Las formas cultivadas presentan variación en la fertilidad de las espiguillas."
+  },
+  "balanus-balanus": {
+    "commonName": null,
+    "description": "Cirrípedo marino sésil de la familia Balanidae, con una cubierta de seis placas y una abertura protegida por placas operculares.",
+    "diagnostics": [
+      "Observar las seis placas de la pared y sus costillas verticales.",
+      "Examinar la forma de la abertura y las placas operculares si están presentes.",
+      "Comparar la base y el relieve de las placas con ejemplares documentados. Otros balánidos también tienen seis placas."
+    ],
+    "etymology": "Una interpretación histórica relaciona Balanus con la palabra griega para bellota por la semejanza de algunas conchas. La motivación original del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.marinespecies.org/aphia.php?id=106213&p=taxdetails",
+        "title": "World Register of Marine Species — nombre y clasificación de Balanus balanus"
+      },
+      {
+        "url": "https://www2.habitas.org.uk/marbiop-ni/species.php?item=R1090",
+        "title": "Marine Biodiversity and Climate Change — placas, abertura y hábitat"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_Linn%C3%A6an_system_of_conchology_%2C_describing_the_orders%2C_genera%2C_and_species_of_shells_arranged_into_divisions_and_families_%28IA_linnansystemof00mawe%29.pdf",
+        "title": "Mawe — interpretación histórica del nombre Balanus"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. La identificación se apoya en las placas y la base cuando están conservadas."
+  },
+  "briza-minor": {
+    "commonName": null,
+    "description": "Gramínea anual con panícula ramificada y espiguillas pequeñas, comprimidas lateralmente y de contorno triangular a ovado.",
+    "diagnostics": [
+      "Observar la panícula abierta y los pedicelos finos de las espiguillas.",
+      "Comparar el contorno de las espiguillas y sus flores imbricadas.",
+      "Examinar glumas, lemas y tamaño de las espiguillas para distinguirla de otras especies de Briza."
+    ],
+    "etymology": "El latín minor significa menor. La motivación expresa del epíteto y el origen preciso del nombre genérico siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://tb.plazi.org/GgServer/html/38734973E5F206AA77762121FC96F91A/6",
+        "title": "Flora iberica — descripción de Briza minor"
+      },
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A393299-1/general-information",
+        "title": "Plants of the World Online — nombre aceptado y clasificación"
+      },
+      {
+        "url": "https://logeion.org/minor",
+        "title": "Logeion, voz minor — menor"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. Comparar espiguillas maduras y varios caracteres."
+  },
+  "calendula-arvensis": {
+    "commonName": null,
+    "description": "Hierba anual de la familia Asteraceae, con capítulos amarillos o anaranjados y frutos de formas variadas dentro de un mismo capítulo.",
+    "diagnostics": [
+      "Observar el capítulo y distinguir las flores liguladas periféricas de las flores centrales.",
+      "Examinar las hojas y las brácteas del involucro.",
+      "En fructificación, comparar los frutos curvados de distintas posiciones del capítulo con material determinado."
+    ],
+    "etymology": "Arvensis significa propio de los campos. El origen del nombre genérico y la motivación expresa del epíteto siguen pendientes de cotejo.",
+    "sources": [
+      {
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A187819-1/general-information",
+        "title": "Plants of the World Online — nombre aceptado y descripción de Calendula arvensis"
+      },
+      {
+        "url": "https://www.florandalucia.es/index.php/angiospermas-dicotiledoneas/compuestas/calendula-arvensis",
+        "title": "Flora de Andalucía — frutos y caracteres de la especie"
+      },
+      {
+        "url": "https://logeion.org/arvensis",
+        "title": "Logeion, voz arvensis — de los campos"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de especie. Los frutos de un mismo capítulo pueden diferir en forma."
   }
 }

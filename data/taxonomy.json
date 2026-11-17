@@ -13217,13 +13217,13 @@
     "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
   },
   "alethopteris": {
-    "family": "Pachytestaceae",
+    "family": "Alethopteridaceae",
     "aliases": [],
     "matchedName": "Alethopteris",
-    "source": "https://www.gbif.org/species/8254275",
-    "checkedAt": "2026-10-25",
-    "reviewStatus": "pending",
-    "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
+    "source": "https://fi.nm.cz/wp-content/uploads/2021/12/13_Cleal.pdf",
+    "checkedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "reviewReason": "Familia del follaje fósil según Cleal y Thomas (2021), tabla 2."
   },
   "amaltheus": {
     "family": "Amaltheidae",
@@ -13510,13 +13510,13 @@
     "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
   },
   "didymograptus": {
-    "family": "Dichograptidae",
+    "family": "Didymograptidae",
     "aliases": [],
     "matchedName": "Didymograptus",
-    "source": "https://www.gbif.org/species/8387960",
-    "checkedAt": "2026-10-25",
-    "reviewStatus": "pending",
-    "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
+    "source": "https://graptolite.treatise.geolex.org/displayInfo.php?genera=Didymograptus",
+    "checkedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "reviewReason": "El Treatise sitúa Didymograptus en Didymograptidae y Graptoloidea."
   },
   "diploctenium": {
     "family": "Meandrinidae",
@@ -13724,13 +13724,13 @@
     "checkedAt": "2026-10-25"
   },
   "leptaena": {
-    "family": "Strophomenidae",
+    "family": "Rafinesquinidae",
     "aliases": [],
     "matchedName": "Leptaena",
-    "source": "https://www.gbif.org/species/8338992",
-    "checkedAt": "2026-10-25",
-    "reviewStatus": "pending",
-    "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Leptaena",
+    "checkedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "reviewReason": "El Treatise y el ejemplar de referencia del MCZ documentan Rafinesquinidae."
   },
   "lima-lima": {
     "family": "Limidae",
@@ -13785,13 +13785,12 @@
     "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
   },
   "neuropteris": {
-    "family": "Saccolomataceae",
     "aliases": [],
     "matchedName": "Neuropteris",
-    "source": "https://www.gbif.org/species/6760056",
-    "checkedAt": "2026-10-25",
+    "source": "https://publikace.nm.cz/file/73c467b75501017463b24669f894a137/22166/1_Cleal_9-28.pdf",
+    "checkedAt": "2026-11-17",
     "reviewStatus": "pending",
-    "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
+    "reviewReason": "Neuropteris es follaje fósil de medulosales. La familia queda pendiente de revisión paleobotánica."
   },
   "nummulites": {
     "family": "Nummulitidae",
@@ -13812,13 +13811,13 @@
     "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
   },
   "orthis": {
-    "family": "Dalmanellidae",
+    "family": "Orthidae",
     "aliases": [],
     "matchedName": "Orthis",
-    "source": "https://www.gbif.org/species/4870496",
-    "checkedAt": "2026-10-25",
-    "reviewStatus": "pending",
-    "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Orthis",
+    "checkedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "reviewReason": "Clasificación del género según el Treatise."
   },
   "palaeoloxodon": {
     "family": "Elephantidae",
