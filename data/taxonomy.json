@@ -13811,13 +13811,13 @@
     "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
   },
   "orthis": {
-    "family": "Dalmanellidae",
+    "family": "Orthidae",
     "aliases": [],
     "matchedName": "Orthis",
-    "source": "https://www.gbif.org/species/4870496",
-    "checkedAt": "2026-10-25",
-    "reviewStatus": "pending",
-    "reviewReason": "Asignación automática pendiente de contraste paleontológico; se oculta en el cuestionario para evitar homónimos y rangos históricos."
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Orthis",
+    "checkedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "reviewReason": "Clasificación del género según el Treatise."
   },
   "palaeoloxodon": {
     "family": "Elephantidae",

@@ -87442,15 +87442,16 @@
     "commonNameStatus": "documented"
   },
   "orthis": {
-    "provider": "GBIF",
-    "source": "https://www.gbif.org/species/4870496",
+    "provider": "Treatise on Invertebrate Paleontology",
+    "source": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Orthis",
     "matchedName": "Orthis",
     "rank": "genus",
     "ranks": {
       "kingdom": "Animalia",
       "phylum": "Brachiopoda",
       "class": "Rhynchonellata",
-      "family": "Dalmanellidae",
+      "order": "Orthida",
+      "family": "Orthidae",
       "genus": "Orthis"
     },
     "hierarchy": [
@@ -87467,8 +87468,12 @@
         "name": "Rhynchonellata"
       },
       {
+        "rank": "order",
+        "name": "Orthida"
+      },
+      {
         "rank": "family",
-        "name": "Dalmanellidae"
+        "name": "Orthidae"
       },
       {
         "rank": "genus",
@@ -87478,8 +87483,9 @@
     "commonName": null,
     "commonNames": [],
     "group": null,
-    "checkedAt": "2026-10-26",
-    "commonNameStatus": "not-documented"
+    "checkedAt": "2026-11-17",
+    "commonNameStatus": "not-documented",
+    "reviewNote": "Orthis en sentido restringido se clasifica en Orthida y Orthidae según el Treatise."
   },
   "orthoceras": {
     "provider": "Revisión de ortoceratoideos y Treatise",

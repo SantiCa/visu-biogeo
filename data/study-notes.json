@@ -12994,5 +12994,55 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género centrada en dientes fósiles. La posición dental afecta a la comparación."
+  },
+  "orthis": {
+    "commonName": null,
+    "description": "Género de braquiópodos ordovícicos con valvas de perfil plano-convexo o ligeramente cóncavo-convexo y ornamentación radial fina.",
+    "diagnostics": [
+      "Comparar el perfil de ambas valvas en vista lateral.",
+      "Observar las costillas y las líneas finas que irradian desde el umbo.",
+      "En valvas abiertas, contrastar las estructuras cardinales y las impresiones musculares con ejemplares figurados."
+    ],
+    "etymology": "El Treatise atribuye Orthis a Dalman, en 1828. La explicación original de la elección del nombre sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Orthis",
+        "title": "Treatise on Invertebrate Paleontology — diagnóstico, clasificación y ejemplares de Orthis"
+      },
+      {
+        "url": "https://brachiopod.treatise.geolex.org/displayInfo.php?genera=Cacemia",
+        "title": "Treatise — ejemplo de una especie antes atribuida a Orthis y revisada posteriormente"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha del género en la delimitación del Treatise. Las atribuciones históricas a Orthis necesitan cotejo."
+  },
+  "ostrea": {
+    "commonName": null,
+    "description": "Género de bivalvos marinos, presente en el registro fósil y en la actualidad. La valva izquierda suele fijarse al sustrato y ser más ahuecada que la derecha.",
+    "diagnostics": [
+      "Comparar el perfil de las dos valvas si se conservan juntas.",
+      "Buscar la zona de fijación y las láminas de crecimiento en la superficie.",
+      "Examinar la charnela y comparar el contorno con ejemplares documentados. El sustrato y la conservación pueden modificar la forma externa."
+    ],
+    "etymology": "La explicación original de la elección del nombre Ostrea sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.marinespecies.org/aphia.php?id=510735&p=taxdetails",
+        "title": "World Register of Marine Species — Ostrea en Ostreidae"
+      },
+      {
+        "url": "https://pal.gns.cri.nz/mollusca/taxa/BM493.htm",
+        "title": "GNS Science — valvas y fijación de Ostrea chilensis"
+      },
+      {
+        "url": "https://darwin-online.org.uk/converted/pdf/1851-6_Woodward_Mollusca_CUL-DAR.LIB.687%5B.2%5D.pdf",
+        "title": "Woodward, Manual of the Mollusca — caracteres de las ostras"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La forma de las valvas varía con el crecimiento y la fijación."
   }
 }
