@@ -13044,5 +13044,59 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. La forma de las valvas varía con el crecimiento y la fijación."
+  },
+  "encrinus": {
+    "commonName": null,
+    "description": "Género de crinoideos triásicos con cáliz, brazos articulados y un tallo formado por segmentos calcáreos.",
+    "diagnostics": [
+      "Localizar las placas que forman el cáliz y la inserción de los brazos.",
+      "Si el tallo se conserva, observar los segmentos y su articulación.",
+      "Comparar los brazos y las placas del cáliz con ejemplares documentados. Los segmentos aislados se comparten con otros crinoideos."
+    ],
+    "etymology": "El nombre Encrinus se utilizó históricamente para fósiles comparados con lirios. La motivación expresa de la elección del nombre genérico sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.zobodat.at/pdf/ANNA_105A_0231-0255.pdf",
+        "title": "Revisión de Encrinidae triásicos — género Encrinus y ejemplares figurados"
+      },
+      {
+        "url": "https://www.app.pan.pl/archive/published/app63/app005202018.html",
+        "title": "Estudio de crinoideos triásicos del nordeste de España"
+      },
+      {
+        "url": "https://repository.si.edu/server/api/core/bitstreams/3d565e43-9282-478e-863f-3e87a10f9cca/content",
+        "title": "Smithsonian — historia de los nombres de crinoideos y comparación con lirios"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. El cáliz y los brazos aportan más caracteres que un segmento de tallo aislado."
+  },
+  "clypeaster": {
+    "commonName": null,
+    "description": "Género de equinoideos irregulares con test generalmente aplanado y cinco áreas ambulacrales petaloides en la cara superior.",
+    "diagnostics": [
+      "En la cara superior, localizar las cinco áreas petaloides y sus pares de poros.",
+      "En la cara inferior, buscar la boca y los surcos ambulacrales que parten de ella.",
+      "Comparar el contorno y el perfil lateral con ejemplares documentados. Las áreas petaloides se comparten con otros equinoideos."
+    ],
+    "etymology": "La explicación original de la elección del nombre Clypeaster sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://servicios.educarm.es/paleontologia/clypeaster.htm",
+        "title": "Región de Murcia — Clypeaster y áreas ambulacrales petaloides"
+      },
+      {
+        "url": "https://repository.si.edu/bitstream/handle/10088/5327/SCtZ-0488-Hi_res.pdf?isAllowed=y&sequence=1",
+        "title": "Smithsonian — géneros fósiles y actuales de Clypeasteridae"
+      },
+      {
+        "url": "https://par.nsf.gov/servlets/purl/10402633",
+        "title": "Estudio taxonómico de Clypeaster — caracteres del test y pétalos"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. Para determinar especies se comparan ambas caras y el perfil del test."
   }
 }
