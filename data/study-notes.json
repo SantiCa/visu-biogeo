@@ -12944,5 +12944,55 @@
     "reviewedAt": "2026-11-17",
     "reviewStatus": "reviewed",
     "scope": "Ficha de género. Los moldes internos pueden conservar solo parte de la ornamentación."
+  },
+  "conus": {
+    "commonName": null,
+    "description": "Género de gasterópodos marinos con concha de última vuelta amplia y abertura estrecha y alargada. Se conocen representantes fósiles y actuales.",
+    "diagnostics": [
+      "Observar el perfil de la última vuelta y la altura de la espira.",
+      "Examinar la abertura estrecha y su extensión a lo largo de la concha.",
+      "Comparar la forma del hombro y la ornamentación con ejemplares determinados. La conservación puede ocultar patrones superficiales."
+    ],
+    "etymology": "La explicación original de la elección del nombre Conus sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/0640c/report.pdf",
+        "title": "US Geological Survey — Conus fósil y descripción de su concha"
+      },
+      {
+        "url": "https://shells.shellmuseum.org/family/family-conidae/",
+        "title": "Bailey-Matthews National Shell Museum — conchas de Conidae"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género. La forma cónica y la abertura estrecha se comparten con otros cónidos."
+  },
+  "isurus": {
+    "commonName": null,
+    "description": "Género de tiburones de la familia Lamnidae. En el registro fósil se identifica principalmente mediante dientes, cuya forma varía según la posición en la mandíbula.",
+    "diagnostics": [
+      "Examinar la corona y comprobar si los bordes cortantes son lisos.",
+      "Observar la raíz y buscar dentículos laterales cuando se conserve la base de la corona.",
+      "Comparar dientes de posiciones equivalentes y con procedencia documentada. Otros tiburones pueden compartir bordes lisos."
+    ],
+    "etymology": "La explicación original de la elección del nombre Isurus sigue pendiente de cotejo.",
+    "sources": [
+      {
+        "url": "https://www.floridamuseum.ufl.edu/discover-fish/sharks/fossil/shark-tooth-id-guide/",
+        "title": "Florida Museum — clave de dientes fósiles de tiburones"
+      },
+      {
+        "url": "https://holdtl.org/wp-content/uploads/2013/12/albertymyrickpaper1.pdf",
+        "title": "Smithsonian Contributions — comparación de denticiones de lámnidos"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jsames.2026.106080",
+        "title": "Estudio de vertebrados neógenos — atribución histórica de dientes a Isurus"
+      }
+    ],
+    "reviewedAt": "2026-11-17",
+    "reviewStatus": "reviewed",
+    "scope": "Ficha de género centrada en dientes fósiles. La posición dental afecta a la comparación."
   }
 }
