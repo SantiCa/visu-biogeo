@@ -12,7 +12,8 @@ import {RANK_LABELS,commonNameFor,phylumLabel,formulaText,quizFields,evaluateIde
 import {createTaxonomyStudy} from './taxonomy-guide.mjs';
 import {setupTaxonHelp,referenceHTML} from './taxon-reference.mjs';
 import {eligibleExamPhotos,selectExamPhotos,PHOTO_USES,photoUse} from './exam-photos.mjs';
-let taxonomyStudy;
+import {createFossilGuide} from './fossil-guide.mjs';
+let taxonomyStudy,fossilGuide;
 
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -236,6 +237,7 @@ function renderAnswerRegion(){
 }
 
 function applyPreferences(){
+ fossilGuide?.refresh();
  renderAnswerRegion();
  $('#practice-family').checked=data.preferences?.practiceClassification?.value!==false;
  $('#study-region').value=data.preferences.examPhotoMode?.value||'andalucia';$('#madrid-details-only').checked=data.preferences.madridDetailsOnly?.value===true;renderRegion();
@@ -274,6 +276,23 @@ async function init(){
  $('#history-coverage').innerHTML='<ul>'+history.limitations.map(s=>'<li>'+esc(s)+'</li>').join('')+'</ul><ul>'+history.years.map(y=>'<li>'+link(y.source,y.year)+' · '+esc(y.coverage)+'</li>').join('')+'</ul>'+(history.uncertainAnswers?.length?'<h3>Identificaciones pendientes · no aumentan la prioridad</h3><ul>'+history.unresolved.map(text=>'<li>'+esc(text)+'</li>').join('')+'</ul>':'')+'<p>La frecuencia documentada mide presencia en el práctico, no exclusivamente reconocimiento fotográfico. Las fotografías sin clave no se han atribuido a especies por conjetura.</p>';
  $('#history-coverage').insertAdjacentHTML('beforeend','<p>Madrid: la recopilación académica de varios años no fecha sus ejemplares. Las fuentes oficiales disponibles recogen también materiales de problemas, que no se presentan como fotografías de visu. La cobertura no representa todos los exámenes de tres décadas.</p>');
  taxonomyStudy=createTaxonomyStudy($('#taxonomy-study'),{getData:()=>({catalog,taxonomy:learningTaxonomy,geology:learningGeology,profiles:studyNotes,families:familyNotes}),referenceHTML:(rank,name,id)=>referenceHTML(rank,name,{familyNotes,profile:studyNotes[id]},{esc,link}),thumbnailURL:id=>{const item=catalog.find(i=>i.id===id),im=item&&available(item)[0];return im?safeUrl(im.url,true):'';},previewPhotoHTML:id=>{const item=catalog.find(i=>i.id===id),im=item&&available(item)[0];if(!im)return '';const url=safeUrl(im.url,true);return url?'<figure><img src="'+esc(url)+'" alt="'+esc(item.scientificName)+'"><figcaption>'+esc(im.author||'Fuente')+' · '+esc(im.license||'Condiciones en la fuente')+'</figcaption></figure>':'';},entryHTML:id=>{const item=catalog.find(i=>i.id===id),pics=selectImagePair(available(item));return '<div class="guide-specimen-photos">'+pics.map(im=>'<figure><img loading="lazy" src="'+esc(safeUrl(im.url,true))+'" alt="'+esc(item.scientificName)+'"><figcaption>'+link(im.page,im.author||'Fuente')+' · '+esc(im.license||'Condiciones en la fuente')+'</figcaption></figure>').join('')+'</div>'+(!pics.length?'<p class="help">Esta entrada todavía no tiene imágenes aprobadas.</p>':'')+studyNotesHTML(item);}});
+ fossilGuide=createFossilGuide($('#fossil-guide'),{
+  esc,link,
+  getPhoto:id=>{
+   const item=catalog.find(entry=>entry.id===id),photo=item&&available(item)[0];
+   return photo?{url:safeUrl(photo.url,true),source:photo.page,credit:[photo.author,photo.license].filter(Boolean).join(' · ')}:null;
+  },
+  getEvidence:id=>(exams.events||[]).filter(event=>event.itemId===id&&event.region==='Madrid'),
+  openCatalog:id=>{
+   $('#catalog-mode').value='review';
+   $('#catalog-search').value=catalog.find(item=>item.id===id)?.scientificName||'';
+   for(const selector of ['#catalog-source','#catalog-kind','#catalog-clade','#catalog-status'])$(selector).value='';
+   $('#catalog-priority').checked=false;
+   showView('catalog');
+   renderDetail(id);
+   $('#catalog-detail').scrollIntoView({block:'start',behavior:'smooth'});
+  }
+ });
  $$('[data-view]').forEach(b=>b.onclick=()=>showView(b.dataset.view));on('.brand','click',()=>showView('study'));
  $('#answer-form').addEventListener('submit',e=>{e.preventDefault();submitAnswer();});on('#reveal','click',()=>submitAnswer(true));on('#skip','click',nextCard);on('#report','click',()=>{if(current){$('#catalog-mode').value='review';for(const s of ['#catalog-source','#catalog-kind','#catalog-clade','#catalog-status'])$(s).value='';$('#catalog-priority').checked=false;$('#catalog-search').value=current.scientificName;showView('catalog');renderDetail(current.id);}});$$('[data-grade]').forEach(b=>b.onclick=()=>grade(b.dataset.grade).catch(e=>note(e.message)));
  for(const s of ['#kind-filter','#source-filter','#priority-only'])on(s,'change',()=>{renderExamFilters('study');nextCard();});

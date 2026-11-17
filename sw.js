@@ -6,6 +6,7 @@ CORE.push('./cloud.mjs','./install.mjs','./icons/icon-180.png','./icons/icon-192
 CORE.push('./classification-learning.mjs','./data/learning-taxonomy.json','./data/learning-geology.json');
 CORE.push('./taxonomy-guide.mjs');
 CORE.push('./taxon-reference.mjs','./exam-photos.mjs');
+CORE.push('./fossil-guide.mjs','./fossil-guide-data.mjs','./fossil-guide.css');
 const BASE=self.location.href||self.location.origin+'/',CORE_PATHS=new Set(CORE.map(path=>new URL(path,BASE).pathname));
 function usable(req,response){const path=new URL(req.url,BASE).pathname,type=response.headers.get('content-type')||'';return response.ok&&!response.redirected&&(!/text\/html/i.test(type)||path.endsWith('/')||path.endsWith('/index.html'));}
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>Promise.all(CORE.map(async path=>{const req=new Request(path,{cache:'reload'}),response=await fetch(req);if(!usable(req,response))throw Error('App resources require a valid signed-in response');await cache.put(req,response);}))).then(()=>self.skipWaiting())));
