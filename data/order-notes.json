@@ -1252,7 +1252,25 @@
     },
     "order:Poales": {
       "name": "Poales",
-      "rank": "order"
+      "rank": "order",
+      "guide": {
+        "name": "Poales",
+        "text": "Orden de plantas monocotiledóneas que reúne, entre otras familias, las gramíneas (Poaceae), las ciperáceas (Cyperaceae) y las bromeliáceas (Bromeliaceae). Son principalmente herbáceas, con formas y flores diversas.",
+        "contrast": "Comparar hojas, inflorescencias y flores: muchas especies tienen hojas estrechas y flores pequeñas agrupadas, pero algunas bromeliáceas presentan flores vistosas. La sílice en la epidermis aparece en numerosos linajes y requiere observación microscópica; ningún rasgo aislado identifica por sí solo todo el orden.",
+        "source": "https://www.mobot.org/MOBOT/Research/APweb/orders/poalesweb.htm"
+      },
+      "etymology": {
+        "text": "Poales se forma a partir de Poa: Po- es la raíz del genitivo latino Poae y -ales es la terminación de los nombres de orden en botánica. Poa procede del griego poa, ‘hierba’. La motivación histórica concreta de la elección del nombre queda pendiente de cotejo.",
+        "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf"
+      },
+      "sources": [
+        {"url": "https://www.mobot.org/MOBOT/Research/APweb/orders/poalesweb.htm", "title": "Angiosperm Phylogeny Website — Poales y familias"},
+        {"url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf", "title": "Turland, The Code Decoded — formación de Poales a partir de Poa"},
+        {"url": "https://repository.si.edu/bitstream/handle/10088/3372/Poa_in_Fl_Nth_Am_2007.pdf", "title": "Flora of North America — Poa y origen griego del nombre"}
+      ],
+      "reviewedAt": "2026-11-18",
+      "reviewStatus": "reviewed",
+      "scope": "Síntesis del orden y formación nomenclatural; sus rasgos varían entre familias. La motivación histórica concreta del nombre del orden queda pendiente de cotejo."
     },
     "order:Podicipediformes": {
       "name": "Podicipediformes",
