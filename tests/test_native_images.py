@@ -1,6 +1,8 @@
-import unittest,json,subprocess,time,urllib.request,urllib.error
+import unittest,json,subprocess,time,urllib.request,urllib.error,sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
+sys.path.insert(0,str(ROOT/'scripts'))
+from prepare_release import public_files
 class NativeImages(unittest.TestCase):
  def test_reviewed_jpeg_and_named_png_load_without_exposing_private_files(self):
   executable=ROOT/'Abrir Visu BioGeo.exe'
@@ -19,9 +21,11 @@ class NativeImages(unittest.TestCase):
     with urllib.request.urlopen(origin+path,timeout=4) as response:self.assertEqual(response.headers.get_content_type(),mime);self.assertEqual(response.read(),(ROOT/path).read_bytes())
     selected.append(path)
    self.assertTrue(any(p.endswith('.jpeg') for p in selected))
-   with urllib.request.urlopen(origin+'taxonomy-guide.mjs',timeout=4) as response:
-    self.assertEqual(response.headers.get_content_type(),'text/javascript')
-    self.assertEqual(response.read(),(ROOT/'taxonomy-guide.mjs').read_bytes())
+   for relative in public_files():
+    if '/' in relative:continue
+    with urllib.request.urlopen(origin+relative,timeout=4) as response:
+     if relative.endswith(('.js','.mjs')):self.assertEqual(response.headers.get_content_type(),'text/javascript',relative)
+     self.assertEqual(response.read(),(ROOT/relative).read_bytes(),relative)
    for path in ['data/learning-taxonomy-audit.json','supabase/schema.sql','assets/reviewed/%2e%2e/%2e%2e/config.js']:
     with self.assertRaises(urllib.error.HTTPError) as e:urllib.request.urlopen(origin+path,timeout=3)
     self.assertIn(e.exception.code,[403,404])

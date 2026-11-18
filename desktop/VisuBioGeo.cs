@@ -15,7 +15,8 @@ internal static class VisuBioGeo {
     static int port=8081;
     static readonly HashSet<string> appFiles=new HashSet<string>(StringComparer.OrdinalIgnoreCase) {
         "index.html","app.js","styles.css","engine.mjs","classification-learning.mjs","taxonomy-guide.mjs","taxon-reference.mjs","exam-photos.mjs","catalogue.mjs","offline.mjs",
-        "storage.mjs","cloud.mjs","install.mjs","notes.mjs","taxon-notes.mjs","tooltips.mjs","community.mjs","config.js","sw.js","manifest.webmanifest"
+        "storage.mjs","cloud.mjs","install.mjs","notes.mjs","taxon-notes.mjs","tooltips.mjs","community.mjs","config.js","sw.js","manifest.webmanifest",
+        "theme.js","fossil-guide.mjs","fossil-guide-data.mjs","fossil-guide.css"
     };
     static readonly HashSet<string> dataFiles=new HashSet<string>(StringComparer.OrdinalIgnoreCase) {
         "species.json","images.json","curated-images.json","andalucia-priority.json",
