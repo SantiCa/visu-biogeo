@@ -1,4 +1,5 @@
 """Reviewed Spanish syntheses for the October 26 coastal and exact-name batch."""
+from note_files import load_study_notes, load_family_notes, save_study_notes, save_family_notes
 from pathlib import Path
 import json
 from datetime import date
@@ -64,21 +65,21 @@ ROWS={
 }
 
 def main():
- p=D/'study-notes.json';notes=json.loads(p.read_text(encoding='utf8'));added=[]
+ notes=load_study_notes();added=[]
  for id,(common,description,diagnostics,etymology,urls) in ROWS.items():
   if id in notes:raise ValueError('Existing profile: '+id)
   notes[id]={'commonName':common,'description':description,'diagnostics':diagnostics,'etymology':etymology,'sources':[{'url':u,'title':'Fuente de descripción, identificación o etimología'} for u in urls],'reviewedAt':date.today().isoformat(),'reviewStatus':'reviewed','scope':'Síntesis propia de fuentes identificadas y revisión visual. Se distinguen las limitaciones de una fotografía, los sinónimos históricos y las etimologías pendientes. Sin reglas nemotécnicas.'};added.append(id)
  # A separate catalogue ID remains separate for user progress and overrides.
  notes['platanus-x-hispanica']={**notes['platanus-hispanica'],'description':'Plátano de sombra tratado como híbrido entre Platanus occidentalis y P. orientalis en la ficha taxonómica de iNaturalist. Árbol caducifolio de gran talla muy plantado en paseos; su nomenclatura se ha tratado de distintas maneras.'}
  added.append('platanus-x-hispanica')
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8')
- p=D/'family-notes.json';fam=json.loads(p.read_text(encoding='utf8'))
+ save_study_notes(notes)
+ fam=load_family_notes()
  for name,genus,text,url in [
   ('Pipidae','Pipa','Pipidae se forma sobre Pipa con el sufijo zoológico -idae. Pipa conserva el nombre local surinamés referido por Daudin (1802), según Pipids of the World.','https://pddb.org/species.php?taxon=Pipa+pipa'),
   ('Platanaceae','Platanus','Platanaceae se forma sobre Platanus con la terminación botánica -aceae. Platanus se relaciona con el griego platýs, ancho, por la extensión de las hojas, según Arbolapp.','https://www.arbolapp.es/especies/ficha/platanus-hispanica/')]:
   old=fam.get(name,{})
   fam[name]={**old,'etymology':text,'typeGenus':genus,'sources':[*old.get('sources',[]),{'url':url,'title':'Origen del género que da nombre a la familia'}],'reviewedAt':date.today().isoformat()}
- p.write_text(json.dumps(fam,ensure_ascii=False,indent=2),encoding='utf8')
+ save_family_notes(fam)
  print(len(added),'new profiles; 2 family etymologies documented')
 
 if __name__=='__main__':main()

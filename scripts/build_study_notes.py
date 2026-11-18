@@ -1,4 +1,5 @@
 """Own concise study summaries; quotations and unverified etymological stories are avoided."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 ROOT=Path(__file__).resolve().parents[1];D=ROOT/'data'
@@ -54,7 +55,7 @@ empusa-pennata|Empusa; mantis palo|Mantodeo estilizado con una cresta cefálica 
 '''
 
 def main():
-    catalog={x['id']:x for x in json.loads((D/'species.json').read_text(encoding='utf8'))};cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'));evpath=ROOT/'tmp/study-source-evidence.json';evidence=json.loads(evpath.read_text(encoding='utf8')) if evpath.exists() else {};path=D/'study-notes.json';notes=json.loads(path.read_text(encoding='utf8')) if path.exists() else {}
+    catalog={x['id']:x for x in json.loads((D/'species.json').read_text(encoding='utf8'))};cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'));evpath=ROOT/'tmp/study-source-evidence.json';evidence=json.loads(evpath.read_text(encoding='utf8')) if evpath.exists() else {};notes=load_study_notes()
     for line in ROWS.strip().splitlines():
         id,common,description,diagnostics,etymology,mnemonic=line.split('|');item=catalog[id];e=evidence.get(id,{});sources=[]
         if e.get('name') in [item['scientificName'],*item.get('aliases',[])]:sources.append({'url':e['source'],'title':'Asturnatura: ficha y nomenclatura'})
@@ -62,5 +63,5 @@ def main():
         if photos:sources.append({'url':photos[0]['page'],'title':'Ejemplar identificado: rasgos visuales'})
         if id=='actias-isabellae':sources.insert(0,{'url':'https://www.mapa.gob.es/ministerio/pags/biblioteca/revistas/pdf_plagas/BSVP-01-01-083-088.pdf','title':'Templado y Álvarez: mariposa isabelina'})
         notes[id]={'commonName':common,'description':description,'diagnostics':diagnostics.split('~'),'etymology':etymology,'mnemonic':mnemonic,'sources':sources,'reviewedAt':'2026-10-25','reviewStatus':'reviewed','scope':'Resumen propio y observaciones de imágenes identificadas; los orígenes etimológicos no confirmados se señalan explícitamente.'}
-    path.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(notes),'fichas de repaso guardadas.')
+    save_study_notes(notes);print(len(notes),'fichas de repaso guardadas.')
 if __name__=='__main__':main()

@@ -1,4 +1,5 @@
 """Read-only, bounded context queries for a focused task; no external dependencies."""
+from note_files import load_study_notes
 import argparse
 import json
 from pathlib import Path
@@ -30,7 +31,7 @@ def image_context(args):
 
 def note_context(args):
     catalog = load('species.json')
-    notes = load('study-notes.json')
+    notes = load_study_notes()
     priority = {row['itemId'] for row in load('andalucia-priority.json')['events']}
     rows = []
     for row in catalog:
@@ -56,7 +57,7 @@ def entry_context(item_id):
         'entry': row,
         'approvedImages': [im for im in load('curated-images.json').get(item_id, {}).get('images', [])
                            if im.get('status') == 'approved'],
-        'studyNote': load('study-notes.json').get(item_id),
+        'studyNote': load_study_notes().get(item_id),
         'learningTaxonomy': load('learning-taxonomy.json').get(item_id),
         'learningGeology': load('learning-geology.json').get(item_id),
     }

@@ -15,14 +15,14 @@ internal static class VisuBioGeo {
     static int port=8081;
     static readonly HashSet<string> appFiles=new HashSet<string>(StringComparer.OrdinalIgnoreCase) {
         "index.html","app.js","styles.css","engine.mjs","classification-learning.mjs","taxonomy-guide.mjs","taxon-reference.mjs","exam-photos.mjs","catalogue.mjs","offline.mjs",
-        "storage.mjs","cloud.mjs","install.mjs","notes.mjs","tooltips.mjs","community.mjs","config.js","sw.js","manifest.webmanifest"
+        "storage.mjs","cloud.mjs","install.mjs","notes.mjs","taxon-notes.mjs","tooltips.mjs","community.mjs","config.js","sw.js","manifest.webmanifest"
     };
     static readonly HashSet<string> dataFiles=new HashSet<string>(StringComparer.OrdinalIgnoreCase) {
         "species.json","images.json","curated-images.json","andalucia-priority.json",
         "inaturalist-images.json","geological-images.json","geodil-images.json",
         "commons-extra-images.json","priority-additions.json","cloud-images.json",
         "asturnatura-images.json","taxonomy.json","teaching-images.json",
-        "petrography-images.json","study-notes.json","family-notes.json","classification.json","learning-taxonomy.json","learning-geology.json","exams.json"
+        "petrography-images.json","class-notes.json","order-notes.json","family-notes.json","genus-notes.json","species-notes.json","other-notes.json","classification.json","learning-taxonomy.json","learning-geology.json","exams.json"
     };
     [STAThread] static int Main(string[] args) {
         bool serveOnly=false;int serveSeconds=0;

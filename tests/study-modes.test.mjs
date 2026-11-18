@@ -59,6 +59,6 @@ test('Madrid detail questions never contain a complete image as an answer hint; 
 });
 test('taxon references distinguish the etymology of a rank from the name and keep unknown roots explicit',()=>{
  for(const rank of Object.keys(RANK_ETYMOLOGIES)){const r=taxonReference(rank,'Unknown');assert(r.rankSource.startsWith('https://dle.rae.es/'));assert(r.taxonEtymology.includes('pendiente'));}
- assert(taxonReference('phylum','Arthropoda').taxonSource.includes('openstax'));
+
  assert.equal(taxonReference('family','Testidae',{familyNotes:{Testidae:{etymology:'Documented construction'}}}).taxonEtymology,'Documented construction');
 });

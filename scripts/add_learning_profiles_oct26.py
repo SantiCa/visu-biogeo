@@ -1,4 +1,5 @@
 """Original concise diagnostic cards; source references retained, no mnemonics."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 R=Path(__file__).resolve().parents[1];D=R/'data'
@@ -32,7 +33,7 @@ marmol|Roca metamórfica carbonatada, compuesta principalmente por calcita o dol
 gneis|Roca metamórfica caracterizada por una fábrica bandeada.|Alternancia de dominios claros, ricos en cuarzo y feldespatos, y otros más oscuros.~El bandeado es una fábrica metamórfica; distinguirlo de estratificación sedimentaria mediante contexto y textura.
 esquisto|Roca metamórfica con esquistosidad marcada y minerales orientados, a menudo micas.|Láminas y superficies de foliación definidas por minerales visibles.~Distinguir de pizarra y filita por el tamaño de los minerales y el carácter de la foliación.'''
 def main():
- p=D/'study-notes.json';notes=json.loads(p.read_text(encoding='utf8'));geo=json.loads((D/'learning-geology.json').read_text(encoding='utf8'));before=len(notes)
+ notes=load_study_notes();geo=json.loads((D/'learning-geology.json').read_text(encoding='utf8'));before=len(notes)
  for row in BIO.splitlines():
   id,common,description,diagnostics,etymology=row.split('|');notes[id]={'commonName':common,'description':description,'diagnostics':diagnostics.split('~'),'etymology':etymology,'sources':[{'url':'https://www.asturnatura.com/especie/'+id,'title':'Asturnatura · ficha de la especie'}],'reviewedAt':'2026-10-26','scope':'Resumen propio; etimologías no contrastadas señaladas.'}
  for row in MIN.splitlines():
@@ -40,5 +41,5 @@ def main():
  for row in ROCK.splitlines():
   id,description,diagnostics=row.split('|');notes[id]={'description':description,'diagnostics':diagnostics.split('~'),'etymology':notes.get(id,{}).get('etymology') or 'Origen histórico del término pendiente de contrastar.','sources':[{'url':'https://www.bgs.ac.uk/technologies/bgs-rock-classification-scheme/','title':'British Geological Survey · clasificación de rocas'}],'reviewedAt':'2026-10-26','scope':'Resumen petrográfico propio; las propiedades no observables en foto se señalan.'}
  for n in notes.values():n.pop('mnemonic',None)
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(notes)-before,'new profiles;',len(notes),'total')
+ save_study_notes(notes);print(len(notes)-before,'new profiles;',len(notes),'total')
 if __name__=='__main__':main()

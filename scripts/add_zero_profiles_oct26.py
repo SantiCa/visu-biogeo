@@ -1,4 +1,5 @@
 """Source-backed concise profiles for newly illustrated zero-photo entries."""
+from note_files import load_study_notes, load_family_notes, save_study_notes, save_family_notes
 from pathlib import Path
 import json
 D=Path(__file__).resolve().parents[1]/'data'
@@ -19,7 +20,7 @@ alectoris-rufa|Perdiz roja|Ave terrestre de cuerpo compacto y alas redondeadas.|
 betula-pendula|Abedul péndulo|Árbol caducifolio de corteza clara y ramillas que con frecuencia cuelgan.|Hojas triangulares a romboidales, de margen doblemente aserrado.~Ramillas jóvenes con pequeñas verrugas; contrastar pubescencia y forma foliar con otros abedules.|pendula procede del latín y significa «colgante». La raíz más antigua de Betula queda pendiente de contraste.|https://www.asturnatura.com/especie/betula-pendula
 coccinella-septempunctata|Mariquita de siete puntos|Coleóptero de cuerpo ovalado y convexo, con élitros rojos punteados de negro.|Siete puntos en conjunto, incluido el compartido junto al escutelo.~Pronoto negro con zonas blancas anteriores; no identificar solo por el rojo, compartido con otros coccinélidos.|septempunctata expresa «con siete puntos»; el origen histórico del género queda pendiente de contraste.|https://www.asturnatura.com/especie/coccinella-septempunctata'''
 def main():
- p=D/'study-notes.json';notes=json.loads(p.read_text(encoding='utf8'));before=len(notes)
+ notes=load_study_notes();before=len(notes)
  for row in ROWS.splitlines():
   id,common,description,diagnostics,etymology,url=row.split('|');url=FISH if url=='FISH' else url
   sources=[{'url':url,'title':'Fuente de descripción, clave o ejemplar identificado'}]
@@ -27,10 +28,10 @@ def main():
   if id=='euphorbia-margalidiana':sources.append({'url':'https://www.asturnatura.com/genero/euphorbia','title':'Historia del nombre genérico'})
   notes[id]={'description':description,'diagnostics':diagnostics.split('~'),'etymology':etymology,'sources':sources,'reviewedAt':'2026-10-26','scope':'Resumen propio de fuentes y ejemplares identificados; limitaciones diagnósticas y partes etimológicas pendientes expresadas.'}
   if common:notes[id]['commonName']=common
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8')
- p=D/'family-notes.json';families=json.loads(p.read_text(encoding='utf8'));before_f=len(families)
+ save_study_notes(notes)
+ families=load_family_notes();before_f=len(families)
  for family,genus in {'Helicidae':'Helix','Aphaniidae':'Aphanius','Valenciidae':'Valencia','Leuciscidae':'Leuciscus','Rhodomelaceae':'Rhodomela','Lomentariaceae':'Lomentaria','Trichinellidae':'Trichinella','Sarcocystidae':'Sarcocystis','Plasmodiidae':'Plasmodium','Euphorbiaceae':'Euphorbia','Betulaceae':'Betula','Coccinellidae':'Coccinella'}.items():
   if family in families:continue
   bot=family.endswith('aceae');families[family]={'etymology':'Nombre familiar formado sobre el género '+genus+', con el sufijo '+('-aceae' if bot else '-idae')+'. La historia lingüística anterior del género queda pendiente de contraste.','typeGenus':genus,'sources':[{'url':'https://iapt-taxon.org/melbourne/main.php?page=art18' if bot else 'https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/','title':'Código de nomenclatura · formación del nombre familiar'}],'reviewedAt':'2026-10-26'}
- p.write_text(json.dumps(families,ensure_ascii=False,indent=2),encoding='utf8');print(len(notes)-before,'new profiles;',len(families)-before_f,'family name constructions')
+ save_family_notes(families);print(len(notes)-before,'new profiles;',len(families)-before_f,'family name constructions')
 if __name__=='__main__':main()

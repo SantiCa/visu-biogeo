@@ -1,4 +1,5 @@
 """Original, source-backed descriptions and terminology for reviewed micrographs."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 from datetime import date
@@ -86,11 +87,11 @@ ROWS={
 }
 
 def main():
- p=D/'study-notes.json';notes=json.loads(p.read_text(encoding='utf8'));added=[]
+ notes=load_study_notes();added=[]
  for suffix,(description,diagnostics,etymology,urls) in ROWS.items():
   id='estructura-'+suffix
   if id in notes:raise ValueError('Refuse to overwrite '+id)
   notes[id]={'description':description,'diagnostics':diagnostics,'etymology':etymology,'sources':[{'url':u,'title':('Dicciomed · Universidad de Salamanca · etimología' if 'dicciomed' in u else 'DLE · origen del término' if 'dle.rae' in u else 'Atlas universitario · preparación y estructura')} for u in urls],'reviewedAt':date.today().isoformat(),'reviewStatus':'reviewed','scope':'Síntesis propia de fuentes docentes y terminológicas. Se distingue la estructura del organismo de procedencia y del nivel de detalle de la imagen. No se atribuye una familia taxonómica a un tejido u orgánulo. Las raíces pendientes se indican expresamente.'};added.append(id)
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(added),'new profiles')
+ save_study_notes(notes);print(len(added),'new profiles')
 
 if __name__=='__main__':main()

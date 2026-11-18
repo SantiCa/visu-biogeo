@@ -1,4 +1,5 @@
 """Original, source-backed notes: cloud taxa, features and generating factors."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 from datetime import date
 import json
@@ -47,10 +48,10 @@ ROWS={
  'Contrails corresponde al inglés condensation trails, estelas de condensación. Cirrus significa mechón en latín.', ['wmo-contrails','wmo-special-6'])
 }
 def main():
- p=R/'data/study-notes.json';notes=json.loads(p.read_text(encoding='utf8'));cat={x['id'] for x in json.loads((R/'data/species.json').read_text(encoding='utf8'))}
+ notes=load_study_notes();cat={x['id'] for x in json.loads((R/'data/species.json').read_text(encoding='utf8'))}
  for id,(description,diagnostics,etymology,keys) in ROWS.items():
   if id not in cat or id in notes:raise ValueError('Unknown or existing profile: '+id)
   urls=list(dict.fromkeys([source(k) for k in keys]+[E]))
   notes[id]={'description':description,'diagnostics':diagnostics,'etymology':etymology,'sources':[{'url':u,'title':'OMM · etimología de los nombres latinos' if u==E else 'SMHI · fotografía y clasificación' if 'smhi.se' in u else 'OMM · definición o fotografía comentada'} for u in urls],'reviewedAt':date.today().isoformat(),'reviewStatus':'reviewed','scope':'Síntesis propia de fuentes meteorológicas. Se distingue género, especie, rasgo suplementario, nube accesoria y origen; no son rangos biológicos ni tienen familia taxonómica. No se deducen duración, rotación o historia causal a partir de una foto fija.'}
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(ROWS),'new profiles')
+ save_study_notes(notes);print(len(ROWS),'new profiles')
 if __name__=='__main__':main()

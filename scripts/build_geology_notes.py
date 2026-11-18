@@ -1,4 +1,5 @@
 """Short original descriptions of reviewed specimens and landforms."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 ROOT=Path(__file__).resolve().parents[1];D=ROOT/'data'
@@ -38,7 +39,7 @@ sienita|Roca plutónica dominada por feldespatos alcalinos, con minerales oscuro
 '''
 
 def main():
-    cat={x['id']:x for x in json.loads((D/'species.json').read_text(encoding='utf8'))};cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'));path=D/'study-notes.json';notes=json.loads(path.read_text(encoding='utf8'))
+    cat={x['id']:x for x in json.loads((D/'species.json').read_text(encoding='utf8'))};cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'));notes=load_study_notes()
     for line in ROWS.strip().splitlines():
         id,description,diagnostics,mnemonic=line.split('|')
         images=[im for im in cur.get(id,{}).get('images',[]) if im['status']=='approved']
@@ -50,6 +51,6 @@ def main():
         if id=='sienita':sources=[{'url':'https://www.science.smith.edu/~jbrady/petrology/rock-library/igp-rocks/syenite/syenite.php','title':'Smith College: definición y muestras de sienita'},{'url':'https://geodil.dperkins.org/h/417.html','title':'GeoDIL: sienita de Magnet Cove'}]
         notes[id]={'description':description,'diagnostics':diagnostics.split('~'),'mnemonic':mnemonic,'sources':sources,'reviewedAt':'2026-10-25','reviewStatus':'reviewed','scope':'Resumen propio de muestras identificadas y rasgos visibles; el origen lingüístico no documentado queda pendiente.'}
         if id=='vanadinita':notes[id]['etymology']='El nombre hace referencia a su contenido en vanadio.'
-    path.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(notes),'fichas en total')
+    save_study_notes(notes);print(len(notes),'fichas en total')
 
 if __name__=='__main__':main()

@@ -1,9 +1,10 @@
+from note_files import load_study_notes
 from pathlib import Path
 import json
 from collections import Counter
 R=Path(__file__).resolve().parents[1];D=R/'data'
 load=lambda p:json.loads((D/p).read_text(encoding='utf8'))
-catalog=load('species.json');cur=load('curated-images.json');audit=load('image-audit.json');notes=load('study-notes.json');tax=load('learning-taxonomy.json')
+catalog=load('species.json');cur=load('curated-images.json');audit=load('image-audit.json');notes=load_study_notes();tax=load('learning-taxonomy.json')
 print('Missing notes priorities',[(i['id'],i['scientificName']) for i in catalog if i['id'] in {e['itemId'] for e in load('andalucia-priority.json')['events']} and not notes.get(i['id'],{}).get('description')])
 for source in ['asturnatura-images.json','inaturalist-images.json','priority-additions.json','teaching-images.json']:
  data=load(source);rows=[]

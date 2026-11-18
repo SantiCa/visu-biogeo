@@ -1,0 +1,2293 @@
+{
+  "taxa": {
+    "infraorder:Achelata": {
+      "name": "Achelata",
+      "rank": "infraorder"
+    },
+    "infraorder:Acrididea": {
+      "name": "Acrididea",
+      "rank": "infraorder"
+    },
+    "infraorder:Aculeata": {
+      "name": "Aculeata",
+      "rank": "infraorder"
+    },
+    "infraorder:Anareolatae": {
+      "name": "Anareolatae",
+      "rank": "infraorder"
+    },
+    "infraorder:Anguimorpha": {
+      "name": "Anguimorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Anomura": {
+      "name": "Anomura",
+      "rank": "infraorder"
+    },
+    "infraorder:Areolatae": {
+      "name": "Areolatae",
+      "rank": "infraorder"
+    },
+    "infraorder:Arionoidei": {
+      "name": "Arionoidei",
+      "rank": "infraorder"
+    },
+    "infraorder:Ascaridomorpha": {
+      "name": "Ascaridomorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Astacidea": {
+      "name": "Astacidea",
+      "rank": "infraorder"
+    },
+    "infraorder:Brachyura": {
+      "name": "Brachyura",
+      "rank": "infraorder"
+    },
+    "infraorder:Caridea": {
+      "name": "Caridea",
+      "rank": "infraorder"
+    },
+    "infraorder:Cetacea": {
+      "name": "Cetacea",
+      "rank": "infraorder"
+    },
+    "infraorder:Cicadomorpha": {
+      "name": "Cicadomorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Cimicomorpha": {
+      "name": "Cimicomorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Cucujiformia": {
+      "name": "Cucujiformia",
+      "rank": "infraorder"
+    },
+    "infraorder:Culicomorpha": {
+      "name": "Culicomorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Cyclorrhapha": {
+      "name": "Cyclorrhapha",
+      "rank": "infraorder"
+    },
+    "infraorder:Desmonomata": {
+      "name": "Desmonomata",
+      "rank": "infraorder"
+    },
+    "infraorder:Diplocheta": {
+      "name": "Diplocheta",
+      "rank": "infraorder"
+    },
+    "infraorder:Doridoidei": {
+      "name": "Doridoidei",
+      "rank": "infraorder"
+    },
+    "infraorder:Echinidea": {
+      "name": "Echinidea",
+      "rank": "infraorder"
+    },
+    "infraorder:Elateriformia": {
+      "name": "Elateriformia",
+      "rank": "infraorder"
+    },
+    "infraorder:Entelegynae": {
+      "name": "Entelegynae",
+      "rank": "infraorder"
+    },
+    "infraorder:Epidermaptera": {
+      "name": "Epidermaptera",
+      "rank": "infraorder"
+    },
+    "infraorder:Gekkota": {
+      "name": "Gekkota",
+      "rank": "infraorder"
+    },
+    "infraorder:Gerromorpha": {
+      "name": "Gerromorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Gryllidea": {
+      "name": "Gryllidea",
+      "rank": "infraorder"
+    },
+    "infraorder:Helicoidei": {
+      "name": "Helicoidei",
+      "rank": "infraorder"
+    },
+    "infraorder:Holoverticata": {
+      "name": "Holoverticata",
+      "rank": "infraorder"
+    },
+    "infraorder:Iguania": {
+      "name": "Iguania",
+      "rank": "infraorder"
+    },
+    "infraorder:Lacertoidea": {
+      "name": "Lacertoidea",
+      "rank": "infraorder"
+    },
+    "infraorder:Nanopsocetae": {
+      "name": "Nanopsocetae",
+      "rank": "infraorder"
+    },
+    "infraorder:Nepomorpha": {
+      "name": "Nepomorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Orthorrhapha": {
+      "name": "Orthorrhapha",
+      "rank": "infraorder"
+    },
+    "infraorder:Orthosterni": {
+      "name": "Orthosterni",
+      "rank": "infraorder"
+    },
+    "infraorder:Panctenata": {
+      "name": "Panctenata",
+      "rank": "infraorder"
+    },
+    "infraorder:Pentatomomorpha": {
+      "name": "Pentatomomorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Scapphodonta": {
+      "name": "Scapphodonta",
+      "rank": "infraorder"
+    },
+    "infraorder:Scarabaeiformia": {
+      "name": "Scarabaeiformia",
+      "rank": "infraorder"
+    },
+    "infraorder:Schizomantodea": {
+      "name": "Schizomantodea",
+      "rank": "infraorder"
+    },
+    "infraorder:Scincomorpha": {
+      "name": "Scincomorpha",
+      "rank": "infraorder"
+    },
+    "infraorder:Staphyliniformia": {
+      "name": "Staphyliniformia",
+      "rank": "infraorder"
+    },
+    "infraorder:Talitrida": {
+      "name": "Talitrida",
+      "rank": "infraorder"
+    },
+    "infraorder:Tettigoniidea": {
+      "name": "Tettigoniidea",
+      "rank": "infraorder"
+    },
+    "infraorder:Tipulomorpha": {
+      "name": "Tipulomorpha",
+      "rank": "infraorder"
+    },
+    "order:Acanthuriformes": {
+      "name": "Acanthuriformes",
+      "rank": "order"
+    },
+    "order:Accipitriformes": {
+      "name": "Accipitriformes",
+      "rank": "order"
+    },
+    "order:Acipenseriformes": {
+      "name": "Acipenseriformes",
+      "rank": "order"
+    },
+    "order:Actiniaria": {
+      "name": "Actiniaria",
+      "rank": "order"
+    },
+    "order:Actinomycetales": {
+      "name": "Actinomycetales",
+      "rank": "order"
+    },
+    "order:Adapedonta": {
+      "name": "Adapedonta",
+      "rank": "order"
+    },
+    "order:Agaricales": {
+      "name": "Agaricales",
+      "rank": "order"
+    },
+    "order:Alismatales": {
+      "name": "Alismatales",
+      "rank": "order"
+    },
+    "order:Amiiformes": {
+      "name": "Amiiformes",
+      "rank": "order"
+    },
+    "order:Ammonitida": {
+      "name": "Ammonitida",
+      "rank": "order",
+      "guide": {
+        "name": "Ammonitida",
+        "text": "Ammonoideos fósiles con concha dividida en cámaras, generalmente enrollada, y suturas de trazado complejo.",
+        "contrast": "La forma de la concha y la línea de sutura ayudan a comparar géneros. Una espiral por sí sola no identifica el orden.",
+        "source": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/ammonites/"
+      }
+    },
+    "order:Amoebida": {
+      "name": "Amoebida",
+      "rank": "order"
+    },
+    "order:Amphilepidida": {
+      "name": "Amphilepidida",
+      "rank": "order"
+    },
+    "order:Amphipoda": {
+      "name": "Amphipoda",
+      "rank": "order"
+    },
+    "order:Andreaeales": {
+      "name": "Andreaeales",
+      "rank": "order"
+    },
+    "order:Anguilliformes": {
+      "name": "Anguilliformes",
+      "rank": "order"
+    },
+    "order:Anomopoda": {
+      "name": "Anomopoda",
+      "rank": "order"
+    },
+    "order:Anseriformes": {
+      "name": "Anseriformes",
+      "rank": "order"
+    },
+    "order:Anthoathecata": {
+      "name": "Anthoathecata",
+      "rank": "order"
+    },
+    "order:Antipatharia": {
+      "name": "Antipatharia",
+      "rank": "order"
+    },
+    "order:Anura": {
+      "name": "Anura",
+      "rank": "order"
+    },
+    "order:Aphragmophora": {
+      "name": "Aphragmophora",
+      "rank": "order"
+    },
+    "order:Apiales": {
+      "name": "Apiales",
+      "rank": "order"
+    },
+    "order:Aplousobranchia": {
+      "name": "Aplousobranchia",
+      "rank": "order"
+    },
+    "order:Aplysiida": {
+      "name": "Aplysiida",
+      "rank": "order"
+    },
+    "order:Apodiformes": {
+      "name": "Apodiformes",
+      "rank": "order"
+    },
+    "order:Aquifoliales": {
+      "name": "Aquifoliales",
+      "rank": "order"
+    },
+    "order:Araneae": {
+      "name": "Araneae",
+      "rank": "order"
+    },
+    "order:Arbacioida": {
+      "name": "Arbacioida",
+      "rank": "order"
+    },
+    "order:Archaeopterygiformes": {
+      "name": "Archaeopterygiformes",
+      "rank": "order"
+    },
+    "order:Architaenioglossa": {
+      "name": "Architaenioglossa",
+      "rank": "order"
+    },
+    "order:Arcida": {
+      "name": "Arcida",
+      "rank": "order"
+    },
+    "order:Arecales": {
+      "name": "Arecales",
+      "rank": "order"
+    },
+    "order:Argentiniformes": {
+      "name": "Argentiniformes",
+      "rank": "order"
+    },
+    "order:Arhynchobdellida": {
+      "name": "Arhynchobdellida",
+      "rank": "order"
+    },
+    "order:Artiodactyla": {
+      "name": "Artiodactyla",
+      "rank": "order"
+    },
+    "order:Asparagales": {
+      "name": "Asparagales",
+      "rank": "order"
+    },
+    "order:Asterales": {
+      "name": "Asterales",
+      "rank": "order"
+    },
+    "order:Auriculariales": {
+      "name": "Auriculariales",
+      "rank": "order"
+    },
+    "order:Axinellida": {
+      "name": "Axinellida",
+      "rank": "order"
+    },
+    "order:Bacillales": {
+      "name": "Bacillales",
+      "rank": "order"
+    },
+    "order:Balanomorpha": {
+      "name": "Balanomorpha",
+      "rank": "order"
+    },
+    "order:Bangiales": {
+      "name": "Bangiales",
+      "rank": "order"
+    },
+    "order:Belemnitida": {
+      "name": "Belemnitida",
+      "rank": "order",
+      "guide": {
+        "name": "Belemnitida",
+        "text": "Cefalópodos fósiles con esqueleto interno que incluía un rostro calcáreo y una parte dividida en cámaras.",
+        "contrast": "El rostro es el resto que se conserva con mayor frecuencia. Su forma y sus surcos ayudan a distinguir géneros.",
+        "source": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/belemnites/"
+      }
+    },
+    "order:Beloniformes": {
+      "name": "Beloniformes",
+      "rank": "order"
+    },
+    "order:Beryciformes": {
+      "name": "Beryciformes",
+      "rank": "order"
+    },
+    "order:Blattodea": {
+      "name": "Blattodea",
+      "rank": "order"
+    },
+    "order:Blenniiformes": {
+      "name": "Blenniiformes",
+      "rank": "order"
+    },
+    "order:Boletales": {
+      "name": "Boletales",
+      "rank": "order"
+    },
+    "order:Boraginales": {
+      "name": "Boraginales",
+      "rank": "order"
+    },
+    "order:Brassicales": {
+      "name": "Brassicales",
+      "rank": "order"
+    },
+    "order:Bryales": {
+      "name": "Bryales",
+      "rank": "order"
+    },
+    "order:Bryopsidales": {
+      "name": "Bryopsidales",
+      "rank": "order"
+    },
+    "order:Bucerotiformes": {
+      "name": "Bucerotiformes",
+      "rank": "order"
+    },
+    "order:Burkholderiales": {
+      "name": "Burkholderiales",
+      "rank": "order"
+    },
+    "order:Buxales": {
+      "name": "Buxales",
+      "rank": "order"
+    },
+    "order:Caliciales": {
+      "name": "Caliciales",
+      "rank": "order"
+    },
+    "order:Camarodonta": {
+      "name": "Camarodonta",
+      "rank": "order"
+    },
+    "order:Campylobacterales": {
+      "name": "Campylobacterales",
+      "rank": "order"
+    },
+    "order:Cantharellales": {
+      "name": "Cantharellales",
+      "rank": "order"
+    },
+    "order:Caprimulgiformes": {
+      "name": "Caprimulgiformes",
+      "rank": "order"
+    },
+    "order:Carangiformes": {
+      "name": "Carangiformes",
+      "rank": "order"
+    },
+    "order:Carcharhiniformes": {
+      "name": "Carcharhiniformes",
+      "rank": "order"
+    },
+    "order:Cardiida": {
+      "name": "Cardiida",
+      "rank": "order"
+    },
+    "order:Carnivora": {
+      "name": "Carnivora",
+      "rank": "order"
+    },
+    "order:Caryophyllales": {
+      "name": "Caryophyllales",
+      "rank": "order"
+    },
+    "order:Caudata": {
+      "name": "Caudata",
+      "rank": "order"
+    },
+    "order:Centrarchiformes": {
+      "name": "Centrarchiformes",
+      "rank": "order"
+    },
+    "order:Ceramiales": {
+      "name": "Ceramiales",
+      "rank": "order"
+    },
+    "order:Ceratitida": {
+      "name": "Ceratitida",
+      "rank": "order"
+    },
+    "order:Ceratodontiformes": {
+      "name": "Ceratodontiformes",
+      "rank": "order"
+    },
+    "order:Charadriiformes": {
+      "name": "Charadriiformes",
+      "rank": "order"
+    },
+    "order:Cheilostomatida": {
+      "name": "Cheilostomatida",
+      "rank": "order"
+    },
+    "order:Chimaeriformes": {
+      "name": "Chimaeriformes",
+      "rank": "order"
+    },
+    "order:Chitonida": {
+      "name": "Chitonida",
+      "rank": "order"
+    },
+    "order:Chlamydiales": {
+      "name": "Chlamydiales",
+      "rank": "order"
+    },
+    "order:Chondrosiida": {
+      "name": "Chondrosiida",
+      "rank": "order"
+    },
+    "order:Chordales": {
+      "name": "Chordales",
+      "rank": "order"
+    },
+    "order:Ciconiiformes": {
+      "name": "Ciconiiformes",
+      "rank": "order"
+    },
+    "order:Cidaroida": {
+      "name": "Cidaroida",
+      "rank": "order"
+    },
+    "order:Cladophorales": {
+      "name": "Cladophorales",
+      "rank": "order"
+    },
+    "order:Clionaida": {
+      "name": "Clionaida",
+      "rank": "order"
+    },
+    "order:Clostridiales": {
+      "name": "Clostridiales",
+      "rank": "order"
+    },
+    "order:Clupeiformes": {
+      "name": "Clupeiformes",
+      "rank": "order"
+    },
+    "order:Clypeasteroida": {
+      "name": "Clypeasteroida",
+      "rank": "order"
+    },
+    "order:Coelacanthiformes": {
+      "name": "Coelacanthiformes",
+      "rank": "order"
+    },
+    "order:Coleoptera": {
+      "name": "Coleoptera",
+      "rank": "order"
+    },
+    "order:Columbiformes": {
+      "name": "Columbiformes",
+      "rank": "order"
+    },
+    "order:Comatulida": {
+      "name": "Comatulida",
+      "rank": "order"
+    },
+    "order:Commelinales": {
+      "name": "Commelinales",
+      "rank": "order"
+    },
+    "order:Coraciiformes": {
+      "name": "Coraciiformes",
+      "rank": "order"
+    },
+    "order:Corallinales": {
+      "name": "Corallinales",
+      "rank": "order"
+    },
+    "order:Cornales": {
+      "name": "Cornales",
+      "rank": "order"
+    },
+    "order:Corynexochida": {
+      "name": "Corynexochida",
+      "rank": "order"
+    },
+    "order:Crassiclitellata": {
+      "name": "Crassiclitellata",
+      "rank": "order"
+    },
+    "order:Cryptostomata": {
+      "name": "Cryptostomata",
+      "rank": "order"
+    },
+    "order:Cuculiformes": {
+      "name": "Cuculiformes",
+      "rank": "order"
+    },
+    "order:Cucurbitales": {
+      "name": "Cucurbitales",
+      "rank": "order"
+    },
+    "order:Cyanobacteriales": {
+      "name": "Cyanobacteriales",
+      "rank": "order"
+    },
+    "order:Cycadales": {
+      "name": "Cycadales",
+      "rank": "order"
+    },
+    "order:Cycloneritida": {
+      "name": "Cycloneritida",
+      "rank": "order"
+    },
+    "order:Cyclophyllidea": {
+      "name": "Cyclophyllidea",
+      "rank": "order"
+    },
+    "order:Cyclopoida": {
+      "name": "Cyclopoida",
+      "rank": "order"
+    },
+    "order:Cypriniformes": {
+      "name": "Cypriniformes",
+      "rank": "order"
+    },
+    "order:Cyprinodontiformes": {
+      "name": "Cyprinodontiformes",
+      "rank": "order"
+    },
+    "order:Cyrtodontida": {
+      "name": "Cyrtodontida",
+      "rank": "order"
+    },
+    "order:Cystiphyllida": {
+      "name": "Cystiphyllida",
+      "rank": "order"
+    },
+    "order:Dacrymycetales": {
+      "name": "Dacrymycetales",
+      "rank": "order"
+    },
+    "order:Dasycladales": {
+      "name": "Dasycladales",
+      "rank": "order"
+    },
+    "order:Decapoda": {
+      "name": "Decapoda",
+      "rank": "order"
+    },
+    "order:Dendrochirotida": {
+      "name": "Dendrochirotida",
+      "rank": "order"
+    },
+    "order:Dentaliida": {
+      "name": "Dentaliida",
+      "rank": "order"
+    },
+    "order:Dermaptera": {
+      "name": "Dermaptera",
+      "rank": "order"
+    },
+    "order:Desmarestiales": {
+      "name": "Desmarestiales",
+      "rank": "order"
+    },
+    "order:Dicranales": {
+      "name": "Dicranales",
+      "rank": "order"
+    },
+    "order:Dictyoceratida": {
+      "name": "Dictyoceratida",
+      "rank": "order"
+    },
+    "order:Dictyotales": {
+      "name": "Dictyotales",
+      "rank": "order"
+    },
+    "order:Dioscoreales": {
+      "name": "Dioscoreales",
+      "rank": "order"
+    },
+    "order:Diplura": {
+      "name": "Diplura",
+      "rank": "order"
+    },
+    "order:Dipsacales": {
+      "name": "Dipsacales",
+      "rank": "order"
+    },
+    "order:Diptera": {
+      "name": "Diptera",
+      "rank": "order"
+    },
+    "order:Echinolampadacea": {
+      "name": "Echinolampadacea",
+      "rank": "order"
+    },
+    "order:Echiuroidea": {
+      "name": "Echiuroidea",
+      "rank": "order"
+    },
+    "order:Ectocarpales": {
+      "name": "Ectocarpales",
+      "rank": "order"
+    },
+    "order:Elopiformes": {
+      "name": "Elopiformes",
+      "rank": "order"
+    },
+    "order:Encrinida": {
+      "name": "Encrinida",
+      "rank": "order"
+    },
+    "order:Enterobacteriales": {
+      "name": "Enterobacteriales",
+      "rank": "order"
+    },
+    "order:Ephedrales": {
+      "name": "Ephedrales",
+      "rank": "order"
+    },
+    "order:Ephemeroptera": {
+      "name": "Ephemeroptera",
+      "rank": "order"
+    },
+    "order:Equisetales": {
+      "name": "Equisetales",
+      "rank": "order",
+      "guide": {
+        "name": "Equisetales",
+        "text": "Plantas con tallos articulados en nudos y entrenudos. Las hojas se disponen en verticilos alrededor de los nudos.",
+        "contrast": "En los fósiles pueden conservarse por separado tallos, hojas y estructuras reproductoras.",
+        "source": "https://plants.sdsu.edu/plantsystematics/labs/plsyslab.pdf"
+      }
+    },
+    "order:Ericales": {
+      "name": "Ericales",
+      "rank": "order"
+    },
+    "order:Euamoebida": {
+      "name": "Euamoebida",
+      "rank": "order"
+    },
+    "order:Eucoccidiorida": {
+      "name": "Eucoccidiorida",
+      "rank": "order"
+    },
+    "order:Eulipotyphla": {
+      "name": "Eulipotyphla",
+      "rank": "order"
+    },
+    "order:Eunicida": {
+      "name": "Eunicida",
+      "rank": "order"
+    },
+    "order:Eurotiales": {
+      "name": "Eurotiales",
+      "rank": "order"
+    },
+    "order:Fabales": {
+      "name": "Fabales",
+      "rank": "order"
+    },
+    "order:Fagales": {
+      "name": "Fagales",
+      "rank": "order"
+    },
+    "order:Falconiformes": {
+      "name": "Falconiformes",
+      "rank": "order"
+    },
+    "order:Favositida": {
+      "name": "Favositida",
+      "rank": "order"
+    },
+    "order:Foraminifera": {
+      "name": "Foraminifera",
+      "rank": "order"
+    },
+    "order:Forcipulatida": {
+      "name": "Forcipulatida",
+      "rank": "order"
+    },
+    "order:Fucales": {
+      "name": "Fucales",
+      "rank": "order"
+    },
+    "order:Fusulinida": {
+      "name": "Fusulinida",
+      "rank": "order"
+    },
+    "order:Gadiformes": {
+      "name": "Gadiformes",
+      "rank": "order"
+    },
+    "order:Galliformes": {
+      "name": "Galliformes",
+      "rank": "order"
+    },
+    "order:Gaviiformes": {
+      "name": "Gaviiformes",
+      "rank": "order"
+    },
+    "order:Geastrales": {
+      "name": "Geastrales",
+      "rank": "order"
+    },
+    "order:Gelidiales": {
+      "name": "Gelidiales",
+      "rank": "order"
+    },
+    "order:Gentianales": {
+      "name": "Gentianales",
+      "rank": "order"
+    },
+    "order:Geraniales": {
+      "name": "Geraniales",
+      "rank": "order"
+    },
+    "order:Gigartinales": {
+      "name": "Gigartinales",
+      "rank": "order"
+    },
+    "order:Ginkgoales": {
+      "name": "Ginkgoales",
+      "rank": "order"
+    },
+    "order:Gobiiformes": {
+      "name": "Gobiiformes",
+      "rank": "order"
+    },
+    "order:Gomphales": {
+      "name": "Gomphales",
+      "rank": "order"
+    },
+    "order:Goniatitida": {
+      "name": "Goniatitida",
+      "rank": "order"
+    },
+    "order:Gonyaulacales": {
+      "name": "Gonyaulacales",
+      "rank": "order"
+    },
+    "order:Gordioidea": {
+      "name": "Gordioidea",
+      "rank": "order"
+    },
+    "order:Gracilariales": {
+      "name": "Gracilariales",
+      "rank": "order"
+    },
+    "order:Graptoloidea": {
+      "name": "Graptoloidea",
+      "rank": "order"
+    },
+    "order:Grimmiales": {
+      "name": "Grimmiales",
+      "rank": "order"
+    },
+    "order:Gruiformes": {
+      "name": "Gruiformes",
+      "rank": "order"
+    },
+    "order:Gymnotiformes": {
+      "name": "Gymnotiformes",
+      "rank": "order"
+    },
+    "order:Haemospororida": {
+      "name": "Haemospororida",
+      "rank": "order"
+    },
+    "order:Hemiptera": {
+      "name": "Hemiptera",
+      "rank": "order"
+    },
+    "order:Heteronemertea": {
+      "name": "Heteronemertea",
+      "rank": "order"
+    },
+    "order:Heterotrichida": {
+      "name": "Heterotrichida",
+      "rank": "order"
+    },
+    "order:Hexanchiformes": {
+      "name": "Hexanchiformes",
+      "rank": "order"
+    },
+    "order:Hippuritida": {
+      "name": "Hippuritida",
+      "rank": "order"
+    },
+    "order:Holothuriida": {
+      "name": "Holothuriida",
+      "rank": "order"
+    },
+    "order:Homosclerophorida": {
+      "name": "Homosclerophorida",
+      "rank": "order"
+    },
+    "order:Hymenophyllales": {
+      "name": "Hymenophyllales",
+      "rank": "order"
+    },
+    "order:Hymenoptera": {
+      "name": "Hymenoptera",
+      "rank": "order"
+    },
+    "order:Hypnales": {
+      "name": "Hypnales",
+      "rank": "order"
+    },
+    "order:Hypocreales": {
+      "name": "Hypocreales",
+      "rank": "order"
+    },
+    "order:Isocrinida": {
+      "name": "Isocrinida",
+      "rank": "order"
+    },
+    "order:Isoetales": {
+      "name": "Isoetales",
+      "rank": "order"
+    },
+    "order:Isopoda": {
+      "name": "Isopoda",
+      "rank": "order"
+    },
+    "order:Ixodida": {
+      "name": "Ixodida",
+      "rank": "order"
+    },
+    "order:Labriformes": {
+      "name": "Labriformes",
+      "rank": "order"
+    },
+    "order:Lactobacillales": {
+      "name": "Lactobacillales",
+      "rank": "order"
+    },
+    "order:Lamiales": {
+      "name": "Lamiales",
+      "rank": "order"
+    },
+    "order:Laminariales": {
+      "name": "Laminariales",
+      "rank": "order"
+    },
+    "order:Lamniformes": {
+      "name": "Lamniformes",
+      "rank": "order"
+    },
+    "order:Lampriformes": {
+      "name": "Lampriformes",
+      "rank": "order"
+    },
+    "order:Laurales": {
+      "name": "Laurales",
+      "rank": "order"
+    },
+    "order:Lecanorales": {
+      "name": "Lecanorales",
+      "rank": "order"
+    },
+    "order:Lepetellida": {
+      "name": "Lepetellida",
+      "rank": "order"
+    },
+    "order:Lepidodendrales": {
+      "name": "Lepidodendrales",
+      "rank": "order"
+    },
+    "order:Lepidoptera": {
+      "name": "Lepidoptera",
+      "rank": "order"
+    },
+    "order:Leptothecata": {
+      "name": "Leptothecata",
+      "rank": "order"
+    },
+    "order:Leucosolenida": {
+      "name": "Leucosolenida",
+      "rank": "order"
+    },
+    "order:Lichinales": {
+      "name": "Lichinales",
+      "rank": "order"
+    },
+    "order:Liliales": {
+      "name": "Liliales",
+      "rank": "order"
+    },
+    "order:Limida": {
+      "name": "Limida",
+      "rank": "order"
+    },
+    "order:Lithobiomorpha": {
+      "name": "Lithobiomorpha",
+      "rank": "order"
+    },
+    "order:Littorinimorpha": {
+      "name": "Littorinimorpha",
+      "rank": "order"
+    },
+    "order:Loftusiida": {
+      "name": "Loftusiida",
+      "rank": "order"
+    },
+    "order:Lophiiformes": {
+      "name": "Lophiiformes",
+      "rank": "order"
+    },
+    "order:Lycopodiales": {
+      "name": "Lycopodiales",
+      "rank": "order"
+    },
+    "order:Magnoliales": {
+      "name": "Magnoliales",
+      "rank": "order"
+    },
+    "order:Malacalcyonacea": {
+      "name": "Malacalcyonacea",
+      "rank": "order"
+    },
+    "order:Malpighiales": {
+      "name": "Malpighiales",
+      "rank": "order"
+    },
+    "order:Malvales": {
+      "name": "Malvales",
+      "rank": "order"
+    },
+    "order:Mantodea": {
+      "name": "Mantodea",
+      "rank": "order"
+    },
+    "order:Marchantiales": {
+      "name": "Marchantiales",
+      "rank": "order"
+    },
+    "order:Mecoptera": {
+      "name": "Mecoptera",
+      "rank": "order"
+    },
+    "order:Medullosales": {
+      "name": "Medullosales",
+      "rank": "order"
+    },
+    "order:Miliolida": {
+      "name": "Miliolida",
+      "rank": "order"
+    },
+    "order:Mucorales": {
+      "name": "Mucorales",
+      "rank": "order"
+    },
+    "order:Mugiliformes": {
+      "name": "Mugiliformes",
+      "rank": "order"
+    },
+    "order:Mycoplasmatales": {
+      "name": "Mycoplasmatales",
+      "rank": "order"
+    },
+    "order:Myida": {
+      "name": "Myida",
+      "rank": "order"
+    },
+    "order:Myliobatiformes": {
+      "name": "Myliobatiformes",
+      "rank": "order"
+    },
+    "order:Myopsida": {
+      "name": "Myopsida",
+      "rank": "order"
+    },
+    "order:Myrtales": {
+      "name": "Myrtales",
+      "rank": "order"
+    },
+    "order:Mytilida": {
+      "name": "Mytilida",
+      "rank": "order"
+    },
+    "order:Nautilida": {
+      "name": "Nautilida",
+      "rank": "order"
+    },
+    "order:Neisseriales": {
+      "name": "Neisseriales",
+      "rank": "order"
+    },
+    "order:Neogastropoda": {
+      "name": "Neogastropoda",
+      "rank": "order"
+    },
+    "order:Neuroptera": {
+      "name": "Neuroptera",
+      "rank": "order"
+    },
+    "order:Noctilucales": {
+      "name": "Noctilucales",
+      "rank": "order"
+    },
+    "order:Nudibranchia": {
+      "name": "Nudibranchia",
+      "rank": "order"
+    },
+    "order:Nymphaeales": {
+      "name": "Nymphaeales",
+      "rank": "order"
+    },
+    "order:Octopoda": {
+      "name": "Octopoda",
+      "rank": "order"
+    },
+    "order:Odonata": {
+      "name": "Odonata",
+      "rank": "order"
+    },
+    "order:Oegopsida": {
+      "name": "Oegopsida",
+      "rank": "order"
+    },
+    "order:Ophiacanthida": {
+      "name": "Ophiacanthida",
+      "rank": "order"
+    },
+    "order:Ophioglossales": {
+      "name": "Ophioglossales",
+      "rank": "order"
+    },
+    "order:Ophiurida": {
+      "name": "Ophiurida",
+      "rank": "order"
+    },
+    "order:Opiliones": {
+      "name": "Opiliones",
+      "rank": "order"
+    },
+    "order:Orectolobiformes": {
+      "name": "Orectolobiformes",
+      "rank": "order"
+    },
+    "order:Orthida": {
+      "name": "Orthida",
+      "rank": "order"
+    },
+    "order:Orthocerida": {
+      "name": "Orthocerida",
+      "rank": "order"
+    },
+    "order:Orthoptera": {
+      "name": "Orthoptera",
+      "rank": "order"
+    },
+    "order:Osmundales": {
+      "name": "Osmundales",
+      "rank": "order"
+    },
+    "order:Ostreida": {
+      "name": "Ostreida",
+      "rank": "order"
+    },
+    "order:Ostropales": {
+      "name": "Ostropales",
+      "rank": "order"
+    },
+    "order:Otidiformes": {
+      "name": "Otidiformes",
+      "rank": "order"
+    },
+    "order:Oxalidales": {
+      "name": "Oxalidales",
+      "rank": "order"
+    },
+    "order:Pantopoda": {
+      "name": "Pantopoda",
+      "rank": "order"
+    },
+    "order:Passeriformes": {
+      "name": "Passeriformes",
+      "rank": "order"
+    },
+    "order:Patellida": {
+      "name": "Patellida",
+      "rank": "order"
+    },
+    "order:Paxillosida": {
+      "name": "Paxillosida",
+      "rank": "order"
+    },
+    "order:Pectinida": {
+      "name": "Pectinida",
+      "rank": "order"
+    },
+    "order:Pelecaniformes": {
+      "name": "Pelecaniformes",
+      "rank": "order"
+    },
+    "order:Peltigerales": {
+      "name": "Peltigerales",
+      "rank": "order"
+    },
+    "order:Peniculida": {
+      "name": "Peniculida",
+      "rank": "order"
+    },
+    "order:Perciformes": {
+      "name": "Perciformes",
+      "rank": "order"
+    },
+    "order:Perissodactyla": {
+      "name": "Perissodactyla",
+      "rank": "order"
+    },
+    "order:Petromyzontiformes": {
+      "name": "Petromyzontiformes",
+      "rank": "order"
+    },
+    "order:Pezizales": {
+      "name": "Pezizales",
+      "rank": "order"
+    },
+    "order:Phacopida": {
+      "name": "Phacopida",
+      "rank": "order"
+    },
+    "order:Phallales": {
+      "name": "Phallales",
+      "rank": "order"
+    },
+    "order:Phasmida": {
+      "name": "Phasmida",
+      "rank": "order"
+    },
+    "order:Philodinida": {
+      "name": "Philodinida",
+      "rank": "order"
+    },
+    "order:Phoenicopteriformes": {
+      "name": "Phoenicopteriformes",
+      "rank": "order"
+    },
+    "order:Phyllodocida": {
+      "name": "Phyllodocida",
+      "rank": "order"
+    },
+    "order:Piciformes": {
+      "name": "Piciformes",
+      "rank": "order"
+    },
+    "order:Pinales": {
+      "name": "Pinales",
+      "rank": "order"
+    },
+    "order:Piperales": {
+      "name": "Piperales",
+      "rank": "order"
+    },
+    "order:Plagiorchiida": {
+      "name": "Plagiorchiida",
+      "rank": "order"
+    },
+    "order:Plocamiales": {
+      "name": "Plocamiales",
+      "rank": "order"
+    },
+    "order:Poales": {
+      "name": "Poales",
+      "rank": "order"
+    },
+    "order:Podicipediformes": {
+      "name": "Podicipediformes",
+      "rank": "order"
+    },
+    "order:Podocopida": {
+      "name": "Podocopida",
+      "rank": "order"
+    },
+    "order:Poduromorpha": {
+      "name": "Poduromorpha",
+      "rank": "order"
+    },
+    "order:Poecilosclerida": {
+      "name": "Poecilosclerida",
+      "rank": "order"
+    },
+    "order:Pollicipedomorpha": {
+      "name": "Pollicipedomorpha",
+      "rank": "order"
+    },
+    "order:Polycladida": {
+      "name": "Polycladida",
+      "rank": "order"
+    },
+    "order:Polypodiales": {
+      "name": "Polypodiales",
+      "rank": "order"
+    },
+    "order:Polyporales": {
+      "name": "Polyporales",
+      "rank": "order"
+    },
+    "order:Polytrichales": {
+      "name": "Polytrichales",
+      "rank": "order"
+    },
+    "order:Pottiales": {
+      "name": "Pottiales",
+      "rank": "order"
+    },
+    "order:Priapulomorpha": {
+      "name": "Priapulomorpha",
+      "rank": "order"
+    },
+    "order:Primates": {
+      "name": "Primates",
+      "rank": "order",
+      "guide": {
+        "name": "Primates",
+        "text": "Mamíferos con visión estereoscópica y extremidades adaptadas a la prensión en muchos de sus representantes.",
+        "contrast": "Observar el cráneo y las extremidades conjuntamente. Los rasgos y su desarrollo varían entre linajes.",
+        "source": "https://openstax.org/books/biology-2e/pages/29-7-the-evolution-of-primates"
+      }
+    },
+    "order:Proboscidea": {
+      "name": "Proboscidea",
+      "rank": "order",
+      "guide": {
+        "name": "Proboscidea",
+        "text": "Orden de mamíferos que incluye elefantes actuales y formas fósiles como mamuts y mastodontes.",
+        "contrast": "Las defensas y los molares fósiles aportan caracteres para comparar sus linajes.",
+        "source": "https://www.si.edu/object/proboscidean-fossil%3Anmnheducation_10019941"
+      }
+    },
+    "order:Procellariiformes": {
+      "name": "Procellariiformes",
+      "rank": "order"
+    },
+    "order:Proteales": {
+      "name": "Proteales",
+      "rank": "order"
+    },
+    "order:Pseudoscorpiones": {
+      "name": "Pseudoscorpiones",
+      "rank": "order"
+    },
+    "order:Psilotales": {
+      "name": "Psilotales",
+      "rank": "order"
+    },
+    "order:Psocodea": {
+      "name": "Psocodea",
+      "rank": "order"
+    },
+    "order:Pterocliformes": {
+      "name": "Pterocliformes",
+      "rank": "order"
+    },
+    "order:Ptychopariida": {
+      "name": "Ptychopariida",
+      "rank": "order"
+    },
+    "order:Rajiformes": {
+      "name": "Rajiformes",
+      "rank": "order"
+    },
+    "order:Ranunculales": {
+      "name": "Ranunculales",
+      "rank": "order"
+    },
+    "order:Raphidioptera": {
+      "name": "Raphidioptera",
+      "rank": "order"
+    },
+    "order:Redlichiida": {
+      "name": "Redlichiida",
+      "rank": "order"
+    },
+    "order:Rhabditida": {
+      "name": "Rhabditida",
+      "rank": "order"
+    },
+    "order:Rhabdonematales": {
+      "name": "Rhabdonematales",
+      "rank": "order"
+    },
+    "order:Rhinopristiformes": {
+      "name": "Rhinopristiformes",
+      "rank": "order"
+    },
+    "order:Rhizocarpales": {
+      "name": "Rhizocarpales",
+      "rank": "order"
+    },
+    "order:Rhizostomeae": {
+      "name": "Rhizostomeae",
+      "rank": "order"
+    },
+    "order:Rhodymeniales": {
+      "name": "Rhodymeniales",
+      "rank": "order"
+    },
+    "order:Rhynchonellida": {
+      "name": "Rhynchonellida",
+      "rank": "order"
+    },
+    "order:Rodentia": {
+      "name": "Rodentia",
+      "rank": "order"
+    },
+    "order:Rosales": {
+      "name": "Rosales",
+      "rank": "order"
+    },
+    "order:Rotaliida": {
+      "name": "Rotaliida",
+      "rank": "order"
+    },
+    "order:Russulales": {
+      "name": "Russulales",
+      "rank": "order"
+    },
+    "order:Sabellida": {
+      "name": "Sabellida",
+      "rank": "order"
+    },
+    "order:Salmoniformes": {
+      "name": "Salmoniformes",
+      "rank": "order"
+    },
+    "order:Salviniales": {
+      "name": "Salviniales",
+      "rank": "order"
+    },
+    "order:Santalales": {
+      "name": "Santalales",
+      "rank": "order"
+    },
+    "order:Sapindales": {
+      "name": "Sapindales",
+      "rank": "order"
+    },
+    "order:Sarcoptiformes": {
+      "name": "Sarcoptiformes",
+      "rank": "order"
+    },
+    "order:Saxifragales": {
+      "name": "Saxifragales",
+      "rank": "order"
+    },
+    "order:Scalpellomorpha": {
+      "name": "Scalpellomorpha",
+      "rank": "order"
+    },
+    "order:Scleractinia": {
+      "name": "Scleractinia",
+      "rank": "order",
+      "guide": {
+        "name": "Scleractinia",
+        "text": "Corales pétreos cuyos pólipos producen un esqueleto de carbonato cálcico. Existen formas solitarias y coloniales.",
+        "contrast": "En una colonia, comparar los cálices de los pólipos y sus tabiques con los de corales fósiles documentados.",
+        "source": "https://oceanservice.noaa.gov/facts/coral.html"
+      }
+    },
+    "order:Scleralcyonacea": {
+      "name": "Scleralcyonacea",
+      "rank": "order"
+    },
+    "order:Scolopendromorpha": {
+      "name": "Scolopendromorpha",
+      "rank": "order"
+    },
+    "order:Scombriformes": {
+      "name": "Scombriformes",
+      "rank": "order"
+    },
+    "order:Scorpiones": {
+      "name": "Scorpiones",
+      "rank": "order"
+    },
+    "order:Scutigeromorpha": {
+      "name": "Scutigeromorpha",
+      "rank": "order"
+    },
+    "order:Selaginellales": {
+      "name": "Selaginellales",
+      "rank": "order"
+    },
+    "order:Semaeostomeae": {
+      "name": "Semaeostomeae",
+      "rank": "order"
+    },
+    "order:Sepiida": {
+      "name": "Sepiida",
+      "rank": "order"
+    },
+    "order:Sepiolida": {
+      "name": "Sepiolida",
+      "rank": "order"
+    },
+    "order:Siluriformes": {
+      "name": "Siluriformes",
+      "rank": "order"
+    },
+    "order:Siphonaptera": {
+      "name": "Siphonaptera",
+      "rank": "order"
+    },
+    "order:Siphonophorae": {
+      "name": "Siphonophorae",
+      "rank": "order"
+    },
+    "order:Sipuncula": {
+      "name": "Sipuncula",
+      "rank": "order"
+    },
+    "order:Solanales": {
+      "name": "Solanales",
+      "rank": "order"
+    },
+    "order:Solifugae": {
+      "name": "Solifugae",
+      "rank": "order"
+    },
+    "order:Sorbeoconcha": {
+      "name": "Sorbeoconcha",
+      "rank": "order"
+    },
+    "order:Spatangoida": {
+      "name": "Spatangoida",
+      "rank": "order"
+    },
+    "order:Sphagnales": {
+      "name": "Sphagnales",
+      "rank": "order"
+    },
+    "order:Spinulosida": {
+      "name": "Spinulosida",
+      "rank": "order"
+    },
+    "order:Spiriferida": {
+      "name": "Spiriferida",
+      "rank": "order"
+    },
+    "order:Spirochaetales": {
+      "name": "Spirochaetales",
+      "rank": "order"
+    },
+    "order:Spirularia": {
+      "name": "Spirularia",
+      "rank": "order"
+    },
+    "order:Squaliformes": {
+      "name": "Squaliformes",
+      "rank": "order"
+    },
+    "order:Squamata": {
+      "name": "Squamata",
+      "rank": "order"
+    },
+    "order:Squatiniformes": {
+      "name": "Squatiniformes",
+      "rank": "order"
+    },
+    "order:Stomatopoda": {
+      "name": "Stomatopoda",
+      "rank": "order"
+    },
+    "order:Strigiformes": {
+      "name": "Strigiformes",
+      "rank": "order"
+    },
+    "order:Strophomenida": {
+      "name": "Strophomenida",
+      "rank": "order"
+    },
+    "order:Stylommatophora": {
+      "name": "Stylommatophora",
+      "rank": "order"
+    },
+    "order:Suberitida": {
+      "name": "Suberitida",
+      "rank": "order"
+    },
+    "order:Suliformes": {
+      "name": "Suliformes",
+      "rank": "order"
+    },
+    "order:Syngnathiformes": {
+      "name": "Syngnathiformes",
+      "rank": "order"
+    },
+    "order:Systellommatophora": {
+      "name": "Systellommatophora",
+      "rank": "order"
+    },
+    "order:Teloschistales": {
+      "name": "Teloschistales",
+      "rank": "order"
+    },
+    "order:Tentaculitida": {
+      "name": "Tentaculitida",
+      "rank": "order"
+    },
+    "order:Terebellida": {
+      "name": "Terebellida",
+      "rank": "order"
+    },
+    "order:Terebratulida": {
+      "name": "Terebratulida",
+      "rank": "order"
+    },
+    "order:Testudines": {
+      "name": "Testudines",
+      "rank": "order"
+    },
+    "order:Tethyida": {
+      "name": "Tethyida",
+      "rank": "order"
+    },
+    "order:Tetralithistida": {
+      "name": "Tetralithistida",
+      "rank": "order"
+    },
+    "order:Tetraodontiformes": {
+      "name": "Tetraodontiformes",
+      "rank": "order"
+    },
+    "order:Tilopteridales": {
+      "name": "Tilopteridales",
+      "rank": "order"
+    },
+    "order:Torpediniformes": {
+      "name": "Torpediniformes",
+      "rank": "order"
+    },
+    "order:Trachichthyiformes": {
+      "name": "Trachichthyiformes",
+      "rank": "order"
+    },
+    "order:Tremellales": {
+      "name": "Tremellales",
+      "rank": "order"
+    },
+    "order:Trichinellida": {
+      "name": "Trichinellida",
+      "rank": "order"
+    },
+    "order:Tricladida": {
+      "name": "Tricladida",
+      "rank": "order"
+    },
+    "order:Trigoniida": {
+      "name": "Trigoniida",
+      "rank": "order"
+    },
+    "order:Trochida": {
+      "name": "Trochida",
+      "rank": "order"
+    },
+    "order:Trypanosomatida": {
+      "name": "Trypanosomatida",
+      "rank": "order"
+    },
+    "order:Tubificida": {
+      "name": "Tubificida",
+      "rank": "order"
+    },
+    "order:Ulvales": {
+      "name": "Ulvales",
+      "rank": "order"
+    },
+    "order:Umbilicariales": {
+      "name": "Umbilicariales",
+      "rank": "order"
+    },
+    "order:Unionida": {
+      "name": "Unionida",
+      "rank": "order"
+    },
+    "order:Valvatida": {
+      "name": "Valvatida",
+      "rank": "order"
+    },
+    "order:Venerida": {
+      "name": "Venerida",
+      "rank": "order"
+    },
+    "order:Vestibuliferida": {
+      "name": "Vestibuliferida",
+      "rank": "order"
+    },
+    "order:Vibrionales": {
+      "name": "Vibrionales",
+      "rank": "order"
+    },
+    "order:Vitales": {
+      "name": "Vitales",
+      "rank": "order"
+    },
+    "order:Xiphosurida": {
+      "name": "Xiphosurida",
+      "rank": "order"
+    },
+    "order:Xylariales": {
+      "name": "Xylariales",
+      "rank": "order"
+    },
+    "order:Zeiformes": {
+      "name": "Zeiformes",
+      "rank": "order"
+    },
+    "order:Zingiberales": {
+      "name": "Zingiberales",
+      "rank": "order"
+    },
+    "order:Zygentoma": {
+      "name": "Zygentoma",
+      "rank": "order"
+    },
+    "suborder:Acanthochitonina": {
+      "name": "Acanthochitonina",
+      "rank": "suborder"
+    },
+    "suborder:Achatinina": {
+      "name": "Achatinina",
+      "rank": "suborder"
+    },
+    "suborder:Adephaga": {
+      "name": "Adephaga",
+      "rank": "suborder"
+    },
+    "suborder:Aeolidina": {
+      "name": "Aeolidina",
+      "rank": "suborder"
+    },
+    "suborder:Agaricineae": {
+      "name": "Agaricineae",
+      "rank": "suborder"
+    },
+    "suborder:Ammonitina": {
+      "name": "Ammonitina",
+      "rank": "suborder"
+    },
+    "suborder:Anguilloidei": {
+      "name": "Anguilloidei",
+      "rank": "suborder"
+    },
+    "suborder:Anisoptera": {
+      "name": "Anisoptera",
+      "rank": "suborder"
+    },
+    "suborder:Aphroditiformia": {
+      "name": "Aphroditiformia",
+      "rank": "suborder"
+    },
+    "suborder:Aplanulata": {
+      "name": "Aplanulata",
+      "rank": "suborder"
+    },
+    "suborder:Apocrita": {
+      "name": "Apocrita",
+      "rank": "suborder"
+    },
+    "suborder:Araneomorphae": {
+      "name": "Araneomorphae",
+      "rank": "suborder"
+    },
+    "suborder:Aspleniinae": {
+      "name": "Aspleniinae",
+      "rank": "suborder"
+    },
+    "suborder:Auchenorrhyncha": {
+      "name": "Auchenorrhyncha",
+      "rank": "suborder"
+    },
+    "suborder:Balistoidei": {
+      "name": "Balistoidei",
+      "rank": "suborder"
+    },
+    "suborder:Belemnitina": {
+      "name": "Belemnitina",
+      "rank": "suborder"
+    },
+    "suborder:Berycoidei": {
+      "name": "Berycoidei",
+      "rank": "suborder"
+    },
+    "suborder:Blennioidei": {
+      "name": "Blennioidei",
+      "rank": "suborder"
+    },
+    "suborder:Bonelliida": {
+      "name": "Bonelliida",
+      "rank": "suborder"
+    },
+    "suborder:Brachycera": {
+      "name": "Brachycera",
+      "rank": "suborder"
+    },
+    "suborder:Brissidina": {
+      "name": "Brissidina",
+      "rank": "suborder"
+    },
+    "suborder:Caelifera": {
+      "name": "Caelifera",
+      "rank": "suborder"
+    },
+    "suborder:Capitata": {
+      "name": "Capitata",
+      "rank": "suborder"
+    },
+    "suborder:Carangoidei": {
+      "name": "Carangoidei",
+      "rank": "suborder"
+    },
+    "suborder:Centrarchoidei": {
+      "name": "Centrarchoidei",
+      "rank": "suborder"
+    },
+    "suborder:Centropomoidei": {
+      "name": "Centropomoidei",
+      "rank": "suborder"
+    },
+    "suborder:Ceratodontoidei": {
+      "name": "Ceratodontoidei",
+      "rank": "suborder"
+    },
+    "suborder:Chitonina": {
+      "name": "Chitonina",
+      "rank": "suborder"
+    },
+    "suborder:Clupeoidei": {
+      "name": "Clupeoidei",
+      "rank": "suborder"
+    },
+    "suborder:Cobitoidei": {
+      "name": "Cobitoidei",
+      "rank": "suborder"
+    },
+    "suborder:Congroidei": {
+      "name": "Congroidei",
+      "rank": "suborder"
+    },
+    "suborder:Continenticola": {
+      "name": "Continenticola",
+      "rank": "suborder"
+    },
+    "suborder:Corallinineae": {
+      "name": "Corallinineae",
+      "rank": "suborder"
+    },
+    "suborder:Cottoidei": {
+      "name": "Cottoidei",
+      "rank": "suborder"
+    },
+    "suborder:Cotylea": {
+      "name": "Cotylea",
+      "rank": "suborder"
+    },
+    "suborder:Cyprinodontoidei": {
+      "name": "Cyprinodontoidei",
+      "rank": "suborder"
+    },
+    "suborder:Cyprinoidei": {
+      "name": "Cyprinoidei",
+      "rank": "suborder"
+    },
+    "suborder:Cystonectae": {
+      "name": "Cystonectae",
+      "rank": "suborder"
+    },
+    "suborder:Dactyliophorae": {
+      "name": "Dactyliophorae",
+      "rank": "suborder"
+    },
+    "suborder:Dendrobranchiata": {
+      "name": "Dendrobranchiata",
+      "rank": "suborder"
+    },
+    "suborder:Dendronotina": {
+      "name": "Dendronotina",
+      "rank": "suborder"
+    },
+    "suborder:Dennstaedtiineae": {
+      "name": "Dennstaedtiineae",
+      "rank": "suborder"
+    },
+    "suborder:Doridina": {
+      "name": "Doridina",
+      "rank": "suborder"
+    },
+    "suborder:Dyspnoi": {
+      "name": "Dyspnoi",
+      "rank": "suborder"
+    },
+    "suborder:Echinostomata": {
+      "name": "Echinostomata",
+      "rank": "suborder"
+    },
+    "suborder:Echiurida": {
+      "name": "Echiurida",
+      "rank": "suborder"
+    },
+    "suborder:Eimeriorina": {
+      "name": "Eimeriorina",
+      "rank": "suborder"
+    },
+    "suborder:Ensifera": {
+      "name": "Ensifera",
+      "rank": "suborder"
+    },
+    "suborder:Enthemonae": {
+      "name": "Enthemonae",
+      "rank": "suborder"
+    },
+    "suborder:Erinaceota": {
+      "name": "Erinaceota",
+      "rank": "suborder"
+    },
+    "suborder:Esocoidei": {
+      "name": "Esocoidei",
+      "rank": "suborder"
+    },
+    "suborder:Eumantodea": {
+      "name": "Eumantodea",
+      "rank": "suborder"
+    },
+    "suborder:Eupantopodida": {
+      "name": "Eupantopodida",
+      "rank": "suborder"
+    },
+    "suborder:Eupnoi": {
+      "name": "Eupnoi",
+      "rank": "suborder"
+    },
+    "suborder:Filifera": {
+      "name": "Filifera",
+      "rank": "suborder"
+    },
+    "suborder:Furcatergalia": {
+      "name": "Furcatergalia",
+      "rank": "suborder"
+    },
+    "suborder:Gadoidei": {
+      "name": "Gadoidei",
+      "rank": "suborder"
+    },
+    "suborder:Gasterosteoidei": {
+      "name": "Gasterosteoidei",
+      "rank": "suborder"
+    },
+    "suborder:Gnathophiurina": {
+      "name": "Gnathophiurina",
+      "rank": "suborder"
+    },
+    "suborder:Gobiesocoidei": {
+      "name": "Gobiesocoidei",
+      "rank": "suborder"
+    },
+    "suborder:Gobioidei": {
+      "name": "Gobioidei",
+      "rank": "suborder"
+    },
+    "suborder:Helicina": {
+      "name": "Helicina",
+      "rank": "suborder"
+    },
+    "suborder:Hemerobiiformia": {
+      "name": "Hemerobiiformia",
+      "rank": "suborder"
+    },
+    "suborder:Heteroptera": {
+      "name": "Heteroptera",
+      "rank": "suborder"
+    },
+    "suborder:Hirudiniformes": {
+      "name": "Hirudiniformes",
+      "rank": "suborder"
+    },
+    "suborder:Incirrata": {
+      "name": "Incirrata",
+      "rank": "suborder"
+    },
+    "suborder:Iocheirata": {
+      "name": "Iocheirata",
+      "rank": "suborder"
+    },
+    "suborder:Labroidei": {
+      "name": "Labroidei",
+      "rank": "suborder"
+    },
+    "suborder:Lepidosirenoidei": {
+      "name": "Lepidosirenoidei",
+      "rank": "suborder"
+    },
+    "suborder:Marasmiineae": {
+      "name": "Marasmiineae",
+      "rank": "suborder"
+    },
+    "suborder:Membraniporina": {
+      "name": "Membraniporina",
+      "rank": "suborder"
+    },
+    "suborder:Menoidei": {
+      "name": "Menoidei",
+      "rank": "suborder"
+    },
+    "suborder:Merluccioidei": {
+      "name": "Merluccioidei",
+      "rank": "suborder"
+    },
+    "suborder:Mulloidei": {
+      "name": "Mulloidei",
+      "rank": "suborder"
+    },
+    "suborder:Muraenoidei": {
+      "name": "Muraenoidei",
+      "rank": "suborder"
+    },
+    "suborder:Mygalomorphae": {
+      "name": "Mygalomorphae",
+      "rank": "suborder"
+    },
+    "suborder:Myomorpha": {
+      "name": "Myomorpha",
+      "rank": "suborder"
+    },
+    "suborder:Myrmeleontiformia": {
+      "name": "Myrmeleontiformia",
+      "rank": "suborder"
+    },
+    "suborder:Nematocera": {
+      "name": "Nematocera",
+      "rank": "suborder"
+    },
+    "suborder:Neodermaptera": {
+      "name": "Neodermaptera",
+      "rank": "suborder"
+    },
+    "suborder:Neoscorpionina": {
+      "name": "Neoscorpionina",
+      "rank": "suborder"
+    },
+    "suborder:Nereidiformia": {
+      "name": "Nereidiformia",
+      "rank": "suborder"
+    },
+    "suborder:Oniscidea": {
+      "name": "Oniscidea",
+      "rank": "suborder"
+    },
+    "suborder:Ophiacanthina": {
+      "name": "Ophiacanthina",
+      "rank": "suborder"
+    },
+    "suborder:Ophiodermatina": {
+      "name": "Ophiodermatina",
+      "rank": "suborder"
+    },
+    "suborder:Ophiurina": {
+      "name": "Ophiurina",
+      "rank": "suborder"
+    },
+    "suborder:Oribatida": {
+      "name": "Oribatida",
+      "rank": "suborder"
+    },
+    "suborder:Percoidei": {
+      "name": "Percoidei",
+      "rank": "suborder"
+    },
+    "suborder:Phyllodociformia": {
+      "name": "Phyllodociformia",
+      "rank": "suborder"
+    },
+    "suborder:Pleocyemata": {
+      "name": "Pleocyemata",
+      "rank": "suborder"
+    },
+    "suborder:Pleuronectoidei": {
+      "name": "Pleuronectoidei",
+      "rank": "suborder"
+    },
+    "suborder:Pleurotineae": {
+      "name": "Pleurotineae",
+      "rank": "suborder"
+    },
+    "suborder:Pluteineae": {
+      "name": "Pluteineae",
+      "rank": "suborder"
+    },
+    "suborder:Polyphaga": {
+      "name": "Polyphaga",
+      "rank": "suborder"
+    },
+    "suborder:Polypodiineae": {
+      "name": "Polypodiineae",
+      "rank": "suborder"
+    },
+    "suborder:Pteridineae": {
+      "name": "Pteridineae",
+      "rank": "suborder"
+    },
+    "suborder:Rhabdura": {
+      "name": "Rhabdura",
+      "rank": "suborder"
+    },
+    "suborder:Ruminantia": {
+      "name": "Ruminantia",
+      "rank": "suborder"
+    },
+    "suborder:Salmonoidei": {
+      "name": "Salmonoidei",
+      "rank": "suborder"
+    },
+    "suborder:Sauria": {
+      "name": "Sauria",
+      "rank": "suborder"
+    },
+    "suborder:Schizophyllineae": {
+      "name": "Schizophyllineae",
+      "rank": "suborder"
+    },
+    "suborder:Sciuromorpha": {
+      "name": "Sciuromorpha",
+      "rank": "suborder"
+    },
+    "suborder:Sclerodermatineae": {
+      "name": "Sclerodermatineae",
+      "rank": "suborder"
+    },
+    "suborder:Scombroidei": {
+      "name": "Scombroidei",
+      "rank": "suborder"
+    },
+    "suborder:Scorpaenoidei": {
+      "name": "Scorpaenoidei",
+      "rank": "suborder"
+    },
+    "suborder:Senticaudata": {
+      "name": "Senticaudata",
+      "rank": "suborder"
+    },
+    "suborder:Sepiina": {
+      "name": "Sepiina",
+      "rank": "suborder"
+    },
+    "suborder:Serpentes": {
+      "name": "Serpentes",
+      "rank": "suborder"
+    },
+    "suborder:Siluroidei": {
+      "name": "Siluroidei",
+      "rank": "suborder"
+    },
+    "suborder:Spirurina": {
+      "name": "Spirurina",
+      "rank": "suborder"
+    },
+    "suborder:Symphyta": {
+      "name": "Symphyta",
+      "rank": "suborder"
+    },
+    "suborder:Syngnathoidei": {
+      "name": "Syngnathoidei",
+      "rank": "suborder"
+    },
+    "suborder:Terebelliformia": {
+      "name": "Terebelliformia",
+      "rank": "suborder"
+    },
+    "suborder:Tetraodontoidei": {
+      "name": "Tetraodontoidei",
+      "rank": "suborder"
+    },
+    "suborder:Tricholomatineae": {
+      "name": "Tricholomatineae",
+      "rank": "suborder"
+    },
+    "suborder:Troctomorpha": {
+      "name": "Troctomorpha",
+      "rank": "suborder"
+    },
+    "suborder:Tubificina": {
+      "name": "Tubificina",
+      "rank": "suborder"
+    },
+    "suborder:Unipeltata": {
+      "name": "Unipeltata",
+      "rank": "suborder"
+    },
+    "suborder:Verophasmatodea": {
+      "name": "Verophasmatodea",
+      "rank": "suborder"
+    },
+    "suborder:Whippomorpha": {
+      "name": "Whippomorpha",
+      "rank": "suborder"
+    },
+    "suborder:Xiphidiata": {
+      "name": "Xiphidiata",
+      "rank": "suborder"
+    },
+    "suborder:Zygoptera": {
+      "name": "Zygoptera",
+      "rank": "suborder"
+    },
+    "superorder:Acanthomorpha": {
+      "name": "Acanthomorpha",
+      "rank": "superorder"
+    },
+    "superorder:Acariformes": {
+      "name": "Acariformes",
+      "rank": "superorder"
+    },
+    "superorder:Decapodiformes": {
+      "name": "Decapodiformes",
+      "rank": "superorder"
+    },
+    "superorder:Diplostraca": {
+      "name": "Diplostraca",
+      "rank": "superorder"
+    },
+    "superorder:Elopomorpha": {
+      "name": "Elopomorpha",
+      "rank": "superorder"
+    },
+    "superorder:Euarchontoglires": {
+      "name": "Euarchontoglires",
+      "rank": "superorder"
+    },
+    "superorder:Eucarida": {
+      "name": "Eucarida",
+      "rank": "superorder"
+    },
+    "superorder:Eupulmonata": {
+      "name": "Eupulmonata",
+      "rank": "superorder"
+    },
+    "superorder:Euryophiurida": {
+      "name": "Euryophiurida",
+      "rank": "superorder"
+    },
+    "superorder:Forcipulatacea": {
+      "name": "Forcipulatacea",
+      "rank": "superorder"
+    },
+    "superorder:Galeomorphi": {
+      "name": "Galeomorphi",
+      "rank": "superorder"
+    },
+    "superorder:Hygrophila": {
+      "name": "Hygrophila",
+      "rank": "superorder"
+    },
+    "superorder:Imparidentia": {
+      "name": "Imparidentia",
+      "rank": "superorder"
+    },
+    "superorder:Laurasiatheria": {
+      "name": "Laurasiatheria",
+      "rank": "superorder"
+    },
+    "superorder:Nudipleura": {
+      "name": "Nudipleura",
+      "rank": "superorder"
+    },
+    "superorder:Octopodiformes": {
+      "name": "Octopodiformes",
+      "rank": "superorder"
+    },
+    "superorder:Ophintegrida": {
+      "name": "Ophintegrida",
+      "rank": "superorder"
+    },
+    "superorder:Ostariophysi": {
+      "name": "Ostariophysi",
+      "rank": "superorder"
+    },
+    "superorder:Parasitiformes": {
+      "name": "Parasitiformes",
+      "rank": "superorder"
+    },
+    "superorder:Peracarida": {
+      "name": "Peracarida",
+      "rank": "superorder"
+    },
+    "superorder:Spinulosacea": {
+      "name": "Spinulosacea",
+      "rank": "superorder"
+    },
+    "superorder:Squalomorphi": {
+      "name": "Squalomorphi",
+      "rank": "superorder"
+    },
+    "superorder:Thoracicalcarea": {
+      "name": "Thoracicalcarea",
+      "rank": "superorder"
+    },
+    "superorder:Valvatacea": {
+      "name": "Valvatacea",
+      "rank": "superorder"
+    }
+  },
+  "entries": {}
+}

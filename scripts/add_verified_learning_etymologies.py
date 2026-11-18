@@ -1,4 +1,5 @@
 """Paraphrased linguistic notes from the cited mineral handbook, retaining uncertainty."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 D=Path(__file__).resolve().parents[1]/'data'
@@ -26,12 +27,12 @@ fenestella|Briozoo fósil colonial con una estructura semejante a una red fina.|
 hippurites|Género de rudistas, bivalvos fósiles con una valva desarrollada en forma de cono o tubo.|Concha robusta y alargada; estrías y costillas longitudinales en los ejemplares.~Para confirmar el género pueden ser necesarias secciones que muestren las estructuras internas, además de la forma externa.
 micraster|Género de erizos irregulares fósiles de contorno aproximadamente acorazonado.|Cinco zonas ambulacrales, con pétalos visibles en la cara superior.~Surco anterior y silueta bilateral; comprobar ambas caras para distinguirlo de otros equinoideos.'''
 def main():
- p=D/'study-notes.json';notes=json.loads(p.read_text(encoding='utf8'));cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'))
+ notes=load_study_notes();cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'))
  for row in ETYMOLOGIES.splitlines():
   id,text=row.split('|');notes[id]['etymology']=text;notes[id]['etymologyReviewedAt']='2026-10-26'
  for row in FOSSILS.splitlines():
   id,description,diagnostics=row.split('|');im=next(x for x in cur[id]['images'] if x['status']=='approved');notes[id]={'description':description,'diagnostics':diagnostics.split('~'),'etymology':'Origen histórico del nombre pendiente de contrastar.','sources':[{'url':im['page'],'title':'Ejemplar identificado y procedencia de colección'}],'reviewedAt':'2026-10-26','scope':'Descripción propia de rasgos visibles en ejemplares identificados; no se completa la etimología sin una fuente específica.'}
  notes['astroides-calycularis']={'commonName':'Coral naranja','description':'Coral pétreo colonial que forma masas de pólipos de color naranja sobre superficies rocosas marinas.','diagnostics':['Colonia de pequeños pólipos, cada uno con una corona de tentáculos.','Esqueleto calcáreo con numerosos cálices; vive en paredes sombreadas y extraplomos. El color solo no basta para distinguir todos los corales.'],'etymology':'Derivación histórica del binomio pendiente de contrastar.','sources':[{'url':'https://www.asturnatura.com/especie/astroides-calycularis','title':'Asturnatura · Astroides calycularis'}],'reviewedAt':'2026-10-26'}
  notes['quercus-ilex']={'commonName':'Encina','description':'Árbol perennifolio mediterráneo de hojas coriáceas y fruto en bellota.','diagnostics':['Hojas de margen variable, a veces dentado o espinoso; envés con pelos claros.','Bellota parcialmente rodeada por una cúpula. Comparar forma, nerviación y vellosidad con los taxones próximos; no basta una bellota aislada.'],'etymology':'Quercus es el nombre latino del roble; ilex es el nombre latino de la encina.','sources':[{'url':'https://www.asturnatura.com/especie/quercus-ilex','title':'Asturnatura · Quercus ilex'}],'reviewedAt':'2026-10-26'}
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(notes),'profiles; 15 mineral etymologies documented')
+ save_study_notes(notes);print(len(notes),'profiles; 15 mineral etymologies documented')
 if __name__=='__main__':main()

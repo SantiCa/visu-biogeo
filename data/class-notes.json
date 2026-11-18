@@ -1,0 +1,907 @@
+{
+  "taxa": {
+    "class:Actinopterygii": {
+      "name": "Actinopterygii",
+      "rank": "class",
+      "guide": {
+        "name": "Actinopterygii",
+        "text": "Peces óseos cuyas aletas se sostienen mediante radios.",
+        "contrast": "Frente a los condrictios, predomina un esqueleto osificado; observar también las aletas.",
+        "source": "https://openstax.org/books/biology-2e/pages/29-2-fishes"
+      }
+    },
+    "class:Agaricomycetes": {
+      "name": "Agaricomycetes",
+      "rank": "class"
+    },
+    "class:Amphibia": {
+      "name": "Amphibia",
+      "rank": "class",
+      "guide": {
+        "name": "Amphibia",
+        "text": "Tetrápodos de piel generalmente permeable; muchos tienen larvas acuáticas y metamorfosis.",
+        "contrast": "Frente a los amniotas, no presentan el huevo amniótico; hay ciclos vitales diversos.",
+        "source": "https://openstax.org/books/biology-2e/pages/29-3-amphibians"
+      },
+      "etymology": {
+        "text": "Se relaciona con el griego amphíbios y el latín amphibion, referido a un animal que vive en tierra y agua. Es el sentido histórico del nombre, no una regla sin excepciones sobre su ciclo.",
+        "url": "https://dle.rae.es/anfibio"
+      }
+    },
+    "class:Andreaeopsida": {
+      "name": "Andreaeopsida",
+      "rank": "class"
+    },
+    "class:Anthozoa": {
+      "name": "Anthozoa",
+      "rank": "class",
+      "guide": {
+        "name": "Anthozoa",
+        "text": "Anémonas y corales: organización de pólipo, solitario o colonial.",
+        "contrast": "No presentan una fase de medusa en su ciclo.",
+        "source": "https://openstax.org/books/biology-2e/pages/28-2-phylum-cnidaria"
+      }
+    },
+    "class:Arachnida": {
+      "name": "Arachnida",
+      "rank": "class",
+      "guide": {
+        "name": "Arachnida",
+        "text": "Quelíceros, pedipalpos y, típicamente en adultos, cuatro pares de patas.",
+        "contrast": "No tienen antenas. El recuento de patas puede cambiar en fases juveniles de algunos grupos.",
+        "source": "https://openstax.org/books/biology-2e/pages/28-6-superphylum-ecdysozoa-arthropods"
+      },
+      "etymology": {
+        "text": "La raíz arachn- remite al griego aráchnē, araña; el DLE documenta esa raíz en arácnido.",
+        "url": "https://dle.rae.es/arácnido"
+      }
+    },
+    "class:Ascidiacea": {
+      "name": "Ascidiacea",
+      "rank": "class"
+    },
+    "class:Asteroidea": {
+      "name": "Asteroidea",
+      "rank": "class"
+    },
+    "class:Aves": {
+      "name": "Aves",
+      "rank": "class",
+      "guide": {
+        "name": "Aves",
+        "text": "Plumas y extremidades anteriores transformadas en alas.",
+        "contrast": "Las plumas distinguen las aves actuales; volar no es exclusivo ni universal.",
+        "source": "https://openstax.org/books/biology-2e/pages/29-5-birds"
+      },
+      "etymology": {
+        "text": "Aves es el plural latino de avis, ave.",
+        "url": "https://dle.rae.es/ave"
+      }
+    },
+    "class:Bacillariophyceae": {
+      "name": "Bacillariophyceae",
+      "rank": "class"
+    },
+    "class:Bacilli": {
+      "name": "Bacilli",
+      "rank": "class"
+    },
+    "class:Bangiophyceae": {
+      "name": "Bangiophyceae",
+      "rank": "class"
+    },
+    "class:Betaproteobacteria": {
+      "name": "Betaproteobacteria",
+      "rank": "class"
+    },
+    "class:Bivalvia": {
+      "name": "Bivalvia",
+      "rank": "class",
+      "guide": {
+        "name": "Bivalvia",
+        "text": "Dos valvas laterales articuladas y cabeza reducida.",
+        "contrast": "Carecen de rádula; distinguir dos valvas de dos vueltas de una misma concha.",
+        "source": "https://openstax.org/books/biology-2e/pages/28-4-superphylum-lophotrochozoa-mollusks-and-annelids"
+      },
+      "etymology": {
+        "text": "El nombre expresa la presencia de dos valvas: bi- y valva.",
+        "url": "https://dle.rae.es/bivalvo"
+      }
+    },
+    "class:Branchiopoda": {
+      "name": "Branchiopoda",
+      "rank": "class"
+    },
+    "class:Bryopsida": {
+      "name": "Bryopsida",
+      "rank": "class"
+    },
+    "class:Calcarea": {
+      "name": "Calcarea",
+      "rank": "class"
+    },
+    "class:Cephalopoda": {
+      "name": "Cephalopoda",
+      "rank": "class",
+      "guide": {
+        "name": "Cephalopoda",
+        "text": "Pie transformado en brazos o tentáculos y un embudo asociado a la locomoción.",
+        "contrast": "Cabeza y ojos desarrollados; la concha puede ser externa, interna o ausente.",
+        "source": "https://openstax.org/books/biology-2e/pages/28-4-superphylum-lophotrochozoa-mollusks-and-annelids"
+      },
+      "etymology": {
+        "text": "Formado sobre raíces griegas que remiten a cabeza y pie: kephalḗ y -podos.",
+        "url": "https://dle.rae.es/cefalópodo"
+      }
+    },
+    "class:Cestoda": {
+      "name": "Cestoda",
+      "rank": "class"
+    },
+    "class:Chilopoda": {
+      "name": "Chilopoda",
+      "rank": "class"
+    },
+    "class:Chondrichthyes": {
+      "name": "Chondrichthyes",
+      "rank": "class",
+      "guide": {
+        "name": "Chondrichthyes",
+        "text": "Tiburones, rayas y quimeras: esqueleto principalmente cartilaginoso.",
+        "contrast": "El material del esqueleto y la anatomía branquial ayudan a separarlos de los peces óseos.",
+        "source": "https://openstax.org/books/biology-2e/pages/29-2-fishes"
+      }
+    },
+    "class:Chromadorea": {
+      "name": "Chromadorea",
+      "rank": "class"
+    },
+    "class:Clitellata": {
+      "name": "Clitellata",
+      "rank": "class"
+    },
+    "class:Clostridia": {
+      "name": "Clostridia",
+      "rank": "class"
+    },
+    "class:Conoidasida": {
+      "name": "Conoidasida",
+      "rank": "class"
+    },
+    "class:Copepoda": {
+      "name": "Copepoda",
+      "rank": "class"
+    },
+    "class:Cricoconarida": {
+      "name": "Cricoconarida",
+      "rank": "class"
+    },
+    "class:Crinoidea": {
+      "name": "Crinoidea",
+      "rank": "class",
+      "guide": {
+        "name": "Crinoidea",
+        "text": "Equinodermos con cáliz y brazos provistos de surcos ambulacrales. Muchos presentan un tallo formado por segmentos calcáreos.",
+        "contrast": "En fósiles, los segmentos de tallo suelen aparecer aislados; el cáliz y los brazos aportan más caracteres.",
+        "source": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/crinoids/"
+      }
+    },
+    "class:Cyanobacteriia": {
+      "name": "Cyanobacteriia",
+      "rank": "class"
+    },
+    "class:Cycadopsida": {
+      "name": "Cycadopsida",
+      "rank": "class"
+    },
+    "class:Dacrymycetes": {
+      "name": "Dacrymycetes",
+      "rank": "class"
+    },
+    "class:Demospongiae": {
+      "name": "Demospongiae",
+      "rank": "class"
+    },
+    "class:Dinophyceae": {
+      "name": "Dinophyceae",
+      "rank": "class"
+    },
+    "class:Echinoidea": {
+      "name": "Echinoidea",
+      "rank": "class",
+      "guide": {
+        "name": "Echinoidea",
+        "text": "Erizos de mar con test de placas calcáreas y espinas articuladas. Los pies ambulacrales salen por poros del test.",
+        "contrast": "Los erizos regulares y los irregulares presentan formas distintas; observar ambas caras del test.",
+        "source": "https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/echinoids/"
+      }
+    },
+    "class:Elasmobranchii": {
+      "name": "Elasmobranchii",
+      "rank": "class"
+    },
+    "class:Enoplea": {
+      "name": "Enoplea",
+      "rank": "class"
+    },
+    "class:Entognatha": {
+      "name": "Entognatha",
+      "rank": "class"
+    },
+    "class:Epsilonproteobacteria": {
+      "name": "Epsilonproteobacteria",
+      "rank": "class"
+    },
+    "class:Eurotatoria": {
+      "name": "Eurotatoria",
+      "rank": "class"
+    },
+    "class:Eurotiomycetes": {
+      "name": "Eurotiomycetes",
+      "rank": "class"
+    },
+    "class:Florideophyceae": {
+      "name": "Florideophyceae",
+      "rank": "class"
+    },
+    "class:Gammaproteobacteria": {
+      "name": "Gammaproteobacteria",
+      "rank": "class"
+    },
+    "class:Gastropoda": {
+      "name": "Gastropoda",
+      "rank": "class",
+      "guide": {
+        "name": "Gastropoda",
+        "text": "Moluscos con torsión durante el desarrollo; pie reptante en muchas formas.",
+        "contrast": "La concha suele ser única y espiral, pero las babosas muestran que puede faltar.",
+        "source": "https://openstax.org/books/biology-2e/pages/28-4-superphylum-lophotrochozoa-mollusks-and-annelids"
+      }
+    },
+    "class:Ginkgoopsida": {
+      "name": "Ginkgoopsida",
+      "rank": "class"
+    },
+    "class:Globothalamea": {
+      "name": "Globothalamea",
+      "rank": "class"
+    },
+    "class:Gnetopsida": {
+      "name": "Gnetopsida",
+      "rank": "class"
+    },
+    "class:Gordioida": {
+      "name": "Gordioida",
+      "rank": "class"
+    },
+    "class:Gymnolaemata": {
+      "name": "Gymnolaemata",
+      "rank": "class"
+    },
+    "class:Heterotrichea": {
+      "name": "Heterotrichea",
+      "rank": "class"
+    },
+    "class:Hexanauplia": {
+      "name": "Hexanauplia",
+      "rank": "class"
+    },
+    "class:Holothuroidea": {
+      "name": "Holothuroidea",
+      "rank": "class"
+    },
+    "class:Homoscleromorpha": {
+      "name": "Homoscleromorpha",
+      "rank": "class"
+    },
+    "class:Hydrozoa": {
+      "name": "Hydrozoa",
+      "rank": "class"
+    },
+    "class:Insecta": {
+      "name": "Insecta",
+      "rank": "class",
+      "guide": {
+        "name": "Insecta",
+        "text": "Adultos con cabeza, tórax y abdomen; tres pares de patas torácicas y un par de antenas.",
+        "contrast": "Los arácnidos tienen cuatro pares de patas y carecen de antenas.",
+        "source": "https://openstax.org/books/biology-2e/pages/28-6-superphylum-ecdysozoa-arthropods"
+      },
+      "etymology": {
+        "text": "La base latina insectum alude a las divisiones del cuerpo. El término latino es un calco de una voz griega relacionada con incisión o sección.",
+        "url": "https://dle.rae.es/insecto"
+      }
+    },
+    "class:Kinetoplastea": {
+      "name": "Kinetoplastea",
+      "rank": "class"
+    },
+    "class:Lecanoromycetes": {
+      "name": "Lecanoromycetes",
+      "rank": "class"
+    },
+    "class:Leptocardii": {
+      "name": "Leptocardii",
+      "rank": "class"
+    },
+    "class:Lichinomycetes": {
+      "name": "Lichinomycetes",
+      "rank": "class"
+    },
+    "class:Liliopsida": {
+      "name": "Liliopsida",
+      "rank": "class",
+      "guide": {
+        "name": "Liliopsida",
+        "text": "Monocotiledóneas: un cotiledón; son frecuentes la nerviación paralela y las flores trímeras.",
+        "contrast": "Combinar rasgos: hay excepciones a los patrones foliares y florales.",
+        "source": "https://openstax.org/books/biology-2e/pages/26-3-angiosperms"
+      }
+    },
+    "class:Litostomatea": {
+      "name": "Litostomatea",
+      "rank": "class"
+    },
+    "class:Lycopodiopsida": {
+      "name": "Lycopodiopsida",
+      "rank": "class",
+      "guide": {
+        "name": "Lycopodiopsida",
+        "text": "Licófitos vasculares con hojas generalmente pequeñas y una sola vena. Producen esporas en esporangios.",
+        "contrast": "Algunos agrupan las hojas portadoras de esporangios en conos. Los licófitos fósiles incluyen formas arborescentes.",
+        "source": "https://www.nzplants.auckland.ac.nz/en/about/lycophytes/overview.html"
+      }
+    },
+    "class:Magnoliopsida": {
+      "name": "Magnoliopsida",
+      "rank": "class",
+      "guide": {
+        "name": "Magnoliopsida",
+        "text": "Nombre de clase con circunscripción variable entre sistemas, asociado aquí a numerosas dicotiledóneas.",
+        "contrast": "Dos cotiledones y nerviación reticulada son orientativos; no equivale automáticamente al clado de las eudicotiledóneas.",
+        "source": "https://openstax.org/books/biology-2e/pages/26-3-angiosperms"
+      }
+    },
+    "class:Malacostraca": {
+      "name": "Malacostraca",
+      "rank": "class"
+    },
+    "class:Mammalia": {
+      "name": "Mammalia",
+      "rank": "class",
+      "guide": {
+        "name": "Mammalia",
+        "text": "Pelo y glándulas mamarias; rasgos craneales y dentarios característicos.",
+        "contrast": "El pelo puede ser escaso. La viviparidad no es universal: existen monotremas ovíparos.",
+        "source": "https://openstax.org/books/biology-2e/pages/29-6-mammals"
+      },
+      "etymology": {
+        "text": "La base mamm- remite al latín mamma, mama; se relaciona con las glándulas mamarias. La historia completa de la formación Mammalia queda pendiente.",
+        "url": "https://dle.rae.es/mamífero"
+      }
+    },
+    "class:Marchantiopsida": {
+      "name": "Marchantiopsida",
+      "rank": "class"
+    },
+    "class:Merostomata": {
+      "name": "Merostomata",
+      "rank": "class"
+    },
+    "class:Mollicutes": {
+      "name": "Mollicutes",
+      "rank": "class"
+    },
+    "class:Mucoromycetes": {
+      "name": "Mucoromycetes",
+      "rank": "class"
+    },
+    "class:Noctilucophyceae": {
+      "name": "Noctilucophyceae",
+      "rank": "class"
+    },
+    "class:Oligohymenophorea": {
+      "name": "Oligohymenophorea",
+      "rank": "class"
+    },
+    "class:Ophiuroidea": {
+      "name": "Ophiuroidea",
+      "rank": "class"
+    },
+    "class:Osteichthyes": {
+      "name": "Osteichthyes",
+      "rank": "class"
+    },
+    "class:Ostracoda": {
+      "name": "Ostracoda",
+      "rank": "class"
+    },
+    "class:Petromyzonti": {
+      "name": "Petromyzonti",
+      "rank": "class"
+    },
+    "class:Pezizomycetes": {
+      "name": "Pezizomycetes",
+      "rank": "class"
+    },
+    "class:Phaeophyceae": {
+      "name": "Phaeophyceae",
+      "rank": "class"
+    },
+    "class:Pilidiophora": {
+      "name": "Pilidiophora",
+      "rank": "class"
+    },
+    "class:Pinopsida": {
+      "name": "Pinopsida",
+      "rank": "class",
+      "guide": {
+        "name": "Pinopsida",
+        "text": "Coníferas: plantas con semillas no encerradas en un ovario; suelen presentar conos.",
+        "contrast": "No producen frutos verdaderos; las cubiertas carnosas de algunas no son un ovario maduro.",
+        "source": "https://openstax.org/books/biology-2e/pages/26-2-gymnosperms"
+      }
+    },
+    "class:Polychaeta": {
+      "name": "Polychaeta",
+      "rank": "class"
+    },
+    "class:Polyplacophora": {
+      "name": "Polyplacophora",
+      "rank": "class"
+    },
+    "class:Polypodiopsida": {
+      "name": "Polypodiopsida",
+      "rank": "class",
+      "guide": {
+        "name": "Polypodiopsida",
+        "text": "Helechos y grupos afines según la fuente; reproducción por esporas, sin flores ni semillas.",
+        "contrast": "Los soros son útiles en muchos helechos, pero no aparecen como puntos foliares en todos los grupos.",
+        "source": "https://openstax.org/books/biology-2e/pages/25-4-seedless-vascular-plants"
+      }
+    },
+    "class:Polytrichopsida": {
+      "name": "Polytrichopsida",
+      "rank": "class"
+    },
+    "class:Pterobranchia": {
+      "name": "Pterobranchia",
+      "rank": "class"
+    },
+    "class:Pycnogonida": {
+      "name": "Pycnogonida",
+      "rank": "class"
+    },
+    "class:Reptilia": {
+      "name": "Reptilia",
+      "rank": "class",
+      "guide": {
+        "name": "Reptilia",
+        "text": "Agrupación tradicional de amniotas con epidermis queratinizada.",
+        "contrast": "Las aves se anidan evolutivamente en los reptiles; las clasificaciones por rangos pueden mostrarlas separadas.",
+        "source": "https://openstax.org/books/biology-2e/pages/29-4-reptiles"
+      },
+      "etymology": {
+        "text": "La base remite al latín reptilis, de donde procede reptil. El nombre se asocia tradicionalmente al desplazamiento reptante.",
+        "url": "https://dle.rae.es/reptil"
+      }
+    },
+    "class:Rhynchonellata": {
+      "name": "Rhynchonellata",
+      "rank": "class",
+      "guide": {
+        "name": "Rhynchonellata",
+        "text": "Braquiópodos con dos valvas articuladas mediante dientes y cavidades de la charnela. La concha es habitualmente calcárea.",
+        "contrast": "Comparar la valva peduncular y la braquial, así como sus estructuras internas, para distinguir los grupos.",
+        "source": "https://www.ordovicianatlas.org/atlas/brachiopoda/rhynchonellata/"
+      }
+    },
+    "class:Sagittoidea": {
+      "name": "Sagittoidea",
+      "rank": "class"
+    },
+    "class:Sarcopterygii": {
+      "name": "Sarcopterygii",
+      "rank": "class"
+    },
+    "class:Scaphopoda": {
+      "name": "Scaphopoda",
+      "rank": "class"
+    },
+    "class:Scyphozoa": {
+      "name": "Scyphozoa",
+      "rank": "class"
+    },
+    "class:Sordariomycetes": {
+      "name": "Sordariomycetes",
+      "rank": "class"
+    },
+    "class:Sphagnopsida": {
+      "name": "Sphagnopsida",
+      "rank": "class"
+    },
+    "class:Squamata": {
+      "name": "Squamata",
+      "rank": "class"
+    },
+    "class:Stenolaemata": {
+      "name": "Stenolaemata",
+      "rank": "class"
+    },
+    "class:Strophomenata": {
+      "name": "Strophomenata",
+      "rank": "class"
+    },
+    "class:Thecostraca": {
+      "name": "Thecostraca",
+      "rank": "class"
+    },
+    "class:Trematoda": {
+      "name": "Trematoda",
+      "rank": "class"
+    },
+    "class:Tremellomycetes": {
+      "name": "Tremellomycetes",
+      "rank": "class"
+    },
+    "class:Trilobita": {
+      "name": "Trilobita",
+      "rank": "class",
+      "guide": {
+        "name": "Trilobita",
+        "text": "Artrópodos marinos fósiles cuyo exoesqueleto se divide en cefalón, tórax segmentado y pigidio.",
+        "contrast": "Observar también la división longitudinal en un eje central y dos regiones laterales.",
+        "source": "https://www.nhm.ac.uk/discover/how-trilobites-conquered-prehistoric-oceans.html"
+      }
+    },
+    "class:Tubothalamea": {
+      "name": "Tubothalamea",
+      "rank": "class"
+    },
+    "class:Tubulinea": {
+      "name": "Tubulinea",
+      "rank": "class"
+    },
+    "class:Ulvophyceae": {
+      "name": "Ulvophyceae",
+      "rank": "class"
+    },
+    "infraclass:Batoidea": {
+      "name": "Batoidea",
+      "rank": "infraclass"
+    },
+    "infraclass:Canalipalpata": {
+      "name": "Canalipalpata",
+      "rank": "infraclass"
+    },
+    "infraclass:Carinacea": {
+      "name": "Carinacea",
+      "rank": "infraclass"
+    },
+    "infraclass:Cirripedia": {
+      "name": "Cirripedia",
+      "rank": "infraclass"
+    },
+    "infraclass:Euhirudinea": {
+      "name": "Euhirudinea",
+      "rank": "infraclass"
+    },
+    "infraclass:Euthyneura": {
+      "name": "Euthyneura",
+      "rank": "infraclass"
+    },
+    "infraclass:Heteroconchia": {
+      "name": "Heteroconchia",
+      "rank": "infraclass"
+    },
+    "infraclass:Holostei": {
+      "name": "Holostei",
+      "rank": "infraclass"
+    },
+    "infraclass:Irregularia": {
+      "name": "Irregularia",
+      "rank": "infraclass"
+    },
+    "infraclass:Metophiurida": {
+      "name": "Metophiurida",
+      "rank": "infraclass"
+    },
+    "infraclass:Placentalia": {
+      "name": "Placentalia",
+      "rank": "infraclass"
+    },
+    "infraclass:Pteriomorphia": {
+      "name": "Pteriomorphia",
+      "rank": "infraclass"
+    },
+    "infraclass:Scolecida": {
+      "name": "Scolecida",
+      "rank": "infraclass"
+    },
+    "infraclass:Selachii": {
+      "name": "Selachii",
+      "rank": "infraclass"
+    },
+    "subclass:Acari": {
+      "name": "Acari",
+      "rank": "subclass"
+    },
+    "subclass:Actinopoda": {
+      "name": "Actinopoda",
+      "rank": "subclass"
+    },
+    "subclass:Agaricomycetidae": {
+      "name": "Agaricomycetidae",
+      "rank": "subclass"
+    },
+    "subclass:Ammonoidea": {
+      "name": "Ammonoidea",
+      "rank": "subclass"
+    },
+    "subclass:Articulata": {
+      "name": "Articulata",
+      "rank": "subclass"
+    },
+    "subclass:Autobranchia": {
+      "name": "Autobranchia",
+      "rank": "subclass"
+    },
+    "subclass:Bdelloidea": {
+      "name": "Bdelloidea",
+      "rank": "subclass"
+    },
+    "subclass:Caenogastropoda": {
+      "name": "Caenogastropoda",
+      "rank": "subclass"
+    },
+    "subclass:Calcaronea": {
+      "name": "Calcaronea",
+      "rank": "subclass"
+    },
+    "subclass:Ceriantharia": {
+      "name": "Ceriantharia",
+      "rank": "subclass"
+    },
+    "subclass:Chromadoria": {
+      "name": "Chromadoria",
+      "rank": "subclass"
+    },
+    "subclass:Coccidiasina": {
+      "name": "Coccidiasina",
+      "rank": "subclass"
+    },
+    "subclass:Coleoidea": {
+      "name": "Coleoidea",
+      "rank": "subclass"
+    },
+    "subclass:Collembola": {
+      "name": "Collembola",
+      "rank": "subclass"
+    },
+    "subclass:Corallinophycidae": {
+      "name": "Corallinophycidae",
+      "rank": "subclass"
+    },
+    "subclass:Dictyotophycidae": {
+      "name": "Dictyotophycidae",
+      "rank": "subclass"
+    },
+    "subclass:Digenea": {
+      "name": "Digenea",
+      "rank": "subclass"
+    },
+    "subclass:Discomedusae": {
+      "name": "Discomedusae",
+      "rank": "subclass"
+    },
+    "subclass:Dorylaimia": {
+      "name": "Dorylaimia",
+      "rank": "subclass"
+    },
+    "subclass:Echiura": {
+      "name": "Echiura",
+      "rank": "subclass"
+    },
+    "subclass:Elasmobranchii": {
+      "name": "Elasmobranchii",
+      "rank": "subclass"
+    },
+    "subclass:Equisetidae": {
+      "name": "Equisetidae",
+      "rank": "subclass"
+    },
+    "subclass:Errantia": {
+      "name": "Errantia",
+      "rank": "subclass"
+    },
+    "subclass:Eucestoda": {
+      "name": "Eucestoda",
+      "rank": "subclass"
+    },
+    "subclass:Euechinoidea": {
+      "name": "Euechinoidea",
+      "rank": "subclass"
+    },
+    "subclass:Eumalacostraca": {
+      "name": "Eumalacostraca",
+      "rank": "subclass"
+    },
+    "subclass:Eurotiomycetidae": {
+      "name": "Eurotiomycetidae",
+      "rank": "subclass"
+    },
+    "subclass:Fragilariophycidae": {
+      "name": "Fragilariophycidae",
+      "rank": "subclass"
+    },
+    "subclass:Fucophycidae": {
+      "name": "Fucophycidae",
+      "rank": "subclass"
+    },
+    "subclass:Heterobranchia": {
+      "name": "Heterobranchia",
+      "rank": "subclass"
+    },
+    "subclass:Heteroscleromorpha": {
+      "name": "Heteroscleromorpha",
+      "rank": "subclass"
+    },
+    "subclass:Hexacorallia": {
+      "name": "Hexacorallia",
+      "rank": "subclass"
+    },
+    "subclass:Hirudinea": {
+      "name": "Hirudinea",
+      "rank": "subclass"
+    },
+    "subclass:Holocephali": {
+      "name": "Holocephali",
+      "rank": "subclass"
+    },
+    "subclass:Hoplocarida": {
+      "name": "Hoplocarida",
+      "rank": "subclass"
+    },
+    "subclass:Hydroidolina": {
+      "name": "Hydroidolina",
+      "rank": "subclass"
+    },
+    "subclass:Hypocreomycetidae": {
+      "name": "Hypocreomycetidae",
+      "rank": "subclass"
+    },
+    "subclass:Keratosa": {
+      "name": "Keratosa",
+      "rank": "subclass"
+    },
+    "subclass:Lecanoromycetidae": {
+      "name": "Lecanoromycetidae",
+      "rank": "subclass"
+    },
+    "subclass:Marchantiidae": {
+      "name": "Marchantiidae",
+      "rank": "subclass"
+    },
+    "subclass:Myophiuroida": {
+      "name": "Myophiuroida",
+      "rank": "subclass"
+    },
+    "subclass:Nautiloidea": {
+      "name": "Nautiloidea",
+      "rank": "subclass"
+    },
+    "subclass:Neoloricata": {
+      "name": "Neoloricata",
+      "rank": "subclass"
+    },
+    "subclass:Neritimorpha": {
+      "name": "Neritimorpha",
+      "rank": "subclass"
+    },
+    "subclass:Octocorallia": {
+      "name": "Octocorallia",
+      "rank": "subclass"
+    },
+    "subclass:Oligochaeta": {
+      "name": "Oligochaeta",
+      "rank": "subclass"
+    },
+    "subclass:Ophioglossidae": {
+      "name": "Ophioglossidae",
+      "rank": "subclass"
+    },
+    "subclass:Orthoceratoidea": {
+      "name": "Orthoceratoidea",
+      "rank": "subclass"
+    },
+    "subclass:Ostropomycetidae": {
+      "name": "Ostropomycetidae",
+      "rank": "subclass"
+    },
+    "subclass:Patellogastropoda": {
+      "name": "Patellogastropoda",
+      "rank": "subclass"
+    },
+    "subclass:Peniculia": {
+      "name": "Peniculia",
+      "rank": "subclass"
+    },
+    "subclass:Phallomycetidae": {
+      "name": "Phallomycetidae",
+      "rank": "subclass"
+    },
+    "subclass:Phyllopoda": {
+      "name": "Phyllopoda",
+      "rank": "subclass"
+    },
+    "subclass:Polypodiidae": {
+      "name": "Polypodiidae",
+      "rank": "subclass"
+    },
+    "subclass:Pterygota": {
+      "name": "Pterygota",
+      "rank": "subclass"
+    },
+    "subclass:Rhodymeniophycidae": {
+      "name": "Rhodymeniophycidae",
+      "rank": "subclass"
+    },
+    "subclass:Rugosa": {
+      "name": "Rugosa",
+      "rank": "subclass"
+    },
+    "subclass:Sedentaria": {
+      "name": "Sedentaria",
+      "rank": "subclass"
+    },
+    "subclass:Thecostraca": {
+      "name": "Thecostraca",
+      "rank": "subclass"
+    },
+    "subclass:Theria": {
+      "name": "Theria",
+      "rank": "subclass"
+    },
+    "subclass:Trichostomatia": {
+      "name": "Trichostomatia",
+      "rank": "subclass"
+    },
+    "subclass:Umbilicariomycetidae": {
+      "name": "Umbilicariomycetidae",
+      "rank": "subclass"
+    },
+    "subclass:Verongimorpha": {
+      "name": "Verongimorpha",
+      "rank": "subclass"
+    },
+    "subclass:Vetigastropoda": {
+      "name": "Vetigastropoda",
+      "rank": "subclass"
+    },
+    "subclass:Xylariomycetidae": {
+      "name": "Xylariomycetidae",
+      "rank": "subclass"
+    },
+    "superclass:Agnatha": {
+      "name": "Agnatha",
+      "rank": "superclass"
+    },
+    "superclass:Apicomplexa": {
+      "name": "Apicomplexa",
+      "rank": "superclass"
+    },
+    "superclass:Dinoflagellata": {
+      "name": "Dinoflagellata",
+      "rank": "superclass"
+    },
+    "superclass:Multicrustacea": {
+      "name": "Multicrustacea",
+      "rank": "superclass"
+    },
+    "superclass:Neodermata": {
+      "name": "Neodermata",
+      "rank": "superclass"
+    }
+  },
+  "entries": {}
+}

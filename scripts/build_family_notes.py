@@ -1,4 +1,5 @@
 """Document the nomenclatural construction, without inventing a deeper Greek/Latin story."""
+from note_files import save_family_notes
 from pathlib import Path
 import json
 ROOT=Path(__file__).resolve().parents[1];D=ROOT/'data'
@@ -16,5 +17,5 @@ def main():
     for family,(explanation,url) in roots.items():
         out[family]['etymology']=f"Se forma a partir de {TYPES[family]} y la terminación -aceae de familia. {explanation}"
         out[family]['sources'].append({'url':url,'title':'Asturnatura: raíz del nombre genérico'})
-    (D/'family-notes.json').write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding='utf8');print(len(out),'familias con formación nomenclatural documentada')
+    save_family_notes(out);print(len(out),'familias con formación nomenclatural documentada')
 if __name__=='__main__':main()
