@@ -1,4 +1,5 @@
 """Original notes on reviewed whole-rock hand specimens, with explicit limits."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 D=Path(__file__).resolve().parents[1]/'data'
@@ -32,7 +33,7 @@ traquita|Roca volcánica rica en feldespatos alcalinos y pobre en cuarzo.|Fenocr
 '''
 
 def main():
-    path=D/'study-notes.json';notes=json.loads(path.read_text(encoding='utf8'))
+    notes=load_study_notes()
     cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'))
     count=0
     for row in ROWS.strip().splitlines():
@@ -45,7 +46,7 @@ def main():
             n['etymology']='El nombre se vincula a Obsio u Obsius, personaje al que la tradición latina de Plinio atribuye dar a conocer esa piedra de Etiopía.'
             sources.append({'url':'https://www.cnrtl.fr/etymologie/obsidienne','title':'CNRTL · Trésor de la langue française: historia de obsidienne'})
         notes[id]=n;count+=1
-    path.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8')
+    save_study_notes(notes)
     print(count,'fichas de rocas añadidas;',len(notes),'fichas en total')
 
 if __name__=='__main__':main()

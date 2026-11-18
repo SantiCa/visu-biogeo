@@ -2,13 +2,14 @@
 
 Unverified word origins stay explicitly pending. No mnemonic fields are created.
 """
+from note_files import load_study_notes, load_family_notes, save_study_notes, save_family_notes
 from pathlib import Path
 import json
 D=Path(__file__).resolve().parents[1]/'data'
 
 def main():
-    notes=json.loads((D/'study-notes.json').read_text(encoding='utf8'))
-    families=json.loads((D/'family-notes.json').read_text(encoding='utf8'))
+    notes=load_study_notes()
+    families=load_family_notes()
     taxonomy=json.loads((D/'taxonomy.json').read_text(encoding='utf8'))
     curated=json.loads((D/'curated-images.json').read_text(encoding='utf8'))
     rows=[
@@ -113,8 +114,9 @@ def main():
         url='https://iapt-taxon.org/melbourne/main.php?page=art18' if code=='botanical' else 'https://code.iczn.org/formation-and-treatment-of-names/article-29-family-group-names/'
         families[name]={'etymology':f'Nombre construido sobre el género tipo {genus}, con la terminación familiar {ending}. La raíz lingüística remota del género queda pendiente de contraste.','typeGenus':genus,'sources':[{'url':url,'title':'Construcción nomenclatural de los nombres de familia'}],'reviewedAt':'2026-10-26'}
     taxonomy['globigerina']={'family':'Globigerinidae','matchedName':'Globigerina','source':'https://www.mikrotax.org/pforams/index.php?module=pf_neogene&taxon=Globigerina+bulloides','checkedAt':'2026-10-26','aliases':[]}
-    for name,obj in [('study-notes.json',notes),('family-notes.json',families),('taxonomy.json',taxonomy)]:
-        (D/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2),encoding='utf8')
+    save_study_notes(notes)
+    save_family_notes(families)
+    (D/'taxonomy.json').write_text(json.dumps(taxonomy,ensure_ascii=False,indent=2),encoding='utf8')
     print(f'{len(rows)} perfiles revisados; {len(notes)} perfiles en total; {len(families)} notas de familia; sin reglas nemotécnicas añadidas.')
 
 if __name__=='__main__':main()

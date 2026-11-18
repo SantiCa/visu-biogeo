@@ -1,14 +1,15 @@
 """Validate note coverage and distinguish filled fields from complete etymological research."""
+from note_files import load_study_notes, load_family_notes, validate_note_banks
 import json,re
 from pathlib import Path
 from urllib.parse import urlsplit
 from datetime import date
 D=Path(__file__).resolve().parents[1]/'data'
 catalog={x['id']:x for x in json.loads((D/'species.json').read_text(encoding='utf8'))}
-notes=json.loads((D/'study-notes.json').read_text(encoding='utf8'));families=json.loads((D/'family-notes.json').read_text(encoding='utf8'))
+notes=load_study_notes();families=load_family_notes()
 priority={x['itemId'] for x in json.loads((D/'andalucia-priority.json').read_text(encoding='utf8'))['events']}
 biological={id for id in priority if catalog[id]['kind']=='organismo'}
-errors=[]
+errors=validate_note_banks()
 for id,note in notes.items():
     if id not in catalog:errors.append('Unknown entry: '+id)
     if not note.get('description') or not note.get('diagnostics') or not note.get('sources'):errors.append('Incomplete descriptive note: '+id)

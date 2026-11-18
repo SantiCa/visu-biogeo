@@ -1,4 +1,5 @@
 """Original notes tied to the reviewed botanical preparations and terminology."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 from datetime import date
@@ -47,11 +48,11 @@ ROWS={
  'Centrosoma combina elementos griegos de centro y cuerpo. Centriolo se forma a partir de centro con un diminutivo latino. Diplosoma reúne elementos griegos relacionados con doble y cuerpo.', ['vigo-centrioles'],[D+'centrosoma',D+'centriolo',D+'diplosoma'])
 }
 def main():
- p=R/'data/study-notes.json';notes=json.loads(p.read_text(encoding='utf8'));cat={x['id'] for x in json.loads((R/'data/species.json').read_text(encoding='utf8'))}
+ notes=load_study_notes();cat={x['id'] for x in json.loads((R/'data/species.json').read_text(encoding='utf8'))}
  for suffix,(description,diagnostics,etymology,keys,extra) in ROWS.items():
   id='estructura-'+suffix
   if id not in cat or id in notes:raise ValueError('Unknown or existing profile: '+id)
   urls=list(dict.fromkeys([source(k) for k in keys]+extra))
   notes[id]={'description':description,'diagnostics':diagnostics,'etymology':etymology,'sources':[{'url':u,'title':'Origen del término · fuente lingüística' if 'dle.rae' in u or 'dicciomed' in u else 'Preparación y estructura · fuente científica'} for u in urls],'reviewedAt':date.today().isoformat(),'reviewStatus':'reviewed','scope':'Síntesis propia. Las raíces pendientes se indican expresamente. Se distingue estructura, organismo de procedencia y límite de identificación del campo. No corresponde una familia taxonómica a una estructura celular o tisular.'}
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(ROWS),'new profiles')
+ save_study_notes(notes);print(len(ROWS),'new profiles')
 if __name__=='__main__':main()

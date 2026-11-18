@@ -1,5 +1,6 @@
 import {RANK_LABELS,classificationPath,commonNameFor,formulaText} from './classification-learning.mjs';
 import {norm} from './engine.mjs';
+import {taxonGuide} from './taxon-notes.mjs';
 
 const BOOK='https://openstax.org/books/biology-2e/pages/';
 const RANK_SOURCE=BOOK+'20-1-organizing-life-on-earth';
@@ -12,50 +13,6 @@ export const RANK_GUIDE={
  genus:{label:'Género',text:'Agrupa especies próximas y aporta la primera palabra del nombre binomial.',contrast:'Quercus es género; Quercus ilex es una especie.'},
  species:{label:'Especie',text:'Unidad de clasificación que se nombra mediante género y epíteto específico.',contrast:'El epíteto aislado no es el nombre científico completo.'}
 };
-const G=(name,text,contrast,source)=>({name,text,contrast,source:source.startsWith('http')?source:BOOK+source});
-export const TAXON_GUIDE=Object.fromEntries([
- G('Porifera','Esponjas: sistema de poros y canales con células filtradoras llamadas coanocitos.','No tienen los cnidocitos característicos de los cnidarios.','28-1-phylum-porifera'),
- G('Cnidaria','Pólipos y medusas con cnidocitos; organización generalmente radial.','La célula urticante es más diagnóstica que el aspecto de saco o campana.','28-2-phylum-cnidaria'),
- G('Anthozoa','Anémonas y corales: organización de pólipo, solitario o colonial.','No presentan una fase de medusa en su ciclo.','28-2-phylum-cnidaria'),
- G('Arthropoda','Exoesqueleto quitinoso, apéndices articulados y crecimiento por mudas.','Frente a los anélidos, destacan los apéndices articulados y el exoesqueleto.','28-6-superphylum-ecdysozoa-arthropods'),
- G('Hexapoda','Artrópodos con tres pares de patas torácicas.','Incluye insectos y otros hexápodos; no todos los hexápodos se clasifican como Insecta.','28-6-superphylum-ecdysozoa-arthropods'),
- G('Chelicerata','Artrópodos con quelíceros y sin antenas.','Incluye arácnidos y otros grupos; no equivale únicamente a arañas.','28-6-superphylum-ecdysozoa-arthropods'),
- G('Myriapoda','Artrópodos con cabeza y tronco de numerosos segmentos portadores de patas.','Comparar con los tres pares de patas torácicas de los insectos.','28-6-superphylum-ecdysozoa-arthropods'),
- G('Insecta','Adultos con cabeza, tórax y abdomen; tres pares de patas torácicas y un par de antenas.','Los arácnidos tienen cuatro pares de patas y carecen de antenas.','28-6-superphylum-ecdysozoa-arthropods'),
- G('Arachnida','Quelíceros, pedipalpos y, típicamente en adultos, cuatro pares de patas.','No tienen antenas. El recuento de patas puede cambiar en fases juveniles de algunos grupos.','28-6-superphylum-ecdysozoa-arthropods'),
- G('Crustacea','Agrupación tradicional de artrópodos con dos pares de antenas y apéndices muy especializados.','Dos pares de antenas frente al par de los insectos; su rango y circunscripción varían entre fuentes.','28-6-superphylum-ecdysozoa-arthropods'),
- G('Mollusca','Cuerpo con manto, masa visceral y pie muscular modificado según el grupo.','La concha puede reducirse o faltar; no es un requisito externo universal.','28-4-superphylum-lophotrochozoa-mollusks-and-annelids'),
- G('Gastropoda','Moluscos con torsión durante el desarrollo; pie reptante en muchas formas.','La concha suele ser única y espiral, pero las babosas muestran que puede faltar.','28-4-superphylum-lophotrochozoa-mollusks-and-annelids'),
- G('Bivalvia','Dos valvas laterales articuladas y cabeza reducida.','Carecen de rádula; distinguir dos valvas de dos vueltas de una misma concha.','28-4-superphylum-lophotrochozoa-mollusks-and-annelids'),
- G('Cephalopoda','Pie transformado en brazos o tentáculos y un embudo asociado a la locomoción.','Cabeza y ojos desarrollados; la concha puede ser externa, interna o ausente.','28-4-superphylum-lophotrochozoa-mollusks-and-annelids'),
- G('Annelida','Gusanos con organización corporal segmentada.','La segmentación no implica patas articuladas ni exoesqueleto como en artrópodos.','28-4-superphylum-lophotrochozoa-mollusks-and-annelids'),
- G('Platyhelminthes','Gusanos de cuerpo aplanado dorsoventralmente; incluyen formas libres y parásitas.','No presentan la segmentación corporal de los anélidos. Las proglótides de las tenias no son metámeros equivalentes.','28-3-superphylum-lophotrochozoa-flatworms-rotifers-and-nemerteans'),
- G('Nematoda','Gusanos cilíndricos, no segmentados, con cutícula que mudan durante el crecimiento.','Frente a los platelmintos destaca la sección circular; los anillos externos no prueban segmentación interna.','28-5-superphylum-ecdysozoa-nematodes-and-tardigrades'),
- G('Echinodermata','Animales marinos con sistema ambulacral y esqueleto interno de osículos calcáreos.','Adultos frecuentemente pentarradiales; las larvas presentan simetría bilateral.','28-7-superphylum-deuterostomia'),
- G('Chordata','En alguna fase presentan notocorda, cordón nervioso dorsal hueco, hendiduras faríngeas y cola postanal.','No todos son vertebrados: también incluye tunicados y cefalocordados.','29-1-chordates'),
- G('Vertebrata','Cordados con cráneo y una organización vertebral característica.','Es una subdivisión de Chordata, no un sinónimo de todo el filo.','29-1-chordates'),
- G('Aves','Plumas y extremidades anteriores transformadas en alas.','Las plumas distinguen las aves actuales; volar no es exclusivo ni universal.','29-5-birds'),
- G('Mammalia','Pelo y glándulas mamarias; rasgos craneales y dentarios característicos.','El pelo puede ser escaso. La viviparidad no es universal: existen monotremas ovíparos.','29-6-mammals'),
- G('Amphibia','Tetrápodos de piel generalmente permeable; muchos tienen larvas acuáticas y metamorfosis.','Frente a los amniotas, no presentan el huevo amniótico; hay ciclos vitales diversos.','29-3-amphibians'),
- G('Reptilia','Agrupación tradicional de amniotas con epidermis queratinizada.','Las aves se anidan evolutivamente en los reptiles; las clasificaciones por rangos pueden mostrarlas separadas.','29-4-reptiles'),
- G('Actinopterygii','Peces óseos cuyas aletas se sostienen mediante radios.','Frente a los condrictios, predomina un esqueleto osificado; observar también las aletas.','29-2-fishes'),
- G('Chondrichthyes','Tiburones, rayas y quimeras: esqueleto principalmente cartilaginoso.','El material del esqueleto y la anatomía branquial ayudan a separarlos de los peces óseos.','29-2-fishes'),
- G('Tracheophyta','Plantas vasculares con tejidos de conducción, xilema y floema.','Incluye plantas sin semillas y con semillas; no equivale solo a plantas con flores.','25-4-seedless-vascular-plants'),
- G('Bryophyta','Musgos: domina el gametófito; el esporófito permanece unido a él.','No presentan el sistema vascular típico de las traqueófitas.','25-3-bryophytes'),
- G('Marchantiophyta','Hepáticas: gametófitos talosos o foliosos y esporófitos dependientes.','Separarlas de musgos exige observar su organización, no solo el tamaño o el hábitat húmedo.','25-3-bryophytes'),
- G('Polypodiopsida','Helechos y grupos afines según la fuente; reproducción por esporas, sin flores ni semillas.','Los soros son útiles en muchos helechos, pero no aparecen como puntos foliares en todos los grupos.','25-4-seedless-vascular-plants'),
- G('Pinopsida','Coníferas: plantas con semillas no encerradas en un ovario; suelen presentar conos.','No producen frutos verdaderos; las cubiertas carnosas de algunas no son un ovario maduro.','26-2-gymnosperms'),
- G('Liliopsida','Monocotiledóneas: un cotiledón; son frecuentes la nerviación paralela y las flores trímeras.','Combinar rasgos: hay excepciones a los patrones foliares y florales.','26-3-angiosperms'),
- G('Magnoliopsida','Nombre de clase con circunscripción variable entre sistemas, asociado aquí a numerosas dicotiledóneas.','Dos cotiledones y nerviación reticulada son orientativos; no equivale automáticamente al clado de las eudicotiledóneas.','26-3-angiosperms'),
- G('Fagaceae','Árboles con flores unisexuales y frutos asociados a cúpulas: bellotas, hayucos o castañas.','Observar el fruto y su envoltura; la hoja por sí sola no separa todos los géneros.','https://www.asturnatura.com/familia/fagaceae'),
- G('Ascomycota','Hongos con reproducción sexual mediante ascos que contienen ascosporas.','El asco es la estructura clave; el aspecto externo de una seta no basta.','24-2-classifications-of-fungi'),
- G('Basidiomycota','Hongos que producen basidios y basidiosporas en su reproducción sexual.','El basidio los diferencia de los ascomicetos; no todos forman setas con sombrero.','24-2-classifications-of-fungi'),
- G('Ígneas','Rocas originadas por solidificación de material fundido.','Comparar tamaño de cristales, textura y composición con rocas sedimentarias y metamórficas.','https://www.nps.gov/subjects/geology/rocks.htm'),
- G('Sedimentarias','Rocas formadas a partir de sedimentos o por precipitación y procesos biogénicos.','Estratos y granos son pistas frecuentes, no condiciones universales.','https://www.nps.gov/subjects/geology/rocks.htm'),
- G('Metamórficas','Rocas transformadas en estado sólido por nuevas condiciones de presión, temperatura y fluidos.','La foliación puede orientar, pero también existen rocas metamórficas no foliadas.','https://www.nps.gov/subjects/geology/rocks.htm'),
- G('Silicatos','Grupo basado en unidades estructurales de silicio y oxígeno.','La conexión entre unidades permite distinguir cadenas, láminas y redes; la fórmula y la estructura se complementan.','https://www.nps.gov/subjects/geology/minerals.htm')
-].map(g=>[g.name,g]));
-
 export function rankGuide(rank){
  if(RANK_GUIDE[rank])return {...RANK_GUIDE[rank],source:RANK_SOURCE};
  if(rank==='root'||rank==='domain')return {label:rank==='root'?'Catálogo':'Grupo general',text:'Punto de entrada a las ramas del catálogo. Selecciona un grupo y compara sus subdivisiones.',contrast:'Las cifras cuentan entradas de tus listas de estudio. Explorar este árbol no puntúa ni cambia tus repasos.'};
@@ -67,7 +24,7 @@ export function rankGuide(rank){
 }
 const ranks=Object.keys(RANK_LABELS);
 const aliases={Arthropoda:'artrópodos',Chordata:'cordados',Mollusca:'moluscos',Annelida:'anélidos',Echinodermata:'equinodermos',Cnidaria:'cnidarios',Porifera:'poríferos esponjas',Insecta:'insectos',Arachnida:'arácnidos',Gastropoda:'gasterópodos',Bivalvia:'bivalvos',Cephalopoda:'cefalópodos',Mammalia:'mamíferos',Amphibia:'anfibios',Plantae:'plantas',Animalia:'animales',Fungi:'hongos',Tracheophyta:'plantas vasculares',Pinopsida:'coníferas',Bryophyta:'musgos'};
-export function buildStudyTree(catalog,taxonomy={},geology={},profiles={},filter={}){
+export function buildStudyTree(catalog,taxonomy={},geology={},profiles={},filter={},taxa={}){
  const root={id:'root',rank:'root',name:'Catálogo de estudio',children:[],count:0,depth:0},index=new Map([[root.id,root]]);const term=norm(filter.search||'');
  for(const item of catalog){
   const tax=taxonomy[item.id]||{},geo=geology[item.id]||{},bio=['organismo','fosil'].includes(item.kind)&&!tax.nonTaxonomic;
@@ -75,7 +32,7 @@ export function buildStudyTree(catalog,taxonomy={},geology={},profiles={},filter
   if(group==='biology'&&!bio||group==='animals'&&(!bio||tax.ranks?.kingdom!=='Animalia')||group==='plants'&&(!bio||tax.ranks?.kingdom!=='Plantae')||group==='fungi'&&(!bio||tax.ranks?.kingdom!=='Fungi')||group==='mineral'&&geo.domain!=='mineral'||group==='roca'&&geo.domain!=='roca')continue;
   let path=classificationPath(item,tax,geo);
   if(bio)path=[path[0],tax.ranks?.kingdom?{rank:'kingdom',name:tax.ranks.kingdom}:{rank:'pending',name:'Reino sin documentar en la fuente'},...path.slice(1)];
-  const text=[item.scientificName,common,...path.map(p=>p.name),...path.map(p=>aliases[p.name]||''),...path.map(p=>TAXON_GUIDE[p.name]?.text||''),geo.formula].join(' ');
+  const text=[item.scientificName,common,...path.map(p=>p.name),...path.map(p=>aliases[p.name]||''),...path.map(p=>taxonGuide(taxa,p.rank,p.name)?.text||''),geo.formula].join(' ');
   if(term&&!norm(text).includes(term))continue;
   let parent=root;parent.count++;
   for(const part of path){
@@ -123,12 +80,12 @@ export function createTaxonomyStudy(host,options){
  <div class="tree-study-workspace"><div class="tree-study-navigation"><div id="guide-outline" class="guide-outline" aria-label="Ramas de clasificación"></div><div id="guide-map-wrap" hidden><div class="map-controls"><button id="guide-zoom-in" aria-label="Acercar mapa">＋</button><button id="guide-zoom-out" aria-label="Alejar mapa">−</button><button id="guide-fit">Ver todo</button><button id="guide-expand" aria-pressed="false">Ampliar mapa</button><span id="guide-zoom" class="help"></span></div><svg id="guide-canvas" class="guide-canvas" role="group" aria-label="Mapa de clasificación. Arrastra o usa las flechas para moverte; más y menos para ampliar; Inicio para ver todo." tabindex="0"></svg><div id="guide-preview" class="guide-preview" role="tooltip" hidden></div><svg id="guide-mini" class="guide-mini" role="img" aria-label="Minimapa. Pulsa para ir a esa zona"></svg><p class="help map-help">Arrastra para moverte · rueda o pellizco para ampliar · flechas, + y − con el mapa enfocado. Pasa el ratón o enfoca un nodo para previsualizarlo; selecciónalo para leer más. Usa su signo para abrir ramas.</p></div></div><aside id="guide-detail" class="guide-detail" aria-label="Explicación del grupo seleccionado"></aside></div>`;
  const tip=(id,text)=>{$(id).dataset.help=text;$(id).title=text;};
  tip('#guide-expand','Amplía el mapa a toda la ventana; pulsa Escape para salir.');tip('#guide-reset','Restablece filtros, ramas y selección. No modifica tu progreso.');tip('#guide-focus','Lleva la vista al grupo seleccionado.');tip('#guide-fit','Ajusta todas las ramas actualmente desplegadas al mapa.');tip('#guide-zoom-in','Amplía alrededor del centro del mapa.');tip('#guide-zoom-out','Reduce la escala del mapa.');
- function build(){const data=options.getData();tree=buildStudyTree(data.catalog,data.taxonomy,data.geology,data.profiles,{group:$('#guide-group').value,search:$('#guide-search').value});expanded=expandThrough(tree,$('#guide-depth').value);selected=tree.index.has(selected)?selected:'root';ready=true;render(true);}
+ function build(){const data=options.getData();tree=buildStudyTree(data.catalog,data.taxonomy,data.geology,data.profiles,{group:$('#guide-group').value,search:$('#guide-search').value},data.taxa);expanded=expandThrough(tree,$('#guide-depth').value);selected=tree.index.has(selected)?selected:'root';ready=true;render(true);}
  function drawOutline(){
   const rows=[];function row(n,depth=0){const branch=n.children.length>0;rows.push(`<div class="guide-row${selected===n.id?' selected':''}" style="--tree-depth:${Math.min(depth,12)}"><button class="guide-toggle" ${branch?`data-toggle="${esc(n.id)}" aria-expanded="${expanded.has(n.id)}"`:'disabled'} aria-label="${branch?(expanded.has(n.id)?'Plegar ':'Desplegar '):'Entrada '}${esc(n.name)}">${branch?(expanded.has(n.id)?'−':'+'):'·'}</button><button class="guide-select" data-select="${esc(n.id)}" ${selected===n.id?'aria-current="true"':''}><small>${esc(n.label||rankGuide(n.rank).label)}</small><span>${esc(n.name)}</span>${n.common?`<small>${esc(n.common)}</small>`:''}<em>${n.itemId?'Ficha':n.count+' entradas'}</em></button></div>`);if(expanded.has(n.id))n.children.forEach(c=>row(c,depth+1));}row(tree.root);$('#guide-outline').innerHTML=rows.join('');
  }
  function detail(node){
-  const data=options.getData(),g=rankGuide(node.rank),profile=TAXON_GUIDE[node.name],anc=nodeAncestors(node,tree.index);
+  const data=options.getData(),g=rankGuide(node.rank),profile=taxonGuide(data.taxa,node.rank,node.name),anc=nodeAncestors(node,tree.index);
   let html=`<div class="guide-breadcrumb" aria-label="Ruta">${anc.map(n=>`<button data-select="${esc(n.id)}">${esc(n.name)}</button>`).join('<span>›</span>')}</div><p class="eyebrow">${esc(node.label||g.label)}</p><h2>${esc(node.name)}</h2>`;
   if(node.itemId){html+=options.entryHTML(node.itemId);}
   else{
@@ -138,7 +95,7 @@ export function createTaxonomyStudy(host,options){
    if(options.referenceHTML)html+=options.referenceHTML(node.rank,node.name,descendants(node,1)[0]?.itemId);
    const sample=descendants(node,1)[0],tax=sample&&data.taxonomy[sample.itemId],geo=sample&&data.geology[sample.itemId];const source=geo?.sources?.[0]?.url||tax?.source;
    if(source&&node.rank!=='root'&&node.rank!=='domain')html+=`<p class="help"><a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Registro de clasificación de un ejemplar de esta rama</a></p>`;
-   if(node.children.length)html+=`<h3>Comparar las ramas siguientes</h3><div class="guide-compare">${node.children.map(child=>{const p=TAXON_GUIDE[child.name];return `<button data-select="${esc(child.id)}"><strong>${esc(child.name)}</strong><small>${esc(child.label||rankGuide(child.rank).label)} · ${child.count} entradas</small><span>${esc(p?.text||'Abrir posición, subgrupos y ejemplares de esta rama.')}</span></button>`;}).join('')}</div>`;
+   if(node.children.length)html+=`<h3>Comparar las ramas siguientes</h3><div class="guide-compare">${node.children.map(child=>{const p=taxonGuide(data.taxa,child.rank,child.name);return `<button data-select="${esc(child.id)}"><strong>${esc(child.name)}</strong><small>${esc(child.label||rankGuide(child.rank).label)} · ${child.count} entradas</small><span>${esc(p?.text||'Abrir posición, subgrupos y ejemplares de esta rama.')}</span></button>`;}).join('')}</div>`;
    const examples=descendants(node,4);if(examples.length)html+=`<h3>Ejemplares de esta rama</h3><div class="guide-examples">${examples.map(n=>`<button data-select="${esc(n.id)}">${esc(n.name)}${n.common?' · '+esc(n.common):''}</button>`).join('')}</div>`;
   }
   $('#guide-detail').innerHTML=html;
@@ -172,7 +129,7 @@ export function createTaxonomyStudy(host,options){
  function hidePreview(){preview.hidden=true;}
  function showPreview(id,x,y){
   const node=tree.index.get(id);if(!node)return;
-  const data=options.getData(),profile=TAXON_GUIDE[node.name];
+  const data=options.getData(),profile=taxonGuide(data.taxa,node.rank,node.name);
   const description=node.itemId?(data.profiles[node.itemId]?.description||'Descripción pendiente de documentar para esta entrada.'):(profile?.text||'Los rasgos propios de este grupo aún no tienen una ficha explicativa.');
   const examples=node.itemId?[node]:descendants(node,12);
   let photo='';for(const example of examples){photo=options.previewPhotoHTML?.(example.itemId)||'';if(photo){if(!node.itemId)photo='<p class="guide-preview-example">Ejemplo de esta rama: '+esc(example.name)+'</p>'+photo;break;}}

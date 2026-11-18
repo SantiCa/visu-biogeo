@@ -3,6 +3,7 @@
 Aliases name the represented compound or the catalogue's existing vitamin class;
 they never broaden NADH to NAD+ or nicotinic acid to nicotinamide.
 """
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 
@@ -77,7 +78,7 @@ ETYMOLOGY = {
 }
 
 def main():
-    path=D/'study-notes.json';notes=json.loads(path.read_text(encoding='utf8'))
+    notes=load_study_notes()
     catpath=D/'species.json';catalog=json.loads(catpath.read_text(encoding='utf8'));cat={x['id']:x for x in catalog}
     cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'))
     count=0
@@ -95,7 +96,7 @@ def main():
         if aliases:
             cat[id]['aliases']=list(dict.fromkeys([*cat[id].get('aliases',[]),*aliases.split('~')]))
         count+=1
-    path.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8')
+    save_study_notes(notes)
     catpath.write_text(json.dumps(catalog,ensure_ascii=False,indent=2),encoding='utf8')
     print(count,'fichas químicas añadidas;',len(notes),'fichas en total')
 

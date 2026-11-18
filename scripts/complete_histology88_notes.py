@@ -1,4 +1,5 @@
 """Source-backed original study notes for the visually reviewed histology batch."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 from datetime import date
@@ -57,11 +58,11 @@ ROWS={
 }
 
 def main():
- p=R/'data/study-notes.json';notes=json.loads(p.read_text(encoding='utf8'))
+ notes=load_study_notes()
  for suffix,(description,diagnostics,etymology,urls) in ROWS.items():
   key='estructura-'+suffix
   if key in notes:raise ValueError('Refuse to overwrite '+key)
   notes[key]={'description':description,'diagnostics':diagnostics,'etymology':etymology,'sources':[{'url':u,'title':'Etimología e historia del término' if 'dicciomed' in u or 'dle.rae' in u or u==E else 'Atlas o diccionario universitario · estructura y preparación'} for u in urls],'reviewedAt':date.today().isoformat(),'reviewStatus':'reviewed','scope':'Síntesis propia. Se distinguen órgano, tejido y detalle celular; las limitaciones de identificación y las etimologías pendientes se indican expresamente. No corresponde una familia taxonómica a una estructura histológica.'}
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(ROWS),'new profiles')
+ save_study_notes(notes);print(len(ROWS),'new profiles')
 
 if __name__=='__main__':main()

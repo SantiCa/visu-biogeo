@@ -1,4 +1,5 @@
 """Brief original explanations tied to the actual reviewed teaching material."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 ROOT=Path(__file__).resolve().parents[1];D=ROOT/'data'
@@ -81,12 +82,12 @@ Tricoma|Prolongación de la epidermis vegetal con formas muy diversas.|Pelos sim
 Vacuola vegetal|Compartimento celular de gran tamaño y funciones diversas.|Puede ocupar buena parte del volumen celular y acumular pigmentos.~No confundir pigmento vacuolar con un plasto coloreado; comprobar la distribución dentro de la célula.|
 '''
 def main():
-    catalog={x['scientificName']:x for x in json.loads((D/'species.json').read_text(encoding='utf8'))};cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'));path=D/'study-notes.json';notes=json.loads(path.read_text(encoding='utf8'))
+    catalog={x['scientificName']:x for x in json.loads((D/'species.json').read_text(encoding='utf8'))};cur=json.loads((D/'curated-images.json').read_text(encoding='utf8'));notes=load_study_notes()
     for line in ROWS.strip().splitlines():
         name,description,diagnostics,mnemonic=line.split('|');item=catalog[name];images=[im for im in cur.get(item['id'],{}).get('images',[]) if im['status']=='approved']
         if not images:continue
         urls=list(dict.fromkeys(im['page'] for im in images if 'uvigo.es' in im.get('page','')))
         if not urls:continue
         notes[item['id']]={'description':description,'diagnostics':diagnostics.split('~'),'mnemonic':mnemonic,'sources':[{'url':u,'title':'Atlas de Histología / Universidad de Vigo'} for u in urls[:2]],'reviewedAt':'2026-10-25','reviewStatus':'reviewed','scope':'Resumen propio referido a las regiones identificadas en las imágenes de la colección docente; etimología pendiente cuando no está documentada.'}
-    path.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8');print(len(notes),'fichas en total')
+    save_study_notes(notes);print(len(notes),'fichas en total')
 if __name__=='__main__':main()

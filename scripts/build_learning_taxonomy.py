@@ -3,6 +3,7 @@
 Ranks come from explicit API ranks, never guessed positions in a lineage.
 The compact, resumable cache is local; only referenced factual fields ship.
 """
+from note_files import load_study_notes
 from pathlib import Path
 from datetime import date
 import json,re,time,urllib.request,urllib.parse,urllib.error,unicodedata
@@ -29,7 +30,7 @@ def slim(t):
       'names':[{k:n[k] for k in ['name','locale','lexicon','is_valid'] if k in n} for n in t.get('names',[])],
       'ancestors':[{k:a[k] for k in ['id','name','rank'] if k in a} for a in t.get('ancestors',[])]}
 def main():
-    catalog=load('species.json');photos=load('inaturalist-images.json');old=load('taxonomy.json');notes=load('study-notes.json');rules=load('taxon-review-rules.json');output={}
+    catalog=load('species.json');photos=load('inaturalist-images.json');old=load('taxonomy.json');notes=load_study_notes();rules=load('taxon-review-rules.json');output={}
     ids=sorted({int(photos[x['id']]['taxonId']) for x in catalog if x['kind']=='organismo' and photos.get(x['id'],{}).get('taxonId')})
     missing=[id for id in ids if not (CACHE/(str(id)+'.json')).exists()]
     for start in range(0,len(missing),20):

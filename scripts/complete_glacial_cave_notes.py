@@ -1,4 +1,5 @@
 """Source-backed, original Spanish profiles for the visually reviewed geology batch."""
+from note_files import load_study_notes, save_study_notes
 from pathlib import Path
 import json
 from datetime import date
@@ -109,12 +110,12 @@ ROWS={
  ['https://npgallery.nps.gov/AssetDetail/bb23a6fa-0ce6-4f5f-b597-9e19cd58a3f0','https://www.merriam-webster.com/dictionary/serac'])
 }
 def main():
- p=D/'study-notes.json'; notes=json.loads(p.read_text(encoding='utf8'))
+ notes=load_study_notes()
  for id,(common,description,diagnostics,etymology,urls) in ROWS.items():
   if id in notes: raise ValueError('Refuse to overwrite an existing profile: '+id)
   notes[id]={'commonName':common,'description':description,'diagnostics':diagnostics,'etymology':etymology,
     'sources':[{'url':u,'title':('DLE · origen del término' if 'dle.rae.es' in u else 'Merriam-Webster · historia de la palabra' if 'merriam-webster.com' in u else 'NPS · identificación y proceso geológico')} for u in urls],
     'reviewedAt':date.today().isoformat(),'reviewStatus':'reviewed','scope':'Síntesis propia de fuentes identificadas y de los rasgos visibles. Los términos geológicos no tienen familia taxonómica. Se explicitan las raíces lingüísticas pendientes.'}
- p.write_text(json.dumps(notes,ensure_ascii=False,indent=2),encoding='utf8')
+ save_study_notes(notes)
  print(len(ROWS),'new descriptive profiles')
 if __name__=='__main__':main()
