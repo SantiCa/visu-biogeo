@@ -748,7 +748,30 @@
     },
     "order:Fagales": {
       "name": "Fagales",
-      "rank": "order"
+      "rank": "order",
+      "guide": {
+        "name": "Fagales",
+        "text": "Orden de plantas con flores que incluye familias de árboles y arbustos como Fagaceae, Betulaceae y Juglandaceae.",
+        "contrast": "En muchas especies las flores son pequeñas y las masculinas se agrupan en amentos; los frutos suelen contener una semilla. En Fagaceae, buscar la cúpula que rodea total o parcialmente al fruto. Estos caracteres no identifican por separado todo el orden.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/fagalesweb.htm"
+      },
+      "etymology": {
+        "text": "Fagales es un nombre de orden formado a partir del género Fagus con la terminación botánica -ales. El origen lingüístico y la motivación histórica precisa del nombre del género quedan pendientes de contraste.",
+        "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf"
+      },
+      "sources": [
+        {
+          "url": "https://www.mobot.org/mobot/research/apweb/orders/fagalesweb.htm",
+          "title": "Angiosperm Phylogeny Website — Fagales y sus familias"
+        },
+        {
+          "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf",
+          "title": "Turland, The Code Decoded — formación de nombres de órdenes"
+        }
+      ],
+      "reviewedAt": "2026-11-18",
+      "reviewStatus": "reviewed",
+      "scope": "Síntesis del orden y formación nomenclatural; caracteres variables entre familias. Origen remoto y motivación del nombre genérico pendientes."
     },
     "order:Falconiformes": {
       "name": "Falconiformes",
@@ -924,7 +947,30 @@
     },
     "order:Lamiales": {
       "name": "Lamiales",
-      "rank": "order"
+      "rank": "order",
+      "guide": {
+        "name": "Lamiales",
+        "text": "Orden de plantas con flores que incluye, entre otras, Lamiaceae, Oleaceae y Plantaginaceae; comprende hierbas, arbustos y árboles.",
+        "contrast": "Observar la disposición de las hojas y la simetría de la flor. Las hojas opuestas y las flores con corola soldada son frecuentes en muchos grupos; hay variación y no bastan por sí solas para identificar todo el orden.",
+        "source": "https://www.mobot.org/mobot/Research/APweb/orders/lamialesweb.htm"
+      },
+      "etymology": {
+        "text": "Lamiales es un nombre de orden formado a partir del género Lamium con la terminación botánica -ales. El origen lingüístico y la motivación histórica precisa del nombre del género quedan pendientes de contraste.",
+        "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf"
+      },
+      "sources": [
+        {
+          "url": "https://www.mobot.org/mobot/Research/APweb/orders/lamialesweb.htm",
+          "title": "Angiosperm Phylogeny Website — Lamiales y sus familias"
+        },
+        {
+          "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf",
+          "title": "Turland, The Code Decoded — formación de nombres de órdenes"
+        }
+      ],
+      "reviewedAt": "2026-11-18",
+      "reviewStatus": "reviewed",
+      "scope": "Síntesis del orden y formación nomenclatural; caracteres variables entre familias. Origen remoto y motivación del nombre genérico pendientes."
     },
     "order:Laminariales": {
       "name": "Laminariales",
@@ -1414,7 +1460,30 @@
     },
     "order:Rosales": {
       "name": "Rosales",
-      "rank": "order"
+      "rank": "order",
+      "guide": {
+        "name": "Rosales",
+        "text": "Orden de plantas con flores que reúne familias de formas muy variadas, entre ellas Rosaceae, Moraceae y Urticaceae.",
+        "contrast": "Comparar hojas, flores y frutos de varias familias. Las flores vistosas de muchas rosáceas no representan a todo el orden: en otras familias pueden ser pequeñas y agruparse en inflorescencias.",
+        "source": "https://www.mobot.org/mobot/Research/APweb/orders/rosalesweb.htm"
+      },
+      "etymology": {
+        "text": "Rosales es un nombre de orden formado a partir del género Rosa con la terminación botánica -ales. El origen lingüístico y la motivación histórica precisa del nombre del género quedan pendientes de contraste.",
+        "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf"
+      },
+      "sources": [
+        {
+          "url": "https://www.mobot.org/mobot/Research/APweb/orders/rosalesweb.htm",
+          "title": "Angiosperm Phylogeny Website — Rosales y sus familias"
+        },
+        {
+          "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf",
+          "title": "Turland, The Code Decoded — formación de nombres de órdenes"
+        }
+      ],
+      "reviewedAt": "2026-11-18",
+      "reviewStatus": "reviewed",
+      "scope": "Síntesis del orden y formación nomenclatural; caracteres variables entre familias. Origen remoto y motivación del nombre genérico pendientes."
     },
     "order:Rotaliida": {
       "name": "Rotaliida",
