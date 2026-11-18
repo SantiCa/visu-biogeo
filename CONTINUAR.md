@@ -219,17 +219,17 @@ No llamar a ese script sin destino si se quiere conservar el ejecutable antiguo;
 
 Proyecto: **`appgprj_6ade076290f8819199ecb0073730325e`**. Audiencia actual: **pública**, conservarla.
 
-Checkout de la publicación 8.20: `worktrees/publicacion-fichas-rangos/hosting/visu-biogeo-media/.sites-checkout`, ruta devuelta por el helper. Su manifiesto `.openai/hosting.json` mantiene `d1: null` y `r2: "BUCKET"`. Las imágenes públicas se sirven desde R2 mediante un manifiesto y una activación firmada; la base Supabase es otro servicio y no se reemplaza al publicar.
+Checkout de la publicación 8.20: `worktrees/publicacion-ordenes-botanicos/hosting/visu-biogeo-media/.sites-checkout`, ruta devuelta por el helper. Su manifiesto `.openai/hosting.json` mantiene `d1: null` y `r2: "BUCKET"`. Las imágenes públicas se sirven desde R2 mediante un manifiesto y una activación firmada; la base Supabase es otro servicio y no se reemplaza al publicar.
 
-Última fuente publicada: **`d6bd65f06ce8d2b3f0493eb87a2cb2ec4cc73d4d`** (8.20). Dirección canónica: **`https://visu-biogeo-santica.santic1290.chatgpt.site/`**; la dirección anterior redirige a ella.
+Última fuente publicada: **`02ffce2c57939d42ca4e6ed90d6ab443215fd5ad`** (8.21). Dirección canónica: **`https://visu-biogeo-santica.santic1290.chatgpt.site/`**; la dirección anterior redirige a ella.
 
-Versión guardada de Sites: **28**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_e7c34294be048191a0e13f9c50397334`**.
+Versión guardada de Sites: **29**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_ea012b02e37c81919e49a5370145c64e`**.
 
-Archivo de publicación: `worktrees/publicacion-fichas-rangos/output/visu-v8.20.tar.gz`. Es el pequeño artefacto del Worker. El banco de fotos permanece fuera de Git.
+Archivo de publicación: `worktrees/publicacion-ordenes-botanicos/output/visu-v8.21.tar.gz`. Es el pequeño artefacto del Worker. El banco de fotos permanece fuera de Git.
 
-Revisión de entorno final: **27**. Despliegue final: **`appgdep_6afd8ab44c908191acae6566eccb6ce5`**.
+Revisión de entorno final: **28**. Despliegue final: **`appgdep_6afdaaa9f4dc8191bb513dc38c66dc67`**.
 
-Manifiesto activo: **`fe1699e3f63e822221293adf7baca4694439c64a90c8dd9e44fb3f619188fc93`**, 4823 archivos públicos, incluidas 4761 imágenes físicas aprobadas. Instalador verificado: **`8.20-03a85a7fc68d`**; fichas y mapa comprobados en la copia extraída y en la web publicada.
+Manifiesto activo: **`5b4f540252ea1d9e9bcf53886716be33ef6f2c003bd0c425d5ff5164ca450937`**, 4823 archivos públicos, incluidas 4761 imágenes físicas aprobadas. Instalador verificado: **`8.21-be4640071e36`**; fichas y mapa comprobados en la copia extraída y en la web publicada.
 
 En otro ordenador, instalar/conectar el plugin Sites con la cuenta del propietario y leer su `SKILL.md` vigente. La ruta del helper cambia con la instalación: no copiar la ruta de caché de Codex del ordenador anterior. El helper de fuente se llama `scripts/site-workflow.mjs` dentro del plugin Sites. Primero obtener `get_site` y credencial de escritura para este mismo proyecto, y abrir el checkout con el helper antes de editarlo. Mantener las credenciales solo en memoria y pasarlas por **stdin oculto**, nunca en argumentos o archivos.
 
