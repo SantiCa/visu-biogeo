@@ -219,17 +219,17 @@ No llamar a ese script sin destino si se quiere conservar el ejecutable antiguo;
 
 Proyecto: **`appgprj_6ade076290f8819199ecb0073730325e`**. Audiencia actual: **pública**, conservarla.
 
-Checkout: `hosting/visu-biogeo-media`. Su manifiesto `.openai/hosting.json` mantiene `d1: null` y `r2: "BUCKET"`. Las imágenes públicas se sirven desde R2 mediante un manifiesto y una activación firmada; la base Supabase es otro servicio y no se reemplaza al publicar.
+Checkout de la publicación 8.20: `worktrees/publicacion-fichas-rangos/hosting/visu-biogeo-media/.sites-checkout`, ruta devuelta por el helper. Su manifiesto `.openai/hosting.json` mantiene `d1: null` y `r2: "BUCKET"`. Las imágenes públicas se sirven desde R2 mediante un manifiesto y una activación firmada; la base Supabase es otro servicio y no se reemplaza al publicar.
 
-Última fuente publicada: **`f547981ee1d8357ce9be40c1fa2fe8b945daf669`** (8.14). Dirección canónica: **`https://visu-biogeo-santica.santic1290.chatgpt.site/`**; la dirección anterior redirige a ella.
+Última fuente publicada: **`d6bd65f06ce8d2b3f0493eb87a2cb2ec4cc73d4d`** (8.20). Dirección canónica: **`https://visu-biogeo-santica.santic1290.chatgpt.site/`**; la dirección anterior redirige a ella.
 
-Versión guardada de Sites: **22**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_b999fc2420e481919788f59e4b950a3f`**.
+Versión guardada de Sites: **28**, ID **`appgprj_6ade076290f8819199ecb0073730325e~appgver_e7c34294be048191a0e13f9c50397334`**.
 
-Archivo de publicación: `worktrees/publicacion-814/output/visu-v8.14-final.tar.gz`. Es el pequeño artefacto del Worker. El banco de fotos permanece fuera de Git.
+Archivo de publicación: `worktrees/publicacion-fichas-rangos/output/visu-v8.20.tar.gz`. Es el pequeño artefacto del Worker. El banco de fotos permanece fuera de Git.
 
-Revisión de entorno final: **21**. Despliegue final: **`appgdep_6aec33dd3c388191b7daaabe5071d69e`**.
+Revisión de entorno final: **27**. Despliegue final: **`appgdep_6afd8ab44c908191acae6566eccb6ce5`**.
 
-Manifiesto activo: **`52e0390d7f938ca641efa69585a1c159422fc39ce28f3aa6900a86a58e7494d9`**, 4804 archivos públicos, incluidas 4750 imágenes físicas aprobadas.
+Manifiesto activo: **`fe1699e3f63e822221293adf7baca4694439c64a90c8dd9e44fb3f619188fc93`**, 4823 archivos públicos, incluidas 4761 imágenes físicas aprobadas. Instalador verificado: **`8.20-03a85a7fc68d`**; fichas y mapa comprobados en la copia extraída y en la web publicada.
 
 En otro ordenador, instalar/conectar el plugin Sites con la cuenta del propietario y leer su `SKILL.md` vigente. La ruta del helper cambia con la instalación: no copiar la ruta de caché de Codex del ordenador anterior. El helper de fuente se llama `scripts/site-workflow.mjs` dentro del plugin Sites. Primero obtener `get_site` y credencial de escritura para este mismo proyecto, y abrir el checkout con el helper antes de editarlo. Mantener las credenciales solo en memoria y pasarlas por **stdin oculto**, nunca en argumentos o archivos.
 
@@ -239,13 +239,13 @@ Esta implementación compila con estos argumentos, **sin bash**:
 [["node", "scripts/build.mjs"], ["node", "scripts/validate-artifact.mjs"]]
 ```
 
-El README heredado del starter y `npm run build` mencionan `build.sh`; para este proyecto usar los comandos anteriores. `prepare_media_site.py` copia los datos públicos y genera `media-manifest.json`. La fuente principal de `worker/index.js` sigue siendo `desktop/media-worker.mjs`.
+El README heredado del starter y `npm run build` mencionan `build.sh`; para este proyecto usar los comandos anteriores. `prepare_media_site.py --site-root RUTA_DEVUELTA` copia los datos públicos al checkout abierto por el helper y genera `media-manifest.json`. La fuente principal de `worker/index.js` sigue siendo `desktop/media-worker.mjs`.
 
 Para subir/activar medios, arrancar `node scripts/upload_site_media.mjs` en una sesión TTY retenida. Muestra una clave **pública** de verificación y espera un JSON por stdin oculto. Su clave privada de firma existe solo en ese proceso; si el proceso o la conversación se pierde, arrancar otro uploader, actualizar únicamente `VISU_MEDIA_PUBLIC_KEY`, desplegar con esa revisión de entorno y retomar los blobs que falten. No debilitar la firma ni publicar contraseñas.
 
 Después de preparar el manifiesto y la clave pública, publicar con el flujo de Sites para la audiencia actual, utilizando los IDs y el commit devueltos por sus herramientas. El uploader recibe `root`, `coreRoot`, `manifest`, `origin`, `serviceToken` y `report` por stdin; obtener `serviceToken` de la respuesta autorizada de `get_site`, sin imprimirlo. `coreRoot` es `hosting/visu-biogeo-media/web`; `root` es esta carpeta. Esperar a `phase: active` y al informe de subida. Un despliegue del Worker por sí solo no activa los datos nuevos.
 
-Comprobar después `node scripts/validate_live_learning.mjs URL_CANONICA`, la integridad del instalador y la interfaz. El argumento opcional permite verificar directamente la dirección devuelta por Sites. Actualizar informe de publicación y este documento con las cifras reales. No crear un sitio nuevo ni sustituir Supabase. En un asistente sin acceso a Sites se puede seguir trabajando y usar la app local; la publicación debe quedar expresamente pendiente hasta recuperar esa conexión.
+Comprobar después `node scripts/validate_live_learning.mjs URL_CANONICA RUTA_MANIFIESTO`, la integridad del instalador y la interfaz. Los argumentos opcionales permiten usar la dirección y el manifiesto del checkout devueltos por Sites. Actualizar informe de publicación y este documento con las cifras reales. No crear un sitio nuevo ni sustituir Supabase. En un asistente sin acceso a Sites se puede seguir trabajando y usar la app local; la publicación debe quedar expresamente pendiente hasta recuperar esa conexión.
 
 ## 12. Continuar sin rehacer trabajo terminado
 
