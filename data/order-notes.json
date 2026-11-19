@@ -450,7 +450,30 @@
     },
     "order:Carnivora": {
       "name": "Carnivora",
-      "rank": "order"
+      "rank": "order",
+      "guide": {
+        "name": "Carnivora",
+        "text": "Orden de mamíferos que incluye cánidos, félidos, úrsidos y pinnípedos. Sus dietas son diversas, aunque muchos consumen principalmente animales.",
+        "contrast": "En muchos representantes, el cuarto premolar superior y el primer molar inferior forman las muelas carniceras, que actúan como tijeras. En osos, mapaches y focas están modificadas; combinar dentición y otros rasgos del cráneo.",
+        "source": "https://animaldiversity.org/accounts/Carnivora/"
+      },
+      "etymology": {
+        "text": "El DLE documenta que «carnívoro» procede del latín carnivorus. La historia y motivación precisa del nombre científico del orden quedan pendientes de cotejo.",
+        "url": "https://dle.rae.es/carn%C3%ADvoro"
+      },
+      "sources": [
+        {
+          "url": "https://animaldiversity.org/accounts/Carnivora/",
+          "title": "Animal Diversity Web — Carnivora"
+        },
+        {
+          "url": "https://dle.rae.es/carn%C3%ADvoro",
+          "title": "Diccionario de la lengua española — etimología de la voz relacionada"
+        }
+      ],
+      "reviewedAt": "2026-11-18",
+      "reviewStatus": "reviewed",
+      "scope": "Síntesis del orden; los rasgos pueden variar entre linajes. La historia precisa del nombre científico queda pendiente."
     },
     "order:Caryophyllales": {
       "name": "Caryophyllales",
@@ -1310,9 +1333,18 @@
         "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf"
       },
       "sources": [
-        {"url": "https://www.mobot.org/MOBOT/Research/APweb/orders/poalesweb.htm", "title": "Angiosperm Phylogeny Website — Poales y familias"},
-        {"url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf", "title": "Turland, The Code Decoded — formación de Poales a partir de Poa"},
-        {"url": "https://repository.si.edu/bitstream/handle/10088/3372/Poa_in_Fl_Nth_Am_2007.pdf", "title": "Flora of North America — Poa y origen griego del nombre"}
+        {
+          "url": "https://www.mobot.org/MOBOT/Research/APweb/orders/poalesweb.htm",
+          "title": "Angiosperm Phylogeny Website — Poales y familias"
+        },
+        {
+          "url": "https://plants.sdsu.edu/plantsystematics/pdfs/Turland2019-Nomenclature-ICN.pdf",
+          "title": "Turland, The Code Decoded — formación de Poales a partir de Poa"
+        },
+        {
+          "url": "https://repository.si.edu/bitstream/handle/10088/3372/Poa_in_Fl_Nth_Am_2007.pdf",
+          "title": "Flora of North America — Poa y origen griego del nombre"
+        }
       ],
       "reviewedAt": "2026-11-18",
       "reviewStatus": "reviewed",
@@ -1456,7 +1488,30 @@
     },
     "order:Rodentia": {
       "name": "Rodentia",
-      "rank": "order"
+      "rank": "order",
+      "guide": {
+        "name": "Rodentia",
+        "text": "Orden de mamíferos que incluye, entre otros, ratones, ardillas y castores. Presentan una dentición especializada para roer.",
+        "contrast": "Observar un par de incisivos superiores y otro inferior de crecimiento continuo, ausencia de caninos y un espacio o diastema antes de las piezas posteriores. Los lagomorfos también tienen diastema, por lo que hay que comparar el número de incisivos superiores.",
+        "source": "https://animaldiversity.org/accounts/Rodentia/"
+      },
+      "etymology": {
+        "text": "El DLE documenta que «roer» procede del latín rodere. La formación exacta y la motivación histórica del nombre científico Rodentia quedan pendientes de cotejo.",
+        "url": "https://dle.rae.es/roer"
+      },
+      "sources": [
+        {
+          "url": "https://animaldiversity.org/accounts/Rodentia/",
+          "title": "Animal Diversity Web — Rodentia"
+        },
+        {
+          "url": "https://dle.rae.es/roer",
+          "title": "Diccionario de la lengua española — etimología de la voz relacionada"
+        }
+      ],
+      "reviewedAt": "2026-11-18",
+      "reviewStatus": "reviewed",
+      "scope": "Síntesis del orden; los rasgos pueden variar entre linajes. La historia precisa del nombre científico queda pendiente."
     },
     "order:Rosales": {
       "name": "Rosales",
