@@ -1,0 +1,10 @@
+# Trabajo por lotes de fichas
+
+Cuando se solicite avanzar con fichas sin fijar una cantidad, trabajar con varias en cada interacción: tomar como objetivo orientativo entre 15 y 20 fichas o descripciones de grupos, siempre que haya suficientes pendientes y fuentes verificables. Es un objetivo, no una cuota: reducirlo si la complejidad, las fuentes o el tiempo de trabajo impiden revisar cada caso. Respetar cualquier lote, prioridad o alcance concreto indicado por el usuario.
+
+1. Identificar los pendientes dentro del alcance pedido y agrupar consultas y lecturas relacionadas. Revisar los archivos por rango y el catálogo antes de añadir contenido para evitar duplicados; comprobar también los PR abiertos que puedan solaparse. Priorizar completar descripciones de grupos cuando esa sea la tarea solicitada.
+2. Consultar las fuentes locales disponibles y contrastar cada taxón, su clasificación y los datos que se incorporen con fuentes fiables; recurrir a publicaciones originales cuando sea necesario para comprobar una etimología o atribución. Redactar una descripción propia y diagnóstica adecuada al rango, sin convertir una hipótesis en un hecho. Conservar el contenido y los identificadores existentes.
+3. Incorporar en una misma tanda todo lo que se haya verificado. Dejar pendientes de forma explícita las etimologías, nombres, clasificaciones u otros datos que no puedan confirmarse; no inventarlos para alcanzar el objetivo. Una descripción de familia, clase o género debe caracterizar ese grupo y no limitarse a una especie incluida.
+4. Ejecutar las comprobaciones indicadas en la guía de fichas una vez terminado el lote. En el PR indicar el alcance, los taxones o IDs, las fuentes, la validación, los archivos compartidos y los pendientes. Si se han revisado imágenes, distinguir las fotografías pendientes de las candidatas y de las aprobadas; no dar por aprobadas imágenes no revisadas.
+
+El objetivo es ampliar el trabajo útil por interacción sin sacrificar el cotejo individual ni abrir tareas adicionales innecesarias.
