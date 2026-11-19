@@ -1,6 +1,6 @@
 # Estado del proyecto
 
-Actualizado el 18 de noviembre de 2026. Base funcional y de catálogo: **8.21**.
+Actualizado el 19 de noviembre de 2026. Base funcional y de catálogo: **8.22**.
 
 Repositorio: `https://github.com/SantiCa/visu-biogeo` (privado). GitHub controla fuentes y cambios. La aplicación está publicada en `https://visu-biogeo-santica.santic1290.chatgpt.site/`; la dirección anterior de nimblequail260 redirige a ella. El proyecto de Sites y el de Supabase se conservan.
 
@@ -10,7 +10,9 @@ La versión 8.20 publica el PR #67: fichas separadas por clases, órdenes, famil
 
 El código integrado incorpora las fichas de Poales, Fagales, Rosales y Lamiales de los PR #69 y #70. Se conservan los límites de sus rasgos y las etimologías pendientes; estas fichas se publican en la versión 8.21.
 
-Publicación: versión 29 de Sites, fuente `02ffce2c57939d42ca4e6ed90d6ab443215fd5ad`, revisión de entorno 28 y manifiesto activo `5b4f540252ea1d9e9bcf53886716be33ef6f2c003bd0c425d5ff5164ca450937`, con 4.823 archivos. Banco de 4.761 archivos físicos aprobados y 4.816 referencias, con 2.294 entradas ilustradas, 2.148 con pareja y 351 sin imagen. Pasaron 83 pruebas JavaScript y 21 Python, incluida la prueba nativa. El instalador `8.21-be4640071e36` se extrajo y su paquete de 4.823 archivos coincide con las fuentes y se comprobó Poales en la ficha y el mapa de la copia extraída. Tras activar se verificaron 19 recursos web, incluidos los seis JSON por rango, los nuevos archivos y Poales en el mapa publicado, sin errores de consola. Las activaciones sin firma siguen devolviendo 403. Supabase y la audiencia pública se conservan; la sincronización con cuentas reales queda pendiente de comprobación manual.
+La versión 8.22 integra los PR #72 y #73: fichas de Carnivora y Rodentia y descripciones de trece grupos adicionales de los listados PRECEGE. Las fuentes y los límites de diagnóstico y etimología figuran en las fichas; se conservan clasificación, IDs y progreso.
+
+Publicación: versión 30 de Sites, fuente `cc6dd7ce20df3b5eab01cc42664bb8d7935b1941`, revisión de entorno 29 y manifiesto activo `0159aa38ec8549bf6e60809554363ef6126d34ae291020c78cc6e1c2aa28d518`, con 4.823 archivos. Banco de 4.761 archivos físicos aprobados y 4.816 referencias, con 2.294 entradas ilustradas, 2.148 con pareja y 351 sin imagen. Pasaron 83 pruebas JavaScript y 21 Python, incluida la prueba nativa. El instalador `8.22-e346319f9f4d` verificó sus 4.823 archivos públicos sin discrepancias. Tras activar se verificaron 19 recursos web, incluidos los bancos por rango. Las activaciones sin firma siguen devolviendo 403. Supabase y la audiencia pública se conservan; la sincronización con cuentas reales queda pendiente de comprobación manual.
 
 Siguen pendientes los casos A9, A10 y A15 de Andalucía 2021, los rangos de las cinco entradas nuevas de Castilla-La Mancha y la revisión científica de la cola PRECEGE. El historial madrileño es incompleto; las 50 correspondencias de Madrid 2002 se atribuyen a un opositor, sin clave oficial. Los importadores conservan la fecha más reciente y la posición de documentos y eventos al reaplicar evidencia. Las tareas nuevas arrancan con `scripts/start_task.py` desde una raíz limpia y una copia actualizada de `origin/main`.
 

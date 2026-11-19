@@ -616,6 +616,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Boraginaceae",
+        "text": "Familia de plantas frecuentemente cubiertas de pelos ásperos, con flores agrupadas en inflorescencias curvadas.",
+        "contrast": "La forma y orientación de las flores varían entre géneros. Observar conjuntamente pelos, inflorescencia y fruto.",
+        "source": "https://www.mobot.org/MOBOT/Research/APweb/orders/Boraginalesweb.htm"
       }
     },
     "family:Bothidae": {
@@ -658,6 +664,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Brassicaceae",
+        "text": "Familia de plantas con flores que suelen tener cuatro pétalos dispuestos en cruz y seis estambres.",
+        "contrast": "El fruto suele ser una silicua o una silícula. Comparar también hojas y frutos para distinguir géneros.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/brassicalesweb.htm"
       }
     },
     "family:Bromeliaceae": {
@@ -1241,7 +1253,13 @@
     },
     "family:Cyperaceae": {
       "name": "Cyperaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Cyperaceae",
+        "text": "Familia de plantas herbáceas con hojas de vaina generalmente cerrada y tallos que suelen tener sección triangular. Las flores se agrupan en espiguillas.",
+        "contrast": "Comparar la sección del tallo, las vainas y las brácteas de las espiguillas. Algunas especies no presentan todos estos rasgos de forma evidente.",
+        "source": "https://www.mobot.org/MOBOT/research/APWeb/orders/poalesweb.htm"
+      }
     },
     "family:Cypraeidae": {
       "name": "Cypraeidae",
@@ -1630,6 +1648,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Fabaceae",
+        "text": "Familia de plantas con flores y frutos habitualmente en legumbre. Son frecuentes las hojas compuestas con estípulas.",
+        "contrast": "Muchas especies presentan flores con estandarte, alas y quilla. La familia también incluye otras formas florales.",
+        "source": "https://www.mobot.org/MOBOT/research/APWeb/orders/fabalesweb.htm"
       }
     },
     "family:Fagaceae": {
@@ -2171,6 +2195,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Lamiaceae",
+        "text": "Familia de plantas con hojas habitualmente opuestas y tallos con frecuencia de sección cuadrangular. Muchas tienen hojas aromáticas.",
+        "contrast": "En numerosas especies la corola presenta dos labios y el fruto se divide en pequeñas unidades.",
+        "source": "https://www.mobot.org/MOBOt/research/APweb/orders/lamialesweb.htm"
       }
     },
     "family:Laminariaceae": {
@@ -2847,7 +2877,13 @@
     },
     "family:Orchidaceae": {
       "name": "Orchidaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Orchidaceae",
+        "text": "Familia de plantas con flores generalmente de simetría bilateral. Uno de sus tépalos forma el labelo y los estambres están unidos al estilo al menos en su base.",
+        "contrast": "La forma del labelo y la disposición del polen ayudan a distinguir grupos. La estructura floral varía entre géneros.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/asparagalesweb.htm"
+      }
     },
     "family:Oriolidae": {
       "name": "Oriolidae",
@@ -2938,7 +2974,13 @@
     },
     "family:Papaveraceae": {
       "name": "Papaveraceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Papaveraceae",
+        "text": "Familia de plantas con flores de cuatro pétalos en numerosos representantes. Incluye amapolas y fumarias, con formas florales diversas.",
+        "contrast": "En muchas amapolas se observa látex y numerosos estambres. Las fumarias presentan flores irregulares, por lo que conviene comparar varios caracteres.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/ranunculalesweb.htm"
+      }
     },
     "family:Papilionidae": {
       "name": "Papilionidae",
@@ -3525,6 +3567,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Ranunculaceae",
+        "text": "Familia principalmente herbácea con hojas a menudo divididas o lobuladas y flores frecuentemente provistas de numerosos estambres.",
+        "contrast": "Las piezas florales varían mucho entre géneros. En algunos, los órganos que parecen pétalos son sépalos o nectarios modificados.",
+        "source": "https://www.mobot.org/MOBOT/Research/APweb/orders/ranunculalesweb.htm"
       }
     },
     "family:Raphidiidae": {
@@ -3611,6 +3659,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Rosaceae",
+        "text": "Familia de hierbas, arbustos y árboles cuyas flores suelen presentar numerosos estambres y una estructura en forma de copa llamada hipanto.",
+        "contrast": "Los frutos son variados. Pueden intervenir el receptáculo o el hipanto en las partes carnosas.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/rosalesweb.htm"
       }
     },
     "family:Rotulidae": {
@@ -3880,6 +3934,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Solanaceae",
+        "text": "Familia de plantas con hojas generalmente alternas y flores que suelen presentar cinco piezas por verticilo. Los pétalos forman una corola soldada.",
+        "contrast": "El fruto puede ser una baya o una cápsula. Comparar flores y frutos para distinguir sus géneros.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/solanalesweb.htm"
       }
     },
     "family:Solasteridae": {
