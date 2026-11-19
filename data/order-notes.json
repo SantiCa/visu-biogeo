@@ -1001,7 +1001,13 @@
     },
     "order:Lamniformes": {
       "name": "Lamniformes",
-      "rank": "order"
+      "rank": "order",
+      "guide": {
+        "name": "Lamniformes",
+        "text": "Orden de tiburones con cinco pares de hendiduras branquiales, dos aletas dorsales sin espinas y aleta anal.",
+        "contrast": "En fósiles suelen conservarse dientes. Comparar su posición y forma con denticiones documentadas.",
+        "source": "https://www.fao.org/4/i2741e/i2741e08.pdf"
+      }
     },
     "order:Lampriformes": {
       "name": "Lampriformes",
@@ -1277,7 +1283,13 @@
     },
     "order:Phacopida": {
       "name": "Phacopida",
-      "rank": "order"
+      "rank": "order",
+      "guide": {
+        "name": "Phacopida",
+        "text": "Orden de trilobites fósiles con glabela de forma variable y un tórax de ocho a diecinueve segmentos.",
+        "contrast": "Comparar cefalón, surcos de la glabela y pigidio. Los caracteres cambian entre sus familias.",
+        "source": "https://www.ordovicianatlas.org/atlas/arthropoda/trilobita/phacopida/"
+      }
     },
     "order:Phallales": {
       "name": "Phallales",
