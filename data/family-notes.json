@@ -616,6 +616,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Boraginaceae",
+        "text": "Familia de plantas frecuentemente cubiertas de pelos ásperos, con flores agrupadas en inflorescencias curvadas.",
+        "contrast": "La forma y orientación de las flores varían entre géneros. Observar conjuntamente pelos, inflorescencia y fruto.",
+        "source": "https://www.mobot.org/MOBOT/Research/APweb/orders/Boraginalesweb.htm"
       }
     },
     "family:Bothidae": {
@@ -658,6 +664,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Brassicaceae",
+        "text": "Familia de plantas con flores que suelen tener cuatro pétalos dispuestos en cruz y seis estambres.",
+        "contrast": "El fruto suele ser una silicua o una silícula. Comparar también hojas y frutos para distinguir géneros.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/brassicalesweb.htm"
       }
     },
     "family:Bromeliaceae": {
@@ -1630,6 +1642,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Fabaceae",
+        "text": "Familia de plantas con flores y frutos habitualmente en legumbre. Son frecuentes las hojas compuestas con estípulas.",
+        "contrast": "Muchas especies presentan flores con estandarte, alas y quilla. La familia también incluye otras formas florales.",
+        "source": "https://www.mobot.org/MOBOT/research/APWeb/orders/fabalesweb.htm"
       }
     },
     "family:Fagaceae": {
@@ -2171,6 +2189,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Lamiaceae",
+        "text": "Familia de plantas con hojas habitualmente opuestas y tallos con frecuencia de sección cuadrangular. Muchas tienen hojas aromáticas.",
+        "contrast": "En numerosas especies la corola presenta dos labios y el fruto se divide en pequeñas unidades.",
+        "source": "https://www.mobot.org/MOBOt/research/APweb/orders/lamialesweb.htm"
       }
     },
     "family:Laminariaceae": {
