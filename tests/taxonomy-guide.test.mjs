@@ -26,7 +26,7 @@ test('all-expanded geometry has finite coordinates, unique rows for specimens, a
 test('rank explanations distinguish rank from taxon and group facts cite primary educational sources',()=>{
  for(const rank of Object.keys(RANK_GUIDE)){const g=rankGuide(rank);assert(g.text&&g.contrast&&g.source);}
  assert(rankGuide('subfamily').text.includes('inferior'));assert(rankGuide('superfamily').text.includes('superior'));
- for(const g of Object.values(taxa).map(t=>t.guide).filter(Boolean))assert(/^https:\/\/(openstax.org|www.nps.gov|www.asturnatura.com|genent.cals.ncsu.edu|www.life.illinois.edu|nph.onlinelibrary.wiley.com|decapoda.nhm.org|www.bgs.ac.uk|www.nhm.ac.uk|humanorigins.si.edu|www.nzplants.auckland.ac.nz|plants.sdsu.edu|oceanservice.noaa.gov|www.ordovicianatlas.org|www.si.edu|www.mobot.org)\//.test(g.source));
+ for(const g of Object.values(taxa).map(t=>t.guide).filter(Boolean))assert(/^https:\/\/(openstax.org|www.nps.gov|www.asturnatura.com|genent.cals.ncsu.edu|www.life.illinois.edu|nph.onlinelibrary.wiley.com|decapoda.nhm.org|www.bgs.ac.uk|www.nhm.ac.uk|humanorigins.si.edu|www.nzplants.auckland.ac.nz|plants.sdsu.edu|oceanservice.noaa.gov|www.ordovicianatlas.org|www.si.edu|www.mobot.org|www.marinespecies.org|www.fao.org)\//.test(g.source));
 });
 
 test('map keeps documented levels adjacent across incomplete lineages without overlapping cards',()=>{

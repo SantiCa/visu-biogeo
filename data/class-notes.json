@@ -466,7 +466,13 @@
     },
     "class:Pterobranchia": {
       "name": "Pterobranchia",
-      "rank": "class"
+      "rank": "class",
+      "guide": {
+        "name": "Pterobranchia",
+        "text": "Hemicordados coloniales de pequeño tamaño. Sus individuos presentan brazos con tentáculos ciliados que capturan partículas del agua.",
+        "contrast": "El registro fósil de graptolitos conserva principalmente la estructura de la colonia, cuyas ramas y tecas ayudan a identificarla.",
+        "source": "https://www.marinespecies.org/hemichordata/"
+      }
     },
     "class:Pycnogonida": {
       "name": "Pycnogonida",
