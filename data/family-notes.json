@@ -3549,6 +3549,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Ranunculaceae",
+        "text": "Familia principalmente herbácea con hojas a menudo divididas o lobuladas y flores frecuentemente provistas de numerosos estambres.",
+        "contrast": "Las piezas florales varían mucho entre géneros. En algunos, los órganos que parecen pétalos son sépalos o nectarios modificados.",
+        "source": "https://www.mobot.org/MOBOT/Research/APweb/orders/ranunculalesweb.htm"
       }
     },
     "family:Raphidiidae": {
@@ -3635,6 +3641,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Rosaceae",
+        "text": "Familia de hierbas, arbustos y árboles cuyas flores suelen presentar numerosos estambres y una estructura en forma de copa llamada hipanto.",
+        "contrast": "Los frutos son variados. Pueden intervenir el receptáculo o el hipanto en las partes carnosas.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/rosalesweb.htm"
       }
     },
     "family:Rotulidae": {
@@ -3904,6 +3916,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Solanaceae",
+        "text": "Familia de plantas con hojas generalmente alternas y flores que suelen presentar cinco piezas por verticilo. Los pétalos forman una corola soldada.",
+        "contrast": "El fruto puede ser una baya o una cápsula. Comparar flores y frutos para distinguir sus géneros.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/solanalesweb.htm"
       }
     },
     "family:Solasteridae": {
