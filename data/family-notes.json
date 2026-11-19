@@ -25,7 +25,13 @@
     },
     "family:Accipitridae": {
       "name": "Accipitridae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Accipitridae",
+        "text": "Familia de rapaces diurnas que incluye águilas, gavilanes, milanos y buitres del Viejo Mundo. Presentan pico curvado, cera en su base y patas fuertes con garras.",
+        "contrast": "La forma de alas y cola varía con el modo de vuelo: muchas especies de bosque son maniobrables, mientras otras tienen alas amplias adaptadas al planeo.",
+        "source": "https://animaldiversity.org/accounts/Accipitridae/"
+      }
     },
     "family:Achatinidae": {
       "name": "Achatinidae",
@@ -220,6 +226,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Anatidae",
+        "text": "Familia de aves acuáticas que comprende patos, gansos y cisnes. Los tres dedos anteriores están unidos por membranas y muchas especies tienen el pico ancho con laminillas en sus bordes.",
+        "contrast": "La longitud del cuello, la forma del pico y la dieta varían entre cisnes, gansos y patos; algunas especies filtran alimento y otras comen principalmente vegetales.",
+        "source": "https://animaldiversity.org/accounts/Anatidae/"
       }
     },
     "family:Andreaeaceae": {
@@ -410,6 +422,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Asparagaceae",
+        "text": "Familia diversa de monocotiledóneas que incluye espárragos, jacintos y ruscos. Comprende desde hierbas con bulbos o rizomas hasta formas leñosas o de hojas suculentas.",
+        "contrast": "Su amplia diversidad dificulta reconocer toda la familia por un único rasgo visible: los espárragos tienen ramas aplanadas o finas, mientras muchos jacintos poseen bulbos y flores vistosas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/asparagalesweb.htm"
       }
     },
     "family:Aspergillaceae": {
@@ -704,7 +722,13 @@
     },
     "family:Bufonidae": {
       "name": "Bufonidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Bufonidae",
+        "text": "Familia de anfibios anuros que incluye muchos de los sapos. Suelen presentar piel con glándulas visibles y, en numerosas especies, glándulas parotoideas detrás de los ojos.",
+        "contrast": "La piel verrugosa y las parotoideas son frecuentes, pero no permiten identificar por sí solas a todos los miembros; existen formas de aspecto y reproducción diversos.",
+        "source": "https://animaldiversity.org/accounts/Bufonidae/"
+      }
     },
     "family:Buthidae": {
       "name": "Buthidae",
@@ -960,7 +984,13 @@
     },
     "family:Cheloniidae": {
       "name": "Cheloniidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Cheloniidae",
+        "text": "Familia de tortugas marinas con extremidades transformadas en aletas y cabeza que no puede retraerse dentro del caparazón. Las hembras salen a tierra para poner los huevos.",
+        "contrast": "La tortuga laúd pertenece a otra familia, Dermochelyidae. Las quelónidas presentan distintas formas de caparazón y dietas según la especie.",
+        "source": "https://animaldiversity.org/accounts/Cheloniidae/"
+      }
     },
     "family:Chimaeridae": {
       "name": "Chimaeridae",
@@ -1131,7 +1161,13 @@
     },
     "family:Columbidae": {
       "name": "Columbidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Columbidae",
+        "text": "Familia de aves que incluye palomas y tórtolas, generalmente de cuerpo compacto, cabeza pequeña y pico corto. Ambos progenitores alimentan a las crías con una secreción producida en el buche.",
+        "contrast": "Las especies varían en coloración y alimentación: unas consumen principalmente semillas y otras frutos; no todas tienen el plumaje gris de la paloma urbana.",
+        "source": "https://animaldiversity.org/accounts/Columbidae/"
+      }
     },
     "family:Commelinaceae": {
       "name": "Commelinaceae",
@@ -1673,6 +1709,12 @@
           }
         ],
         "reviewedAt": "2026-10-26"
+      },
+      "guide": {
+        "name": "Euphorbiaceae",
+        "text": "Familia de hierbas, arbustos y árboles con flores generalmente unisexuales. En muchos miembros el fruto tiene tres carpelos y se abre dejando una columna central; algunas especies producen látex.",
+        "contrast": "En Euphorbia las flores reducidas se agrupan en una estructura llamada ciatio; esta organización no debe atribuirse a toda la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/malpighialesweb.htm"
       }
     },
     "family:Euryleptidae": {
@@ -1727,7 +1769,13 @@
     },
     "family:Falconidae": {
       "name": "Falconidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Falconidae",
+        "text": "Familia de rapaces que comprende halcones, cernícalos y caracaras. Tienen pico ganchudo con cera y patas provistas de garras; su forma varía con el hábitat y la presa.",
+        "contrast": "Muchos halcones tienen alas puntiagudas y una muesca cortante en el pico; los caracaras presentan una silueta distinta, a menudo con patas más largas y alas más redondeadas.",
+        "source": "https://animaldiversity.org/accounts/Falconidae/"
+      }
     },
     "family:Fasciolariidae": {
       "name": "Fasciolariidae",
@@ -2369,6 +2417,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Liliaceae",
+        "text": "Familia de monocotiledóneas herbáceas que incluye lirios, tulipanes y fritilarias. Sus flores suelen tener seis tépalos y seis estambres, y muchas especies poseen bulbos.",
+        "contrast": "La familia se reconoce hoy en un sentido más restringido que en clasificaciones antiguas: no todas las plantas de flor con seis tépalos pertenecen a Liliaceae.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/lilialesweb.htm"
       }
     },
     "family:Limidae": {
@@ -2522,7 +2576,13 @@
     },
     "family:Malvaceae": {
       "name": "Malvaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Malvaceae",
+        "text": "Familia de hierbas, arbustos y árboles que incluye malvas, algodones y tilos. Son frecuentes los pelos estrellados y las flores con numerosos estambres, al menos parcialmente unidos en la base.",
+        "contrast": "En las malvas muchos estambres forman una columna alrededor del estilo; los frutos varían dentro de la familia y pueden ser cápsulas o dividirse en varias partes.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/malvalesweb.htm"
+      }
     },
     "family:Mantidae": {
       "name": "Mantidae",
@@ -3086,6 +3146,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Paridae",
+        "text": "Familia de pequeños paseriformes que incluye carboneros y herrerillos. Suelen tener pico corto, alas redondeadas y patas que les permiten buscar alimento entre las ramas.",
+        "contrast": "Muchas especies anidan en cavidades y consumen insectos y semillas; el patrón de color y la presencia de cresta varían según la especie.",
+        "source": "https://animaldiversity.org/accounts/Paridae/"
       }
     },
     "family:Parkinsoniidae": {
@@ -3212,7 +3278,13 @@
     },
     "family:Phasianidae": {
       "name": "Phasianidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Phasianidae",
+        "text": "Familia de aves principalmente terrestres que incluye perdices, codornices y faisanes. Muchas tienen cuerpo robusto, patas fuertes y alas cortas y redondeadas.",
+        "contrast": "La longitud de la cola y la coloración varían mucho: algunos machos son llamativos, mientras otras especies tienen plumaje discreto.",
+        "source": "https://animaldiversity.org/accounts/Phasianidae/"
+      }
     },
     "family:Philodinidae": {
       "name": "Philodinidae",
@@ -3630,7 +3702,13 @@
     },
     "family:Ranidae": {
       "name": "Ranidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Ranidae",
+        "text": "Familia de anfibios anuros que incluye numerosas ranas. En muchas especies los adultos tienen patas posteriores largas y los huevos se desarrollan en el agua hasta dar lugar a renacuajos.",
+        "contrast": "La forma y los hábitos varían entre sus integrantes; las membranas de los pies y la asociación con el agua no bastan por sí solas para identificar toda la familia.",
+        "source": "https://animaldiversity.org/accounts/Ranidae/"
+      }
     },
     "family:Ranunculaceae": {
       "name": "Ranunculaceae",
@@ -3679,7 +3757,13 @@
     },
     "family:Rhamnaceae": {
       "name": "Rhamnaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Rhamnaceae",
+        "text": "Familia principalmente de arbustos y árboles que incluye espinos cervales y arraclanes. Sus flores suelen ser pequeñas, con cuatro o cinco piezas, y los estambres se sitúan frente a los pétalos.",
+        "contrast": "Las hojas pueden ser opuestas o alternas y los frutos secos o carnosos. Algunas especies tienen espinas, pero no es un rasgo universal.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/rosalesweb.htm"
+      }
     },
     "family:Rhincodontidae": {
       "name": "Rhincodontidae",
@@ -3786,7 +3870,13 @@
     },
     "family:Salamandridae": {
       "name": "Salamandridae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Salamandridae",
+        "text": "Familia de anfibios con cola que incluye salamandras y tritones. Presentan piel glandular con secreciones defensivas y una gran variedad de coloraciones y ciclos de vida.",
+        "contrast": "En muchas especies hay larvas acuáticas y adultos terrestres o parcialmente acuáticos; algunas dan a luz crías ya metamorfoseadas.",
+        "source": "https://animaldiversity.org/accounts/Salamandridae/"
+      }
     },
     "family:Salicaceae": {
       "name": "Salicaceae",
@@ -4152,7 +4242,13 @@
     },
     "family:Strigidae": {
       "name": "Strigidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Strigidae",
+        "text": "Familia de aves rapaces que incluye búhos, cárabos y mochuelos. Tienen cabeza grande, ojos orientados hacia delante, pico curvado y plumaje denso.",
+        "contrast": "Su disco facial es generalmente redondeado; algunas especies presentan penachos de plumas que no son las aberturas de los oídos. Las lechuzas comunes pertenecen a otra familia, Tytonidae.",
+        "source": "https://animaldiversity.org/accounts/Strigidae/"
+      }
     },
     "family:Strombidae": {
       "name": "Strombidae",
