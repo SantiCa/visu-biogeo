@@ -6,7 +6,7 @@ Las fichas se guardan en `data/class-notes.json`, `order-notes.json`, `family-no
 
 Cada archivo contiene `taxa`, por clave `rango:nombre`, y `entries`, por ID inalterado del catálogo. Un taxón pendiente conserva `name` y `rank`; una entrada pendiente conserva `name`, sin `profile`. Las descripciones de grupos van en `guide` (`text`, `contrast`, `source`); las notas nomenclaturales de familia, en `note`. Las fichas de entradas mantienen su contenido original dentro de `profile`, sin mezclar los IDs de sinónimos. Una descripción de especie no sirve como ficha de su género.
 
-Editar solo las fichas del lote acordado. Escribir síntesis propia con descripción, rasgos diagnósticos, etimología y fuentes. Distinguir una raíz contrastada de una hipótesis; dejar explícito lo desconocido. No añadir reglas nemotécnicas ni inventar familias para estructuras.
+Seguir `docs/areas/lotes-fichas.md` para seleccionar y completar lotes. Editar solo las fichas del lote acordado. Escribir síntesis propia con descripción, rasgos diagnósticos, etimología y fuentes. Distinguir una raíz contrastada de una hipótesis; dejar explícito lo desconocido. No añadir reglas nemotécnicas ni inventar familias para estructuras.
 
 Conservar `sources`, `reviewedAt`, `reviewStatus` y `scope` según el esquema existente. Los scripts usan `scripts/note_files.py` para leer las fichas por ID y actualizar su archivo sin borrar otras fichas, explicaciones o nombres pendientes. Tras ampliar el catálogo o su clasificación, ejecutar `python scripts/sync_note_names.py`: solo sincroniza nombres e IDs desde esos datos, sin generar contenido científico. Los scripts históricos que crean tandas completas no deben ejecutarse para editar una ficha.
 

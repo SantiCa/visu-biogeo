@@ -18,6 +18,8 @@ HTML/CSS y módulos ES sin framework ni npm. Python 3.12 para mantenimiento; Nod
 | Sincronización | `docs/areas/sincronizacion.md` |
 | Integración y publicación | `docs/areas/publicacion.md` |
 
+Para crear o completar fichas, seguir también `docs/areas/lotes-fichas.md` y avanzar en lotes amplios cuando las fuentes lo permitan.
+
 ## Una tarea por chat y PR
 
 - Trabajar en una rama `codex/area-resumen` desde `origin/main` actualizado. Si el chat ya tiene trabajo, continuar su rama. Para chats simultáneos, usar worktrees independientes; nunca cambiar de rama, limpiar o guardar con stash los cambios de otro chat en una carpeta compartida.
