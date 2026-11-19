@@ -1253,7 +1253,13 @@
     },
     "family:Cyperaceae": {
       "name": "Cyperaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Cyperaceae",
+        "text": "Familia de plantas herbáceas con hojas de vaina generalmente cerrada y tallos que suelen tener sección triangular. Las flores se agrupan en espiguillas.",
+        "contrast": "Comparar la sección del tallo, las vainas y las brácteas de las espiguillas. Algunas especies no presentan todos estos rasgos de forma evidente.",
+        "source": "https://www.mobot.org/MOBOT/research/APWeb/orders/poalesweb.htm"
+      }
     },
     "family:Cypraeidae": {
       "name": "Cypraeidae",
@@ -2871,7 +2877,13 @@
     },
     "family:Orchidaceae": {
       "name": "Orchidaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Orchidaceae",
+        "text": "Familia de plantas con flores generalmente de simetría bilateral. Uno de sus tépalos forma el labelo y los estambres están unidos al estilo al menos en su base.",
+        "contrast": "La forma del labelo y la disposición del polen ayudan a distinguir grupos. La estructura floral varía entre géneros.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/asparagalesweb.htm"
+      }
     },
     "family:Oriolidae": {
       "name": "Oriolidae",
@@ -2962,7 +2974,13 @@
     },
     "family:Papaveraceae": {
       "name": "Papaveraceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Papaveraceae",
+        "text": "Familia de plantas con flores de cuatro pétalos en numerosos representantes. Incluye amapolas y fumarias, con formas florales diversas.",
+        "contrast": "En muchas amapolas se observa látex y numerosos estambres. Las fumarias presentan flores irregulares, por lo que conviene comparar varios caracteres.",
+        "source": "https://www.mobot.org/mobot/research/apweb/orders/ranunculalesweb.htm"
+      }
     },
     "family:Papilionidae": {
       "name": "Papilionidae",
