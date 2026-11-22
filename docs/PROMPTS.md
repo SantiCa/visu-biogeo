@@ -1,6 +1,6 @@
 # Prompts para chats centrados en una tarea
 
-Abrir un chat nuevo por cambio concreto dentro del proyecto **App Visu**, cuya raíz en este PC es `C:\Users\Santiago\Documents\ChatGPT\App Visu`. La aplicación y el repositorio están directamente ahí. Si habrá chats simultáneos, seleccionar **Worktree** y partir de `main` actualizado. Los worktrees separan los archivos de cada chat; los solapes se resuelven al integrar. Para trabajar en serie se puede usar Local, terminando una tarea antes de empezar la siguiente.
+Abrir un chat por cambio concreto dentro del proyecto **App Visu**, cuya raíz en este PC es `C:\Users\Santiago\Documents\ChatGPT\App Visu`. La aplicación y el repositorio están directamente ahí. Cada tarea nueva usa un worktree propio desde `origin/main` actualizado, también si se trabaja en serie. Los worktrees separan los archivos de cada chat; los solapes se resuelven al integrar. Para Claude, Gemini y el relevo entre agentes, consultar `docs/AGENTES-IA.md`.
 
 No crear siete chats vacíos ni mantener un chat interminable por área. Elegir el área de la tarea y sustituir el texto entre corchetes. `AGENTS.md` ya contiene las reglas de contexto, ramas, validación y PR; no hace falta pegarlo ni copiar conversaciones anteriores.
 
@@ -37,7 +37,8 @@ Deja el PR con decisiones, validación y ubicación de los archivos fuera de Git
 
 ```text
 Área: Fichas. Sigue AGENTS.md y la guía de esta área.
-Completa o revisa [descripción/diagnóstico/etimología] de [hasta 5 IDs o grupo].
+Completa o revisa [descripción/diagnóstico/etimología] de [IDs o grupo].
+Sigue también docs/areas/lotes-fichas.md para dimensionar el lote.
 Documenta fuentes y deja explícitas las partes desconocidas.
 Valida las fichas y prepara un PR del lote, sin publicar.
 ```

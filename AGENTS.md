@@ -2,6 +2,8 @@
 
 HTML/CSS y módulos ES sin framework ni npm. Python 3.12 para mantenimiento; Node 24 para pruebas.
 
+Al escribir o modificar código, incluidos scripts y pruebas, aplicar los principios de Clean Code adaptados al lenguaje: nombres claros, responsabilidades coherentes, diseño sencillo, validación en los límites y errores útiles. Mantener el comportamiento y los contratos existentes salvo petición expresa; verificar los cambios con las comprobaciones pertinentes.
+
 ## Contexto mínimo
 
 1. Identificar la tarea y revisar `git status --short --branch`. Leer **solo la guía del área** de la tabla. Consultar `docs/ESTADO.md` si hacen falta versión o pendientes globales.
@@ -25,6 +27,7 @@ Para crear o completar fichas, seguir también `docs/areas/lotes-fichas.md` y av
 - Trabajar en una rama `codex/area-resumen` desde `origin/main` actualizado. Si el chat ya tiene trabajo, continuar su rama. Para chats simultáneos, usar worktrees independientes; nunca cambiar de rama, limpiar o guardar con stash los cambios de otro chat en una carpeta compartida.
 - Para cada tarea nueva, incluso dentro de un chat reutilizado, ejecutar `python scripts/start_task.py area-resumen` y trabajar en la ruta devuelta. Comprueba que la raíz esté limpia, actualiza `main` solo por avance rápido y crea una rama/worktree nuevos desde `origin/main`. Si la tarea tiene un PR abierto, continuar su worktree. Los worktrees de tareas integradas se conservan como referencia y no se reutilizan para cambios distintos. `python scripts/start_task.py --check` comprueba la raíz común.
 - Una tarea concreta, un PR. Describir resultado esperado, archivos compartidos, validación y pendientes en el PR; ese es el traspaso entre chats. No crear PR sin cambios ni tareas adicionales sin necesidad.
+- Estas reglas se aplican también a Claude y Gemini. Los archivos `CLAUDE.md` y `GEMINI.md` remiten aquí; si el entorno no los carga o no tiene acceso al repositorio, consultar `docs/AGENTES-IA.md`. Un agente no hereda automáticamente las herramientas, credenciales o archivos locales de otro.
 - Los worktrees aíslan archivos, pero no evitan conflictos al integrar el mismo JSON o módulo. Indicar esos solapes y coordinar su integración. Solo integración actualiza el resumen global `docs/ESTADO.md`; cada tarea registra sus decisiones en su PR.
 - Ejecutar comprobaciones relacionadas con el cambio; no repetir suites ya correctas si no hay cambios, fallos o dudas nuevas. No añadir pruebas para cambios documentales ni réplicas del propio código. La CI cubre fuentes/datos; Windows nativo es ejecución manual.
 - Respuestas breves: resultado, validación, enlace al PR y cualquier bloqueo real. Registrar solo decisiones duraderas; evitar diarios y documentación duplicada. Este criterio de economía no reduce la revisión científica ni las comprobaciones necesarias.

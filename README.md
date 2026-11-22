@@ -4,13 +4,15 @@ Fuentes y control de versiones en el repositorio privado [SantiCa/visu-biogeo](h
 
 Para trabajar con chats centrados en una tarea, usar los [prompts por área](docs/PROMPTS.md). Las instrucciones de `AGENTS.md` indican qué contexto y comprobaciones necesita cada cambio.
 
+Para alternar entre Codex, Claude Code y Gemini CLI, consulta la [guía para agentes](docs/AGENTES-IA.md). Las secciones inferiores conservan el historial de versiones; sus cifras fechadas describen esos momentos. Para el estado vigente, usa `docs/ESTADO.md`.
+
 Aplicación web de estudio personal para PC, Mac y móvil. El catálogo se ha reconstruido desde los 51 PDF: incluye organismos, minerales, rocas, fósiles, estructuras, moléculas y geomorfología. La importación aún puede contener nombres históricos, variantes sin desglosar y líneas que requieren depuración. El catálogo no equivale a una revisión taxonómica completa.
 
 ## Instalar y abrir
 
 Windows: ejecuta **output/Instalar Visu BioGeo Windows.exe**. Instala el programa y el banco completo de fotos en tu usuario, crea un acceso directo y no necesita Python. El instalador ocupa aproximadamente 1,37 GB. El programa sirve sus archivos solo en 127.0.0.1 y mantiene el puerto 8081 para conservar el espacio de datos del navegador. Si ya tienes la app anterior abierta en ese puerto, se abre esa instancia; ciérrala cuando quieras usar el nuevo servidor nativo.
 
-Mac, iPad, iPhone y Android: abre [la web privada de Visu BioGeo](https://visu-biogeo-santica.nimblequail260.chatgpt.site/). En Mac usa Safari > Archivo > Añadir al Dock o la opción Instalar de Chrome. En iPad/iPhone usa Safari > Compartir > Añadir a pantalla de inicio. En Android usa Chrome > Instalar aplicación / Añadir a pantalla de inicio. La instalación en dispositivos Apple y Android no se ha probado sobre hardware físico en esta sesión.
+Mac, iPad, iPhone y Android: abre [la web de Visu BioGeo](https://visu-biogeo-santica.santic1290.chatgpt.site/). En Mac usa Safari > Archivo > Añadir al Dock o la opción Instalar de Chrome. En iPad/iPhone usa Safari > Compartir > Añadir a pantalla de inicio. En Android usa Chrome > Instalar aplicación / Añadir a pantalla de inicio. La instalación en dispositivos Apple y Android no se ha probado sobre hardware físico en esta sesión.
 
 El alojamiento está actualmente en modo público: el catálogo base puede abrirse sin cuenta. Dentro de la app, Ajustes permite entrar con tu correo y la contraseña de estudio para acceder al progreso y a las aportaciones autorizadas. Si configuras el alojamiento como privado, se añadirá además el acceso de ChatGPT del sitio. Las imágenes originales se guardan en el almacenamiento privado del sitio; las nuevas revisiones se publican de forma incremental. El acceso a las fotos del catálogo sigue la audiencia configurada en Sites; las fotos nuevas de usuarios en Supabase requieren una cuenta autorizada.
 
