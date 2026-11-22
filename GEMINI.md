@@ -1,0 +1,3 @@
+# Visu BioGeo
+
+@./AGENTS.md

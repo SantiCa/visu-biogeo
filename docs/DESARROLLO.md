@@ -21,7 +21,7 @@ La primera orden descarga únicamente los archivos ausentes del banco aprobado, 
 
 `--sample` selecciona solo las tres fotografías que usa la prueba nativa (JPEG, PNG y JPG); sirve para CI o una comprobación rápida. `--workers 1` limita la concurrencia. Un error HTTP se informa sin intentar eludir restricciones. Los originales, créditos, licencias y usos permitidos siguen en `data/curated-images.json`; el manifiesto no cambia esos derechos.
 
-Después de aprobar o modificar fotografías locales, ejecutar `python scripts/restore_media.py --refresh-lock` y registrar el nuevo manifiesto junto con las decisiones. El comando calcula hashes desde los archivos locales y no publica nada. Para que otras copias puedan recuperar las nuevas fotos, completar primero la publicación de medios de Sites. Los recortes y originales aprobados deben seguir disponibles en la copia local y su respaldo.
+Después de aprobar o modificar fotografías locales, seguir `docs/areas/imagenes.md`: regenerar el lock únicamente con el banco aprobado completo y registrar el manifiesto junto con las decisiones. `python scripts/restore_media.py --refresh-lock` calcula hashes desde los archivos locales y no publica nada. Para que otras copias puedan recuperar las nuevas fotos, completar primero la publicación de medios de Sites. Los recortes y originales aprobados deben seguir disponibles en la copia local y su respaldo.
 
 ## Ejecutar la app
 
@@ -51,13 +51,13 @@ Las pruebas de lógica no requieren el banco completo. La prueba nativa se omite
 
 GitHub Actions ejecuta las pruebas de fuentes en Ubuntu para cambios de código/datos en PR y en `main`. Los cambios solo documentales y los pushes de etiquetas no disparan esa suite; una ejecución nueva del mismo PR sustituye la anterior en curso. En `workflow_dispatch` ejecuta además la integración Windows, que compila el lanzador y recupera las tres fotos de muestra. Así las comprobaciones habituales no dependen de la disponibilidad del alojamiento de fotos. La suite de medios prueba integridad, rechazo de rutas y preservación de archivos locales con respuestas simuladas.
 
-Para cambios de imágenes o fichas, ejecutar además las auditorías correspondientes de `AGENTS.md`. El empaquetado completo requiere el banco local y Windows: ver `CONTINUAR.md`, apartado 10.
+Para cambios de imágenes o fichas, ejecutar además las auditorías de sus guías en `docs/areas/`. El empaquetado completo requiere el banco local y Windows: ver `CONTINUAR.md`, apartado 10.
 
 ## Forma de trabajar
 
 - `main` conserva la versión integrada; usar ramas `codex/descripcion-breve` para cada tarea nueva.
 - Commits que expliquen el cambio y su propósito; comprobar el diff antes de subir y no añadir archivos temporales.
-- Elegir el prompt de `docs/PROMPTS.md`; cada chat usa solo su guía en `docs/areas/`. Para trabajo simultáneo, seleccionar Worktree sobre el proyecto **App Visu**. En este PC su raíz es `C:\Users\Santiago\Documents\ChatGPT\App Visu`; la carpeta intermedia de la restauración ya se retiró y el Git vacío inicial quedó en el respaldo local.
+- Elegir el prompt de `docs/PROMPTS.md`; cada chat usa solo su guía en `docs/areas/`. Para cada tarea nueva, usar `python scripts/start_task.py area-resumen` y trabajar en la ruta devuelta. El relevo entre Codex, Claude y Gemini se explica en `docs/AGENTES-IA.md`. En este PC la raíz es `C:\Users\Santiago\Documents\ChatGPT\App Visu`.
 - Mantener `docs/ESTADO.md` breve y actualizado desde la integración. Las decisiones de cada tarea van en su PR para evitar conflictos entre chats.
 - No guardar credenciales en archivos o remotos Git. El código mantiene únicamente la clave publicable de Supabase.
 

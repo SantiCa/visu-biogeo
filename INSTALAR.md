@@ -7,7 +7,7 @@
 | iPad / iPhone | Abre la web de Visu en Safari > Compartir > Añadir a pantalla de inicio. |
 | Android | Abre la web de Visu en Chrome > Instalar aplicación. |
 
-Web: https://visu-biogeo-santica.nimblequail260.chatgpt.site/
+Web: https://visu-biogeo-santica.santic1290.chatgpt.site/
 
 El catálogo web está actualmente en modo público. Si el propietario lo configura como privado, requerirá además el acceso de ChatGPT al sitio. En Ajustes de Visu accede con tu correo y la contraseña de estudio para compartir progreso. Espera a «Sincronizado». Otras personas que tengan una copia del instalador no reciben tu contraseña ni tu sesión, ni están autorizadas en tu base.
 
