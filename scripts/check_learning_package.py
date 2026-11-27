@@ -13,5 +13,5 @@ def main():
  report={'version':(ROOT/'output/windows-installer/version.txt').read_text(),'filesChecked':len(files),'mismatches':bad,'forbiddenFiles':forbidden,'learningModuleIncluded':'classification-learning.mjs' in files,'learningTaxonomyIncluded':'data/learning-taxonomy.json' in files,'learningGeologyIncluded':'data/learning-geology.json' in files,'serviceWorkerIncluded':'sw.js' in files,'treeGuideIncluded':'taxonomy-guide.mjs' in files,'taxonReferenceIncluded':'taxon-reference.mjs' in files,'examPhotoRulesIncluded':'exam-photos.mjs' in files}
  report['rankedNoteFilesIncluded']=all('data/'+name in files for name in ['class-notes.json','order-notes.json','family-notes.json','genus-notes.json','species-notes.json','other-notes.json'])
  report['taxonNotesModuleIncluded']='taxon-notes.mjs' in files
- (ROOT/'output/package-check-v8.23.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8');print(json.dumps(report));assert not bad and not forbidden and report['rankedNoteFilesIncluded'] and report['taxonNotesModuleIncluded']
+ (ROOT/'output/package-check-v8.24.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8');print(json.dumps(report));assert not bad and not forbidden and report['rankedNoteFilesIncluded'] and report['taxonNotesModuleIncluded']
 if __name__=='__main__':main()

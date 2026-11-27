@@ -43,7 +43,13 @@
     },
     "family:Acrididae": {
       "name": "Acrididae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Acrididae",
+        "text": "Familia de saltamontes con antenas generalmente cortas y patas posteriores adaptadas al salto. Muchas especies se alimentan de plantas.",
+        "contrast": "Sus antenas suelen ser más cortas que el cuerpo; en los tettigónidos suelen ser muy largas. Algunos acrídidos forman poblaciones migratorias, pero no todos.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-orthoptera/"
+      }
     },
     "family:Acropeltidae": {
       "name": "Acropeltidae",
@@ -98,7 +104,13 @@
     },
     "family:Aizoaceae": {
       "name": "Aizoaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Aizoaceae",
+        "text": "Familia principalmente de hierbas y pequeños arbustos que incluye Carpobrotus. Muchas especies tienen hojas carnosas y flores vistosas con numerosas piezas.",
+        "contrast": "Las hojas suculentas son frecuentes, pero también aparecen en otras familias. Algunas aizoáceas tienen aspecto de piedras y otras son rastreras.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/caryophyllalesweb.htm"
+      }
     },
     "family:Alariaceae": {
       "name": "Alariaceae",
@@ -130,7 +142,13 @@
     },
     "family:Alismataceae": {
       "name": "Alismataceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Alismataceae",
+        "text": "Familia de hierbas acuáticas o de lugares encharcados que incluye Alisma y Sagittaria. Sus flores suelen tener tres sépalos y tres pétalos, y numerosos frutos pequeños se agrupan en el receptáculo.",
+        "contrast": "Las hojas de Sagittaria suelen tener forma de flecha, mientras las de Alisma pueden ser ovaladas o lanceoladas; la forma de la hoja varía con la especie y el medio.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/alismatalesweb.htm"
+      }
     },
     "family:Alopiidae": {
       "name": "Alopiidae",
@@ -142,7 +160,13 @@
     },
     "family:Altingiaceae": {
       "name": "Altingiaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Altingiaceae",
+        "text": "Familia de árboles que incluye Liquidambar. Sus hojas suelen ser palmeadas y las flores pequeñas se agrupan en inflorescencias compactas.",
+        "contrast": "Los liquidámbares producen infrutescencias redondeadas formadas por numerosos frutos; sus hojas lobuladas pueden recordar a las de otros árboles.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/saxifragalesweb.htm"
+      }
     },
     "family:Alveolinidae": {
       "name": "Alveolinidae",
@@ -162,7 +186,13 @@
     },
     "family:Amaranthaceae": {
       "name": "Amaranthaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Amaranthaceae",
+        "text": "Familia diversa de hierbas y arbustos que incluye amaranto, acelga y salado. Muchas especies tienen flores pequeñas y poco llamativas agrupadas en inflorescencias.",
+        "contrast": "La clasificación amplia incluye los antiguos quenopodios: algunas especies viven en suelos salinos o tienen hojas carnosas, pero no todas comparten esos rasgos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/caryophyllalesweb.htm"
+      }
     },
     "family:Amaryllidaceae": {
       "name": "Amaryllidaceae",
@@ -211,7 +241,13 @@
     },
     "family:Anacardiaceae": {
       "name": "Anacardiaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Anacardiaceae",
+        "text": "Familia de árboles y arbustos que incluye lentiscos, pistacheros y anacardos. Muchos tienen conductos con resinas y flores pequeñas; sus frutos son con frecuencia drupas.",
+        "contrast": "Las hojas pueden ser simples o compuestas. El líquido resinoso de algunas especies puede causar dermatitis, pero este efecto no caracteriza a todas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/sapindalesweb.htm"
+      }
     },
     "family:Anatidae": {
       "name": "Anatidae",
@@ -294,11 +330,23 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Apiaceae",
+        "text": "Familia que incluye apios, zanahorias y cardos corredores. Muchas de sus especies tienen hojas divididas y flores pequeñas agrupadas en umbelas; el fruto suele separarse en dos partes.",
+        "contrast": "La umbela compuesta es frecuente en muchas apiáceas, pero algunas presentan inflorescencias compactas que no se reconocen fácilmente como umbelas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/apialesweb.htm"
       }
     },
     "family:Apidae": {
       "name": "Apidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Apidae",
+        "text": "Familia de abejas que incluye abejas melíferas y abejorros. Muchas poseen pelos ramificados y visitan flores para obtener néctar o polen.",
+        "contrast": "Las abejas melíferas y los abejorros son sociales, pero en la familia también existen especies solitarias y especies con otras estrategias de reproducción.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-hymenoptera/family-apidae/"
+      }
     },
     "family:Aplysiidae": {
       "name": "Aplysiidae",
@@ -324,15 +372,33 @@
     },
     "family:Aquifoliaceae": {
       "name": "Aquifoliaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Aquifoliaceae",
+        "text": "Familia de árboles y arbustos que incluye los acebos, del género Ilex. Sus hojas son simples y sus flores pequeñas; numerosas especies tienen flores masculinas y femeninas en plantas separadas.",
+        "contrast": "El acebo común tiene hojas a menudo espinosas y frutos rojos al madurar, pero ni el borde espinoso ni ese color son universales en la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/aquifolialesweb2.htm"
+      }
     },
     "family:Araceae": {
       "name": "Araceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Araceae",
+        "text": "Familia de monocotiledóneas que incluye los aros. Muchas presentan flores pequeñas agrupadas en un eje carnoso llamado espádice, acompañado por una bráctea llamada espata.",
+        "contrast": "La espata puede parecer un pétalo, pero rodea una inflorescencia formada por numerosas flores. La familia también incluye plantas acuáticas muy reducidas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/alismatalesweb.htm"
+      }
     },
     "family:Araliaceae": {
       "name": "Araliaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Araliaceae",
+        "text": "Familia diversa que incluye hiedras, ginseng y numerosas plantas leñosas. Las flores suelen ser pequeñas y se agrupan en inflorescencias frecuentemente umbeliformes.",
+        "contrast": "La hiedra es una trepadora, pero la familia incluye árboles, arbustos y hierbas; no todas sus hojas tienen la misma forma ni están divididas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/apialesweb.htm"
+      }
     },
     "family:Araneidae": {
       "name": "Araneidae",
@@ -375,6 +441,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Arecaceae",
+        "text": "Familia de monocotiledóneas conocida como palmeras. Muchas poseen un tallo sin ramificar coronado por hojas grandes divididas en segmentos y flores pequeñas agrupadas en inflorescencias.",
+        "contrast": "Las hojas pueden ser pinnadas o palmadas; no todas las palmeras tienen un tronco alto ni son erectas, pues también existen formas trepadoras.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/arecalesweb.htm"
       }
     },
     "family:Arenicolidae": {
@@ -399,7 +471,13 @@
     },
     "family:Aristolochiaceae": {
       "name": "Aristolochiaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Aristolochiaceae",
+        "text": "Familia de plantas que incluye aristoloquias, con especies herbáceas y trepadoras. Sus flores tienen una envoltura floral de forma variable, a menudo tubular en Aristolochia.",
+        "contrast": "Las flores curvadas de muchas aristoloquias facilitan el reconocimiento del género, pero otras plantas de la familia tienen flores de simetría y forma diferentes.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/piperalesweb2.htm"
+      }
     },
     "family:Ascarididae": {
       "name": "Ascarididae",
@@ -436,7 +514,13 @@
     },
     "family:Asphodelaceae": {
       "name": "Asphodelaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Asphodelaceae",
+        "text": "Familia de monocotiledóneas que incluye gamones, áloes y otros grupos herbáceos o leñosos. Muchas presentan hojas alargadas y flores con seis piezas en dos verticilos.",
+        "contrast": "Los áloes suelen tener hojas carnosas, mientras los gamones tienen hojas estrechas y flores agrupadas en tallos altos; no toda la familia comparte el mismo porte.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/asparagalesweb.htm"
+      }
     },
     "family:Aspidoceratidae": {
       "name": "Aspidoceratidae",
@@ -565,6 +649,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Berberidaceae",
+        "text": "Familia de hierbas y arbustos que incluye agracejos. Sus flores tienen piezas dispuestas en verticilos y sus frutos pueden ser bayas o cápsulas.",
+        "contrast": "Los agracejos suelen tener espinas y frutos carnosos; otras berberidáceas son herbáceas y carecen de ese aspecto.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/ranunculalesweb.htm"
       }
     },
     "family:Berycidae": {
@@ -605,6 +695,12 @@
           }
         ],
         "reviewedAt": "2026-10-26"
+      },
+      "guide": {
+        "name": "Bignoniaceae",
+        "text": "Familia de árboles, arbustos y trepadoras que incluye Catalpa. Muchas especies presentan hojas compuestas y flores grandes con corola soldada.",
+        "contrast": "Las catalpas tienen frutos alargados y flores vistosas; otras bignoniáceas son trepadoras, por lo que el porte no es uniforme.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/lamialesweb.htm"
       }
     },
     "family:Blanidae": {
@@ -710,7 +806,13 @@
     },
     "family:Bromeliaceae": {
       "name": "Bromeliaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Bromeliaceae",
+        "text": "Familia de monocotiledóneas herbáceas que incluye la piña. Muchas especies tienen hojas en roseta y flores agrupadas en inflorescencias.",
+        "contrast": "Muchas bromelias viven sobre otras plantas y algunas acumulan agua entre las hojas; otras crecen en el suelo y no forman depósitos de agua.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/poalesweb.htm"
+      }
     },
     "family:Bryaceae": {
       "name": "Bryaceae",
@@ -736,11 +838,23 @@
     },
     "family:Buxaceae": {
       "name": "Buxaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Buxaceae",
+        "text": "Familia de plantas leñosas que incluye los bojes. Sus flores son pequeñas y generalmente unisexuales, y las hojas suelen ser simples.",
+        "contrast": "El boj común tiene hojas opuestas y persistentes y fruto capsular; la familia incluye otros géneros de aspecto diferente.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/buxalesweb.htm"
+      }
     },
     "family:Cactaceae": {
       "name": "Cactaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Cactaceae",
+        "text": "Familia de plantas que incluye los cactus y las chumberas. Se caracteriza por las areolas, pequeñas zonas de las que pueden salir espinas, pelos, ramas o flores.",
+        "contrast": "Muchos cactus almacenan agua en tallos carnosos y tienen hojas muy reducidas; algunas especies conservan hojas desarrolladas o crecen como trepadoras o epífitas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/caryophyllalesweb.htm"
+      }
     },
     "family:Calamitaceae": {
       "name": "Calamitaceae",
@@ -791,7 +905,13 @@
     },
     "family:Campanulaceae": {
       "name": "Campanulaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Campanulaceae",
+        "text": "Familia principalmente herbácea que incluye campanillas y afines. Muchas tienen látex, hojas alternas y flores con pétalos soldados y ovario ínfero.",
+        "contrast": "Las corolas acampanadas son frecuentes, pero otras especies tienen flores bilabiadas o agrupadas; la familia no se identifica únicamente por la forma de campana.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/asteralesweb.htm"
+      }
     },
     "family:Campanulariidae": {
       "name": "Campanulariidae",
@@ -826,6 +946,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Cannabaceae",
+        "text": "Familia de plantas con flores que incluye el cáñamo, el lúpulo y los almezos. Reúne hierbas, trepadoras y árboles, con flores generalmente pequeñas.",
+        "contrast": "Cannabis y Humulus son herbáceos, mientras Celtis es un árbol; el hábito trepador o las hojas palmadas no describen a toda la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/rosalesweb.htm"
       }
     },
     "family:Caprellidae": {
@@ -848,7 +974,13 @@
     },
     "family:Carabidae": {
       "name": "Carabidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Carabidae",
+        "text": "Familia de escarabajos terrestres que incluye muchos corredores del suelo. Tienen antenas filiformes y, en numerosas especies, patas largas y mandíbulas desarrolladas.",
+        "contrast": "Muchos son depredadores activos, pero el tamaño, el color y los hábitos varían; algunas especies muestran actividad diurna y otras nocturna.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/family-carabidae/"
+      }
     },
     "family:Carangidae": {
       "name": "Carangidae",
@@ -921,7 +1053,13 @@
     },
     "family:Cerambycidae": {
       "name": "Cerambycidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Cerambycidae",
+        "text": "Familia de escarabajos longicornios, frecuentemente de cuerpo alargado y antenas largas. Las larvas de numerosas especies se desarrollan en madera o tejidos vegetales.",
+        "contrast": "Las antenas pueden superar la longitud corporal, pero su longitud varía. Los adultos de algunas especies se observan sobre flores.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/family-cerambycidae/"
+      }
     },
     "family:Ceramiaceae": {
       "name": "Ceramiaceae",
@@ -1145,6 +1283,12 @@
           }
         ],
         "reviewedAt": "2026-10-26"
+      },
+      "guide": {
+        "name": "Coccinellidae",
+        "text": "Familia de escarabajos que incluye las mariquitas. Muchos adultos tienen cuerpo ovalado y convexo, con élitros de colores y dibujos contrastados.",
+        "contrast": "Numerosas especies consumen pulgones, tanto de larvas como de adultas, pero existen mariquitas con otras dietas y no todas tienen puntos negros sobre rojo.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/family-coccinellidae/"
       }
     },
     "family:Codiaceae": {
@@ -1171,7 +1315,13 @@
     },
     "family:Commelinaceae": {
       "name": "Commelinaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Commelinaceae",
+        "text": "Familia principalmente de hierbas monocotiledóneas que incluye Tradescantia. Muchas tienen hojas con base envainadora y flores de tres pétalos.",
+        "contrast": "Los tallos pueden ser rastreros o erectos, y las flores muestran variaciones de color y simetría entre especies.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/commelinalesweb.htm"
+      }
     },
     "family:Congridae": {
       "name": "Congridae",
@@ -1187,7 +1337,13 @@
     },
     "family:Convolvulaceae": {
       "name": "Convolvulaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Convolvulaceae",
+        "text": "Familia que incluye las correhuelas y muchas otras plantas trepadoras. Sus flores suelen tener una corola de pétalos soldados, a menudo con forma de embudo, y cinco sépalos persistentes.",
+        "contrast": "La corola plegada y el hábito voluble son frecuentes, pero existen especies no trepadoras y formas parásitas como Cuscuta.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/solanalesweb.htm"
+      }
     },
     "family:Coprinaceae": {
       "name": "Coprinaceae",
@@ -1215,7 +1371,13 @@
     },
     "family:Cornaceae": {
       "name": "Cornaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Cornaceae",
+        "text": "Familia de árboles, arbustos y algunas hierbas que incluye los cornejos. Sus flores pequeñas suelen agruparse en inflorescencias y el fruto es normalmente una drupa.",
+        "contrast": "En algunas especies hay brácteas vistosas alrededor de la inflorescencia; en otras, como el cornejo sanguino, no forman una gran envoltura blanca.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/cornalesweb.htm"
+      }
     },
     "family:Corvidae": {
       "name": "Corvidae",
@@ -1243,7 +1405,13 @@
     },
     "family:Crassulaceae": {
       "name": "Crassulaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Crassulaceae",
+        "text": "Familia de plantas principalmente herbáceas con hojas frecuentemente carnosas, como los sedos y siemprevivas. Sus flores suelen tener piezas dispuestas en varios verticilos.",
+        "contrast": "La acumulación de agua en las hojas es frecuente, pero también aparece en familias no emparentadas. La forma de las hojas y el número de piezas florales varían.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/saxifragalesweb.htm"
+      }
     },
     "family:Cryptobranchidae": {
       "name": "Cryptobranchidae",
@@ -1452,7 +1620,13 @@
     },
     "family:Dioscoreaceae": {
       "name": "Dioscoreaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Dioscoreaceae",
+        "text": "Familia de monocotiledóneas que incluye ñames y Borderea. Muchas especies son trepadoras y poseen órganos subterráneos de reserva y flores pequeñas.",
+        "contrast": "A diferencia de muchas monocotiledóneas, algunas dioscoreáceas presentan hojas anchas con nerviación reticulada; el porte y las hojas varían entre géneros.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/dioscorealesweb.htm"
+      }
     },
     "family:Diplocystidaceae": {
       "name": "Diplocystidaceae",
@@ -1476,7 +1650,13 @@
     },
     "family:Droseraceae": {
       "name": "Droseraceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Droseraceae",
+        "text": "Familia de plantas herbáceas carnívoras que incluye los rocíos del sol, Drosera. Capturan pequeños animales mediante hojas modificadas y absorben nutrientes de ellos.",
+        "contrast": "Drosera utiliza pelos glandulares pegajosos; Dionaea posee trampas que se cierran. Son mecanismos distintos dentro de la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/caryophyllalesweb.htm"
+      }
     },
     "family:Drosophilidae": {
       "name": "Drosophilidae",
@@ -1511,7 +1691,13 @@
     },
     "family:Ebenaceae": {
       "name": "Ebenaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Ebenaceae",
+        "text": "Familia principalmente de árboles y arbustos que incluye los caquis y algunos ébanos. Sus hojas son simples y sus frutos suelen ser carnosos.",
+        "contrast": "El fruto del caqui es una baya con cáliz persistente; no todas las especies de la familia presentan frutos del mismo tamaño o color.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/ericalesweb.htm"
+      }
     },
     "family:Echeneidae": {
       "name": "Echeneidae",
@@ -1645,7 +1831,13 @@
     },
     "family:Erebidae": {
       "name": "Erebidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Erebidae",
+        "text": "Familia diversa de polillas que incluye especies llamadas tigres, osas y algunas conocidas como alas inferiores. Sus larvas y adultos muestran formas y coloraciones variadas.",
+        "contrast": "Algunas especies tienen orugas muy peludas y otras no; tampoco todas las polillas de colores llamativos pertenecen a esta familia.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/"
+      }
     },
     "family:Eremiaphilidae": {
       "name": "Eremiaphilidae",
@@ -1899,7 +2091,13 @@
     },
     "family:Gentianaceae": {
       "name": "Gentianaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Gentianaceae",
+        "text": "Familia de hierbas y otras plantas con flores que incluye las gencianas. Muchas tienen hojas opuestas y flores con pétalos soldados.",
+        "contrast": "Las flores de Gentiana suelen ser tubulares o acampanadas; existen gencianáceas de formas y colores distintos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/gentianalesweb.htm"
+      }
     },
     "family:Geoemydidae": {
       "name": "Geoemydidae",
@@ -1925,7 +2123,13 @@
     },
     "family:Gesneriaceae": {
       "name": "Gesneriaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Gesneriaceae",
+        "text": "Familia de hierbas, arbustos y otras plantas que incluye Ramonda. Muchas poseen hojas opuestas y flores de corola soldada con simetría bilateral.",
+        "contrast": "Ramonda crece en rosetas sobre rocas; numerosas especies tropicales tienen porte y hábitat diferentes, incluidas plantas epífitas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/lamialesweb.htm"
+      }
     },
     "family:Gigartinaceae": {
       "name": "Gigartinaceae",
@@ -2200,7 +2404,13 @@
     },
     "family:Hypericaceae": {
       "name": "Hypericaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Hypericaceae",
+        "text": "Familia de hierbas, arbustos y árboles que incluye las hierbas de San Juan. Muchas especies tienen hojas opuestas y flores con numerosos estambres.",
+        "contrast": "En Hypericum son frecuentes los pétalos amarillos y las glándulas visibles en hojas o flores; esos rasgos no describen toda la diversidad de la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/malpighialesweb.htm"
+      }
     },
     "family:Hypnaceae": {
       "name": "Hypnaceae",
@@ -2224,7 +2434,13 @@
     },
     "family:Iridaceae": {
       "name": "Iridaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Iridaceae",
+        "text": "Familia de monocotiledóneas que incluye lirios del género Iris y azafranes. Muchas tienen hojas estrechas, órganos subterráneos de reserva y flores con seis tépalos y tres estambres.",
+        "contrast": "Iris y Crocus presentan flores distintas, pero comparten tres estambres; los órganos de reserva pueden ser rizomas, bulbos o cormos según el grupo.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/asparagalesweb.htm"
+      }
     },
     "family:Irregularia": {
       "name": "Irregularia",
@@ -2270,7 +2486,13 @@
     },
     "family:Juglandaceae": {
       "name": "Juglandaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Juglandaceae",
+        "text": "Familia de árboles y arbustos que incluye nogales y pacanos. Sus hojas suelen ser compuestas y las flores masculinas y femeninas están separadas.",
+        "contrast": "En muchos nogales las flores masculinas forman amentos y el fruto contiene una semilla rodeada por cubiertas duras y externas; los frutos varían entre géneros.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/fagalesweb.htm"
+      }
     },
     "family:Labiduridae": {
       "name": "Labiduridae",
@@ -2339,7 +2561,13 @@
     },
     "family:Lauraceae": {
       "name": "Lauraceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Lauraceae",
+        "text": "Familia principalmente de árboles y arbustos que incluye laureles y aguacates. Muchas especies tienen hojas aromáticas y flores pequeñas; el fruto suele contener una sola semilla.",
+        "contrast": "Las hojas aromáticas ayudan a reconocer a muchos miembros, pero no son exclusivas de la familia. Algunas lauráceas tienen formas de vida muy diferentes.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/lauralesweb.htm"
+      }
     },
     "family:Lecanoraceae": {
       "name": "Lecanoraceae",
@@ -2347,7 +2575,13 @@
     },
     "family:Lentibulariaceae": {
       "name": "Lentibulariaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Lentibulariaceae",
+        "text": "Familia de plantas herbáceas carnívoras que habitan con frecuencia medios húmedos. Sus hojas u órganos modificados capturan pequeños organismos, y las flores suelen ser de simetría bilateral.",
+        "contrast": "Pinguicula captura presas mediante hojas pegajosas; Utricularia emplea pequeñas trampas en forma de vejiga. La estructura de la trampa varía entre géneros.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/lamialesweb.htm"
+      }
     },
     "family:Lepadidae": {
       "name": "Lepadidae",
@@ -2514,7 +2748,13 @@
     },
     "family:Lycaenidae": {
       "name": "Lycaenidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Lycaenidae",
+        "text": "Familia de mariposas generalmente pequeñas que incluye numerosas especies azules, cobrizas y de otros colores. Sus alas y orugas presentan formas y dibujos variados.",
+        "contrast": "El color azul aparece en muchas especies, a menudo en machos, pero no permite reconocer por sí solo a todos los licénidos.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/"
+      }
     },
     "family:Lycoperdaceae": {
       "name": "Lycoperdaceae",
@@ -2556,6 +2796,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Lythraceae",
+        "text": "Familia de hierbas, arbustos y árboles que incluye la salicaria y el granado. Muchas especies presentan un tubo floral y hojas simples, y sus frutos son diversos.",
+        "contrast": "La salicaria produce cápsulas, mientras el granado tiene un fruto carnoso con numerosas semillas; estos ejemplos muestran la diversidad de la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/myrtalesweb2.htm"
       }
     },
     "family:Mactridae": {
@@ -2564,7 +2810,13 @@
     },
     "family:Magnoliaceae": {
       "name": "Magnoliaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Magnoliaceae",
+        "text": "Familia de árboles y arbustos que incluye magnolias y tuliperos. Sus flores suelen presentar numerosas piezas florales y carpelos dispuestos sobre un receptáculo alargado.",
+        "contrast": "Las flores de Magnolia y Liriodendron tienen formas y colores distintos; sus hojas también difieren, aunque ambos son géneros de la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/magnolialesweb.htm"
+      }
     },
     "family:Majidae": {
       "name": "Majidae",
@@ -2636,11 +2888,23 @@
     },
     "family:Melanthiaceae": {
       "name": "Melanthiaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Melanthiaceae",
+        "text": "Familia de monocotiledóneas herbáceas que incluye Paris y otros géneros con órganos subterráneos de reserva. Las hojas y flores varían considerablemente entre sus miembros.",
+        "contrast": "Paris suele presentar hojas dispuestas en un verticilo aparente bajo una flor solitaria; otras melantiáceas tienen flores agrupadas en inflorescencias.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/lilialesweb.htm"
+      }
     },
     "family:Meliaceae": {
       "name": "Meliaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Meliaceae",
+        "text": "Familia principalmente de árboles y arbustos que incluye Melia. Muchas especies presentan hojas compuestas y flores pequeñas agrupadas.",
+        "contrast": "Los frutos pueden ser secos o carnosos según el género; el fruto de Melia no representa todas las formas de la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/sapindalesweb.htm"
+      }
     },
     "family:Mellitidae": {
       "name": "Mellitidae",
@@ -2692,7 +2956,13 @@
     },
     "family:Moraceae": {
       "name": "Moraceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Moraceae",
+        "text": "Familia principalmente de árboles y arbustos que incluye higueras y moreras. Muchas especies producen látex y tienen flores pequeñas agrupadas en inflorescencias.",
+        "contrast": "En Ficus las flores se alojan dentro de una estructura cerrada, el sicono; la infrutescencia de la morera tiene otra organización.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/rosalesweb.htm"
+      }
     },
     "family:Morchellaceae": {
       "name": "Morchellaceae",
@@ -2736,7 +3006,13 @@
     },
     "family:Musaceae": {
       "name": "Musaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Musaceae",
+        "text": "Familia de grandes hierbas monocotiledóneas que incluye los plataneros. Las bases de sus hojas forman un pseudotallo y sus flores aparecen en inflorescencias con brácteas.",
+        "contrast": "El pseudotallo no es un tronco leñoso verdadero. La forma y la fertilidad de los frutos varían entre especies y variedades.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/zingiberalesweb.htm"
+      }
     },
     "family:Muscicapidae": {
       "name": "Muscicapidae",
@@ -2787,7 +3063,13 @@
     },
     "family:Myrtaceae": {
       "name": "Myrtaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Myrtaceae",
+        "text": "Familia de árboles y arbustos que incluye mirtos, eucaliptos y guayabos. Muchas especies tienen hojas con glándulas de aceites y flores con numerosos estambres.",
+        "contrast": "Los frutos varían: el mirto produce bayas, mientras muchos eucaliptos forman cápsulas leñosas. El aroma de las hojas tampoco es exclusivo de esta familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/myrtalesweb2.htm"
+      }
     },
     "family:Mytilidae": {
       "name": "Mytilidae",
@@ -2919,11 +3201,23 @@
     },
     "family:Nymphaeaceae": {
       "name": "Nymphaeaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Nymphaeaceae",
+        "text": "Familia de plantas acuáticas que incluye nenúfares. Muchas poseen rizomas, hojas flotantes y flores visibles que nacen sobre el agua o cerca de su superficie.",
+        "contrast": "Nymphaea y Nuphar comparten vida acuática pero difieren en la forma de sus flores. El loto pertenece a otra familia, Nelumbonaceae.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/nymphaealesweb.htm"
+      }
     },
     "family:Nymphalidae": {
       "name": "Nymphalidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Nymphalidae",
+        "text": "Familia diversa de mariposas que incluye vanesas, nácares y satirinos. Los adultos tienen el primer par de patas reducido y habitualmente lo mantienen recogido.",
+        "contrast": "Aunque parecen caminar con cuatro patas, poseen seis; el primer par reducido ayuda a distinguir muchos ninfálidos de otras mariposas.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/family-nymphalidae/"
+      }
     },
     "family:Nymphonidae": {
       "name": "Nymphonidae",
@@ -2957,7 +3251,13 @@
     },
     "family:Onagraceae": {
       "name": "Onagraceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Onagraceae",
+        "text": "Familia de hierbas y arbustos que incluye Circaea y Epilobium. Sus flores suelen tener ovario ínfero y un número reducido de piezas en cada verticilo.",
+        "contrast": "En muchos Epilobium las semillas tienen pelos, mientras Circaea presenta frutos con pelos que pueden adherirse a los animales.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/myrtalesweb2.htm"
+      }
     },
     "family:Onchidiidae": {
       "name": "Onchidiidae",
@@ -3011,7 +3311,13 @@
     },
     "family:Orobanchaceae": {
       "name": "Orobanchaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Orobanchaceae",
+        "text": "Familia principalmente herbácea que incluye plantas hemiparásitas y holoparásitas, capaces de obtener recursos de otras plantas mediante haustorios. Sus flores suelen tener corola soldada y simetría bilateral.",
+        "contrast": "Orobanche carece de clorofila y depende del huésped; otros géneros conservan hojas verdes y hacen fotosíntesis. También existen miembros no parásitos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/lamialesweb.htm"
+      }
     },
     "family:Orthidae": {
       "name": "Orthidae",
@@ -3058,7 +3364,13 @@
     },
     "family:Oxalidaceae": {
       "name": "Oxalidaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Oxalidaceae",
+        "text": "Familia que incluye las acederillas del género Oxalis y otras hierbas, arbustos y árboles. Muchas especies presentan hojas compuestas y flores con cinco pétalos.",
+        "contrast": "Las hojas trifoliadas son comunes en Oxalis, pero no identifican por sí solas a la familia ni están presentes en todos sus miembros.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/oxalidalesweb.htm"
+      }
     },
     "family:Oxynotidae": {
       "name": "Oxynotidae",
@@ -3066,7 +3378,13 @@
     },
     "family:Paeoniaceae": {
       "name": "Paeoniaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Paeoniaceae",
+        "text": "Familia del género Paeonia, que comprende hierbas perennes y arbustos. Sus flores suelen ser grandes, con numerosos estambres y varios carpelos libres.",
+        "contrast": "Las peonías herbáceas y las arbustivas difieren en su porte; el número de pétalos puede cambiar especialmente en variedades cultivadas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/saxifragalesweb.htm"
+      }
     },
     "family:Paguridae": {
       "name": "Paguridae",
@@ -3115,6 +3433,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Papilionidae",
+        "text": "Familia de mariposas que incluye las colas de golondrina y los apolos. Sus adultos tienen patas anteriores desarrolladas y una estructura llamada epífisis en la tibia anterior.",
+        "contrast": "Muchos papiliónidos tienen prolongaciones en las alas posteriores, pero los apolos muestran que esas colas no son universales.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/family-papilionidae/"
       }
     },
     "family:Paraceratheriidae": {
@@ -3168,7 +3492,13 @@
     },
     "family:Passifloraceae": {
       "name": "Passifloraceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Passifloraceae",
+        "text": "Familia de hierbas, arbustos y trepadoras que incluye las pasifloras. Sus flores presentan una gran diversidad de formas y muchos miembros tienen zarcillos.",
+        "contrast": "En Passiflora suele destacar una corona de filamentos entre la envoltura floral y los órganos reproductores; no todas las especies de la familia son trepadoras.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/malpighialesweb.htm"
+      }
     },
     "family:Patellidae": {
       "name": "Patellidae",
@@ -3242,6 +3572,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Pentatomidae",
+        "text": "Familia de chinches terrestres que incluye numerosas chinches de las plantas. Suelen tener cuerpo ancho y un escudete triangular visible en el dorso.",
+        "contrast": "Muchas especies producen secreciones defensivas olorosas; la forma de escudo y la coloración por sí solas no identifican todas las especies.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-hemiptera-suborder-heteroptera/family-pentatomidae/"
       }
     },
     "family:Percidae": {
@@ -3340,7 +3676,13 @@
     },
     "family:Pieridae": {
       "name": "Pieridae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Pieridae",
+        "text": "Familia de mariposas que incluye numerosas blancas y amarillas. Sus adultos tienen patas anteriores desarrolladas y uñas tarsales divididas.",
+        "contrast": "Muchas especies son claras con marcas oscuras, pero el color por sí solo no identifica la familia ni describe toda su diversidad.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/family-pieridae/"
+      }
     },
     "family:Pinaceae": {
       "name": "Pinaceae",
@@ -3363,7 +3705,13 @@
     },
     "family:Piperaceae": {
       "name": "Piperaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Piperaceae",
+        "text": "Familia de hierbas, arbustos y trepadoras que incluye la pimienta. Sus flores suelen ser muy pequeñas y se agrupan en espigas densas.",
+        "contrast": "La pimienta negra procede de Piper; otras piperáceas, como Peperomia, presentan porte y hojas distintos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/piperalesweb2.htm"
+      }
     },
     "family:Pipidae": {
       "name": "Pipidae",
@@ -3434,6 +3782,12 @@
           }
         ],
         "reviewedAt": "2026-10-26"
+      },
+      "guide": {
+        "name": "Platanaceae",
+        "text": "Familia de árboles que incluye el género Platanus. Sus flores pequeñas se reúnen en cabezuelas separadas masculinas y femeninas, y sus frutos secos aparecen agrupados en esferas.",
+        "contrast": "Muchos plátanos de sombra tienen corteza que se desprende en placas y hojas lobuladas; esos rasgos se deben examinar junto con sus inflorescencias y frutos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/protealesweb.html"
       }
     },
     "family:Pleuronectidae": {
@@ -3501,11 +3855,23 @@
     },
     "family:Polygalaceae": {
       "name": "Polygalaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Polygalaceae",
+        "text": "Familia de hierbas, arbustos y árboles que incluye las poligalas. Muchas especies tienen flores de simetría bilateral y frutos capsulares.",
+        "contrast": "En Polygala dos sépalos laterales pueden ser grandes y parecer pétalos; otros géneros de la familia presentan formas florales distintas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/fabalesweb.htm"
+      }
     },
     "family:Polygonaceae": {
       "name": "Polygonaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Polygonaceae",
+        "text": "Familia que incluye romazas y acederas, generalmente con flores pequeñas y frutos secos. Muchas especies tienen una vaina membranosa, la ócrea, alrededor del tallo en los nudos.",
+        "contrast": "La ócrea es útil para reconocer numerosas poligonáceas, aunque falta en algunos grupos; las piezas florales pueden persistir alrededor del fruto.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/caryophyllalesweb.htm"
+      }
     },
     "family:Polyphysaceae": {
       "name": "Polyphysaceae",
@@ -3574,7 +3940,13 @@
     },
     "family:Posidoniaceae": {
       "name": "Posidoniaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Posidoniaceae",
+        "text": "Familia de plantas marinas con flores del género Posidonia. Sus especies tienen rizomas y hojas largas en forma de cinta, y pueden formar praderas submarinas.",
+        "contrast": "Son plantas con flores, raíces y rizomas, aunque vivan sumergidas; las algas marinas no tienen esa misma organización vegetal.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/alismatalesweb.htm"
+      }
     },
     "family:Potamididae": {
       "name": "Potamididae",
@@ -3582,7 +3954,13 @@
     },
     "family:Potamogetonaceae": {
       "name": "Potamogetonaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Potamogetonaceae",
+        "text": "Familia de plantas acuáticas con flores que incluye Potamogeton. Sus hojas pueden permanecer sumergidas o flotar, y las flores pequeñas se reúnen en espigas.",
+        "contrast": "Una misma planta puede tener hojas flotantes y sumergidas de aspecto diferente; las especies también varían en la forma de sus hojas y frutos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/alismatalesweb.htm"
+      }
     },
     "family:Pottiaceae": {
       "name": "Pottiaceae",
@@ -3753,7 +4131,13 @@
     },
     "family:Resedaceae": {
       "name": "Resedaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Resedaceae",
+        "text": "Familia de plantas que incluye las resedas, con hierbas y formas leñosas. Sus flores suelen ser pequeñas, agruparse en inflorescencias y presentar numerosos estambres.",
+        "contrast": "En Reseda los pétalos pueden estar divididos y ser desiguales, y el fruto suele ser una cápsula; la familia comprende géneros con morfologías diferentes.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/brassicalesweb.htm"
+      }
     },
     "family:Rhamnaceae": {
       "name": "Rhamnaceae",
@@ -3846,6 +4230,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Rubiaceae",
+        "text": "Familia de hierbas, arbustos y árboles que incluye rubias, galios y cafetos. Son frecuentes las hojas opuestas, las estípulas entre los pecíolos y las flores de pétalos soldados.",
+        "contrast": "Los galios suelen parecer tener hojas en verticilos porque las estípulas se parecen a las hojas; el porte y los frutos varían mucho en la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/gentianalesweb.htm"
       }
     },
     "family:Russulaceae": {
@@ -3854,7 +4244,13 @@
     },
     "family:Rutaceae": {
       "name": "Rutaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Rutaceae",
+        "text": "Familia que incluye rudas y cítricos, formada principalmente por árboles y arbustos. Muchas especies tienen glándulas de aceites en las hojas y flores con un disco nectarífero.",
+        "contrast": "Las hojas pueden ser simples o compuestas y los frutos muy variados; el fruto de los cítricos es solo una de las formas presentes en la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/sapindalesweb.htm"
+      }
     },
     "family:Sabellariidae": {
       "name": "Sabellariidae",
@@ -3891,6 +4287,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Salicaceae",
+        "text": "Familia de árboles, arbustos y otras plantas leñosas que incluye sauces y chopos. Las hojas suelen ser simples y la familia comprende flores y frutos de formas variadas.",
+        "contrast": "Los sauces y chopos presentan flores pequeñas en amentos y semillas con pelos; esa combinación es característica de esos géneros y no debe extenderse a toda la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/malpighialesweb.htm"
       }
     },
     "family:Salmonidae": {
@@ -3955,6 +4357,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Saturniidae",
+        "text": "Familia de polillas que incluye los grandes pavones nocturnos. Muchas tienen cuerpo peludo, antenas plumosas y manchas que recuerdan ojos en las alas.",
+        "contrast": "Las antenas pueden diferir entre sexos y los ocelos varían entre especies; no todos los satúrnidos tienen idéntico dibujo.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/family-saturniidae/"
       }
     },
     "family:Saxifragaceae": {
@@ -3969,7 +4377,13 @@
     },
     "family:Scarabaeidae": {
       "name": "Scarabaeidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Scarabaeidae",
+        "text": "Familia diversa de escarabajos, muchos de cuerpo robusto, con antenas terminadas en láminas que pueden abrirse. Sus patas son frecuentemente fuertes y espinosas.",
+        "contrast": "Incluye especies asociadas al estiércol y otras que comen plantas o visitan flores; no todos los escarabeidos tienen la misma dieta.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/family-scarabaeidae/"
+      }
     },
     "family:Schizasteridae": {
       "name": "Schizasteridae",
@@ -4341,6 +4755,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Tamaricaceae",
+        "text": "Familia principalmente de arbustos y árboles que incluye los tarajes. Muchas especies tienen hojas pequeñas y flores agrupadas en inflorescencias densas.",
+        "contrast": "Los tarajes suelen presentar ramas finas y hojas escamosas; algunas especies toleran suelos salinos, pero la familia no se reconoce solo por el hábitat.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/caryophyllalesweb.htm"
       }
     },
     "family:Taxaceae": {
@@ -4434,6 +4854,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Tettigoniidae",
+        "text": "Familia de ortópteros que incluye numerosas esperanzas y saltamontes de antenas largas. Sus patas posteriores están adaptadas al salto y muchas especies se camuflan entre la vegetación.",
+        "contrast": "Las antenas suelen ser tan largas como el cuerpo o más, y los órganos auditivos se encuentran en las tibias anteriores; el ovipositor de las hembras varía de forma.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-orthoptera/family-tettigoniidae/"
       }
     },
     "family:Theaceae": {
@@ -4473,7 +4899,13 @@
     },
     "family:Thymelaeaceae": {
       "name": "Thymelaeaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Thymelaeaceae",
+        "text": "Familia de arbustos y árboles, con algunas hierbas, que incluye torviscos y especies de Daphne. Muchas presentan corteza fibrosa y flores con una envoltura tubular.",
+        "contrast": "Las hojas enteras y las ramas flexibles aparecen en muchas especies; las flores y los frutos varían entre géneros.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/malvalesweb.htm"
+      }
     },
     "family:Tichodromidae": {
       "name": "Tichodromidae",
@@ -4611,7 +5043,13 @@
     },
     "family:Typhaceae": {
       "name": "Typhaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Typhaceae",
+        "text": "Familia de plantas herbáceas de humedales que incluye eneas y especies de Sparganium. Sus flores pequeñas son unisexuales y están agrupadas en inflorescencias densas.",
+        "contrast": "En Typha las flores forman espigas cilíndricas; en Sparganium se agrupan en cabezuelas esféricas separadas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/poalesweb.htm"
+      }
     },
     "family:Tytonidae": {
       "name": "Tytonidae",
@@ -4619,7 +5057,13 @@
     },
     "family:Ulmaceae": {
       "name": "Ulmaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Ulmaceae",
+        "text": "Familia de árboles y arbustos que incluye los olmos. Sus hojas suelen ser simples, alternas y dentadas, con flores pequeñas y frutos secos.",
+        "contrast": "Los olmos del género Ulmus presentan con frecuencia hojas de base asimétrica y frutos alados; otros géneros de la familia tienen frutos distintos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/rosalesweb.htm"
+      }
     },
     "family:Ulmaridae": {
       "name": "Ulmaridae",
@@ -4654,7 +5098,13 @@
     },
     "family:Urticaceae": {
       "name": "Urticaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Urticaceae",
+        "text": "Familia de plantas que incluye ortigas y parietarias. Sus flores suelen ser pequeñas y agrupadas; las hojas tienen normalmente estípulas y los frutos son pequeños y secos.",
+        "contrast": "Los pelos urticantes son característicos de las ortigas, pero no están presentes en toda la familia: las parietarias carecen de ellos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/rosalesweb.htm"
+      }
     },
     "family:Valenciidae": {
       "name": "Valenciidae",
@@ -4685,7 +5135,13 @@
     },
     "family:Vespidae": {
       "name": "Vespidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Vespidae",
+        "text": "Familia de avispas que incluye avispas papeleras, avispas alfareras y avispones. Muchas tienen cintura estrecha y alas anteriores plegadas longitudinalmente en reposo.",
+        "contrast": "Hay especies sociales que construyen nidos de papel y otras solitarias que preparan celdas de barro; no todas viven en colonias.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-hymenoptera/family-vespidae/"
+      }
     },
     "family:Vibrionaceae": {
       "name": "Vibrionaceae",
@@ -4693,11 +5149,23 @@
     },
     "family:Viburnaceae": {
       "name": "Viburnaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Viburnaceae",
+        "text": "Familia que incluye durillos, otros viburnos y saúcos, junto con algunas hierbas. Muchas especies tienen hojas opuestas y flores pequeñas reunidas en inflorescencias.",
+        "contrast": "Los viburnos suelen tener hojas simples, mientras los saúcos las tienen compuestas. Esta familia también se ha tratado con el nombre Adoxaceae.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/dipsacalesweb.htm"
+      }
     },
     "family:Violaceae": {
       "name": "Violaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Violaceae",
+        "text": "Familia de hierbas, arbustos y árboles que incluye las violetas. Sus flores y hojas son variables y los frutos de muchas especies se abren como cápsulas.",
+        "contrast": "Las violetas del género Viola suelen tener flores de simetría bilateral con un pétalo inferior prolongado; la familia incluye plantas de aspecto diferente.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/malpighialesweb.htm"
+      }
     },
     "family:Viperidae": {
       "name": "Viperidae",
@@ -4705,7 +5173,13 @@
     },
     "family:Vitaceae": {
       "name": "Vitaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Vitaceae",
+        "text": "Familia principalmente de plantas leñosas que incluye la vid. Muchas especies son trepadoras con zarcillos, hojas de nerviación palmada y flores pequeñas agrupadas.",
+        "contrast": "En Vitis los frutos son bayas agrupadas en racimos; existen otras vitáceas con hojas compuestas o con formas de crecimiento diferentes.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/vitalesweb.html"
+      }
     },
     "family:Viverridae": {
       "name": "Viverridae",

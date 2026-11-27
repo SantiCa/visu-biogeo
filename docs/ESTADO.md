@@ -1,6 +1,6 @@
 # Estado del proyecto
 
-Actualizado el 20 de noviembre de 2026. Base funcional y de catálogo: **8.23**.
+Actualizado el 28 de noviembre de 2026. Base funcional y de catálogo: **8.24**.
 
 Repositorio: `https://github.com/SantiCa/visu-biogeo` (privado). GitHub controla fuentes y cambios. La aplicación está publicada en `https://visu-biogeo-santica.santic1290.chatgpt.site/`; la dirección anterior de nimblequail260 redirige a ella. El proyecto de Sites y el de Supabase se conservan.
 
@@ -14,7 +14,9 @@ La versión 8.22 integra los PR #72 y #73: fichas de Carnivora y Rodentia y desc
 
 La versión 8.23 integra el PR #76: descripciones de 31 familias de las listas PRECEGE, con fuentes y límites registrados en cada ficha. No cambia la clasificación, los IDs ni el progreso. El inventario automático relaciona 738 familias candidatas con el catálogo; 692 seguían sin guía al cerrar el lote, cifra sujeta a revisión y no exhaustiva.
 
-Publicación: versión 31 de Sites, fuente `3056a55b9bfd2ad3f7bd92b604c564aa389a59a0`, revisión de entorno 30 y manifiesto activo `cb2b1532f6903d106859e942079ef7649d8c1c718dc6d7b4d50534be70f88299`, con 4.823 archivos. Banco de 4.761 archivos físicos aprobados y 4.816 referencias, con 2.294 entradas ilustradas, 2.148 con pareja y 351 sin imagen. Pasaron 83 pruebas JavaScript y 21 Python, incluida la prueba nativa. El instalador `8.23-5c69d0f581e6` verificó sus 4.823 archivos públicos sin discrepancias. Tras activar se verificaron 19 recursos web, incluidos los bancos por rango. Las activaciones sin firma siguen devolviendo 403. Supabase y la audiencia pública se conservan; la sincronización con cuentas reales queda pendiente de comprobación manual.
+La versión 8.24 integra el PR #80: descripciones y contrastes de 79 familias vinculadas al inventario PRECEGE, con fuentes registradas en cada ficha. No cambia la clasificación, los IDs ni el progreso. El inventario automático relaciona 738 familias candidatas con el catálogo; 613 seguían sin guía al cerrar el lote, cifra parcial sujeta a revisión.
+
+Publicación: versión 32 de Sites, fuente `726be82081e1f44376419ca26181106b45919bee`, revisión de entorno 31 y manifiesto activo `acc4c464d182505739322d2a9e37b2d1a0844e0233072217cac5decf63b19336`, con 4.823 archivos. Banco de 4.761 archivos físicos aprobados y 4.816 referencias, con 2.294 entradas ilustradas, 2.148 con pareja y 351 sin imagen. Pasaron 83 pruebas JavaScript y 21 Python, incluida la prueba nativa. El instalador `8.24-a71258fdc9a4` verificó sus 4.823 archivos públicos sin discrepancias. Tras activar se verificaron 19 recursos web, incluidos los bancos por rango. Las activaciones sin firma siguen devolviendo 403. Supabase y la audiencia pública se conservan; la sincronización con cuentas reales queda pendiente de comprobación manual.
 
 Siguen pendientes los casos A9, A10 y A15 de Andalucía 2021, los rangos de las cinco entradas nuevas de Castilla-La Mancha y la revisión científica de la cola PRECEGE. El historial madrileño es incompleto; las 50 correspondencias de Madrid 2002 se atribuyen a un opositor, sin clave oficial. Los importadores conservan la fecha más reciente y la posición de documentos y eventos al reaplicar evidencia. Las tareas nuevas arrancan con `scripts/start_task.py` desde una raíz limpia y una copia actualizada de `origin/main`.
 
