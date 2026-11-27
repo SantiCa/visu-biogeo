@@ -130,7 +130,13 @@
     },
     "family:Alismataceae": {
       "name": "Alismataceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Alismataceae",
+        "text": "Familia de hierbas acuáticas o de lugares encharcados que incluye Alisma y Sagittaria. Sus flores suelen tener tres sépalos y tres pétalos, y numerosos frutos pequeños se agrupan en el receptáculo.",
+        "contrast": "Las hojas de Sagittaria suelen tener forma de flecha, mientras las de Alisma pueden ser ovaladas o lanceoladas; la forma de la hoja varía con la especie y el medio.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/alismatalesweb.htm"
+      }
     },
     "family:Alopiidae": {
       "name": "Alopiidae",
@@ -441,7 +447,13 @@
     },
     "family:Aristolochiaceae": {
       "name": "Aristolochiaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Aristolochiaceae",
+        "text": "Familia de plantas que incluye aristoloquias, con especies herbáceas y trepadoras. Sus flores tienen una envoltura floral de forma variable, a menudo tubular en Aristolochia.",
+        "contrast": "Las flores curvadas de muchas aristoloquias facilitan el reconocimiento del género, pero otras plantas de la familia tienen flores de simetría y forma diferentes.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/piperalesweb2.htm"
+      }
     },
     "family:Ascarididae": {
       "name": "Ascarididae",
@@ -478,7 +490,13 @@
     },
     "family:Asphodelaceae": {
       "name": "Asphodelaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Asphodelaceae",
+        "text": "Familia de monocotiledóneas que incluye gamones, áloes y otros grupos herbáceos o leñosos. Muchas presentan hojas alargadas y flores con seis piezas en dos verticilos.",
+        "contrast": "Los áloes suelen tener hojas carnosas, mientras los gamones tienen hojas estrechas y flores agrupadas en tallos altos; no toda la familia comparte el mismo porte.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/asparagalesweb.htm"
+      }
     },
     "family:Aspidoceratidae": {
       "name": "Aspidoceratidae",
@@ -1554,7 +1572,13 @@
     },
     "family:Droseraceae": {
       "name": "Droseraceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Droseraceae",
+        "text": "Familia de plantas herbáceas carnívoras que incluye los rocíos del sol, Drosera. Capturan pequeños animales mediante hojas modificadas y absorben nutrientes de ellos.",
+        "contrast": "Drosera utiliza pelos glandulares pegajosos; Dionaea posee trampas que se cierran. Son mecanismos distintos dentro de la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/caryophyllalesweb.htm"
+      }
     },
     "family:Drosophilidae": {
       "name": "Drosophilidae",
@@ -2278,7 +2302,13 @@
     },
     "family:Hypericaceae": {
       "name": "Hypericaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Hypericaceae",
+        "text": "Familia de hierbas, arbustos y árboles que incluye las hierbas de San Juan. Muchas especies tienen hojas opuestas y flores con numerosos estambres.",
+        "contrast": "En Hypericum son frecuentes los pétalos amarillos y las glándulas visibles en hojas o flores; esos rasgos no describen toda la diversidad de la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/malpighialesweb.htm"
+      }
     },
     "family:Hypnaceae": {
       "name": "Hypnaceae",
@@ -2354,7 +2384,13 @@
     },
     "family:Juglandaceae": {
       "name": "Juglandaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Juglandaceae",
+        "text": "Familia de árboles y arbustos que incluye nogales y pacanos. Sus hojas suelen ser compuestas y las flores masculinas y femeninas están separadas.",
+        "contrast": "En muchos nogales las flores masculinas forman amentos y el fruto contiene una semilla rodeada por cubiertas duras y externas; los frutos varían entre géneros.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/fagalesweb.htm"
+      }
     },
     "family:Labiduridae": {
       "name": "Labiduridae",
@@ -2744,7 +2780,13 @@
     },
     "family:Melanthiaceae": {
       "name": "Melanthiaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Melanthiaceae",
+        "text": "Familia de monocotiledóneas herbáceas que incluye Paris y otros géneros con órganos subterráneos de reserva. Las hojas y flores varían considerablemente entre sus miembros.",
+        "contrast": "Paris suele presentar hojas dispuestas en un verticilo aparente bajo una flor solitaria; otras melantiáceas tienen flores agrupadas en inflorescencias.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/lilialesweb.htm"
+      }
     },
     "family:Meliaceae": {
       "name": "Meliaceae",
@@ -3190,7 +3232,13 @@
     },
     "family:Oxalidaceae": {
       "name": "Oxalidaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Oxalidaceae",
+        "text": "Familia que incluye las acederillas del género Oxalis y otras hierbas, arbustos y árboles. Muchas especies presentan hojas compuestas y flores con cinco pétalos.",
+        "contrast": "Las hojas trifoliadas son comunes en Oxalis, pero no identifican por sí solas a la familia ni están presentes en todos sus miembros.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/oxalidalesweb.htm"
+      }
     },
     "family:Oxynotidae": {
       "name": "Oxynotidae",
@@ -3718,7 +3766,13 @@
     },
     "family:Posidoniaceae": {
       "name": "Posidoniaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Posidoniaceae",
+        "text": "Familia de plantas marinas con flores del género Posidonia. Sus especies tienen rizomas y hojas largas en forma de cinta, y pueden formar praderas submarinas.",
+        "contrast": "Son plantas con flores, raíces y rizomas, aunque vivan sumergidas; las algas marinas no tienen esa misma organización vegetal.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/alismatalesweb.htm"
+      }
     },
     "family:Potamididae": {
       "name": "Potamididae",
@@ -3897,7 +3951,13 @@
     },
     "family:Resedaceae": {
       "name": "Resedaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Resedaceae",
+        "text": "Familia de plantas que incluye las resedas, con hierbas y formas leñosas. Sus flores suelen ser pequeñas, agruparse en inflorescencias y presentar numerosos estambres.",
+        "contrast": "En Reseda los pétalos pueden estar divididos y ser desiguales, y el fruto suele ser una cápsula; la familia comprende géneros con morfologías diferentes.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/brassicalesweb.htm"
+      }
     },
     "family:Rhamnaceae": {
       "name": "Rhamnaceae",
@@ -3990,6 +4050,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Rubiaceae",
+        "text": "Familia de hierbas, arbustos y árboles que incluye rubias, galios y cafetos. Son frecuentes las hojas opuestas, las estípulas entre los pecíolos y las flores de pétalos soldados.",
+        "contrast": "Los galios suelen parecer tener hojas en verticilos porque las estípulas se parecen a las hojas; el porte y los frutos varían mucho en la familia.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/gentianalesweb.htm"
       }
     },
     "family:Russulaceae": {
@@ -4497,6 +4563,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Tamaricaceae",
+        "text": "Familia principalmente de arbustos y árboles que incluye los tarajes. Muchas especies tienen hojas pequeñas y flores agrupadas en inflorescencias densas.",
+        "contrast": "Los tarajes suelen presentar ramas finas y hojas escamosas; algunas especies toleran suelos salinos, pero la familia no se reconoce solo por el hábitat.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/caryophyllalesweb.htm"
       }
     },
     "family:Taxaceae": {
@@ -4773,7 +4845,13 @@
     },
     "family:Typhaceae": {
       "name": "Typhaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Typhaceae",
+        "text": "Familia de plantas herbáceas de humedales que incluye eneas y especies de Sparganium. Sus flores pequeñas son unisexuales y están agrupadas en inflorescencias densas.",
+        "contrast": "En Typha las flores forman espigas cilíndricas; en Sparganium se agrupan en cabezuelas esféricas separadas.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/poalesweb.htm"
+      }
     },
     "family:Tytonidae": {
       "name": "Tytonidae",
@@ -4781,7 +4859,13 @@
     },
     "family:Ulmaceae": {
       "name": "Ulmaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Ulmaceae",
+        "text": "Familia de árboles y arbustos que incluye los olmos. Sus hojas suelen ser simples, alternas y dentadas, con flores pequeñas y frutos secos.",
+        "contrast": "Los olmos del género Ulmus presentan con frecuencia hojas de base asimétrica y frutos alados; otros géneros de la familia tienen frutos distintos.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/rosalesweb.htm"
+      }
     },
     "family:Ulmaridae": {
       "name": "Ulmaridae",
@@ -4861,7 +4945,13 @@
     },
     "family:Viburnaceae": {
       "name": "Viburnaceae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Viburnaceae",
+        "text": "Familia que incluye durillos, otros viburnos y saúcos, junto con algunas hierbas. Muchas especies tienen hojas opuestas y flores pequeñas reunidas en inflorescencias.",
+        "contrast": "Los viburnos suelen tener hojas simples, mientras los saúcos las tienen compuestas. Esta familia también se ha tratado con el nombre Adoxaceae.",
+        "source": "https://www.mobot.org/MOBOT/research/APweb/orders/dipsacalesweb.htm"
+      }
     },
     "family:Violaceae": {
       "name": "Violaceae",
