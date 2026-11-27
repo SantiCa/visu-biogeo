@@ -43,7 +43,13 @@
     },
     "family:Acrididae": {
       "name": "Acrididae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Acrididae",
+        "text": "Familia de saltamontes con antenas generalmente cortas y patas posteriores adaptadas al salto. Muchas especies se alimentan de plantas.",
+        "contrast": "Sus antenas suelen ser más cortas que el cuerpo; en los tettigónidos suelen ser muy largas. Algunos acrídidos forman poblaciones migratorias, pero no todos.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-orthoptera/"
+      }
     },
     "family:Acropeltidae": {
       "name": "Acropeltidae",
@@ -334,7 +340,13 @@
     },
     "family:Apidae": {
       "name": "Apidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Apidae",
+        "text": "Familia de abejas que incluye abejas melíferas y abejorros. Muchas poseen pelos ramificados y visitan flores para obtener néctar o polen.",
+        "contrast": "Las abejas melíferas y los abejorros son sociales, pero en la familia también existen especies solitarias y especies con otras estrategias de reproducción.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-hymenoptera/family-apidae/"
+      }
     },
     "family:Aplysiidae": {
       "name": "Aplysiidae",
@@ -962,7 +974,13 @@
     },
     "family:Carabidae": {
       "name": "Carabidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Carabidae",
+        "text": "Familia de escarabajos terrestres que incluye muchos corredores del suelo. Tienen antenas filiformes y, en numerosas especies, patas largas y mandíbulas desarrolladas.",
+        "contrast": "Muchos son depredadores activos, pero el tamaño, el color y los hábitos varían; algunas especies muestran actividad diurna y otras nocturna.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/family-carabidae/"
+      }
     },
     "family:Carangidae": {
       "name": "Carangidae",
@@ -1035,7 +1053,13 @@
     },
     "family:Cerambycidae": {
       "name": "Cerambycidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Cerambycidae",
+        "text": "Familia de escarabajos longicornios, frecuentemente de cuerpo alargado y antenas largas. Las larvas de numerosas especies se desarrollan en madera o tejidos vegetales.",
+        "contrast": "Las antenas pueden superar la longitud corporal, pero su longitud varía. Los adultos de algunas especies se observan sobre flores.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/family-cerambycidae/"
+      }
     },
     "family:Ceramiaceae": {
       "name": "Ceramiaceae",
@@ -1259,6 +1283,12 @@
           }
         ],
         "reviewedAt": "2026-10-26"
+      },
+      "guide": {
+        "name": "Coccinellidae",
+        "text": "Familia de escarabajos que incluye las mariquitas. Muchos adultos tienen cuerpo ovalado y convexo, con élitros de colores y dibujos contrastados.",
+        "contrast": "Numerosas especies consumen pulgones, tanto de larvas como de adultas, pero existen mariquitas con otras dietas y no todas tienen puntos negros sobre rojo.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/family-coccinellidae/"
       }
     },
     "family:Codiaceae": {
@@ -1801,7 +1831,13 @@
     },
     "family:Erebidae": {
       "name": "Erebidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Erebidae",
+        "text": "Familia diversa de polillas que incluye especies llamadas tigres, osas y algunas conocidas como alas inferiores. Sus larvas y adultos muestran formas y coloraciones variadas.",
+        "contrast": "Algunas especies tienen orugas muy peludas y otras no; tampoco todas las polillas de colores llamativos pertenecen a esta familia.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/"
+      }
     },
     "family:Eremiaphilidae": {
       "name": "Eremiaphilidae",
@@ -2712,7 +2748,13 @@
     },
     "family:Lycaenidae": {
       "name": "Lycaenidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Lycaenidae",
+        "text": "Familia de mariposas generalmente pequeñas que incluye numerosas especies azules, cobrizas y de otros colores. Sus alas y orugas presentan formas y dibujos variados.",
+        "contrast": "El color azul aparece en muchas especies, a menudo en machos, pero no permite reconocer por sí solo a todos los licénidos.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/"
+      }
     },
     "family:Lycoperdaceae": {
       "name": "Lycoperdaceae",
@@ -3169,7 +3211,13 @@
     },
     "family:Nymphalidae": {
       "name": "Nymphalidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Nymphalidae",
+        "text": "Familia diversa de mariposas que incluye vanesas, nácares y satirinos. Los adultos tienen el primer par de patas reducido y habitualmente lo mantienen recogido.",
+        "contrast": "Aunque parecen caminar con cuatro patas, poseen seis; el primer par reducido ayuda a distinguir muchos ninfálidos de otras mariposas.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/family-nymphalidae/"
+      }
     },
     "family:Nymphonidae": {
       "name": "Nymphonidae",
@@ -3385,6 +3433,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Papilionidae",
+        "text": "Familia de mariposas que incluye las colas de golondrina y los apolos. Sus adultos tienen patas anteriores desarrolladas y una estructura llamada epífisis en la tibia anterior.",
+        "contrast": "Muchos papiliónidos tienen prolongaciones en las alas posteriores, pero los apolos muestran que esas colas no son universales.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/family-papilionidae/"
       }
     },
     "family:Paraceratheriidae": {
@@ -3518,6 +3572,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Pentatomidae",
+        "text": "Familia de chinches terrestres que incluye numerosas chinches de las plantas. Suelen tener cuerpo ancho y un escudete triangular visible en el dorso.",
+        "contrast": "Muchas especies producen secreciones defensivas olorosas; la forma de escudo y la coloración por sí solas no identifican todas las especies.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-hemiptera-suborder-heteroptera/family-pentatomidae/"
       }
     },
     "family:Percidae": {
@@ -3616,7 +3676,13 @@
     },
     "family:Pieridae": {
       "name": "Pieridae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Pieridae",
+        "text": "Familia de mariposas que incluye numerosas blancas y amarillas. Sus adultos tienen patas anteriores desarrolladas y uñas tarsales divididas.",
+        "contrast": "Muchas especies son claras con marcas oscuras, pero el color por sí solo no identifica la familia ni describe toda su diversidad.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/family-pieridae/"
+      }
     },
     "family:Pinaceae": {
       "name": "Pinaceae",
@@ -4291,6 +4357,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Saturniidae",
+        "text": "Familia de polillas que incluye los grandes pavones nocturnos. Muchas tienen cuerpo peludo, antenas plumosas y manchas que recuerdan ojos en las alas.",
+        "contrast": "Las antenas pueden diferir entre sexos y los ocelos varían entre especies; no todos los satúrnidos tienen idéntico dibujo.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-lepidoptera/family-saturniidae/"
       }
     },
     "family:Saxifragaceae": {
@@ -4305,7 +4377,13 @@
     },
     "family:Scarabaeidae": {
       "name": "Scarabaeidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Scarabaeidae",
+        "text": "Familia diversa de escarabajos, muchos de cuerpo robusto, con antenas terminadas en láminas que pueden abrirse. Sus patas son frecuentemente fuertes y espinosas.",
+        "contrast": "Incluye especies asociadas al estiércol y otras que comen plantas o visitan flores; no todos los escarabeidos tienen la misma dieta.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/family-scarabaeidae/"
+      }
     },
     "family:Schizasteridae": {
       "name": "Schizasteridae",
@@ -4776,6 +4854,12 @@
           }
         ],
         "reviewedAt": "2026-10-25"
+      },
+      "guide": {
+        "name": "Tettigoniidae",
+        "text": "Familia de ortópteros que incluye numerosas esperanzas y saltamontes de antenas largas. Sus patas posteriores están adaptadas al salto y muchas especies se camuflan entre la vegetación.",
+        "contrast": "Las antenas suelen ser tan largas como el cuerpo o más, y los órganos auditivos se encuentran en las tibias anteriores; el ovipositor de las hembras varía de forma.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-orthoptera/family-tettigoniidae/"
       }
     },
     "family:Theaceae": {
@@ -5051,7 +5135,13 @@
     },
     "family:Vespidae": {
       "name": "Vespidae",
-      "rank": "family"
+      "rank": "family",
+      "guide": {
+        "name": "Vespidae",
+        "text": "Familia de avispas que incluye avispas papeleras, avispas alfareras y avispones. Muchas tienen cintura estrecha y alas anteriores plegadas longitudinalmente en reposo.",
+        "contrast": "Hay especies sociales que construyen nidos de papel y otras solitarias que preparan celdas de barro; no todas viven en colonias.",
+        "source": "https://genent.cals.ncsu.edu/insect-identification/order-hymenoptera/family-vespidae/"
+      }
     },
     "family:Vibrionaceae": {
       "name": "Vibrionaceae",
